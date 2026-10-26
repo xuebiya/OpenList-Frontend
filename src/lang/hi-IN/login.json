@@ -1,0 +1,13 @@
+{
+  "login_to": "में लॉग इन करें",
+  "username-tips": "अपना उपयोगकर्ता नाम दर्ज करें",
+  "password-tips": "अपना पासवर्ड दर्ज करें",
+  "otp-tips": "अपना OTP कोड दर्ज करें",
+  "remember": "मुझे याद रखें",
+  "forget": "पासवर्ड भूल गए?",
+  "forget_url": "https://doc.oplist.org/faq/howto#how-to-get-password-if-i-forget-it",
+  "clear": "साफ़ करें",
+  "login": "लॉग इन करें",
+  "use_guest": "अतिथि के रूप में ब्राउज़ करें",
+  "success": "सफलतापूर्वक लॉग इन किया"
+}

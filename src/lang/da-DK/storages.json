@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "Eksporter",
+    "export_title": "Eksporter lagerplads til JSON",
+    "export_tips": "Kopier venligst lageret JSON ovenfor.",
+    "import": "Importér",
+    "import_title": "Importer lager fra JSON",
+    "import_success": "Importeret med succes!",
+    "import_tips": "Indsæt den eksporterede lagerplads JSON at importere.",
+    "mount_path": "Montér Sti",
+    "mount_path-tips": "Stien du vil montere til, den er unik og kan ikke gentages",
+    "driver": "Chauffør",
+    "order": "Ordre",
+    "order-tips": "Brugt til sortering",
+    "usage": "Brug",
+    "status": "Status",
+    "remark": "Bemærkning",
+    "cache_expiration": "Cache Udløb",
+    "cache_expiration-tips": "Cache udløbstid for denne lagerplads (minutter)",
+    "custom_cache_policies": "Brugerdefinerede Cache Politikker",
+    "custom_cache_policies-tips": "Cache udløbsregler for denne lagerplads (minutter)",
+    "down_proxy_url": "Download Proxy URL",
+    "disable_proxy_sign": "Deaktivér Proxy Log",
+    "disable_proxy_sign-tips": "Deaktiver signeret for download proxy URL",
+    "web_proxy": "Web Proxy",
+    "webdav_policy": "WebDAV- Politik",
+    "proxy_range": "Proxy Range",
+    "proxy_range-tips": "Behov for at aktivere proxy",
+    "webdav_policys": {
+      "302_redirect": "302 omdirigering",
+      "use_proxy_url": "Brug proxy URL",
+      "native_proxy": "Indbygget proxy"
+    },
+    "order_by": "Sorter Efter",
+    "order_bys": {
+      "name": "Navn",
+      "size": "Størrelse",
+      "modified": "Ændret"
+    },
+    "order_direction": "Ordre Retning",
+    "order_directions": {
+      "asc": "Stigende",
+      "desc": "Faldende"
+    },
+    "extract_folder": "Mappe Ordre",
+    "extract_folders": {
+      "front": " Mapper øverst",
+      "back": "Mapper i bunden"
+    },
+    "enable_sign": "Aktiver skilt",
+    "disable_index": "Deaktivér indeks"
+  },
+  "table_fields": {
+    "status": {
+      "work": "Arbejder",
+      "disabled": "Deaktiveret"
+    }
+  },
+  "other": {
+    "start_load_success": "Start indlæsning",
+    "load_all": "Genindlæs Alle",
+    "filter_by_driver": "Filtrer efter driver",
+    "table_layout": "Tabel layout"
+  }
+}

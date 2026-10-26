@@ -1,0 +1,43 @@
+{
+  "expires": "Thời gian hết hạn",
+  "id": "Mã định danh",
+  "id_placeholder": "ID tùy chỉnh (không bắt buộc, để trống để tạo ngẫu nhiên)",
+  "accessed": "Số lượt truy cập",
+  "max_accessed": "Số lượt truy cập tối đa",
+  "pwd": "Mã chia sẻ",
+  "files": "Đường dẫn chia sẻ",
+  "files_etc": " và còn {{more}} mục khác",
+  "files_placeholder": "Nhập đường dẫn tệp hoặc thư mục, mỗi đường dẫn một dòng",
+  "add_path": "Thêm đường dẫn",
+  "creator": "Người tạo",
+  "status": "Trạng thái",
+  "status_list": {
+    "disabled": "Đã tắt",
+    "invalid": "Không hợp lệ",
+    "work": "Đang hoạt động",
+    "denied": "Không có quyền"
+  },
+  "remark": "Ghi chú",
+  "readme": "Mô tả",
+  "header": "Mô tả đầu trang",
+  "order_by": "Sắp xếp theo",
+  "order_bys": {
+    "name": "Tên",
+    "size": "Kích thước",
+    "modified": "Đã sửa đổi"
+  },
+  "order_direction": "Hướng sắp xếp",
+  "order_directions": {
+    "asc": "Tăng dần",
+    "desc": "Giảm dần"
+  },
+  "extract_folder": "Thứ tự thư mục",
+  "extract_folders": {
+    "front": "Thư mục ở trên cùng",
+    "back": "Thư mục ở dưới cùng"
+  },
+  "input_password": "Vui lòng nhập mã chia sẻ",
+  "share_gone": "Chia sẻ này đã hết hạn hoặc bị hủy",
+  "copy_msg": "Sao chép liên kết",
+  "no_permission_tip": "Để tạo một chia sẻ, bạn cần có quyền \"Chia sẻ\"."
+}

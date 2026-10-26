@@ -1,0 +1,69 @@
+{
+  "title": "Plugins",
+  "name": "Plugin Navn",
+  "type": "Type",
+  "version": "Version",
+  "author": "Forfatter",
+  "status_col": "Status",
+  "empty_desc": "Ingen beskrivelse angivet",
+  "subtitle": "Administrer og konfigurere OpenList udvidelser med ZIP-fil upload og tredjeparts URL installation",
+  "search_placeholder": "Søg plugins efter navn, ID, beskrivelse eller tilladelser...",
+  "filter_type": "Filtrer efter type",
+  "types": {
+    "all": "Alle Typer",
+    "ui": "UI & Widgets",
+    "preview": "Forhåndsvisning",
+    "tool": "Værktøjer",
+    "theme": "Temaer Og Effekter",
+    "integration": "Integrationer",
+    "system": "System Kerne"
+  },
+  "status": {
+    "enabled": "Aktiveret",
+    "disabled": "Deaktiveret",
+    "builtin": "Indbygget",
+    "custom": "Tilpasset",
+    "high_privilege": "Høj Privilegium"
+  },
+  "actions": {
+    "install": "Installér Plugin",
+    "reinstall": "Geninstaller",
+    "uninstall": "Afinstaller",
+    "config": "Indstillinger",
+    "view_details": "Detaljer",
+    "enable": "Aktiver",
+    "disable": "Deaktivér",
+    "export": "Eksporter Konfiguration",
+    "import": "Importér Konfiguration",
+    "refresh": "Opdater",
+    "save": "Gem Indstillinger",
+    "cancel": "Annuller",
+    "install_url": "Installér via URL"
+  },
+  "install_modal": {
+    "install_type": "Installation Kilde",
+    "zip_tab": "Upload Zip-Pakke",
+    "url_tab": "Installér via URL",
+    "zip_file_label": "Plugin Zip Pakke",
+    "zip_drop_title": "Klik for at vælge eller trække & slip plugin ZIP-fil her",
+    "zip_drop_help": "Understøtter open-source plugin arkiver indeholdende plugin.json / manifest.json",
+    "url_label": "Plugin Manifest URL",
+    "url_placeholder": "f.eks.: https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "Understøtter open-source plugin JSON manifest links (GitHub Raw, jsDelivr, unpkg, etc.)",
+    "high_privilege_label": "Grant System Høj Privilege (Root / Admin Privileges)",
+    "high_privilege_help": "Tillader direkte adgang til lavniveau-filsystem-API'er, lagringsdriver-genindlæsning, fulde webstedsindstillinger læst/skriv og rå HTTP-anmodninger",
+    "fetch_and_install": "Hent og installer"
+  },
+  "config_modal": {
+    "title": "Plugin Konfiguration",
+    "no_config": "Ingen konfigurationsparametre påkrævet for dette plugin.",
+    "save_success": "Plugin konfiguration gemt"
+  },
+  "delete_confirm": "Er du sikker på, at du vil afinstallere og fjerne dette plugin? Dette kan ikke fortrydes.",
+  "import_modal": {
+    "title": "Importer Plugins Backup",
+    "paste_json": "Indsæt plugins JSON data her",
+    "import_success": "Plugins importeret"
+  },
+  "empty_installed": "Ingen plugins installeret endnu. Klik på 'Installer Plugin' for at uploade en ZIP-pakke eller installere fra URL."
+}

@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "Exportera",
+    "export_title": "Exportera lagring till JSON",
+    "export_tips": "Vänligen kopiera lagringsutrymmet JSON ovan.",
+    "import": "Importera",
+    "import_title": "Importera lagring från JSON",
+    "import_success": "Importen lyckades!",
+    "import_tips": "Klistra in den exporterade lagringen JSON för att importera.",
+    "mount_path": "Montera sökväg",
+    "mount_path-tips": "Sökvägen du vill montera till, den är unik och kan inte upprepas",
+    "driver": "Förare",
+    "order": "Beställning",
+    "order-tips": "Används för sortering",
+    "usage": "Användning",
+    "status": "Status",
+    "remark": "Anmärkning",
+    "cache_expiration": "Cache förfallodatum",
+    "cache_expiration-tips": "Cachens utgångstid för denna lagring (minuter)",
+    "custom_cache_policies": "Anpassade cache-policyer",
+    "custom_cache_policies-tips": "Cachens utgångsregler för denna lagring (minuter)",
+    "down_proxy_url": "Hämta Proxy URL",
+    "disable_proxy_sign": "Inaktivera proxytecken",
+    "disable_proxy_sign-tips": "Inaktivera tecken för nedladdning proxy URL",
+    "web_proxy": "Webb Proxy",
+    "webdav_policy": "WebDAV policy",
+    "proxy_range": "Proxy Range",
+    "proxy_range-tips": "Behöver aktivera proxy",
+    "webdav_policys": {
+      "302_redirect": "302 omdirigering",
+      "use_proxy_url": "Använd proxy URL",
+      "native_proxy": "Ursprunglig proxy"
+    },
+    "order_by": "Ordna efter",
+    "order_bys": {
+      "name": "Namn",
+      "size": "Storlek",
+      "modified": "Ändrad"
+    },
+    "order_direction": "Order Riktning",
+    "order_directions": {
+      "asc": "Stigande",
+      "desc": "Fallande"
+    },
+    "extract_folder": "Beställning av mapp",
+    "extract_folders": {
+      "front": " Mappar överst",
+      "back": "Mappar längst ner"
+    },
+    "enable_sign": "Aktivera skylt",
+    "disable_index": "Inaktivera index"
+  },
+  "table_fields": {
+    "status": {
+      "work": "Arbetar",
+      "disabled": "Inaktiverad"
+    }
+  },
+  "other": {
+    "start_load_success": "Börja ladda",
+    "load_all": "Ladda om alla",
+    "filter_by_driver": "Filtrera efter förare",
+    "table_layout": "Tabell layout"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "login_to": "Войти в систему",
+  "username-tips": "Введите ваше имя пользователя",
+  "password-tips": "Введите ваш пароль",
+  "otp-tips": "Введите ваш OTP код",
+  "remember": "Запомнить меня",
+  "forget": "Забыли пароль?",
+  "forget_url": "https://doc.oplist.org/faq/howto#how-to-get-password-if-i-forget",
+  "clear": "Очистить",
+  "login": "Логин",
+  "use_guest": "Гость",
+  "success": "Вход выполнен успешно"
+}

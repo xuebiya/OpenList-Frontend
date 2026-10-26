@@ -1,0 +1,18 @@
+{
+  "path": "Jalur",
+  "password": "Kata Sandi",
+  "read_users": "Pengguna yang Dapat Membaca",
+  "read_users_help": "Hanya pengguna yang dipilih dengan izin yang diperlukan yang dapat membaca jalur ini.",
+  "write_users": "Pengguna yang Dapat Menulis",
+  "write_users_help": "Hanya pengguna yang dipilih dengan izin yang diperlukan yang dapat menulis ke jalur ini.",
+  "all_permitted_users": "Semua Pengguna yang Diizinkan",
+  "write": "Lewati Izin Pengguna untuk Menulis Konten",
+  "write_help": "Melewati pemeriksaan izin pengguna untuk penulisan konten (membuat/mengunggah/memodifikasi). GUNAKAN DENGAN HATI-HATI.",
+  "hide": "Sembunyikan",
+  "readme": "Baca Saya",
+  "readme_help": "Tampilkan markdown di bagian bawah, mendukung konten atau tautan",
+  "header": "Kepala",
+  "header_help": "Tampilkan markdown di bagian atas, mendukung konten atau tautan",
+  "apply_sub": "Terapkan ke subfolder",
+  "hide_help": "Satu ekspresi reguler per baris"
+}

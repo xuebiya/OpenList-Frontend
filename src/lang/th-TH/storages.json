@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "ส่งออก",
+    "export_title": "ส่งออกพื้นที่จัดเก็บเป็น JSON",
+    "export_tips": "โปรดคัดลอก JSON ของพื้นที่จัดเก็บด้านบน",
+    "import": "นำเข้า",
+    "import_title": "นำเข้าพื้นที่จัดเก็บจาก JSON",
+    "import_success": "นำเข้าสำเร็จ!",
+    "import_tips": "วาง JSON ของพื้นที่จัดเก็บที่ส่งออกเพื่อนำเข้า",
+    "mount_path": "เส้นทางเมานต์",
+    "mount_path-tips": "เส้นทางที่ต้องการเมานต์ ต้องไม่ซ้ำกัน",
+    "driver": "ไดรเวอร์",
+    "order": "ลำดับ",
+    "order-tips": "ใช้สำหรับการเรียงลำดับ",
+    "usage": "การใช้งาน",
+    "status": "สถานะ",
+    "remark": "หมายเหตุ",
+    "cache_expiration": "เวลาหมดอายุของแคช",
+    "cache_expiration-tips": "เวลาหมดอายุของแคชสำหรับพื้นที่จัดเก็บนี้ (นาที)",
+    "custom_cache_policies": "นโยบายแคชแบบกำหนดเอง",
+    "custom_cache_policies-tips": "กฎเวลาหมดอายุของแคชสำหรับพื้นที่จัดเก็บนี้ (นาที)",
+    "down_proxy_url": "URL พร็อกซีดาวน์โหลด",
+    "disable_proxy_sign": "ปิดลายเซ็นพร็อกซี",
+    "disable_proxy_sign-tips": "ปิดลายเซ็นสำหรับ URL พร็อกซีดาวน์โหลด",
+    "web_proxy": "เว็บพร็อกซี",
+    "webdav_policy": "นโยบาย WebDAV",
+    "proxy_range": "ช่วงพร็อกซี",
+    "proxy_range-tips": "ต้องเปิดใช้งานพร็อกซี",
+    "webdav_policys": {
+      "302_redirect": "เปลี่ยนเส้นทาง 302",
+      "use_proxy_url": "ใช้ URL พร็อกซี",
+      "native_proxy": "พร็อกซีดั้งเดิม"
+    },
+    "order_by": "เรียงตาม",
+    "order_bys": {
+      "name": "ชื่อ",
+      "size": "ขนาด",
+      "modified": "แก้ไขล่าสุด"
+    },
+    "order_direction": "ทิศทางการเรียงลำดับ",
+    "order_directions": {
+      "asc": "จากน้อยไปมาก",
+      "desc": "จากมากไปน้อย"
+    },
+    "extract_folder": "ลำดับโฟลเดอร์",
+    "extract_folders": {
+      "front": " โฟลเดอร์อยู่ด้านบน",
+      "back": "โฟลเดอร์อยู่ด้านล่าง"
+    },
+    "enable_sign": "เปิดใช้ลายเซ็น",
+    "disable_index": "ปิดใช้งานดัชนี"
+  },
+  "table_fields": {
+    "status": {
+      "work": "กำลังทำงาน",
+      "disabled": "ปิดใช้งาน"
+    }
+  },
+  "other": {
+    "start_load_success": "เริ่มโหลด",
+    "load_all": "โหลดทั้งหมดใหม่",
+    "filter_by_driver": "กรองตามไดรเวอร์",
+    "table_layout": "รูปแบบตาราง"
+  }
+}

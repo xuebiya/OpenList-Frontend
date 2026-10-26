@@ -1,0 +1,23 @@
+{
+  "index_header": "Zoek indexinstellingen",
+  "search_index": "Zoek index",
+  "current": "Huidige indexen",
+  "build": "indexen bouwen",
+  "rebuild": "Indexen opnieuw opbouwen",
+  "paths_to_update": "Paden om te updaten",
+  "max_depth": "Maximale diepte",
+  "update": "Indexen bijwerken",
+  "obj_count": "Aantal objecten",
+  "last_done_time": "Laatst gedaan op",
+  "unknown": "onbekend",
+  "stop": "Stoppen",
+  "clear": "Verwijderen",
+  "error": "Foutmelding",
+  "scan_header": "Handmatig scannen",
+  "task_status": "Taak status",
+  "running": "Lopend",
+  "idle": "Inactief",
+  "path_to_scan": "Pad naar scan",
+  "rate_limit": "Tarief limiet",
+  "start": "Beginnen"
+}

@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "Esporta",
+    "export_title": "Esporta memoria in JSON",
+    "export_tips": "Si prega di copiare l'archivio JSON sopra.",
+    "import": "Importa",
+    "import_title": "Importa memoria da JSON",
+    "import_success": "Importato con successo!",
+    "import_tips": "Incolla lo storage JSON esportato da importare.",
+    "mount_path": "Monta Percorso",
+    "mount_path-tips": "Il percorso a cui si desidera montare, è unico e non può essere ripetuto",
+    "driver": "Driver",
+    "order": "Ordine",
+    "order-tips": "Usato per l'ordinamento",
+    "usage": "Utilizzo",
+    "status": "Stato",
+    "remark": "Osservazione",
+    "cache_expiration": "Scadenza Cache",
+    "cache_expiration-tips": "Il tempo di scadenza della cache per questa memoria (minuti)",
+    "custom_cache_policies": "Criteri Cache Personalizzati",
+    "custom_cache_policies-tips": "Le regole di scadenza della cache per questo storage (minuti)",
+    "down_proxy_url": "Scarica URL Del Proxy",
+    "disable_proxy_sign": "Disabilita Cartello Proxy",
+    "disable_proxy_sign-tips": "Disabilita la firma per l'URL del proxy di download",
+    "web_proxy": "Proxy Web",
+    "webdav_policy": "Politica WebDAV",
+    "proxy_range": "Proxy Range",
+    "proxy_range-tips": "Necessità di abilitare il proxy",
+    "webdav_policys": {
+      "302_redirect": "302 reindirizzamento",
+      "use_proxy_url": "Usa URL proxy",
+      "native_proxy": "Promemoria nativo"
+    },
+    "order_by": "Ordina Per",
+    "order_bys": {
+      "name": "Nome",
+      "size": "Dimensione",
+      "modified": "Modificato"
+    },
+    "order_direction": "Direzione Ordine",
+    "order_directions": {
+      "asc": "Crescente",
+      "desc": "Decrescente"
+    },
+    "extract_folder": "Ordine Cartella",
+    "extract_folders": {
+      "front": " Cartelle in alto",
+      "back": "Cartelle in basso"
+    },
+    "enable_sign": "Abilita segno",
+    "disable_index": "Disabilita indice"
+  },
+  "table_fields": {
+    "status": {
+      "work": "Lavorare",
+      "disabled": "Disabilitato"
+    }
+  },
+  "other": {
+    "start_load_success": "Inizia il caricamento",
+    "load_all": "Ricarica Tutto",
+    "filter_by_driver": "Filtra per driver",
+    "table_layout": "Layout tabella"
+  }
+}

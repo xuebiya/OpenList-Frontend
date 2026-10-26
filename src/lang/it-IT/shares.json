@@ -1,0 +1,43 @@
+{
+  "expires": "Ora di scadenza",
+  "id": "ID",
+  "id_placeholder": "ID personalizzato (opzionale, lasciare vuoto per caso)",
+  "accessed": "Conteggio accessi",
+  "max_accessed": "Numero massimo di accessi",
+  "pwd": "Condividi codice",
+  "files": "Condividi Percorsi",
+  "files_etc": " e altri {{more}}",
+  "files_placeholder": "Inserisci i percorsi dei file o delle cartelle, uno per riga",
+  "add_path": "Aggiungi Percorso",
+  "creator": "Creatore",
+  "status": "Stato",
+  "status_list": {
+    "disabled": "Disabilitato",
+    "invalid": "Non Valido",
+    "work": "Lavoro",
+    "denied": "Nessun permesso"
+  },
+  "remark": "Osservazione",
+  "readme": "Descrizione",
+  "header": "Descrizione Intestazione",
+  "order_by": "Ordina Per",
+  "order_bys": {
+    "name": "Nome",
+    "size": "Dimensione",
+    "modified": "Modificato"
+  },
+  "order_direction": "Direzione Ordine",
+  "order_directions": {
+    "asc": "Crescente",
+    "desc": "Decrescente"
+  },
+  "extract_folder": "Ordine Cartella",
+  "extract_folders": {
+    "front": "Cartelle in alto",
+    "back": "Cartelle in basso"
+  },
+  "input_password": "Inserisci il codice di condivisione",
+  "share_gone": "Questa condivisione è scaduta o è stata annullata",
+  "copy_msg": "Copia link",
+  "no_permission_tip": "Per creare una condivisione, è necessario il permesso \"Condividi\"."
+}

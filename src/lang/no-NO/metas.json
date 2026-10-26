@@ -1,0 +1,18 @@
+{
+  "path": "Sti",
+  "password": "Passord",
+  "read_users": "Lese brukere",
+  "read_users_help": "Bare valgte brukere med den nødvendige tillatelsen kan lese denne banen.",
+  "write_users": "Skrive brukere",
+  "write_users_help": "Bare valgte brukere med den nødvendige tillatelsen kan skrive denne banen.",
+  "all_permitted_users": "Alle tillatte brukere",
+  "write": "Skriv innhold bipassering",
+  "write_help": "Benytter brukeren tillatelse til å sjekke for innhold skrifter (skaper/opplasting/endre). BRUK MED ADVARSEL.",
+  "hide": "Skjul",
+  "readme": "Lesmeg",
+  "readme_help": "Tegn et markdown på bunnen, støtte innhold eller lenke",
+  "header": "Topptekst",
+  "header_help": "Vis et markdown øverst, supportert innhold eller link",
+  "apply_sub": "Bruk på undermappe",
+  "hide_help": "Ett vanlig uttrykk per linje"
+}

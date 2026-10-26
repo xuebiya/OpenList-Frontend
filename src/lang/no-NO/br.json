@@ -1,0 +1,17 @@
+{
+  "backup": "Sikkerhetskopi",
+  "restore": "Gjenopprett",
+  "start_backup": "Start Sikkerhetskopi",
+  "finish_backup": "Fullfør sikkerhetskopiering",
+  "success_backup_item": "[ {{item}} ] Sikkerhetskopiering var vellykket",
+  "failed_backup_item": "[ {{item}} ] Sikkerhetskopiering mislyktes",
+  "no_file": "Ingen fil valgt",
+  "start_restore": "Start gjenoppretting",
+  "finish_restore": "Fullfør gjenoppretting",
+  "success_restore_item": "[ {{item}} ] Gjenoppretting var vellykket",
+  "failed_restore_item": "[ {{item}} ] Gjenoppretting mislyktes",
+  "override": "Overstyr",
+  "encrypt_password_placeholder": "La stå tomt hvis du ikke trenger kryptering",
+  "encrypt_password": "Krypterings passord",
+  "wrong_encrypt_password": "Feil krypteringspassord"
+}

@@ -1,0 +1,17 @@
+{
+  "backup": "Backup",
+  "restore": "Ripristina",
+  "start_backup": "Avvia Backup",
+  "finish_backup": "Completare Il Backup",
+  "success_backup_item": "Backup [ {{item}} ] riuscito",
+  "failed_backup_item": "[ {{item}} ] Backup non riuscito",
+  "no_file": "Nessun file selezionato",
+  "start_restore": "Avvia Ripristino",
+  "finish_restore": "Termina Il Ripristino",
+  "success_restore_item": "[ {{item}} ] Ripristino riuscito",
+  "failed_restore_item": "[ {{item}} ] Ripristino fallito",
+  "override": "Scavalca",
+  "encrypt_password_placeholder": "Lascia vuoto se non hai bisogno di cifratura",
+  "encrypt_password": "Password Di Cifratura",
+  "wrong_encrypt_password": "Password di crittografia errata"
+}

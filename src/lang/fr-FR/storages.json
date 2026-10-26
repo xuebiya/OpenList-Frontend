@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "Exportation",
+    "export_title": "Exporter le stockage vers JSON",
+    "export_tips": "Veuillez copier le JSON de stockage ci-dessus.",
+    "import": "Importation",
+    "import_title": "Importer du stockage depuis JSON",
+    "import_success": "Importé avec succès !",
+    "import_tips": "Collez le JSON de stockage exporté à importer.",
+    "mount_path": "Chemin de montage",
+    "mount_path-tips": "Le chemin vers lequel vous voulez monter, il est unique et ne peut pas être répété",
+    "driver": "Chauffeur",
+    "order": "Commandes",
+    "order-tips": "Utilisé pour le tri",
+    "usage": "Usage",
+    "status": "Statut",
+    "remark": "Remarques",
+    "cache_expiration": "Expiration du cache",
+    "cache_expiration-tips": "La durée d'expiration du cache pour ce stockage (minutes)",
+    "custom_cache_policies": "Politiques de cache personnalisées",
+    "custom_cache_policies-tips": "Les règles d'expiration de la cache pour ce stockage (minutes)",
+    "down_proxy_url": "Télécharger l'URL du proxy",
+    "disable_proxy_sign": "Désactiver le panneau de proxy",
+    "disable_proxy_sign-tips": "Désactiver la signature pour l'URL du proxy de téléchargement",
+    "web_proxy": "Proxy Web",
+    "webdav_policy": "Politique WebDAV",
+    "proxy_range": "Proxy Range",
+    "proxy_range-tips": "Besoin d'activer le proxy",
+    "webdav_policys": {
+      "302_redirect": "302 redirection",
+      "use_proxy_url": "Utiliser l'URL du proxy",
+      "native_proxy": "Proxy natif"
+    },
+    "order_by": "Trier par",
+    "order_bys": {
+      "name": "Nom",
+      "size": "Taille",
+      "modified": "Modifié"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Descendant"
+    },
+    "extract_folder": "Ordre des dossiers",
+    "extract_folders": {
+      "front": " Dossiers en haut",
+      "back": "Dossiers en bas"
+    },
+    "enable_sign": "Activer le panneau",
+    "disable_index": "Désactiver l'index"
+  },
+  "table_fields": {
+    "status": {
+      "work": "Travailler",
+      "disabled": "Désactivé"
+    }
+  },
+  "other": {
+    "start_load_success": "Lancer le chargement",
+    "load_all": "Recharger tout",
+    "filter_by_driver": "Filtrer par chauffeur",
+    "table_layout": "Disposition de la table"
+  }
+}

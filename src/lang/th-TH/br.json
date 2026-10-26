@@ -1,0 +1,17 @@
+{
+  "backup": "สำรองข้อมูล",
+  "restore": "กู้คืน",
+  "start_backup": "เริ่มสำรองข้อมูล",
+  "finish_backup": "เสร็จสิ้นการสำรองข้อมูล",
+  "success_backup_item": "สำรองข้อมูล [ {{item}} ] สำเร็จ",
+  "failed_backup_item": "สำรองข้อมูล [ {{item}} ] ไม่สำเร็จ",
+  "no_file": "ไม่ได้เลือกไฟล์",
+  "start_restore": "เริ่มกู้คืน",
+  "finish_restore": "เสร็จสิ้นการกู้คืน",
+  "success_restore_item": "กู้คืน [ {{item}} ] สำเร็จ",
+  "failed_restore_item": "กู้คืน [ {{item}} ] ไม่สำเร็จ",
+  "override": "เขียนทับ",
+  "encrypt_password_placeholder": "เว้นว่างไว้หากไม่ต้องการเข้ารหัส",
+  "encrypt_password": "รหัสผ่านเข้ารหัส",
+  "wrong_encrypt_password": "รหัสผ่านเข้ารหัสไม่ถูกต้อง"
+}

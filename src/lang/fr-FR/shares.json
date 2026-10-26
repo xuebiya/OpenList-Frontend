@@ -1,0 +1,43 @@
+{
+  "expires": "Délai d'expiration",
+  "id": "ID",
+  "id_placeholder": "Identifiant personnalisé (facultatif, laisser vide pour aléatoire)",
+  "accessed": "Nombre d'accès",
+  "max_accessed": "Nombre maximum d'accès",
+  "pwd": "Partager le code",
+  "files": "Partager les chemins",
+  "files_etc": " et {{more}} de plus",
+  "files_placeholder": "Entrez les chemins du fichier ou du dossier, un par ligne",
+  "add_path": "Ajouter un chemin",
+  "creator": "Créateur",
+  "status": "Statut",
+  "status_list": {
+    "disabled": "Désactivé",
+    "invalid": "Invalide",
+    "work": "Travail",
+    "denied": "Pas d'autorisation"
+  },
+  "remark": "Remarques",
+  "readme": "Libellé",
+  "header": "Description de l'en-tête",
+  "order_by": "Trier par",
+  "order_bys": {
+    "name": "Nom",
+    "size": "Taille",
+    "modified": "Modifié"
+  },
+  "order_direction": "Direction de la commande",
+  "order_directions": {
+    "asc": "Ascendant",
+    "desc": "Descendant"
+  },
+  "extract_folder": "Ordre des dossiers",
+  "extract_folders": {
+    "front": "Dossiers en haut",
+    "back": "Dossiers en bas"
+  },
+  "input_password": "Veuillez entrer le code de partage",
+  "share_gone": "Ce partage a expiré ou a été annulé",
+  "copy_msg": "Copier le lien",
+  "no_permission_tip": "Pour créer un partage, vous devez avoir la permission \"Partager\"."
+}

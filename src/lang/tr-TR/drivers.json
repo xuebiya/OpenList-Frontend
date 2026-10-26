@@ -1,0 +1,1804 @@
+{
+  "115 Cloud": {
+    "cookie": "Çerez",
+    "cookie-tips": "QR kodu belirteci veya çerezden biri gereklidir",
+    "limit_rate": "İstek sınırı",
+    "limit_rate-tips": "Tüm API isteklerinin hızını sınırla ([limit] istek/1 sn)",
+    "page_size": "Sayfa boyutu",
+    "page_size-tips": "115 sürücüsünün liste API'si için sayfa başına öğe sayısı",
+    "qrcode_source": "QR kodu kaynağı",
+    "qrcode_source-tips": "QR kodu cihazını seçin; varsayılan: Linux",
+    "qrcode_sources": {
+      "alipaymini": "Alipay Mini",
+      "android": "Android",
+      "ios": "iOS",
+      "qandroid": "Qandroid",
+      "tv": "TV",
+      "web": "Web",
+      "wechatmini": "WeChat Mini"
+    },
+    "qrcode_token": "QR kodu belirteci",
+    "qrcode_token-tips": "QR kodu belirteci veya çerezden biri gereklidir",
+    "root_folder_id": "Kök klasör kimliği"
+  },
+  "115 Open": {
+    "access_token": "Erişim belirteci",
+    "limit_rate": "İstek sınırı",
+    "limit_rate-tips": "Tüm API isteklerinin hızını sınırla ([limit] istek/1 sn)",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "file_name": "Dosya adı",
+      "file_size": "Dosya boyutu",
+      "file_type": "Dosya türü",
+      "user_utime": "Kullanıcı güncelleme zamanı"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "page_size": "Sayfa boyutu",
+    "page_size-tips": "115 Open sürücüsünün liste API'si için sayfa başına öğe sayısı",
+    "refresh_token": "Yenileme belirteci",
+    "root_folder_id": "Kök klasör kimliği"
+  },
+  "115 Share": {
+    "cookie": "Çerez",
+    "cookie-tips": "QR kodu belirteci veya çerezden biri gereklidir",
+    "limit_rate": "İstek sınırı",
+    "limit_rate-tips": "Tüm API isteklerinin hızını sınırla (1 istek/[limit_rate] sn)",
+    "page_size": "Sayfa boyutu",
+    "page_size-tips": "115 sürücüsünün liste API'si için sayfa başına öğe sayısı",
+    "qrcode_source": "QR kodu kaynağı",
+    "qrcode_source-tips": "QR kodu cihazını seçin; varsayılan: Linux",
+    "qrcode_sources": {
+      "alipaymini": "Alipay Mini",
+      "android": "Android",
+      "ios": "iOS",
+      "qandroid": "Qandroid",
+      "tv": "TV",
+      "web": "Web",
+      "wechatmini": "WeChat Mini"
+    },
+    "qrcode_token": "QR kodu belirteci",
+    "qrcode_token-tips": "QR kodu belirteci veya çerezden biri gereklidir",
+    "receive_code": "Alma kodu",
+    "receive_code-tips": "115 paylaşım bağlantısının alma kodu",
+    "root_folder_id": "Kök klasör kimliği",
+    "share_code": "Paylaşım kodu",
+    "share_code-tips": "115 paylaşım bağlantısının paylaşım kodu"
+  },
+  "123 Open": {
+    "AccessToken": "Erişim belirteci",
+    "ClientID": "İstemci kimliği",
+    "ClientSecret": "İstemci gizli anahtarı",
+    "DirectLink": "Doğrudan bağlantı",
+    "DirectLink-tips": "Dosya indirirken doğrudan bağlantıyı kullan",
+    "DirectLinkPrivateKey": "Doğrudan bağlantı özel anahtarı",
+    "DirectLinkPrivateKey-tips": "URL kimlik doğrulaması etkinse doğrudan bağlantı için özel anahtar",
+    "DirectLinkValidDuration": "Doğrudan bağlantı geçerlilik süresi",
+    "DirectLinkValidDuration-tips": "URL kimlik doğrulaması etkinse dakika cinsinden süre",
+    "RefreshToken": "Yenileme belirteci",
+    "UploadThread": "Yükleme iş parçacığı",
+    "UploadThread-tips": "yükleme iş parçacığı sayısı",
+    "api_url_address": "API URL adresi",
+    "root_folder_id": "Kök klasör kimliği",
+    "use_online_api": "Çevrimiçi API kullan"
+  },
+  "123Pan": {
+    "UploadThread": "Yükleme iş parçacığı",
+    "UploadThread-tips": "yükleme iş parçacığı sayısı",
+    "password": "Parola",
+    "platform": "Platform",
+    "platform-tips": "API istekleriyle gönderilen platform başlığı değeri",
+    "root_folder_id": "Kök klasör kimliği",
+    "username": "Kullanıcı adı"
+  },
+  "123PanLink": {
+    "origin_urls": "Kaynak URL'leri",
+    "origin_urls-tips": "biçim:KlasörAdı:\n  [DosyaBoyutu:][Değiştirilme:]URL",
+    "private_key": "Özel anahtar",
+    "uid": "Kullanıcı kimliği",
+    "valid_duration": "Geçerlilik süresi",
+    "valid_duration-tips": "dakika"
+  },
+  "123PanShare": {
+    "accesstoken": "Erişim belirteci",
+    "root_folder_id": "Kök klasör kimliği",
+    "sharekey": "Paylaşım anahtarı",
+    "sharepassword": "Paylaşım parolası"
+  },
+  "139Yun": {
+    "authorization": "Yetkilendirme",
+    "authorization-tips": "Authorization tek başına kullanılabilir. Boşsa hızlı oturum açmak için yalnızca mail_cookies kullanılır; tam oturum açma yedeği için mail_cookies + username + password kullanılır.",
+    "client_type": "İstemci türü",
+    "client_type-tips": "Kişisel bulut API'sine bildirilen istemci türü. web (9), 50 GB'a kadar dosya yüklemeye izin verir; pc (13), tek dosya yükleme sınırını 500 GB'a çıkarır.",
+    "client_types": {
+      "pc": "PC",
+      "web": "Web"
+    },
+    "cloud_id": "Bulut kimliği",
+    "custom_upload_part_size": "Özel yükleme parçası boyutu",
+    "custom_upload_part_size-tips": "Otomatik için 0",
+    "link_id": "Bağlantı kimliği",
+    "link_id-tips": "Birden çok paylaşım virgül veya yeni satırla ayrılır. Parola korumalı paylaşımlar için link_id#password biçimini kullanın.",
+    "mail_cookies": "Posta çerezleri",
+    "mail_cookies-tips": "Oturum açma kimlik doğrulaması için mail.139.com çerezleri.",
+    "password": "Parola",
+    "password-tips": "Yalnızca mail_cookies ile parola üzerinden oturum açma yedeği kullanılırken gereklidir.",
+    "report_real_size": "Gerçek boyutu bildir",
+    "report_real_size-tips": "Yükleme sırasında gerçek dosya boyutunun bildirilmesini etkinleştir",
+    "root_folder_id": "Kök klasör kimliği",
+    "sms_code": "SMS kodu",
+    "sms_code-tips": "Bunu yalnızca OpenList 139 Mail SMS doğrulama kodunun gönderildiğini bildirdikten sonra doldurun, ardından depolamayı yeniden kaydedin.",
+    "type": "Tür",
+    "types": {
+      "family": "Aile",
+      "group": "Grup",
+      "personal": "Kişisel",
+      "personal_new": "Yeni kişisel",
+      "share": "Paylaşım"
+    },
+    "use_large_thumbnail": "Büyük küçük resim kullan",
+    "use_large_thumbnail-tips": "Görseller için büyük küçük resim kullanımını etkinleştir",
+    "use_old_stream_upload": "Eski akış yüklemesini kullan",
+    "use_old_stream_upload-tips": "Eski akış yükleme yöntemini kullanmayı etkinleştir (hızlı yükleme desteklenmez)",
+    "user_domain_id": "Kullanıcı etki alanı kimliği",
+    "user_domain_id-tips": "Disk kullanımını göstermek için çerezdeki ud_id değerini girin",
+    "username": "Kullanıcı adı",
+    "username-tips": "Yalnızca mail_cookies ile parola üzerinden oturum açma yedeği kullanılırken gereklidir."
+  },
+  "189Cloud": {
+    "cookie": "Çerez",
+    "cookie-tips": "Captcha gerekiyorsa çerezi girin",
+    "password": "Parola",
+    "root_folder_id": "Kök klasör kimliği",
+    "username": "Kullanıcı adı"
+  },
+  "189CloudPC": {
+    "access_token": "Erişim belirteci",
+    "client_sn": "İstemci SN",
+    "client_sn-tips": "Resmî istemciden alınan cihaz seri numarası; numaranız yoksa boş bırakın",
+    "device_id": "Cihaz kimliği",
+    "device_id-tips": "İkinci cihaz doğrulamasından sonra verilen DEVICEID çerezidir; tekrar doğrulama yapmamak için bunu saklayın",
+    "family_id": "Aile kimliği",
+    "family_transfer": "Aile aktarımı",
+    "generate_torrent": "Torrent oluştur",
+    "generate_torrent-tips": "Yüklemeden sonra CAS uzantılı torrent dosyası oluştur",
+    "jg_open_id": "Jg open kimliği",
+    "jg_open_id-tips": "Resmî istemci tarafından bildirilen isteğe bağlı push kimliği",
+    "login_type": "Oturum açma türü",
+    "login_types": {
+      "password": "Parola",
+      "qrcode": "QR kodu"
+    },
+    "no_use_ocr": "OCR kullanma",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "filename": "Dosya adı",
+      "filesize": "Dosya boyutu",
+      "lastOpTime": "Son işlem zamanı"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "password": "Parola",
+    "password-tips": "Bir erişim belirteci veya yenileme belirteci sağlandığında gerekli değildir",
+    "rapid_upload": "Hızlı yükleme",
+    "refresh_token": "Yenileme belirteci",
+    "refresh_token-tips": "Hesap değiştirmek için bu alanı temizleyin",
+    "root_folder_id": "Kök klasör kimliği",
+    "sms_code": "SMS kodu",
+    "sms_code-tips": "İkinci cihaz doğrulaması için SMS kodu; giriş sırasında istendiğinde kodu girip tekrar kaydedin",
+    "type": "Tür",
+    "types": {
+      "family": "Aile",
+      "personal": "Kişisel"
+    },
+    "upload_method": "Yükleme yöntemi",
+    "upload_methods": {
+      "old": "Eski",
+      "rapid": "Hızlı",
+      "stream": "Akış"
+    },
+    "upload_thread": "Yükleme iş parçacığı",
+    "upload_thread-tips": "1<=iş parçacığı<=32",
+    "user_finger": "Kullanıcı parmak izi",
+    "user_finger-tips": "Giriş istekleriyle gönderilen cihaz parmak izi; boş bırakıldığında otomatik olarak oluşturulur ve saklanır",
+    "username": "Kullanıcı adı",
+    "username-tips": "Bir erişim belirteci veya yenileme belirteci sağlandığında gerekli değildir",
+    "validate_code": "Doğrulama kodu"
+  },
+  "189CloudTV": {
+    "access_token": "Erişim belirteci",
+    "family_id": "Aile kimliği",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "filename": "Dosya adı",
+      "filesize": "Dosya boyutu",
+      "lastOpTime": "Son işlem zamanı"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "rapid_upload": "Hızlı yükleme",
+    "root_folder_id": "Kök klasör kimliği",
+    "type": "Tür",
+    "types": {
+      "family": "Aile",
+      "personal": "Kişisel"
+    },
+    "upload_thread": "Yükleme iş parçacığı",
+    "upload_thread-tips": "1<=iş parçacığı<=32"
+  },
+  "AList V3": {
+    "forward_archive_requests": "Arşiv isteklerini ilet",
+    "meta_password": "Meta parolası",
+    "pass_ip_to_upsteam": "IP'yi üst sunucuya ilet",
+    "pass_ua_to_upsteam": "Kullanıcı aracısını üst sunucuya ilet",
+    "password": "Parola",
+    "root_folder_path": "Kök klasör yolu",
+    "token": "Belirteç",
+    "url": "URL",
+    "username": "Kullanıcı adı"
+  },
+  "AliDoc": {
+    "cookie": "Çerez",
+    "cookie-tips": "DingTalk belge web çerezi",
+    "root_folder_id": "Kök klasör kimliği"
+  },
+  "Alias": {
+    "details_pass_through": "Ayrıntıları ilet",
+    "download_concurrency": "İndirme eşzamanlılığı",
+    "download_concurrency-tips": "Proxy etkinleştirilmelidir",
+    "download_part_size": "İndirme parçası boyutu",
+    "download_part_size-tips": "Proxy etkinleştirilmelidir. Birim: KB",
+    "file_consistency_check": "Dosya tutarlılığı denetimi",
+    "paths": "Yollar",
+    "provider_pass_through": "Sağlayıcı verilerini ilet",
+    "put_conflict_policy": "Yazma çakışma ilkesi",
+    "put_conflict_policy-tips": "Yükleme, kopyalama, taşıma veya sıkıştırmayı açma sırasında sürücünün arka uçtaki aynı yolları nasıl işleyeceği.",
+    "put_conflict_policys": {
+      "all": "Tüm çakışan yollara yaz",
+      "all_strict": "Tam çakışan yollara izin ver",
+      "deterministic": "Benzersiz yola izin ver",
+      "deterministic_or_all": "Benzersiz yola ve tüm çakışan yollara izin ver",
+      "disabled": "Yazmayı devre dışı bırak",
+      "first": "İlk çakışan yola yaz",
+      "quota": "Kalan alana göre ağırlıklı rastgele yük dengeleme",
+      "quota_strict": "Kalan alana göre katı ağırlıklı rastgele yük dengeleme",
+      "random": "Rastgele yük dengeleme"
+    },
+    "read_conflict_policy": "Okuma çakışma ilkesi",
+    "read_conflict_policys": {
+      "all": "Parça başına yük dengeleme",
+      "first": "İlk çakışan yola karşılık gelen dosyayı al",
+      "random": "Dosya başına yük dengeleme"
+    },
+    "write_conflict_policy": "Yazma çakışma ilkesi",
+    "write_conflict_policy-tips": "Yeniden adlandırma, kaldırma veya dizin oluşturma sırasında sürücünün arka uçtaki aynı yolları nasıl işleyeceği.",
+    "write_conflict_policys": {
+      "all": "Tüm çakışan yollara yaz",
+      "all_strict": "Tam çakışan yollara izin ver",
+      "deterministic": "Benzersiz yola izin ver",
+      "deterministic_or_all": "Benzersiz yola ve tüm çakışan yollara izin ver",
+      "disabled": "Yazmayı devre dışı bırak",
+      "first": "İlk çakışan yola yaz"
+    }
+  },
+  "Aliyundrive": {
+    "internal_upload": "Dahili yükleme",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "created_at": "Oluşturulma tarihi",
+      "name": "Ad",
+      "size": "Boyut",
+      "updated_at": "Güncellenme tarihi"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "ASC": "Artan",
+      "DESC": "Azalan"
+    },
+    "rapid_upload": "Hızlı yükleme",
+    "refresh_token": "Yenileme belirteci",
+    "root_folder_id": "Kök klasör kimliği"
+  },
+  "AliyundriveOpen": {
+    "alipan_type": "Alipan türü",
+    "alipan_types": {
+      "alipanTV": "AlipanTV",
+      "default": "Varsayılan"
+    },
+    "api_url_address": "API URL adresi",
+    "callback_concurrency": "Geri çağırma eşzamanlılığı",
+    "callback_concurrency-tips": "Aliyun kullanıcısının paylaştığı etkin proxy üzerinden indirilebilecek en fazla dosya sayısı",
+    "client_id": "İstemci kimliği",
+    "client_id-tips": "Yoksa boş bırakın",
+    "client_secret": "İstemci gizli anahtarı",
+    "client_secret-tips": "Yoksa boş bırakın",
+    "drive_type": "Sürücü türü",
+    "drive_types": {
+      "backup": "Yedekleme",
+      "default": "Varsayılan",
+      "resource": "Kaynak"
+    },
+    "internal_upload": "Dahili yükleme",
+    "internal_upload-tips": "Aliyun ECS'iniz Pekin'de bulunuyorsa yükleme hızını artırmak için bu seçeneği açabilirsiniz",
+    "livp_download_format": "Livp indirme biçimi",
+    "livp_download_formats": {
+      "jpeg": "JPEG",
+      "mov": "MOV"
+    },
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "created_at": "Oluşturulma tarihi",
+      "name": "Ad",
+      "size": "Boyut",
+      "updated_at": "Güncellenme tarihi"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "ASC": "Artan",
+      "DESC": "Azalan"
+    },
+    "rapid_upload": "Hızlı yükleme",
+    "rapid_upload-tips": "Bu seçeneği etkinleştirirseniz dosya önce sunucuya yüklenir ve ilerleme yanlış gösterilir",
+    "refresh_token": "Yenileme belirteci",
+    "remove_way": "Kaldırma yöntemi",
+    "remove_ways": {
+      "delete": "Sil",
+      "trash": "Çöp kutusu"
+    },
+    "root_folder_id": "Kök klasör kimliği",
+    "use_online_api": "Çevrimiçi API kullan"
+  },
+  "AliyundriveShare": {
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "created_at": "Oluşturulma tarihi",
+      "name": "Ad",
+      "size": "Boyut",
+      "updated_at": "Güncellenme tarihi"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "ASC": "Artan",
+      "DESC": "Azalan"
+    },
+    "refresh_token": "Yenileme belirteci",
+    "root_folder_id": "Kök klasör kimliği",
+    "share_id": "Paylaşım kimliği",
+    "share_pwd": "Paylaşım parolası"
+  },
+  "AutoIndex": {
+    "ignore_file_names": "Yoksayılacak dosya adları",
+    "item_xpath": "Öğe XPath'i",
+    "modified_time_format": "Değiştirilme tarihi biçimi",
+    "modified_time_format-tips": "Mon Jan 2 15:04:05 -0700 MST 2006 zaman noktası biçimini kullanmalıdır",
+    "modified_xpath": "Değiştirilme zamanı XPath'i",
+    "name_xpath": "Dosya adı XPath'i",
+    "size_xpath": "Dosya boyutu XPath'i",
+    "url": "URL"
+  },
+  "Azure Blob Storage": {
+    "access_key": "Erişim anahtarı",
+    "access_key-tips": "Kimlik doğrulaması için kullanılan Azure Storage erişim anahtarı. https://learn.microsoft.com/azure/storage/common/storage-account-keys-manage",
+    "container_name": "Kapsayıcı adı",
+    "container_name-tips": "Azure Storage'daki kapsayıcının adı (Azure portalında oluşturulur). https://learn.microsoft.com/azure/storage/blobs/blob-containers-portal",
+    "endpoint": "Uç nokta",
+    "endpoint-tips": "Örn. https://accountname.blob.core.windows.net/. Benzersiz depolama hesabı adını içeren Azure Storage'ın tam uç nokta URL'si (yalnızca 3-24 rakam ve küçük harf).",
+    "root_folder_path": "Kök klasör yolu",
+    "sign_url_expire": "İmzalı URL'nin geçerlilik süresi",
+    "sign_url_expire-tips": "SAS URL'lerinin saat cinsinden geçerlilik süresi."
+  },
+  "BaiduNetdisk": {
+    "api_url_address": "API URL adresi",
+    "client_id": "İstemci kimliği",
+    "client_secret": "İstemci gizli anahtarı",
+    "custom_crack_ua": "Özel crack kullanıcı aracısı",
+    "custom_upload_part_size": "Özel yükleme parçası boyutu",
+    "custom_upload_part_size-tips": "Otomatik için 0",
+    "download_api": "İndirme API'si",
+    "download_apis": {
+      "crack": "Crack",
+      "crack_video": "Video crack'i",
+      "official": "Resmî"
+    },
+    "low_bandwith_upload_mode": "Düşük bant genişlikli yükleme modu",
+    "only_list_video_file": "Yalnızca video dosyalarını listele",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "name": "Ad",
+      "size": "Boyut",
+      "time": "Zaman"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "refresh_token": "Yenileme belirteci",
+    "root_folder_path": "Kök klasör yolu",
+    "upload_api": "Yükleme API'si",
+    "upload_thread": "Yükleme iş parçacığı",
+    "upload_thread-tips": "1<=iş parçacığı<=32",
+    "upload_timeout": "Yükleme zaman aşımı",
+    "upload_timeout-tips": "Parça başına saniye cinsinden yükleme zaman aşımı",
+    "use_dynamic_upload_api": "Dinamik yükleme API'si kullan",
+    "use_dynamic_upload_api-tips": "Yükleme API'si etki alanını dinamik olarak alır. Etkinleştirildiğinde, etki alanı alınamazsa 'Yükleme API'si' ayarı yedek olarak kullanılır.",
+    "use_online_api": "Çevrimiçi API kullan"
+  },
+  "BaiduPhoto": {
+    "album_id": "Albüm kimliği",
+    "cookie": "Çerez",
+    "delete_origin": "Orijinali sil",
+    "show_type": "Görüntüleme türü",
+    "show_types": {
+      "root": "Kök",
+      "root_only_album": "Yalnızca kök albüm",
+      "root_only_file": "Yalnızca kök dosya"
+    },
+    "upload_thread": "Yükleme iş parçacığı",
+    "upload_thread-tips": "1<=iş parçacığı<=32"
+  },
+  "Bunny Storage": {
+    "access_key": "Erişim anahtarı",
+    "cdn_base_url": "CDN temel URL'si",
+    "cdn_token_include_ip": "CDN belirtecine IP'yi dahil et",
+    "cdn_token_key": "CDN belirteç anahtarı",
+    "cdn_token_method": "CDN belirteç yöntemi",
+    "cdn_token_methods": {
+      "hmac_sha256": "HMAC SHA256",
+      "sha256": "SHA256"
+    },
+    "endpoint": "Uç nokta",
+    "placeholder": "Yer tutucu",
+    "root_folder_path": "Kök klasör yolu",
+    "sign_url_expire": "İmzalı URL'nin geçerlilik süresi",
+    "storage_zone_name": "Depolama alanı adı"
+  },
+  "CNB Releases": {
+    "default_branch": "Varsayılan dal",
+    "default_branch-tips": "Yeni sürümler için varsayılan dal",
+    "repo": "Depo",
+    "root_folder_id": "Kök klasör kimliği",
+    "token": "Belirteç",
+    "use_tag_name": "Etiket adını kullan",
+    "use_tag_name-tips": "Sürüm adı yerine etiket adını kullan"
+  },
+  "ChaoXingGroupDrive": {
+    "bbsid": "BBS kimliği",
+    "cookie": "Çerez",
+    "password": "Parola",
+    "root_folder_id": "Kök klasör kimliği",
+    "user_name": "Kullanıcı adı"
+  },
+  "Chunk": {
+    "chunk_large_file_only": "Yalnızca büyük dosyaları parçalara böl",
+    "chunk_large_file_only-tips": "Dosya boyutu part_size değerinden büyükse parçalara böl",
+    "chunk_prefix": "Parça öneki",
+    "chunk_prefix-tips": "Parça klasörünün öneki",
+    "custom_ext": "Özel uzantı",
+    "num_list_workers": "Liste işçisi sayısı",
+    "part_size": "Parça boyutu",
+    "part_size-tips": "bayt",
+    "remote_path": "Uzak yol",
+    "show_hidden": "Gizlileri göster",
+    "show_hidden-tips": "Gizli dizinleri ve dosyaları göster",
+    "store_hash": "Karmayı depola",
+    "thumbnail": "Küçük resim",
+    "thumbnail-tips": ".thumbnails klasöründe önceden oluşturulan küçük resimleri etkinleştir"
+  },
+  "Cloudreve": {
+    "address": "Adres",
+    "cookie": "Çerez",
+    "custom_ua": "Özel kullanıcı aracısı",
+    "enable_thumb_and_folder_size": "Küçük resmi ve klasör boyutunu etkinleştir",
+    "password": "Parola",
+    "root_folder_path": "Kök klasör yolu",
+    "username": "Kullanıcı adı"
+  },
+  "Cloudreve V4": {
+    "access_token": "Erişim belirteci",
+    "address": "Adres",
+    "custom_ua": "Özel kullanıcı aracısı",
+    "enable_folder_size": "Klasör boyutunu etkinleştir",
+    "enable_thumb": "Küçük resmi etkinleştir",
+    "enable_version_upload": "Sürümlü yüklemeyi etkinleştir",
+    "hide_uploading": "Yüklenenleri gizle",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "created_at": "Oluşturulma tarihi",
+      "name": "Ad",
+      "size": "Boyut",
+      "updated_at": "Güncellenme tarihi"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "password": "Parola",
+    "refresh_token": "Yenileme belirteci",
+    "root_folder_path": "Kök klasör yolu",
+    "username": "Kullanıcı adı"
+  },
+  "Crypt": {
+    "directory_name_encryption": "Dizin adlarını şifreleme",
+    "directory_name_encryptions": {
+      "false": "Yanlış",
+      "true": "Doğru"
+    },
+    "encrypted_suffix": "Şifreli dosya uzantısı",
+    "encrypted_suffix-tips": "yalnızca ileri düzey kullanıcılar içindir! Şifrelenen dosyalara bu uzantı eklenir",
+    "filename_encoding": "Dosya adı kodlaması",
+    "filename_encoding-tips": "yalnızca ileri düzey kullanıcılar içindir!",
+    "filename_encodings": {
+      "base32": "Base32",
+      "base32768": "Base32768",
+      "base64": "Base64"
+    },
+    "filename_encryption": "Dosya adı şifrelemesi",
+    "filename_encryptions": {
+      "obfuscate": "Gizle",
+      "off": "Kapalı",
+      "standard": "Standart"
+    },
+    "password": "Parola",
+    "password-tips": "ana parola",
+    "remote_path": "Uzak yol",
+    "remote_path-tips": "Şifrelenmiş verilerin depolandığı konum",
+    "salt": "Tuz",
+    "salt-tips": "Tuzun ne olduğunu bilmiyorsanız ikinci parola gibi düşünün. İsteğe bağlıdır ancak kullanılması önerilir",
+    "show_hidden": "Gizlileri göster",
+    "show_hidden-tips": "Gizli dizinleri ve dosyaları göster",
+    "thumbnail": "Küçük resim",
+    "thumbnail-tips": ".thumbnails klasöründe önceden oluşturulan küçük resimleri etkinleştir"
+  },
+  "Degoo": {
+    "access_token": "Erişim belirteci",
+    "access_token-tips": "Degoo API erişim belirteci otomatik olarak alınır",
+    "password": "Parola",
+    "password-tips": "Degoo hesap parolanız",
+    "refresh_token": "Yenileme belirteci",
+    "refresh_token-tips": "Belirteci otomatik yenilemek için kullanılan yenileme belirteci otomatik olarak alınır",
+    "root_folder_id": "Kök klasör kimliği",
+    "username": "Kullanıcı adı",
+    "username-tips": "Degoo hesap e-posta adresiniz"
+  },
+  "Doge": {
+    "access_key_id": "Erişim anahtarı kimliği",
+    "add_filename_to_disposition": "Dosya adını Content-Disposition'a ekle",
+    "add_filename_to_disposition-tips": "Content-Disposition başlığına dosya adını ekle.",
+    "bucket": "Kova",
+    "custom_host": "Özel ana makine",
+    "direct_upload_host": "Doğrudan yükleme ana makinesi",
+    "enable_custom_host_presign": "Özel ana makine için ön imzalamayı etkinleştir",
+    "enable_direct_upload": "Doğrudan yüklemeyi etkinleştir",
+    "endpoint": "Uç nokta",
+    "force_path_style": "Yol biçimini zorla",
+    "list_object_version": "Nesne sürümlerini listele",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "Yer tutucu",
+    "region": "Bölge",
+    "remove_bucket": "Kovayı kaldır",
+    "remove_bucket-tips": "Özel ana makine kullanılırken kova adını yoldan kaldır.",
+    "root_folder_path": "Kök klasör yolu",
+    "secret_access_key": "Gizli erişim anahtarı",
+    "session_token": "Oturum belirteci",
+    "sign_url_expire": "İmzalı URL'nin geçerlilik süresi",
+    "user_agent": "Kullanıcı aracısı",
+    "user_agent-tips": "S3 istekleri için özel User-Agent."
+  },
+  "Doubao": {
+    "cookie": "Çerez",
+    "download_api": "İndirme API'si",
+    "download_apis": {
+      "get_download_info": "İndirme bilgilerini al",
+      "get_file_url": "Dosya URL'sini al"
+    },
+    "limit_rate": "İstek sınırı",
+    "limit_rate-tips": "Tüm API isteklerinin hızını sınırla ([limit] istek/1 sn)",
+    "root_folder_id": "Kök klasör kimliği",
+    "upload_thread": "Yükleme iş parçacığı"
+  },
+  "DoubaoNew": {
+    "app_id": "Uygulama kimliği",
+    "app_id-tips": "Doubao uygulama kimliği",
+    "auth_client_id": "Kimlik doğrulama istemci kimliği",
+    "auth_client_id-tips": "Doubao Biz kimlik doğrulama istemci kimliği",
+    "auth_client_type": "Kimlik doğrulama istemci türü",
+    "auth_client_type-tips": "Doubao Biz kimlik doğrulama istemci türü",
+    "auth_scope": "Kimlik doğrulama kapsamı",
+    "auth_scope-tips": "Doubao Biz kimlik doğrulama kapsamı",
+    "auth_sdk_source": "Kimlik doğrulama SDK kaynağı",
+    "auth_sdk_source-tips": "Doubao Biz kimlik doğrulama SDK kaynağı",
+    "auth_sdk_version": "Kimlik doğrulama SDK sürümü",
+    "auth_sdk_version-tips": "Doubao Biz kimlik doğrulama SDK sürümü",
+    "cookie": "Çerez",
+    "cookie-tips": "Web çerezi",
+    "dpop_key_secret": "DPoP anahtarının gizli değeri",
+    "dpop_key_secret-tips": "DPoP belirteci oluşturmak için DPoP anahtar gizli değeri",
+    "ignore_jwt_check": "JWT denetimini yoksay",
+    "ignore_jwt_check-tips": "Zaman sorunlarını önlemek için JWT denetiminin yoksayılıp yoksayılmayacağı",
+    "root_folder_id": "Kök klasör kimliği",
+    "share_link": "Paylaşım bağlantısı",
+    "share_link-tips": "İndirme için paylaşım bağlantısı kullanılıp kullanılmayacağı"
+  },
+  "DoubaoShare": {
+    "cookie": "Çerez",
+    "root_folder_path": "Kök klasör yolu",
+    "share_ids": "Paylaşım kimlikleri"
+  },
+  "Dropbox": {
+    "RootNamespaceId": "Kök ad alanı kimliği",
+    "api_url_address": "API URL adresi",
+    "client_id": "İstemci kimliği",
+    "client_id-tips": "Yoksa boş bırakın",
+    "client_secret": "İstemci gizli anahtarı",
+    "client_secret-tips": "Yoksa boş bırakın",
+    "refresh_token": "Yenileme belirteci",
+    "root_folder_path": "Kök klasör yolu",
+    "use_online_api": "Çevrimiçi API kullan"
+  },
+  "Emby": {
+    "api_key": "API anahtarı",
+    "link_method": "Bağlantı yöntemi",
+    "link_methods": {
+      "download": "İndir",
+      "stream": "Akış"
+    },
+    "password": "Parola",
+    "root_folder_id": "Kök klasör kimliği",
+    "url": "URL",
+    "user_id": "Kullanıcı kimliği",
+    "username": "Kullanıcı adı"
+  },
+  "FTP": {
+    "address": "Adres",
+    "cwd_list": "Listeleme için CWD kullan",
+    "cwd_list-tips": "Listelemeden önce dizine gir",
+    "encoding": "Kodlama",
+    "password": "Parola",
+    "root_folder_path": "Kök klasör yolu",
+    "username": "Kullanıcı adı"
+  },
+  "FebBox": {
+    "client_id": "İstemci kimliği",
+    "client_secret": "İstemci gizli anahtarı",
+    "page_size": "Sayfa boyutu",
+    "page_size-tips": "FebBox sürücüsünün liste API'si için sayfa başına öğe sayısı",
+    "root_folder_id": "Kök klasör kimliği",
+    "sort_rule": "Sıralama kuralı",
+    "sort_rules": {
+      "ext_asc": "Uzantı artan",
+      "ext_desc": "Uzantı azalan",
+      "name_asc": "Ad artan",
+      "name_desc": "Ad azalan",
+      "size_asc": "Boyut artan",
+      "size_desc": "Boyut azalan",
+      "update_asc": "Güncelleme artan",
+      "update_desc": "Güncelleme azalan"
+    },
+    "user_ip": "Kullanıcı IP'si",
+    "user_ip-tips": "İndirmeyi hızlandırabilen indirme bağlantısı için kullanıcı IP adresi"
+  },
+  "FeijiPan": {
+    "ip": "IP",
+    "password": "Parola",
+    "root_folder_id": "Kök klasör kimliği",
+    "username": "Kullanıcı adı"
+  },
+  "GitHub API": {
+    "accurate_modified_time": "Doğru değiştirilme zamanı",
+    "accurate_modified_time-tips": "Küçük dizin listeleri için mümkün olduğunca doğru değiştirilme zamanı. Varsayılan olarak devre dışıdır. Bir GitHub GraphQL isteği ekler; başarısız olursa eski sıfır zaman değerlerine geri döner.",
+    "author_email": "Yazar e-postası",
+    "author_name": "Yazar adı",
+    "committer_email": "Gönderen e-postası",
+    "committer_name": "Gönderen adı",
+    "copy_commit_message": "Commit mesajını kopyala",
+    "delete_commit_message": "Commit mesajını sil",
+    "gh_proxy": "GitHub proxy'si",
+    "gh_proxy-tips": "GitHub proxy'si; ör. https://ghproxy.net/raw.githubusercontent.com veya https://gh-proxy.com/raw.githubusercontent.com",
+    "gpg_key_passphrase": "GPG anahtarı parolası",
+    "gpg_private_key": "GPG özel anahtarı",
+    "mkdir_commit_message": "Dizin oluşturma commit mesajı",
+    "move_commit_message": "Taşıma commit mesajı",
+    "owner": "Sahip",
+    "put_commit_message": "Yükleme commit mesajı",
+    "ref": "Referans",
+    "ref-tips": "Dal, etiket veya commit SHA; varsayılan ana dal.",
+    "rename_commit_message": "Yeniden adlandırma commit mesajı",
+    "repo": "Depo",
+    "root_folder_path": "Kök klasör yolu",
+    "token": "Belirteç"
+  },
+  "GitHub Releases": {
+    "gh_proxy": "GitHub proxy'si",
+    "gh_proxy-tips": "GitHub proxy'si; ör. https://ghproxy.net/github.com veya https://gh-proxy.com/github.com ",
+    "max_page": "En fazla sayfa",
+    "max_page-tips": "Getirilecek en fazla sayfa sayısı (0 = sınırsız); yalnızca tüm sürümleri göster seçeneği açıkken çalışır",
+    "per_page": "Sayfa başına",
+    "per_page-tips": "Sayfa başına sürüm sayısı (en fazla 100); yalnızca tüm sürümleri göster seçeneği açıkken çalışır",
+    "repo_structure": "Depo yapısı",
+    "repo_structure-tips": "biçim:[yol:]kuruluş/depo",
+    "root_folder_path": "Kök klasör yolu",
+    "show_all_version": "Tüm sürümleri göster",
+    "show_all_version-tips": "Tüm sürümleri göster",
+    "show_readme": "README dosyasını göster",
+    "show_readme-tips": "README ve LICENSE dosyalarını göster",
+    "show_source_code": "Kaynak kodunu göster",
+    "show_source_code-tips": "Kaynak kodunu göster (zip/tar.gz)",
+    "token": "Belirteç",
+    "token-tips": "Özel depolara erişmek veya istek sınırını artırmak için GitHub belirteci"
+  },
+  "GoogleDrive": {
+    "api_url_address": "API URL adresi",
+    "chunk_size": "Parça boyutu",
+    "chunk_size-tips": "Yükleme sırasında parça boyutu (birim: MB)",
+    "client_id": "İstemci kimliği",
+    "client_secret": "İstemci gizli anahtarı",
+    "disable_disk_usage": "Disk kullanımını devre dışı bırak",
+    "order_by": "Sıralama ölçütü",
+    "order_by-tips": "örneğin: folder,name,modifiedTime",
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "refresh_token": "Yenileme belirteci",
+    "root_folder_id": "Kök klasör kimliği",
+    "use_online_api": "Çevrimiçi API kullan"
+  },
+  "GooglePhoto": {
+    "client_id": "İstemci kimliği",
+    "client_secret": "İstemci gizli anahtarı",
+    "refresh_token": "Yenileme belirteci",
+    "root_folder_id": "Kök klasör kimliği",
+    "show_archive": "Arşivi göster"
+  },
+  "GuangYaPan": {
+    "access_token": "Erişim belirteci",
+    "access_token-tips": "Taşıyıcı erişim belirteci (refresh_token sağlanmışsa isteğe bağlıdır)",
+    "captcha_token": "Captcha belirteci",
+    "captcha_token-tips": "/v1/auth/verification tarafından istenen captcha belirteci",
+    "client_id": "İstemci kimliği",
+    "client_id-tips": "GuangYaPan API için istemci kimliği zorunludur",
+    "device_id": "Cihaz kimliği",
+    "device_id-tips": "İsteğe bağlı özel cihaz kimliği (32 onaltılık karakter); boş bırakılırsa otomatik oluşturulur",
+    "device_sign": "Cihaz imzası",
+    "device_sign-tips": "İsteğe bağlı özel X-Device-Sign başlığı (boş bırakılırsa device_id değerinden oluşturulur)",
+    "order_by": "Sıralama ölçütü",
+    "order_by-tips": "Dosya listesinde kullanılan sıralama alanı",
+    "page_size": "Sayfa boyutu",
+    "phone_number": "Telefon numarası",
+    "phone_number-tips": "SMS ile oturum açma telefon numarası; ör. +86 13800000000",
+    "refresh_token": "Yenileme belirteci",
+    "refresh_token-tips": "Otomatik oturum açma/yenileme için yenileme belirteci",
+    "root_path": "Kök yolu",
+    "root_path-tips": "GuangYaPan bulut sürücüsündeki tam yol",
+    "send_code": "Kod gönder",
+    "send_code-tips": "SMS kodu göndermek için true yapıp kaydedin; gönderimden sonra otomatik olarak false değerine döner",
+    "sort_type": "Sıralama türü",
+    "sort_type-tips": "Dosya listesinde kullanılan sıralama yönü",
+    "verification_id": "Doğrulama kimliği",
+    "verification_id-tips": "SMS kodu gönderildikten sonra otomatik oluşturulur; elle düzenlemeyin",
+    "verify_code": "Doğrulama kodu",
+    "verify_code-tips": "phone_number ile kullanılan SMS doğrulama kodu; oturum açmayı tamamlamak için girip kaydedin"
+  },
+  "HalalCloud": {
+    "app_id": "Uygulama kimliği",
+    "app_secret": "Uygulama gizli anahtarı",
+    "app_version": "Uygulama sürümü",
+    "refresh_token": "Yenileme belirteci",
+    "refresh_token-tips": "Oturum açma türü refresh_token ise bu alan zorunludur",
+    "root_folder_path": "Kök klasör yolu",
+    "upload_thread": "Yükleme iş parçacığı",
+    "upload_thread-tips": "1 <= iş parçacığı <= 32"
+  },
+  "HalalCloudOpen": {
+    "client_id": "İstemci kimliği",
+    "client_secret": "İstemci gizli anahtarı",
+    "host": "Ana makine",
+    "refresh_token": "Yenileme belirteci",
+    "refresh_token-tips": "Kişisel API yöntemi kullanılıyorsa RefreshToken gerekli değildir.",
+    "root_folder_path": "Kök klasör yolu",
+    "timeout": "Zaman aşımı",
+    "timeout-tips": "Saniye cinsinden zaman aşımı",
+    "upload_thread": "Yükleme iş parçacığı",
+    "upload_thread-tips": "1 <= iş parçacığı <= 32"
+  },
+  "ILanZou": {
+    "ip": "IP",
+    "password": "Parola",
+    "root_folder_id": "Kök klasör kimliği",
+    "username": "Kullanıcı adı"
+  },
+  "IPFS API": {
+    "endpoint": "Uç nokta",
+    "gateway": "Ağ geçidi",
+    "mode": "Mod",
+    "modes": {
+      "ipfs": "IPFS",
+      "ipns": "IPNS",
+      "mfs": "MFS"
+    },
+    "root_folder_path": "Kök klasör yolu"
+  },
+  "KodBox": {
+    "address": "Adres",
+    "password": "Parola",
+    "root_folder_path": "Kök klasör yolu",
+    "username": "Kullanıcı adı"
+  },
+  "Lanzou": {
+    "account": "Hesap",
+    "baseUrl": "Temel URL",
+    "baseUrl-tips": "Dosya işlemleri için temel URL",
+    "cookie": "Çerez",
+    "cookie-tips": "Yaklaşık 15 gün geçerlidir; shareUrl kullanılıyorsa dikkate almayın",
+    "password": "Parola",
+    "repair_file_info": "Dosya bilgilerini onar",
+    "repair_file_info-tips": "WebDAV kullanmak için bu özelliği etkinleştirmeniz gerekir",
+    "root_folder_id": "Kök klasör kimliği",
+    "shareUrl": "Paylaşım URL'si",
+    "shareUrl-tips": "Paylaşım sayfasını almak için kullanılır",
+    "share_password": "Paylaşım parolası",
+    "type": "Tür",
+    "types": {
+      "account": "Hesap",
+      "cookie": "Çerez",
+      "url": "URL"
+    },
+    "user_agent": "Kullanıcı aracısı"
+  },
+  "LenovoNasShare": {
+    "host": "Ana makine",
+    "host-tips": "Yerel alan ağınızla değiştirebilirsiniz",
+    "root_folder_path": "Kök klasör yolu",
+    "share_id": "Paylaşım kimliği",
+    "share_id-tips": "Paylaşılan bağlantıdaki son / işaretinden sonraki bölüm",
+    "share_pwd": "Paylaşım parolası",
+    "share_pwd-tips": "Paylaşılan bağlantının parolası",
+    "show_root_folder": "Kök klasörü göster"
+  },
+  "Local": {
+    "directory_size": "Dizin boyutu",
+    "directory_size-tips": "Bu, ana makinenin performansını etkileyebilir",
+    "mkdir_perm": "Dizin oluşturma izinleri",
+    "pdf_thumbnail": "PDF küçük resmi",
+    "pdf_thumbnail-tips": "macOS'ta Quick Look kullanarak PDF'nin ilk sayfasının küçük resimlerini oluştur",
+    "recycle_bin_path": "Geri dönüşüm kutusu yolu",
+    "recycle_bin_path-tips": "geri dönüşüm kutusu yolu; boşsa veya 'kalıcı olarak sil' ise dosyalar kalıcı olarak silinir",
+    "root_folder_path": "Kök klasör yolu",
+    "show_hidden": "Gizlileri göster",
+    "show_hidden-tips": "Gizli dizinleri ve dosyaları göster",
+    "thumb_cache_folder": "Küçük resim önbellek klasörü",
+    "thumb_concurrency": "Küçük resim eşzamanlılığı",
+    "thumb_concurrency-tips": "Küçük resim oluşturma goroutine'lerinin eşzamanlı sayısı. Paralel olarak kaç küçük resim oluşturulabileceğini belirler.",
+    "thumbnail": "Küçük resim",
+    "thumbnail-tips": "Küçük resimleri etkinleştir",
+    "video_thumb_pos": "Video küçük resmi konumu",
+    "video_thumb_pos-tips": "Video küçük resminin konumu. Değer sayıysa (tam sayı veya ondalıklı sayı) saniye cinsinden zamanı belirtir. Değer '%' ile bitiyorsa video süresinin yüzdesini belirtir."
+  },
+  "MediaFire": {
+    "chunk_size": "Parça boyutu",
+    "cookie": "Çerez",
+    "cookie-tips": "MediaFire API kimlik doğrulaması için gereklidir",
+    "limit_rate": "İstek sınırı",
+    "limit_rate-tips": "Tüm API isteklerinin hızını sınırla ([limit] istek/1 sn)",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "name": "Ad",
+      "size": "Boyut",
+      "time": "Zaman"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "root_folder_path": "Kök klasör yolu",
+    "session_token": "Oturum belirteci",
+    "session_token-tips": "MediaFire API için isteğe bağlıdır; çerezden otomatik alınabilir",
+    "upload_threads": "Yükleme iş parçacıkları",
+    "upload_threads-tips": "Eşzamanlı yükleme iş parçacıkları"
+  },
+  "MediaTrack": {
+    "access_token": "Erişim belirteci",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "size": "Boyut",
+      "title": "Başlık",
+      "updated_at": "Güncellenme tarihi"
+    },
+    "order_desc": "Azalan sırada sırala",
+    "project_id": "Proje kimliği",
+    "root_folder_id": "Kök klasör kimliği"
+  },
+  "Mega_nz": {
+    "email": "E-posta",
+    "move_to_trash": "Çöp kutusuna taşı",
+    "move_to_trash-tips": "Dosyaları silerken çöp kutusuna taşı",
+    "password": "Parola",
+    "two_fa_code": "İki aşamalı doğrulama kodu",
+    "two_fa_code-tips": "6 haneli 2FA kodu. Yalnızca 2FA kodunu girmeniz sürücünün yeniden yüklenmesini desteklemez",
+    "two_fa_secret": "İki aşamalı doğrulama gizli anahtarı",
+    "two_fa_secret-tips": "2FA gizli anahtarı"
+  },
+  "Misskey": {
+    "access_token": "Erişim belirteci",
+    "endpoint": "Uç nokta",
+    "root_folder_path": "Kök klasör yolu"
+  },
+  "MoPan": {
+    "cloud_id": "Bulut kimliği",
+    "device_info": "Cihaz bilgisi",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "filename": "Dosya adı",
+      "filesize": "Dosya boyutu",
+      "lastOpTime": "Son işlem zamanı"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "password": "Parola",
+    "phone": "Telefon",
+    "root_folder_id": "Kök klasör kimliği",
+    "sms_code": "SMS kodu",
+    "sms_code-tips": "'send' yazarak SMS gönderin ",
+    "upload_thread": "Yükleme iş parçacığı",
+    "upload_thread-tips": "1<=iş parçacığı<=32"
+  },
+  "NeteaseMusic": {
+    "cookie": "Çerez",
+    "song_limit": "Şarkı sınırı",
+    "song_limit-tips": "Varsayılan olarak yalnızca 200 şarkı alınır"
+  },
+  "Onedrive": {
+    "api_url_address": "API URL adresi",
+    "chunk_size": "Parça boyutu",
+    "client_id": "İstemci kimliği",
+    "client_secret": "İstemci gizli anahtarı",
+    "custom_host": "Özel ana makine",
+    "custom_host-tips": "OneDrive indirme bağlantısı için özel ana makine",
+    "disable_disk_usage": "Disk kullanımını devre dışı bırak",
+    "enable_direct_upload": "Doğrudan yüklemeyi etkinleştir",
+    "enable_direct_upload-tips": "İstemciden OneDrive'a doğrudan yüklemeyi etkinleştir",
+    "is_sharepoint": "SharePoint mi",
+    "redirect_uri": "Yönlendirme URI'si",
+    "refresh_token": "Yenileme belirteci",
+    "region": "Bölge",
+    "regions": {
+      "cn": "Çin",
+      "de": "Almanya",
+      "global": "Küresel",
+      "us": "ABD"
+    },
+    "root_folder_path": "Kök klasör yolu",
+    "site_id": "Site kimliği",
+    "use_online_api": "Çevrimiçi API kullan"
+  },
+  "Onedrive Sharelink": {
+    "disable_disk_usage": "Disk kullanımını devre dışı bırak",
+    "enable_direct_upload": "Doğrudan yüklemeyi etkinleştir",
+    "enable_direct_upload-tips": "OpenList üzerinden geçmeden doğrudan OneDrive'a yüklemeye izin ver",
+    "password": "Parola",
+    "root_folder_path": "Kök klasör yolu",
+    "url": "URL"
+  },
+  "OnedriveAPP": {
+    "chunk_size": "Parça boyutu",
+    "client_id": "İstemci kimliği",
+    "client_secret": "İstemci gizli anahtarı",
+    "custom_host": "Özel ana makine",
+    "custom_host-tips": "OneDrive indirme bağlantısı için özel ana makine",
+    "disable_disk_usage": "Disk kullanımını devre dışı bırak",
+    "email": "E-posta",
+    "enable_direct_upload": "Doğrudan yüklemeyi etkinleştir",
+    "enable_direct_upload-tips": "İstemciden OneDrive'a doğrudan yüklemeyi etkinleştir",
+    "region": "Bölge",
+    "regions": {
+      "cn": "Çin",
+      "de": "Almanya",
+      "global": "Küresel",
+      "us": "ABD"
+    },
+    "root_folder_path": "Kök klasör yolu",
+    "tenant_id": "Kiracı kimliği"
+  },
+  "OpenList": {
+    "forward_archive_requests": "Arşiv isteklerini ilet",
+    "meta_password": "Meta parolası",
+    "pass_ip_to_upsteam": "IP'yi üst sunucuya ilet",
+    "pass_refresh_flag_to_upsteam": "Yenileme işaretini üst sunucuya ilet",
+    "pass_ua_to_upsteam": "Kullanıcı aracısını üst sunucuya ilet",
+    "password": "Parola",
+    "root_folder_path": "Kök klasör yolu",
+    "token": "Belirteç",
+    "url": "URL",
+    "username": "Kullanıcı adı"
+  },
+  "OpenListShare": {
+    "forward_archive_requests": "Arşiv isteklerini ilet",
+    "pwd": "Parola",
+    "root_folder_path": "Kök klasör yolu",
+    "sid": "Paylaşım kimliği",
+    "url": "URL"
+  },
+  "PikPak": {
+    "captcha_token": "Captcha belirteci",
+    "device_id": "Cihaz kimliği",
+    "disable_media_link": "Medya bağlantısını devre dışı bırak",
+    "password": "Parola",
+    "platform": "Platform",
+    "platforms": {
+      "android": "Android",
+      "pc": "PC",
+      "web": "Web"
+    },
+    "refresh_token": "Yenileme belirteci",
+    "root_folder_id": "Kök klasör kimliği",
+    "skip_verification": "Doğrulamayı atla",
+    "skip_verification-tips": "Hata vermek yerine captcha API'sinin döndürdüğü insan doğrulama URL'sini yoksayar; bu seçeneği etkinleştirmek PikPak risk denetimini tetikleyebilir",
+    "username": "Kullanıcı adı"
+  },
+  "PikPakShare": {
+    "device_id": "Cihaz kimliği",
+    "platform": "Platform",
+    "platforms": {
+      "android": "Android",
+      "pc": "PC",
+      "web": "Web"
+    },
+    "root_folder_id": "Kök klasör kimliği",
+    "share_id": "Paylaşım kimliği",
+    "share_pwd": "Paylaşım parolası",
+    "use_transcoding_address": "Dönüştürme adresini kullan"
+  },
+  "ProtonDrive": {
+    "chunk_size": "Parça boyutu",
+    "email": "E-posta",
+    "password": "Parola",
+    "root_folder_id": "Kök klasör kimliği",
+    "two_fa_code": "İki aşamalı doğrulama kodu",
+    "use_reusable_login": "Yeniden kullanılabilir oturum açmayı kullan",
+    "use_reusable_login-tips": "Kullanıcı adı/parola yerine yeniden kullanılabilir oturum açma bilgilerini kullan"
+  },
+  "Quark": {
+    "cookie": "Çerez",
+    "only_list_video_file": "Yalnızca video dosyalarını listele",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "file_name": "Dosya adı",
+      "file_type": "Dosya türü",
+      "none": "Yok",
+      "updated_at": "Güncellenme tarihi"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "root_folder_id": "Kök klasör kimliği",
+    "use_transcoding_address": "Dönüştürme adresini kullan",
+    "use_transcoding_address-tips": "Dönüştürülmüş videoyu izleyebilir ve 302 yönlendirmesini destekleyebilirsiniz"
+  },
+  "QuarkOpen": {
+    "access_token": "Erişim belirteci",
+    "api_url_address": "API URL adresi",
+    "app_id": "Uygulama kimliği",
+    "app_id-tips": "Yoksa boş bırakın",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "created_at": "Oluşturulma tarihi",
+      "file_name": "Dosya adı",
+      "file_type": "Dosya türü",
+      "none": "Yok",
+      "updated_at": "Güncellenme tarihi"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "refresh_token": "Yenileme belirteci",
+    "root_folder_id": "Kök klasör kimliği",
+    "sign_key": "İmza anahtarı",
+    "sign_key-tips": "Yoksa boş bırakın",
+    "use_online_api": "Çevrimiçi API kullan"
+  },
+  "QuarkTV": {
+    "device_id": "Cihaz kimliği",
+    "link_method": "Bağlantı yöntemi",
+    "link_methods": {
+      "download": "İndir",
+      "streaming": "Akış"
+    },
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "file_name": "Dosya adı",
+      "updated_at": "Güncellenme tarihi"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "query_token": "Sorgu belirteci",
+    "query_token-tips": "'düzenlemeyin'",
+    "refresh_token": "Yenileme belirteci",
+    "root_folder_id": "Kök klasör kimliği"
+  },
+  "S3": {
+    "access_key_id": "Erişim anahtarı kimliği",
+    "add_filename_to_disposition": "Dosya adını Content-Disposition'a ekle",
+    "add_filename_to_disposition-tips": "Content-Disposition başlığına dosya adını ekle.",
+    "bucket": "Kova",
+    "custom_host": "Özel ana makine",
+    "direct_upload_host": "Doğrudan yükleme ana makinesi",
+    "enable_custom_host_presign": "Özel ana makine için ön imzalamayı etkinleştir",
+    "enable_direct_upload": "Doğrudan yüklemeyi etkinleştir",
+    "endpoint": "Uç nokta",
+    "force_path_style": "Yol biçimini zorla",
+    "list_object_version": "Nesne sürümlerini listele",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "Yer tutucu",
+    "region": "Bölge",
+    "remove_bucket": "Kovayı kaldır",
+    "remove_bucket-tips": "Özel ana makine kullanılırken kova adını yoldan kaldır.",
+    "root_folder_path": "Kök klasör yolu",
+    "secret_access_key": "Gizli erişim anahtarı",
+    "session_token": "Oturum belirteci",
+    "sign_url_expire": "İmzalı URL'nin geçerlilik süresi",
+    "user_agent": "Kullanıcı aracısı",
+    "user_agent-tips": "S3 istekleri için özel User-Agent."
+  },
+  "SFTP": {
+    "address": "Adres",
+    "ignore_symlink_error": "Sembolik bağlantı hatalarını yoksay",
+    "passphrase": "Parola ifadesi",
+    "password": "Parola",
+    "private_key": "Özel anahtar",
+    "root_folder_path": "Kök klasör yolu",
+    "username": "Kullanıcı adı"
+  },
+  "SMB": {
+    "address": "Adres",
+    "password": "Parola",
+    "root_folder_path": "Kök klasör yolu",
+    "share_name": "Paylaşım adı",
+    "username": "Kullanıcı adı"
+  },
+  "Seafile": {
+    "address": "Adres",
+    "password": "Parola",
+    "repoId": "Depo kimliği",
+    "repoPwd": "Depo parolası",
+    "root_folder_path": "Kök klasör yolu",
+    "token": "Belirteç",
+    "username": "Kullanıcı adı"
+  },
+  "Strm": {
+    "KeepLocalDownloadFile": "Yerel indirme dosyalarını sakla",
+    "KeepLocalDownloadFile-tips": "Yerel indirme dosyalarını sakla",
+    "PathPrefix": "Yol öneki",
+    "PathPrefix-tips": "Yol öneki",
+    "SaveLocalMode": "Yerel kaydetme modu",
+    "SaveLocalMode-tips": "STRM dosyasını yerel olarak kaydetme modu",
+    "SaveLocalModes": {
+      "insert": "Ekle",
+      "sync": "Eşitle",
+      "update": "Güncelle"
+    },
+    "SaveStrmLocalPath": "SaveStrmLocalPath",
+    "SaveStrmLocalPath-tips": "STRM dosyasının kaydedileceği yerel yol",
+    "SaveStrmToLocal": "SaveStrmToLocal",
+    "SaveStrmToLocal-tips": "STRM dosyasını yerel olarak kaydet",
+    "downloadFileTypes": "İndirilecek dosya türleri",
+    "downloadFileTypes-tips": "STRM ile birlikte indirilmesi gereken dosyalar (genellikle altyazılar)",
+    "encodePath": "Yolu kodla",
+    "encodePath-tips": "STRM dosyasındaki yolu kodla",
+    "filterFileTypes": "Dosya türü filtreleri",
+    "filterFileTypes-tips": "STRM dosyalarının uzantılarını destekler",
+    "minFileSize": "En küçük dosya boyutu",
+    "minFileSize-tips": "Bu boyuttan küçük dosyaları filtrele (birim: MB, devre dışı bırakmak için 0)",
+    "paths": "Yollar",
+    "siteUrl": "Site URL'si",
+    "siteUrl-tips": "STRM dosyasının URL öneki",
+    "withSign": "İmzalı",
+    "withoutUrl": "URL'siz",
+    "withoutUrl-tips": "URL öneki olmayan STRM dosyası içeriği"
+  },
+  "Teambition": {
+    "cookie": "Çerez",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "created": "Oluşturulma tarihi",
+      "fileName": "Dosya adı",
+      "fileSize": "Dosya boyutu",
+      "updated": "Güncellenme tarihi"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "Asc": "Artan",
+      "Desc": "Azalan"
+    },
+    "project_id": "Proje kimliği",
+    "region": "Bölge",
+    "regions": {
+      "china": "Çin",
+      "international": "Uluslararası"
+    },
+    "root_folder_id": "Kök klasör kimliği",
+    "use_s3_upload_method": "S3 yükleme yöntemini kullan"
+  },
+  "Teldrive": {
+    "chunk_size": "Parça boyutu",
+    "chunk_size-tips": "MiB cinsinden parça boyutu",
+    "cookie": "Çerez",
+    "cookie-tips": "access_token=xxx",
+    "random_chunk_name": "Rastgele parça adı",
+    "random_chunk_name-tips": "Rastgele parça adı",
+    "root_folder_path": "Kök klasör yolu",
+    "upload_concurrency": "Yükleme eşzamanlılığı",
+    "upload_concurrency-tips": "Eşzamanlı yükleme istekleri",
+    "url": "URL",
+    "use_share_link": "Paylaşım bağlantısını kullan",
+    "use_share_link-tips": "302 yönlendirmesini desteklemek için bağlantı alınırken paylaşım bağlantısı oluşturulur. Devre dışıysa web proxy'sini etkinleştirmeniz gerekir."
+  },
+  "Terabox": {
+    "cookie": "Çerez",
+    "download_api": "İndirme API'si",
+    "download_apis": {
+      "crack": "Crack",
+      "official": "Resmî"
+    },
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "name": "Ad",
+      "size": "Boyut",
+      "time": "Zaman"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "root_folder_path": "Kök klasör yolu"
+  },
+  "Thunder": {
+    "captcha_token": "Captcha belirteci",
+    "credit_key": "Kredi anahtarı",
+    "credit_key-tips": "oturum açmak için kullanılan kredi anahtarı",
+    "device_id": "Cihaz kimliği",
+    "password": "Parola",
+    "root_folder_id": "Kök klasör kimliği",
+    "space": "Alan",
+    "space-tips": "Uzak cihazın cihaz kimliği",
+    "username": "Kullanıcı adı"
+  },
+  "ThunderBrowser": {
+    "captcha_token": "Captcha belirteci",
+    "credit_key": "Kredi anahtarı",
+    "credit_key-tips": "oturum açmak için kullanılan kredi anahtarı",
+    "device_id": "Cihaz kimliği",
+    "password": "Parola",
+    "remove_way": "Kaldırma yöntemi",
+    "remove_ways": {
+      "delete": "Sil",
+      "trash": "Çöp kutusu"
+    },
+    "root_folder_id": "Kök klasör kimliği",
+    "safe_password": "Güvenli parola",
+    "use_fluent_play": "Fluent Play kullan",
+    "use_fluent_play-tips": "Çevrimdışı indirme için Fluent Play'i kullanın; yalnızca magnet bağlantıları desteklenir",
+    "use_video_url": "Video URL'sini kullan",
+    "username": "Kullanıcı adı"
+  },
+  "ThunderBrowserExpert": {
+    "algorithms": "Algoritmalar",
+    "algorithms-tips": "İmza türü algorithms ise bu alan zorunludur",
+    "captcha_sign": "Captcha imzası",
+    "captcha_sign-tips": "İmza türü captcha_sign ise bu alan zorunludur",
+    "captcha_token": "Captcha belirteci",
+    "client_id": "İstemci kimliği",
+    "client_secret": "İstemci gizli anahtarı",
+    "client_version": "İstemci sürümü",
+    "credit_key": "Kredi anahtarı",
+    "credit_key-tips": "oturum açmak için kullanılan kredi anahtarı",
+    "device_id": "Cihaz kimliği",
+    "download_user_agent": "İndirme kullanıcı aracısı",
+    "login_type": "Oturum açma türü",
+    "login_types": {
+      "refresh_token": "Yenileme belirteci",
+      "user": "Kullanıcı"
+    },
+    "package_name": "Paket adı",
+    "password": "Parola",
+    "password-tips": "Oturum açma türü user ise bu alan zorunludur",
+    "refresh_token": "Yenileme belirteci",
+    "refresh_token-tips": "Oturum açma türü refresh_token ise bu alan zorunludur",
+    "remove_way": "Kaldırma yöntemi",
+    "remove_ways": {
+      "delete": "Sil",
+      "trash": "Çöp kutusu"
+    },
+    "root_folder_id": "Kök klasör kimliği",
+    "safe_password": "Güvenli parola",
+    "safe_password-tips": "Çok güvenli parola",
+    "sign_type": "İmza türü",
+    "sign_types": {
+      "algorithms": "Algoritmalar",
+      "captcha_sign": "Captcha imzası"
+    },
+    "timestamp": "Zaman damgası",
+    "timestamp-tips": "İmza türü captcha_sign ise bu alan zorunludur",
+    "use_fluent_play": "Fluent Play kullan",
+    "use_fluent_play-tips": "Çevrimdışı indirme için Fluent Play'i kullanın; yalnızca magnet bağlantıları desteklenir",
+    "use_video_url": "Video URL'sini kullan",
+    "user_agent": "Kullanıcı aracısı",
+    "username": "Kullanıcı adı",
+    "username-tips": "Oturum açma türü user ise bu alan zorunludur"
+  },
+  "ThunderExpert": {
+    "algorithms": "Algoritmalar",
+    "algorithms-tips": "İmza türü algorithms ise bu alan zorunludur",
+    "captcha_sign": "Captcha imzası",
+    "captcha_sign-tips": "İmza türü captcha_sign ise bu alan zorunludur",
+    "captcha_token": "Captcha belirteci",
+    "client_id": "İstemci kimliği",
+    "client_secret": "İstemci gizli anahtarı",
+    "client_version": "İstemci sürümü",
+    "credit_key": "Kredi anahtarı",
+    "credit_key-tips": "oturum açmak için kullanılan kredi anahtarı",
+    "device_id": "Cihaz kimliği",
+    "download_user_agent": "İndirme kullanıcı aracısı",
+    "login_type": "Oturum açma türü",
+    "login_types": {
+      "refresh_token": "Yenileme belirteci",
+      "user": "Kullanıcı"
+    },
+    "package_name": "Paket adı",
+    "password": "Parola",
+    "password-tips": "Oturum açma türü user ise bu alan zorunludur",
+    "refresh_token": "Yenileme belirteci",
+    "refresh_token-tips": "Oturum açma türü refresh_token ise bu alan zorunludur",
+    "root_folder_id": "Kök klasör kimliği",
+    "sign_type": "İmza türü",
+    "sign_types": {
+      "algorithms": "Algoritmalar",
+      "captcha_sign": "Captcha imzası"
+    },
+    "space": "Alan",
+    "space-tips": "Uzak cihazın cihaz kimliği",
+    "timestamp": "Zaman damgası",
+    "timestamp-tips": "İmza türü captcha_sign ise bu alan zorunludur",
+    "use_video_url": "Video URL'sini kullan",
+    "user_agent": "Kullanıcı aracısı",
+    "username": "Kullanıcı adı",
+    "username-tips": "Oturum açma türü user ise bu alan zorunludur"
+  },
+  "ThunderX": {
+    "captcha_token": "Captcha belirteci",
+    "password": "Parola",
+    "root_folder_id": "Kök klasör kimliği",
+    "use_video_url": "Video URL'sini kullan",
+    "username": "Kullanıcı adı"
+  },
+  "ThunderXExpert": {
+    "algorithms": "Algoritmalar",
+    "algorithms-tips": "İmza türü algorithms ise bu alan zorunludur",
+    "captcha_sign": "Captcha imzası",
+    "captcha_sign-tips": "İmza türü captcha_sign ise bu alan zorunludur",
+    "captcha_token": "Captcha belirteci",
+    "client_id": "İstemci kimliği",
+    "client_secret": "İstemci gizli anahtarı",
+    "client_version": "İstemci sürümü",
+    "device_id": "Cihaz kimliği",
+    "download_user_agent": "İndirme kullanıcı aracısı",
+    "login_type": "Oturum açma türü",
+    "login_types": {
+      "refresh_token": "Yenileme belirteci",
+      "user": "Kullanıcı"
+    },
+    "package_name": "Paket adı",
+    "password": "Parola",
+    "password-tips": "Oturum açma türü user ise bu alan zorunludur",
+    "refresh_token": "Yenileme belirteci",
+    "refresh_token-tips": "Oturum açma türü refresh_token ise bu alan zorunludur",
+    "root_folder_id": "Kök klasör kimliği",
+    "sign_type": "İmza türü",
+    "sign_types": {
+      "algorithms": "Algoritmalar",
+      "captcha_sign": "Captcha imzası"
+    },
+    "timestamp": "Zaman damgası",
+    "timestamp-tips": "İmza türü captcha_sign ise bu alan zorunludur",
+    "use_video_url": "Video URL'sini kullan",
+    "user_agent": "Kullanıcı aracısı",
+    "username": "Kullanıcı adı",
+    "username-tips": "Oturum açma türü user ise bu alan zorunludur"
+  },
+  "UC": {
+    "cookie": "Çerez",
+    "only_list_video_file": "Yalnızca video dosyalarını listele",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "file_name": "Dosya adı",
+      "file_type": "Dosya türü",
+      "none": "Yok",
+      "updated_at": "Güncellenme tarihi"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "root_folder_id": "Kök klasör kimliği",
+    "use_transcoding_address": "Dönüştürme adresini kullan",
+    "use_transcoding_address-tips": "Dönüştürülmüş videoyu izleyebilir ve 302 yönlendirmesini destekleyebilirsiniz"
+  },
+  "UCTV": {
+    "device_id": "Cihaz kimliği",
+    "link_method": "Bağlantı yöntemi",
+    "link_methods": {
+      "download": "İndir",
+      "streaming": "Akış"
+    },
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "file_name": "Dosya adı",
+      "updated_at": "Güncellenme tarihi"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "query_token": "Sorgu belirteci",
+    "query_token-tips": "'düzenlemeyin'",
+    "refresh_token": "Yenileme belirteci",
+    "root_folder_id": "Kök klasör kimliği"
+  },
+  "USS": {
+    "anti_theft_chain_token": "Hotlink koruması belirteci",
+    "bucket": "Kova",
+    "endpoint": "Uç nokta",
+    "operator_name": "Operatör adı",
+    "operator_password": "Operatör parolası",
+    "root_folder_path": "Kök klasör yolu",
+    "sign_url_expire": "İmzalı URL'nin geçerlilik süresi"
+  },
+  "UrlTree": {
+    "head_size": "Başlık boyutu",
+    "head_size-tips": "Dosya boyutunu almak için HEAD yöntemi kullanılır ancak başarısız olabilir.",
+    "url_structure": "URL yapısı",
+    "url_structure-tips": "biçim:KlasörAdı:\n  [DosyaAdı:][DosyaBoyutu:][Değiştirilme:]URL",
+    "writable": "Yazılabilir"
+  },
+  "Virtual": {
+    "max_file_size": "En büyük dosya boyutu",
+    "min_file_size": "En küçük dosya boyutu",
+    "num_file": "Dosya sayısı",
+    "num_folder": "Klasör sayısı",
+    "root_folder_path": "Kök klasör yolu"
+  },
+  "WPS": {
+    "cookie": "Çerez",
+    "custom_ua": "Özel kullanıcı aracısı",
+    "mode": "Mod",
+    "modes": {
+      "Business": "İşletme",
+      "Personal": "Kişisel"
+    },
+    "root_folder_path": "Kök klasör yolu"
+  },
+  "WebDav": {
+    "address": "Adres",
+    "password": "Parola",
+    "root_folder_path": "Kök klasör yolu",
+    "tls_insecure_skip_verify": "TLS sertifika doğrulamasını devre dışı bırak",
+    "username": "Kullanıcı adı",
+    "vendor": "Sağlayıcı",
+    "vendors": {
+      "other": "Diğer",
+      "sharepoint": "SharePoint"
+    }
+  },
+  "WeiYun": {
+    "cookies": "Çerezler",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "name": "Ad",
+      "size": "Boyut",
+      "updated_at": "Güncellenme tarihi"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "root_folder_id": "Kök klasör kimliği",
+    "upload_thread": "Yükleme iş parçacığı",
+    "upload_thread-tips": "4<=iş parçacığı<=32"
+  },
+  "WoPan": {
+    "access_token": "Erişim belirteci",
+    "access_token-tips": "Yenileme belirteci sağlandığında isteğe bağlıdır; eksik veya çok kısa olduğunda otomatik olarak yenilenir",
+    "family_id": "Aile kimliği",
+    "family_id-tips": "Kişisel sürücünüzü kullanmak istiyorsanız boş bırakın",
+    "refresh_token": "Yenileme belirteci",
+    "refresh_token-tips": "Bir yenileme belirteci veya bir erişim belirteci sağlayın (en az 16 karakter)",
+    "root_folder_id": "Kök klasör kimliği",
+    "sort_rule": "Sıralama kuralı",
+    "sort_rules": {
+      "name_asc": "Ad artan",
+      "name_desc": "Ad azalan",
+      "size_asc": "Boyut artan",
+      "size_desc": "Boyut azalan",
+      "time_asc": "Zaman artan",
+      "time_desc": "Zaman azalan"
+    }
+  },
+  "YandexDisk": {
+    "api_url_address": "API URL adresi",
+    "client_id": "İstemci kimliği",
+    "client_secret": "İstemci gizli anahtarı",
+    "order_by": "Sıralama ölçütü",
+    "order_bys": {
+      "created": "Oluşturulma tarihi",
+      "modified": "Değiştirilme tarihi",
+      "name": "Ad",
+      "path": "Yol",
+      "size": "Boyut"
+    },
+    "order_direction": "Sıralama yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "refresh_token": "Yenileme belirteci",
+    "root_folder_path": "Kök klasör yolu",
+    "use_online_api": "Çevrimiçi API kullan"
+  },
+  "cloudflare_imgbed": {
+    "address": "Adres",
+    "address-tips": "Görsel barındırma hizmetinin arka uç API adresi; ör. https://img.example.com",
+    "largeChannelName": "Büyük dosya kanalı adı",
+    "largeChannelName-tips": "Büyük dosyalar için kanal adı",
+    "largeChannelType": "Büyük dosya kanal türü",
+    "largeChannelType-tips": "Büyük dosya kanal türü: Hugging Face (doğrudan yükleme), telegram/cfr2/s3/discord (çok parçalı yükleme)",
+    "largeChannelTypes": {
+      "": "",
+      "cfr2": "Cfr2",
+      "discord": "Discord",
+      "huggingface": "Hugging Face",
+      "s3": "S3",
+      "telegram": "Telegram"
+    },
+    "root_folder_path": "Kök klasör yolu",
+    "smallChannelName": "Küçük dosya kanalı adı",
+    "smallChannelName-tips": "Normal dosyalar için kanal adı (genellikle <20 MB)",
+    "token": "Belirteç",
+    "token-tips": "Kimlik doğrulama belirteci",
+    "uploadThread": "Yükleme iş parçacığı",
+    "uploadThread-tips": "Hugging Face parçalı doğrudan yüklemesi için eşzamanlı iş parçacığı sayısı"
+  },
+  "config": {
+    "115 Cloud": {},
+    "115 Open": {},
+    "115 Share": {},
+    "123 Open": {},
+    "123Pan": {},
+    "123PanLink": {},
+    "123PanShare": {},
+    "139Yun": {},
+    "189Cloud": {
+      "alert": "Bu sürücü çalışmazsa 189PC sürücüsünü kullanmayı deneyebilirsiniz."
+    },
+    "189CloudPC": {},
+    "189CloudTV": {},
+    "AList V3": {},
+    "AliDoc": {
+      "alert": "Bu sürücü, DingTalk Docs üzerinden DingDrive'a erişimi destekler ve şu anda yalnızca okunabilir."
+    },
+    "Alias": {},
+    "Aliyundrive": {
+      "alert": "Bu sürücüde sonsuz döngü hatası olabilir.\nKullanımdan kaldırılmıştır, artık bakımı yapılmamaktadır ve gelecekteki bir sürümde kaldırılacaktır.\nResmî AliyundriveOpen sürücüsünü kullanmanızı öneririz."
+    },
+    "AliyundriveOpen": {},
+    "AliyundriveShare": {},
+    "AutoIndex": {},
+    "Azure Blob Storage": {},
+    "BaiduNetdisk": {},
+    "BaiduPhoto": {},
+    "Bunny Storage": {},
+    "CNB Releases": {},
+    "ChaoXingGroupDrive": {},
+    "Chunk": {},
+    "Cloudreve": {},
+    "Cloudreve V4": {},
+    "Crypt": {},
+    "Degoo": {},
+    "Doge": {},
+    "Doubao": {},
+    "DoubaoNew": {
+      "alert": "Depolama herkese açık erişilebiliyorsa 302 yönlendirmesini kullanmayın.\nAksi hâlde indirme bağlantısı erişim belirteci veya imza gibi hassas bilgileri açığa çıkarabilir.\nBaşkaları sızan bağlantıyı tüm dosyalarınıza erişmek için kullanabilir."
+    },
+    "DoubaoShare": {},
+    "Dropbox": {},
+    "Emby": {},
+    "FTP": {},
+    "FebBox": {},
+    "FeijiPan": {},
+    "GitHub API": {},
+    "GitHub Releases": {},
+    "GoogleDrive": {},
+    "GooglePhoto": {},
+    "GuangYaPan": {
+      "alert": "İki aşamalı SMS ile oturum açma: (1) phone_number değerini (gerekirse captcha_token ile) girin, send_code=true yapıp kaydedin; (2) verify_code değerini girip oturum açmayı tamamlamak ve access_token/refresh_token değerlerini otomatik kaydetmek için kaydedin."
+    },
+    "HalalCloud": {},
+    "HalalCloudOpen": {},
+    "ILanZou": {},
+    "IPFS API": {},
+    "KodBox": {},
+    "Lanzou": {},
+    "LenovoNasShare": {},
+    "Local": {},
+    "MediaFire": {},
+    "MediaTrack": {},
+    "Mega_nz": {},
+    "Misskey": {},
+    "MoPan": {
+      "alert": "Bu bulut sürücüsü parolanızı düz metin olarak saklayabilir. Lütfen parolanızı dikkatlice belirleyin"
+    },
+    "NeteaseMusic": {},
+    "Onedrive": {},
+    "Onedrive Sharelink": {},
+    "OnedriveAPP": {},
+    "OpenList": {},
+    "OpenListShare": {},
+    "PikPak": {},
+    "PikPakShare": {},
+    "ProtonDrive": {},
+    "Quark": {},
+    "QuarkOpen": {},
+    "QuarkTV": {},
+    "S3": {},
+    "SFTP": {},
+    "SMB": {},
+    "Seafile": {},
+    "Strm": {},
+    "Teambition": {},
+    "Teldrive": {},
+    "Terabox": {},
+    "Thunder": {},
+    "ThunderBrowser": {},
+    "ThunderBrowserExpert": {},
+    "ThunderExpert": {},
+    "ThunderX": {},
+    "ThunderXExpert": {},
+    "UC": {},
+    "UCTV": {},
+    "USS": {},
+    "UrlTree": {},
+    "Virtual": {},
+    "WPS": {},
+    "WebDav": {},
+    "WeiYun": {},
+    "WoPan": {},
+    "YandexDisk": {},
+    "cloudflare_imgbed": {}
+  },
+  "drivers": {
+    "115 Cloud": "115 Cloud",
+    "115 Open": "115 Open",
+    "115 Share": "115 Share",
+    "123 Open": "123 Open",
+    "123Pan": "123Pan",
+    "123PanLink": "123PanLink",
+    "123PanShare": "123PanShare",
+    "139Yun": "139Yun",
+    "189Cloud": "189Cloud",
+    "189CloudPC": "189CloudPC",
+    "189CloudTV": "189CloudTV",
+    "AList V3": "AList V3",
+    "AliDoc": "AliDoc",
+    "Alias": "Alias",
+    "Aliyundrive": "Aliyundrive",
+    "AliyundriveOpen": "AliyundriveOpen",
+    "AliyundriveShare": "AliyundriveShare",
+    "AutoIndex": "AutoIndex",
+    "Azure Blob Storage": "Azure Blob Storage",
+    "BaiduNetdisk": "BaiduNetdisk",
+    "BaiduPhoto": "BaiduPhoto",
+    "Bunny Storage": "Bunny Storage",
+    "CNB Releases": "CNB Releases",
+    "ChaoXingGroupDrive": "ChaoXingGroupDrive",
+    "Chunk": "Chunk",
+    "Cloudreve": "Cloudreve",
+    "Cloudreve V4": "Cloudreve V4",
+    "Crypt": "Crypt",
+    "Degoo": "Degoo",
+    "Doge": "Doge",
+    "Doubao": "Doubao",
+    "DoubaoNew": "DoubaoNew",
+    "DoubaoShare": "DoubaoShare",
+    "Dropbox": "Dropbox",
+    "Emby": "Emby",
+    "FTP": "FTP",
+    "FebBox": "FebBox",
+    "FeijiPan": "FeijiPan",
+    "GitHub API": "GitHub API",
+    "GitHub Releases": "GitHub Releases",
+    "GoogleDrive": "GoogleDrive",
+    "GooglePhoto": "GooglePhoto",
+    "GuangYaPan": "GuangYaPan",
+    "HalalCloud": "HalalCloud",
+    "HalalCloudOpen": "HalalCloudOpen",
+    "ILanZou": "ILanZou",
+    "IPFS API": "IPFS API",
+    "KodBox": "KodBox",
+    "Lanzou": "Lanzou",
+    "LenovoNasShare": "LenovoNasShare",
+    "Local": "Local",
+    "MediaFire": "MediaFire",
+    "MediaTrack": "MediaTrack",
+    "Mega_nz": "Mega nz",
+    "Misskey": "Misskey",
+    "MoPan": "MoPan",
+    "NeteaseMusic": "NeteaseMusic",
+    "Onedrive": "Onedrive",
+    "Onedrive Sharelink": "Onedrive Sharelink",
+    "OnedriveAPP": "OnedriveAPP",
+    "OpenList": "OpenList",
+    "OpenListShare": "OpenListShare",
+    "PikPak": "PikPak",
+    "PikPakShare": "PikPakShare",
+    "ProtonDrive": "ProtonDrive",
+    "Quark": "Quark",
+    "QuarkOpen": "QuarkOpen",
+    "QuarkTV": "QuarkTV",
+    "S3": "S3",
+    "SFTP": "SFTP",
+    "SMB": "SMB",
+    "Seafile": "Seafile",
+    "Strm": "Strm",
+    "Teambition": "Teambition",
+    "Teldrive": "Teldrive",
+    "Terabox": "Terabox",
+    "Thunder": "Thunder",
+    "ThunderBrowser": "ThunderBrowser",
+    "ThunderBrowserExpert": "ThunderBrowserExpert",
+    "ThunderExpert": "ThunderExpert",
+    "ThunderX": "ThunderX",
+    "ThunderXExpert": "ThunderXExpert",
+    "UC": "UC",
+    "UCTV": "UCTV",
+    "USS": "USS",
+    "UrlTree": "UrlTree",
+    "Virtual": "Virtual",
+    "WPS": "WPS",
+    "WebDav": "WebDav",
+    "WeiYun": "WeiYun",
+    "WoPan": "WoPan",
+    "YandexDisk": "YandexDisk",
+    "cloudflare_imgbed": "Cloudflare imgbed"
+  }
+}

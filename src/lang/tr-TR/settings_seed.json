@@ -1,0 +1,23 @@
+{
+  "site_config": "Site yapılandırması",
+  "site_url": "Site URL'si",
+  "site_url_help": "Paylaşım bağlantıları oluşturulurken seed kaynaklarına eklenen herkese açık temel URL. Geçerli istek kaynağını kullanmak için boş bırakın.",
+  "default_matrix": "Varsayılan karma matrisi",
+  "default_matrix_help": "Dosya listesinden seed oluşturulurken önceden seçilen karmalar. Torrent, oluşturma sırasında SHA-1'i; CAS ise MD5'i zorunlu kılar.",
+  "whole": "Dosyanın tamamı",
+  "pieces": "Parçalar",
+  "default_format": "Varsayılan biçim",
+  "default_format_help": "Seed oluşturma iletişim kutusunda önceden seçilen biçim.",
+  "format_policies": "Otomatik biçim ilkeleri",
+  "format_policies_help": "Yan dosyalar olarak otomatik oluşturulan biçimler. Her depolama alanı yine de genel ilkeyi geçersiz kılabilir.",
+  "oss_format": "OSS dosyası (.oss)",
+  "torrent_format": "Torrent dosyası (.torrent)",
+  "cas_format": "CAS dosyası (.cas)",
+  "other_options": "Diğer seçenekler",
+  "auto_generate": "Yükleme sırasında seed'leri otomatik oluştur",
+  "auto_generate_help": "Yukarıdaki biçim ilkelerini kullanarak yükleme sırasında yan dosya seed'leri oluşturun.",
+  "single_direct_preview": "Tek dosyalı seed'ler için doğrudan önizleme",
+  "single_direct_preview_help": "Bir seed tam olarak tek dosya içerdiğinde seed ayrıntıları görünümü yerine içerilen dosyayı doğrudan açın.",
+  "cas_direct_access": "CAS'a doğrudan erişim",
+  "cas_direct_access_help": "Tek dosyalı bir CAS seed'i açarken dosyayı aynı klasöre hızlı yükleyin ve geri yüklenen dosyayı önizleyin."
+}

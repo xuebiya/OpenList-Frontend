@@ -1,0 +1,1804 @@
+{
+  "115 Cloud": {
+    "cookie": "Cookie",
+    "cookie-tips": "Cần có mã thông báo QR hoặc cookie",
+    "limit_rate": "Giới hạn tốc độ",
+    "limit_rate-tips": "Giới hạn tốc độ yêu cầu API ([limit]r/1s)",
+    "page_size": "Kích thước trang",
+    "page_size-tips": "Số mục trên mỗi trang khi liệt kê bằng trình điều khiển 115",
+    "qrcode_source": "Nguồn mã QR",
+    "qrcode_source-tips": "Chọn thiết bị tạo mã QR, mặc định là Linux",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "iOS",
+      "qandroid": "Qandroid",
+      "tv": "TV",
+      "web": "Web",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "Mã thông báo QR",
+    "qrcode_token-tips": "Cần có mã thông báo QR hoặc cookie",
+    "root_folder_id": "ID thư mục gốc"
+  },
+  "115 Open": {
+    "access_token": "Mã thông báo truy cập",
+    "limit_rate": "Giới hạn tốc độ",
+    "limit_rate-tips": "Giới hạn tốc độ yêu cầu API ([limit]r/1s)",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "file_name": "Tên tệp",
+      "file_size": "Kích thước tệp",
+      "file_type": "Loại tệp",
+      "user_utime": "Thời gian cập nhật của người dùng"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "page_size": "Kích thước trang",
+    "page_size-tips": "Số mục trên mỗi trang khi liệt kê bằng trình điều khiển 115 Open",
+    "refresh_token": "Mã thông báo làm mới",
+    "root_folder_id": "ID thư mục gốc"
+  },
+  "115 Share": {
+    "cookie": "Cookie",
+    "cookie-tips": "Cần có mã thông báo QR hoặc cookie",
+    "limit_rate": "Giới hạn tốc độ",
+    "limit_rate-tips": "Giới hạn tốc độ yêu cầu API (1r/[limit_rate]s)",
+    "page_size": "Kích thước trang",
+    "page_size-tips": "Số mục trên mỗi trang khi liệt kê bằng trình điều khiển 115",
+    "qrcode_source": "Nguồn mã QR",
+    "qrcode_source-tips": "Chọn thiết bị tạo mã QR, mặc định là Linux",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "iOS",
+      "qandroid": "Qandroid",
+      "tv": "TV",
+      "web": "Web",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "Mã thông báo QR",
+    "qrcode_token-tips": "Cần có mã thông báo QR hoặc cookie",
+    "receive_code": "Mã nhận",
+    "receive_code-tips": "Mã nhận của liên kết chia sẻ 115",
+    "root_folder_id": "ID thư mục gốc",
+    "share_code": "Mã chia sẻ",
+    "share_code-tips": "Mã chia sẻ của liên kết chia sẻ 115"
+  },
+  "123 Open": {
+    "AccessToken": "Mã thông báo truy cập",
+    "ClientID": "ID ứng dụng khách",
+    "ClientSecret": "Mã bí mật ứng dụng",
+    "DirectLink": "Liên kết trực tiếp",
+    "DirectLink-tips": "Dùng liên kết trực tiếp khi tải tệp xuống",
+    "DirectLinkPrivateKey": "Khóa riêng tư liên kết trực tiếp",
+    "DirectLinkPrivateKey-tips": "Khóa riêng tư cho liên kết trực tiếp nếu bật xác thực URL",
+    "DirectLinkValidDuration": "Thời hạn hiệu lực liên kết trực tiếp",
+    "DirectLinkValidDuration-tips": "phút, nếu bật xác thực URL",
+    "RefreshToken": "Mã thông báo làm mới",
+    "UploadThread": "Luồng tải lên",
+    "UploadThread-tips": "Số luồng tải lên",
+    "api_url_address": "Địa chỉ URL API",
+    "root_folder_id": "ID thư mục gốc",
+    "use_online_api": "Dùng API trực tuyến"
+  },
+  "123Pan": {
+    "UploadThread": "Luồng tải lên",
+    "UploadThread-tips": "Số luồng tải lên",
+    "password": "Mật khẩu",
+    "platform": "Nền tảng",
+    "platform-tips": "Giá trị tiêu đề nền tảng được gửi cùng các yêu cầu API",
+    "root_folder_id": "ID thư mục gốc",
+    "username": "Tên người dùng"
+  },
+  "123PanLink": {
+    "origin_urls": "URL gốc",
+    "origin_urls-tips": "cấu trúc:TênThưMục:\n  [KíchThướcTệp:][ĐãSửaĐổi:]URL",
+    "private_key": "Khóa riêng tư",
+    "uid": "UID",
+    "valid_duration": "Thời hạn hiệu lực",
+    "valid_duration-tips": "phút"
+  },
+  "123PanShare": {
+    "accesstoken": "Mã thông báo truy cập",
+    "root_folder_id": "ID thư mục gốc",
+    "sharekey": "Khóa chia sẻ",
+    "sharepassword": "Mật khẩu chia sẻ"
+  },
+  "139Yun": {
+    "authorization": "Ủy quyền",
+    "authorization-tips": "Có thể dùng riêng Authorization. Nếu để trống, dùng riêng mail_cookies để đăng nhập nhanh hoặc mail_cookies + username + password làm phương án dự phòng đăng nhập đầy đủ.",
+    "client_type": "Loại ứng dụng khách",
+    "client_type-tips": "Loại ứng dụng khách được báo cáo cho API đám mây cá nhân. web (9) cho phép tải lên tệp tối đa 50 GB; pc (13) tăng giới hạn tải lên cho mỗi tệp lên 500 GB.",
+    "client_types": {
+      "pc": "Máy tính",
+      "web": "Web"
+    },
+    "cloud_id": "ID đám mây",
+    "custom_upload_part_size": "Kích thước phần tải lên tùy chỉnh",
+    "custom_upload_part_size-tips": "0 để tự động",
+    "link_id": "ID liên kết",
+    "link_id-tips": "Nhiều mục chia sẻ được phân tách bằng dấu phẩy hoặc dòng mới. Dùng link_id#password cho mục chia sẻ có mật khẩu.",
+    "mail_cookies": "Cookie thư",
+    "mail_cookies-tips": "Cookie từ mail.139.com dùng để xác thực đăng nhập.",
+    "password": "Mật khẩu",
+    "password-tips": "Chỉ bắt buộc khi dùng phương án dự phòng đăng nhập bằng mật khẩu với mail_cookies.",
+    "report_real_size": "Báo cáo kích thước thực",
+    "report_real_size-tips": "Bật để báo cáo kích thước tệp thực trong quá trình tải lên",
+    "root_folder_id": "ID thư mục gốc",
+    "sms_code": "Mã SMS",
+    "sms_code-tips": "Chỉ nhập sau khi OpenList thông báo đã gửi mã xác minh SMS của 139 Mail, rồi lưu lại bộ lưu trữ.",
+    "type": "Loại",
+    "types": {
+      "family": "Gia đình",
+      "group": "Nhóm",
+      "personal": "Cá nhân",
+      "personal_new": "Cá nhân mới",
+      "share": "Chia sẻ"
+    },
+    "use_large_thumbnail": "Dùng hình thu nhỏ lớn",
+    "use_large_thumbnail-tips": "Bật để dùng hình thu nhỏ lớn cho ảnh",
+    "use_old_stream_upload": "Dùng phương thức tải luồng cũ",
+    "use_old_stream_upload-tips": "Bật để dùng phương thức tải luồng cũ (không hỗ trợ tải lên nhanh)",
+    "user_domain_id": "ID miền người dùng",
+    "user_domain_id-tips": "ud_id trong Cookie, nhập để hiển thị mức sử dụng ổ đĩa",
+    "username": "Tên người dùng",
+    "username-tips": "Chỉ bắt buộc khi dùng phương án dự phòng đăng nhập bằng mật khẩu với mail_cookies."
+  },
+  "189Cloud": {
+    "cookie": "Cookie",
+    "cookie-tips": "Nhập cookie nếu cần xác minh CAPTCHA",
+    "password": "Mật khẩu",
+    "root_folder_id": "ID thư mục gốc",
+    "username": "Tên người dùng"
+  },
+  "189CloudPC": {
+    "access_token": "Mã thông báo truy cập",
+    "client_sn": "Số sê-ri ứng dụng khách",
+    "client_sn-tips": "Số sê-ri thiết bị lấy từ ứng dụng khách chính thức; để trống nếu bạn không có",
+    "device_id": "ID thiết bị",
+    "device_id-tips": "Cookie DEVICEID được cấp sau lần xác minh thiết bị thứ hai; hãy giữ lại để không phải xác minh lại",
+    "family_id": "ID gia đình",
+    "family_transfer": "Chuyển gia đình",
+    "generate_torrent": "Tạo torrent",
+    "generate_torrent-tips": "Tạo tệp torrent có phần mở rộng CAS sau khi tải lên",
+    "jg_open_id": "Jg open id",
+    "jg_open_id-tips": "ID thông báo đẩy tùy chọn do ứng dụng khách chính thức báo cáo",
+    "login_type": "Loại đăng nhập",
+    "login_types": {
+      "password": "Mật khẩu",
+      "qrcode": "Mã QR"
+    },
+    "no_use_ocr": "Không dùng OCR",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "filename": "Tên tệp",
+      "filesize": "Kích thước tệp",
+      "lastOpTime": "Thời gian thao tác cuối"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "password": "Mật khẩu",
+    "password-tips": "Không cần thiết nếu đã cung cấp access token hoặc refresh token",
+    "rapid_upload": "Tải lên nhanh",
+    "refresh_token": "Mã thông báo làm mới",
+    "refresh_token-tips": "Để chuyển đổi tài khoản, hãy xóa trường này",
+    "root_folder_id": "ID thư mục gốc",
+    "sms_code": "Mã SMS",
+    "sms_code-tips": "Mã SMS dùng để xác minh thiết bị lần thứ hai. Nhập mã và lưu lại khi được yêu cầu đăng nhập",
+    "type": "Loại",
+    "types": {
+      "family": "Gia đình",
+      "personal": "Cá nhân"
+    },
+    "upload_method": "Phương thức tải lên",
+    "upload_methods": {
+      "old": "Cũ",
+      "rapid": "Nhanh",
+      "stream": "Luồng"
+    },
+    "upload_thread": "Luồng tải lên",
+    "upload_thread-tips": "1<=luồng<=32",
+    "user_finger": "Dấu vân tay người dùng",
+    "user_finger-tips": "Dấu vân tay thiết bị được gửi kèm các yêu cầu đăng nhập; hệ thống sẽ tự tạo và lưu nếu để trống",
+    "username": "Tên người dùng",
+    "username-tips": "Không cần thiết nếu đã cung cấp access token hoặc refresh token",
+    "validate_code": "Mã xác thực"
+  },
+  "189CloudTV": {
+    "access_token": "Mã thông báo truy cập",
+    "family_id": "ID gia đình",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "filename": "Tên tệp",
+      "filesize": "Kích thước tệp",
+      "lastOpTime": "Thời gian thao tác cuối"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "rapid_upload": "Tải lên nhanh",
+    "root_folder_id": "ID thư mục gốc",
+    "type": "Loại",
+    "types": {
+      "family": "Gia đình",
+      "personal": "Cá nhân"
+    },
+    "upload_thread": "Luồng tải lên",
+    "upload_thread-tips": "1<=luồng<=32"
+  },
+  "AList V3": {
+    "forward_archive_requests": "Chuyển tiếp yêu cầu lưu trữ",
+    "meta_password": "Mật khẩu meta",
+    "pass_ip_to_upsteam": "Chuyển tiếp IP đến máy chủ thượng nguồn",
+    "pass_ua_to_upsteam": "Chuyển tiếp UA đến máy chủ thượng nguồn",
+    "password": "Mật khẩu",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "token": "Mã thông báo",
+    "url": "URL",
+    "username": "Tên người dùng"
+  },
+  "AliDoc": {
+    "cookie": "Cookie",
+    "cookie-tips": "Cookie web tài liệu DingTalk",
+    "root_folder_id": "ID thư mục gốc"
+  },
+  "Alias": {
+    "details_pass_through": "Chuyển tiếp thông tin chi tiết",
+    "download_concurrency": "Số luồng tải xuống đồng thời",
+    "download_concurrency-tips": "Cần bật proxy",
+    "download_part_size": "Kích thước phần tải xuống",
+    "download_part_size-tips": "Cần bật proxy. Đơn vị: KB",
+    "file_consistency_check": "Kiểm tra tính nhất quán của tệp",
+    "paths": "Đường dẫn",
+    "provider_pass_through": "Chuyển tiếp nhà cung cấp",
+    "put_conflict_policy": "Chính sách xung đột khi tải lên",
+    "put_conflict_policy-tips": "Cách trình điều khiển xử lý các đường dẫn trùng nhau ở backend khi tải lên, sao chép, di chuyển hoặc giải nén.",
+    "put_conflict_policys": {
+      "all": "Tải lên tất cả đường dẫn xung đột",
+      "all_strict": "Cho phép mọi đường dẫn xung đột",
+      "deterministic": "Cho phép đường dẫn duy nhất",
+      "deterministic_or_all": "Cho phép đường dẫn duy nhất và mọi đường dẫn xung đột",
+      "disabled": "Tắt tải lên",
+      "first": "Tải lên đường dẫn xung đột đầu tiên",
+      "quota": "Cân bằng tải ngẫu nhiên có trọng số dựa trên dung lượng còn trống",
+      "quota_strict": "Cân bằng tải ngẫu nhiên nghiêm ngặt có trọng số dựa trên dung lượng còn trống",
+      "random": "Cân bằng tải ngẫu nhiên"
+    },
+    "read_conflict_policy": "Chính sách xung đột khi đọc",
+    "read_conflict_policys": {
+      "all": "Cân bằng tải theo từng phần",
+      "first": "Lấy tệp tương ứng với đường dẫn xung đột đầu tiên",
+      "random": "Cân bằng tải theo từng tệp"
+    },
+    "write_conflict_policy": "Chính sách xung đột khi ghi",
+    "write_conflict_policy-tips": "Cách trình điều khiển xử lý các đường dẫn trùng nhau ở backend khi đổi tên, xóa hoặc tạo thư mục.",
+    "write_conflict_policys": {
+      "all": "Ghi vào tất cả đường dẫn xung đột",
+      "all_strict": "Cho phép mọi đường dẫn xung đột",
+      "deterministic": "Cho phép đường dẫn duy nhất",
+      "deterministic_or_all": "Cho phép đường dẫn duy nhất và mọi đường dẫn xung đột",
+      "disabled": "Tắt ghi",
+      "first": "Ghi vào đường dẫn xung đột đầu tiên"
+    }
+  },
+  "Aliyundrive": {
+    "internal_upload": "Tải lên nội bộ",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "created_at": "Ngày tạo",
+      "name": "Tên",
+      "size": "Kích thước",
+      "updated_at": "Ngày cập nhật"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "ASC": "Tăng dần",
+      "DESC": "Giảm dần"
+    },
+    "rapid_upload": "Tải lên nhanh",
+    "refresh_token": "Mã thông báo làm mới",
+    "root_folder_id": "ID thư mục gốc"
+  },
+  "AliyundriveOpen": {
+    "alipan_type": "Loại Alipan",
+    "alipan_types": {
+      "alipanTV": "AlipanTV",
+      "default": "Mặc định"
+    },
+    "api_url_address": "Địa chỉ URL API",
+    "callback_concurrency": "Số luồng callback đồng thời",
+    "callback_concurrency-tips": "Số lượt tải xuống qua proxy tối đa đang hoạt động, dùng chung giữa những người dùng Aliyun",
+    "client_id": "ID ứng dụng khách",
+    "client_id-tips": "Để trống nếu bạn không có",
+    "client_secret": "Mã bí mật ứng dụng",
+    "client_secret-tips": "Để trống nếu bạn không có",
+    "drive_type": "Loại ổ đĩa",
+    "drive_types": {
+      "backup": "Sao lưu",
+      "default": "Mặc định",
+      "resource": "Tài nguyên"
+    },
+    "internal_upload": "Tải lên nội bộ",
+    "internal_upload-tips": "Nếu bạn dùng Aliyun ECS đặt tại Bắc Kinh, hãy bật tùy chọn này để tăng tốc độ tải lên",
+    "livp_download_format": "Định dạng tải xuống LIVP",
+    "livp_download_formats": {
+      "jpeg": "JPEG",
+      "mov": "MOV"
+    },
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "created_at": "Ngày tạo",
+      "name": "Tên",
+      "size": "Kích thước",
+      "updated_at": "Ngày cập nhật"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "ASC": "Tăng dần",
+      "DESC": "Giảm dần"
+    },
+    "rapid_upload": "Tải lên nhanh",
+    "rapid_upload-tips": "Nếu bật tùy chọn này, tệp sẽ được tải lên máy chủ trước, vì vậy tiến trình sẽ không chính xác",
+    "refresh_token": "Mã thông báo làm mới",
+    "remove_way": "Cách xóa",
+    "remove_ways": {
+      "delete": "Xóa",
+      "trash": "Thùng rác"
+    },
+    "root_folder_id": "ID thư mục gốc",
+    "use_online_api": "Dùng API trực tuyến"
+  },
+  "AliyundriveShare": {
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "created_at": "Ngày tạo",
+      "name": "Tên",
+      "size": "Kích thước",
+      "updated_at": "Ngày cập nhật"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "ASC": "Tăng dần",
+      "DESC": "Giảm dần"
+    },
+    "refresh_token": "Mã thông báo làm mới",
+    "root_folder_id": "ID thư mục gốc",
+    "share_id": "ID chia sẻ",
+    "share_pwd": "Mật khẩu chia sẻ"
+  },
+  "AutoIndex": {
+    "ignore_file_names": "Bỏ qua tên tệp",
+    "item_xpath": "XPath mục",
+    "modified_time_format": "Định dạng ngày sửa đổi",
+    "modified_time_format-tips": "Phải dựa trên mốc thời gian Mon Jan 2 15:04:05 -0700 MST 2006",
+    "modified_xpath": "XPath thời gian sửa đổi",
+    "name_xpath": "XPath tên tệp",
+    "size_xpath": "XPath kích thước tệp",
+    "url": "URL"
+  },
+  "Azure Blob Storage": {
+    "access_key": "Khóa truy cập",
+    "access_key-tips": "Khóa truy cập Azure Storage dùng để xác thực. https://learn.microsoft.com/azure/storage/common/storage-account-keys-manage",
+    "container_name": "Tên vùng chứa",
+    "container_name-tips": "Tên vùng chứa trong Azure Storage (được tạo trong cổng Azure). https://learn.microsoft.com/azure/storage/blobs/blob-containers-portal",
+    "endpoint": "Điểm cuối",
+    "endpoint-tips": "ví dụ: https://accountname.blob.core.windows.net/. URL điểm cuối đầy đủ của Azure Storage, bao gồm tên tài khoản lưu trữ duy nhất (3–24 chữ số và chữ cái thường).",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "sign_url_expire": "Thời hạn hết hiệu lực của URL ký",
+    "sign_url_expire-tips": "Thời gian hết hạn của URL SAS, tính bằng giờ."
+  },
+  "BaiduNetdisk": {
+    "api_url_address": "Địa chỉ URL API",
+    "client_id": "ID ứng dụng khách",
+    "client_secret": "Mã bí mật ứng dụng",
+    "custom_crack_ua": "UA bẻ khóa tùy chỉnh",
+    "custom_upload_part_size": "Kích thước phần tải lên tùy chỉnh",
+    "custom_upload_part_size-tips": "0 để tự động",
+    "download_api": "API tải xuống",
+    "download_apis": {
+      "crack": "Bẻ khóa",
+      "crack_video": "Bẻ khóa video",
+      "official": "Chính thức"
+    },
+    "low_bandwith_upload_mode": "Chế độ tải lên băng thông thấp",
+    "only_list_video_file": "Chỉ liệt kê tệp video",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "name": "Tên",
+      "size": "Kích thước",
+      "time": "Thời gian"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "refresh_token": "Mã thông báo làm mới",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "upload_api": "API tải lên",
+    "upload_thread": "Luồng tải lên",
+    "upload_thread-tips": "1<=luồng<=32",
+    "upload_timeout": "Thời gian chờ tải lên",
+    "upload_timeout-tips": "Thời gian chờ tải lên mỗi phần, tính bằng giây",
+    "use_dynamic_upload_api": "Dùng API tải lên động",
+    "use_dynamic_upload_api-tips": "Tự động lấy miền API tải lên; khi bật, tùy chọn 'API tải lên' sẽ được dùng làm phương án dự phòng nếu không lấy được miền",
+    "use_online_api": "Dùng API trực tuyến"
+  },
+  "BaiduPhoto": {
+    "album_id": "ID album",
+    "cookie": "Cookie",
+    "delete_origin": "Xóa bản gốc",
+    "show_type": "Loại hiển thị",
+    "show_types": {
+      "root": "Gốc",
+      "root_only_album": "Chỉ album gốc",
+      "root_only_file": "Chỉ tệp gốc"
+    },
+    "upload_thread": "Luồng tải lên",
+    "upload_thread-tips": "1<=luồng<=32"
+  },
+  "Bunny Storage": {
+    "access_key": "Khóa truy cập",
+    "cdn_base_url": "URL cơ sở CDN",
+    "cdn_token_include_ip": "Mã thông báo CDN bao gồm IP",
+    "cdn_token_key": "Khóa mã thông báo CDN",
+    "cdn_token_method": "Phương thức mã thông báo CDN",
+    "cdn_token_methods": {
+      "hmac_sha256": "HMAC SHA",
+      "sha256": "SHA"
+    },
+    "endpoint": "Điểm cuối",
+    "placeholder": "Giá trị giữ chỗ",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "sign_url_expire": "Thời hạn hết hiệu lực của URL ký",
+    "storage_zone_name": "Tên vùng lưu trữ"
+  },
+  "CNB Releases": {
+    "default_branch": "Nhánh mặc định",
+    "default_branch-tips": "Nhánh mặc định cho các bản phát hành mới",
+    "repo": "Kho lưu trữ",
+    "root_folder_id": "ID thư mục gốc",
+    "token": "Mã thông báo",
+    "use_tag_name": "Dùng tên thẻ",
+    "use_tag_name-tips": "Dùng tên thẻ thay cho tên bản phát hành"
+  },
+  "ChaoXingGroupDrive": {
+    "bbsid": "BBSID",
+    "cookie": "Cookie",
+    "password": "Mật khẩu",
+    "root_folder_id": "ID thư mục gốc",
+    "user_name": "Tên người dùng"
+  },
+  "Chunk": {
+    "chunk_large_file_only": "Chỉ chia khối tệp lớn",
+    "chunk_large_file_only-tips": "Chỉ chia khối nếu kích thước tệp > part_size",
+    "chunk_prefix": "Tiền tố khối",
+    "chunk_prefix-tips": "Tiền tố của thư mục khối",
+    "custom_ext": "Phần mở rộng tùy chỉnh",
+    "num_list_workers": "Số tiến trình liệt kê",
+    "part_size": "Kích thước phần",
+    "part_size-tips": "byte",
+    "remote_path": "Đường dẫn từ xa",
+    "show_hidden": "Hiển thị mục ẩn",
+    "show_hidden-tips": "Hiển thị thư mục và tệp ẩn",
+    "store_hash": "Lưu mã băm",
+    "thumbnail": "Hình thu nhỏ",
+    "thumbnail-tips": "Bật hình thu nhỏ được tạo sẵn trong thư mục .thumbnails"
+  },
+  "Cloudreve": {
+    "address": "Địa chỉ",
+    "cookie": "Cookie",
+    "custom_ua": "UA tùy chỉnh",
+    "enable_thumb_and_folder_size": "Bật hình thu nhỏ và kích thước thư mục",
+    "password": "Mật khẩu",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "username": "Tên người dùng"
+  },
+  "Cloudreve V4": {
+    "access_token": "Mã thông báo truy cập",
+    "address": "Địa chỉ",
+    "custom_ua": "UA tùy chỉnh",
+    "enable_folder_size": "Bật kích thước thư mục",
+    "enable_thumb": "Bật hình thu nhỏ",
+    "enable_version_upload": "Bật tải lên phiên bản",
+    "hide_uploading": "Ẩn nội dung đang tải lên",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "created_at": "Ngày tạo",
+      "name": "Tên",
+      "size": "Kích thước",
+      "updated_at": "Ngày cập nhật"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "password": "Mật khẩu",
+    "refresh_token": "Mã thông báo làm mới",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "username": "Tên người dùng"
+  },
+  "Crypt": {
+    "directory_name_encryption": "Mã hóa tên thư mục",
+    "directory_name_encryptions": {
+      "false": "Tắt",
+      "true": "Bật"
+    },
+    "encrypted_suffix": "Hậu tố mã hóa",
+    "encrypted_suffix-tips": "Chỉ dành cho người dùng nâng cao! Tệp được mã hóa sẽ có hậu tố này",
+    "filename_encoding": "Mã hóa tên tệp",
+    "filename_encoding-tips": "Chỉ dành cho người dùng nâng cao!",
+    "filename_encodings": {
+      "base32": "Base32",
+      "base32768": "Base32768",
+      "base64": "Base64"
+    },
+    "filename_encryption": "Mã hóa tên tệp",
+    "filename_encryptions": {
+      "obfuscate": "Làm rối",
+      "off": "Tắt",
+      "standard": "Tiêu chuẩn"
+    },
+    "password": "Mật khẩu",
+    "password-tips": "mật khẩu chính",
+    "remote_path": "Đường dẫn từ xa",
+    "remote_path-tips": "Vị trí lưu trữ dữ liệu đã mã hóa",
+    "salt": "Salt",
+    "salt-tips": "Nếu bạn không biết salt là gì, hãy xem nó như mật khẩu thứ hai. Không bắt buộc nhưng được khuyến nghị",
+    "show_hidden": "Hiển thị mục ẩn",
+    "show_hidden-tips": "Hiển thị thư mục và tệp ẩn",
+    "thumbnail": "Hình thu nhỏ",
+    "thumbnail-tips": "Bật hình thu nhỏ được tạo sẵn trong thư mục .thumbnails"
+  },
+  "Degoo": {
+    "access_token": "Mã thông báo truy cập",
+    "access_token-tips": "Mã thông báo truy cập API Degoo, được lấy tự động",
+    "password": "Mật khẩu",
+    "password-tips": "Mật khẩu tài khoản Degoo của bạn",
+    "refresh_token": "Mã thông báo làm mới",
+    "refresh_token-tips": "Mã thông báo làm mới để tự động gia hạn mã thông báo, được lấy tự động",
+    "root_folder_id": "ID thư mục gốc",
+    "username": "Tên người dùng",
+    "username-tips": "Email tài khoản Degoo của bạn"
+  },
+  "Doge": {
+    "access_key_id": "ID khóa truy cập",
+    "add_filename_to_disposition": "Thêm tên tệp vào Content-Disposition",
+    "add_filename_to_disposition-tips": "Thêm tên tệp vào tiêu đề Content-Disposition.",
+    "bucket": "Bucket",
+    "custom_host": "Máy chủ tùy chỉnh",
+    "direct_upload_host": "Máy chủ tải lên trực tiếp",
+    "enable_custom_host_presign": "Bật ký trước bằng máy chủ tùy chỉnh",
+    "enable_direct_upload": "Bật tải lên trực tiếp",
+    "endpoint": "Điểm cuối",
+    "force_path_style": "Buộc kiểu đường dẫn",
+    "list_object_version": "Liệt kê phiên bản đối tượng",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "Giá trị giữ chỗ",
+    "region": "Khu vực",
+    "remove_bucket": "Bỏ tên bucket",
+    "remove_bucket-tips": "Bỏ tên bucket khỏi đường dẫn khi dùng máy chủ tùy chỉnh.",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "secret_access_key": "Khóa truy cập bí mật",
+    "session_token": "Mã thông báo phiên",
+    "sign_url_expire": "Thời hạn hết hiệu lực của URL ký",
+    "user_agent": "Tác nhân người dùng",
+    "user_agent-tips": "User-Agent tùy chỉnh cho yêu cầu S3."
+  },
+  "Doubao": {
+    "cookie": "Cookie",
+    "download_api": "API tải xuống",
+    "download_apis": {
+      "get_download_info": "Lấy thông tin tải xuống",
+      "get_file_url": "Lấy URL tệp"
+    },
+    "limit_rate": "Giới hạn tốc độ",
+    "limit_rate-tips": "Giới hạn tốc độ yêu cầu API ([limit]r/1s)",
+    "root_folder_id": "ID thư mục gốc",
+    "upload_thread": "Luồng tải lên"
+  },
+  "DoubaoNew": {
+    "app_id": "ID ứng dụng",
+    "app_id-tips": "ID ứng dụng Doubao",
+    "auth_client_id": "ID ứng dụng khách xác thực",
+    "auth_client_id-tips": "ID ứng dụng khách xác thực Doubao Biz",
+    "auth_client_type": "Loại ứng dụng khách xác thực",
+    "auth_client_type-tips": "Loại ứng dụng khách xác thực Doubao Biz",
+    "auth_scope": "Phạm vi xác thực",
+    "auth_scope-tips": "Phạm vi xác thực Doubao Biz",
+    "auth_sdk_source": "Nguồn SDK xác thực",
+    "auth_sdk_source-tips": "Nguồn SDK xác thực Doubao Biz",
+    "auth_sdk_version": "Phiên bản SDK xác thực",
+    "auth_sdk_version-tips": "Phiên bản SDK xác thực Doubao Biz",
+    "cookie": "Cookie",
+    "cookie-tips": "Cookie web",
+    "dpop_key_secret": "Mã bí mật khóa DPoP",
+    "dpop_key_secret-tips": "Mã bí mật khóa DPoP để tạo mã thông báo DPoP",
+    "ignore_jwt_check": "Bỏ qua kiểm tra JWT",
+    "ignore_jwt_check-tips": "Có bỏ qua kiểm tra JWT để tránh vấn đề thời gian hay không",
+    "root_folder_id": "ID thư mục gốc",
+    "share_link": "Liên kết chia sẻ",
+    "share_link-tips": "Có dùng liên kết chia sẻ để tải xuống hay không"
+  },
+  "DoubaoShare": {
+    "cookie": "Cookie",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "share_ids": "ID chia sẻ"
+  },
+  "Dropbox": {
+    "RootNamespaceId": "ID không gian tên gốc",
+    "api_url_address": "Địa chỉ URL API",
+    "client_id": "ID ứng dụng khách",
+    "client_id-tips": "Để trống nếu bạn không có",
+    "client_secret": "Mã bí mật ứng dụng",
+    "client_secret-tips": "Để trống nếu bạn không có",
+    "refresh_token": "Mã thông báo làm mới",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "use_online_api": "Dùng API trực tuyến"
+  },
+  "Emby": {
+    "api_key": "Khóa API",
+    "link_method": "Phương thức liên kết",
+    "link_methods": {
+      "download": "Tải xuống",
+      "stream": "Phát trực tuyến"
+    },
+    "password": "Mật khẩu",
+    "root_folder_id": "ID thư mục gốc",
+    "url": "URL",
+    "user_id": "ID người dùng",
+    "username": "Tên người dùng"
+  },
+  "FTP": {
+    "address": "Địa chỉ",
+    "cwd_list": "Dùng CWD để liệt kê",
+    "cwd_list-tips": "Truy cập thư mục trước khi liệt kê",
+    "encoding": "Mã hóa",
+    "password": "Mật khẩu",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "username": "Tên người dùng"
+  },
+  "FebBox": {
+    "client_id": "ID ứng dụng khách",
+    "client_secret": "Mã bí mật ứng dụng",
+    "page_size": "Kích thước trang",
+    "page_size-tips": "Số mục trên mỗi trang khi liệt kê bằng trình điều khiển FebBox",
+    "root_folder_id": "ID thư mục gốc",
+    "sort_rule": "Quy tắc sắp xếp",
+    "sort_rules": {
+      "ext_asc": "Phần mở rộng tăng dần",
+      "ext_desc": "Phần mở rộng giảm dần",
+      "name_asc": "Tên tăng dần",
+      "name_desc": "Tên giảm dần",
+      "size_asc": "Kích thước tăng dần",
+      "size_desc": "Kích thước giảm dần",
+      "update_asc": "Thời gian cập nhật tăng dần",
+      "update_desc": "Thời gian cập nhật giảm dần"
+    },
+    "user_ip": "IP người dùng",
+    "user_ip-tips": "Địa chỉ IP người dùng dùng cho liên kết tải xuống, có thể giúp tăng tốc độ tải xuống"
+  },
+  "FeijiPan": {
+    "ip": "IP",
+    "password": "Mật khẩu",
+    "root_folder_id": "ID thư mục gốc",
+    "username": "Tên người dùng"
+  },
+  "GitHub API": {
+    "accurate_modified_time": "Thời gian sửa đổi chính xác",
+    "accurate_modified_time-tips": "Cố gắng cung cấp thời gian sửa đổi chính xác cho danh sách thư mục nhỏ. Mặc định tắt. Thêm một yêu cầu GitHub GraphQL và nếu thất bại sẽ dùng giá trị thời gian bằng không của phương thức cũ.",
+    "author_email": "Email tác giả",
+    "author_name": "Tên tác giả",
+    "committer_email": "Email người xác nhận",
+    "committer_name": "Tên người xác nhận",
+    "copy_commit_message": "Thông điệp commit khi sao chép",
+    "delete_commit_message": "Thông điệp commit khi xóa",
+    "gh_proxy": "Proxy GitHub",
+    "gh_proxy-tips": "Proxy GitHub, ví dụ https://ghproxy.net/raw.githubusercontent.com hoặc https://gh-proxy.com/raw.githubusercontent.com",
+    "gpg_key_passphrase": "Cụm mật khẩu khóa GPG",
+    "gpg_private_key": "Khóa riêng tư GPG",
+    "mkdir_commit_message": "Thông điệp commit khi tạo thư mục",
+    "move_commit_message": "Thông điệp commit khi di chuyển",
+    "owner": "Chủ sở hữu",
+    "put_commit_message": "Thông điệp commit khi ghi",
+    "ref": "Tham chiếu",
+    "ref-tips": "Nhánh, thẻ hoặc SHA commit; mặc định là nhánh main.",
+    "rename_commit_message": "Thông điệp commit khi đổi tên",
+    "repo": "Kho lưu trữ",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "token": "Mã thông báo"
+  },
+  "GitHub Releases": {
+    "gh_proxy": "Proxy GitHub",
+    "gh_proxy-tips": "Proxy GitHub, ví dụ: https://ghproxy.net/github.com hoặc https://gh-proxy.com/github.com ",
+    "max_page": "Số trang tối đa",
+    "max_page-tips": "Số trang tối đa cần lấy (0 = không giới hạn), chỉ áp dụng khi bật hiển thị tất cả phiên bản",
+    "per_page": "Số mục mỗi trang",
+    "per_page-tips": "Số bản phát hành trên mỗi trang (tối đa 100), chỉ áp dụng khi bật hiển thị tất cả phiên bản",
+    "repo_structure": "Cấu trúc kho lưu trữ",
+    "repo_structure-tips": "cấu trúc:[path:]org/repo",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "show_all_version": "Hiển thị tất cả phiên bản",
+    "show_all_version-tips": "Hiển thị tất cả phiên bản",
+    "show_readme": "Hiển thị README",
+    "show_readme-tips": "Hiển thị tệp README、LICENSE",
+    "show_source_code": "Hiển thị mã nguồn",
+    "show_source_code-tips": "Hiển thị mã nguồn (zip/tar.gz)",
+    "token": "Mã thông báo",
+    "token-tips": "Mã thông báo GitHub để truy cập kho riêng tư hoặc tăng giới hạn tốc độ"
+  },
+  "GoogleDrive": {
+    "api_url_address": "Địa chỉ URL API",
+    "chunk_size": "Kích thước khối",
+    "chunk_size-tips": "Kích thước khối khi tải lên (đơn vị: MB)",
+    "client_id": "ID ứng dụng khách",
+    "client_secret": "Mã bí mật ứng dụng",
+    "disable_disk_usage": "Tắt mức sử dụng ổ đĩa",
+    "order_by": "Sắp xếp theo",
+    "order_by-tips": "ví dụ: folder,name,modifiedTime",
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "refresh_token": "Mã thông báo làm mới",
+    "root_folder_id": "ID thư mục gốc",
+    "use_online_api": "Dùng API trực tuyến"
+  },
+  "GooglePhoto": {
+    "client_id": "ID ứng dụng khách",
+    "client_secret": "Mã bí mật ứng dụng",
+    "refresh_token": "Mã thông báo làm mới",
+    "root_folder_id": "ID thư mục gốc",
+    "show_archive": "Hiển thị bản lưu trữ"
+  },
+  "GuangYaPan": {
+    "access_token": "Mã thông báo truy cập",
+    "access_token-tips": "Mã thông báo truy cập Bearer (không bắt buộc nếu cung cấp refresh_token)",
+    "captcha_token": "Mã thông báo CAPTCHA",
+    "captcha_token-tips": "Mã thông báo CAPTCHA bắt buộc cho /v1/auth/verification",
+    "client_id": "ID ứng dụng khách",
+    "client_id-tips": "Phải cung cấp ID ứng dụng cho API GuangYaPan",
+    "device_id": "ID thiết bị",
+    "device_id-tips": "ID thiết bị tùy chỉnh không bắt buộc (32 ký tự thập lục phân), tự tạo nếu để trống",
+    "device_sign": "Chữ ký thiết bị",
+    "device_sign-tips": "Tiêu đề X-Device-Sign tùy chỉnh không bắt buộc (được tạo từ device_id nếu để trống)",
+    "order_by": "Sắp xếp theo",
+    "order_by-tips": "Trường sắp xếp dùng trong danh sách tệp",
+    "page_size": "Kích thước trang",
+    "phone_number": "Số điện thoại",
+    "phone_number-tips": "Số điện thoại dùng để đăng nhập bằng SMS, ví dụ +86 13800000000",
+    "refresh_token": "Mã thông báo làm mới",
+    "refresh_token-tips": "Mã thông báo làm mới để tự động đăng nhập/làm mới",
+    "root_path": "Đường dẫn gốc",
+    "root_path-tips": "Đường dẫn đầy đủ trong ổ đĩa đám mây GuangYaPan",
+    "send_code": "Gửi mã",
+    "send_code-tips": "Đặt thành true và lưu để gửi mã SMS; tự động đặt lại thành false sau khi gửi",
+    "sort_type": "Kiểu sắp xếp",
+    "sort_type-tips": "Hướng sắp xếp dùng trong danh sách tệp",
+    "verification_id": "ID xác minh",
+    "verification_id-tips": "Được tạo tự động sau khi gửi mã SMS; không chỉnh sửa thủ công",
+    "verify_code": "Mã xác minh",
+    "verify_code-tips": "Mã xác minh SMS dùng cùng phone_number; nhập rồi lưu để hoàn tất đăng nhập"
+  },
+  "HalalCloud": {
+    "app_id": "ID ứng dụng",
+    "app_secret": "Mã bí mật ứng dụng",
+    "app_version": "Phiên bản ứng dụng",
+    "refresh_token": "Mã thông báo làm mới",
+    "refresh_token-tips": "Bắt buộc khi loại đăng nhập là refresh_token",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "upload_thread": "Luồng tải lên",
+    "upload_thread-tips": "1 <= luồng <= 32"
+  },
+  "HalalCloudOpen": {
+    "client_id": "ID ứng dụng khách",
+    "client_secret": "Mã bí mật ứng dụng",
+    "host": "Máy chủ",
+    "refresh_token": "Mã thông báo làm mới",
+    "refresh_token-tips": "Không cần RefreshToken nếu dùng phương thức API cá nhân.",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "timeout": "Thời gian chờ",
+    "timeout-tips": "Thời gian chờ tính bằng giây",
+    "upload_thread": "Luồng tải lên",
+    "upload_thread-tips": "1 <= luồng <= 32"
+  },
+  "ILanZou": {
+    "ip": "IP",
+    "password": "Mật khẩu",
+    "root_folder_id": "ID thư mục gốc",
+    "username": "Tên người dùng"
+  },
+  "IPFS API": {
+    "endpoint": "Điểm cuối",
+    "gateway": "Cổng kết nối",
+    "mode": "Chế độ",
+    "modes": {
+      "ipfs": "IPFS",
+      "ipns": "IPNS",
+      "mfs": "MFS"
+    },
+    "root_folder_path": "Đường dẫn thư mục gốc"
+  },
+  "KodBox": {
+    "address": "Địa chỉ",
+    "password": "Mật khẩu",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "username": "Tên người dùng"
+  },
+  "Lanzou": {
+    "account": "Tài khoản",
+    "baseUrl": "URL cơ sở",
+    "baseUrl-tips": "URL cơ sở cho thao tác với tệp",
+    "cookie": "Cookie",
+    "cookie-tips": "Có hiệu lực khoảng 15 ngày; bỏ qua nếu dùng shareUrl",
+    "password": "Mật khẩu",
+    "repair_file_info": "Sửa thông tin tệp",
+    "repair_file_info-tips": "Cần bật tùy chọn này để sử dụng WebDAV",
+    "root_folder_id": "ID thư mục gốc",
+    "shareUrl": "URL chia sẻ",
+    "shareUrl-tips": "Dùng để lấy trang chia sẻ",
+    "share_password": "Mật khẩu chia sẻ",
+    "type": "Loại",
+    "types": {
+      "account": "Tài khoản",
+      "cookie": "Cookie",
+      "url": "URL"
+    },
+    "user_agent": "Tác nhân người dùng"
+  },
+  "LenovoNasShare": {
+    "host": "Máy chủ",
+    "host-tips": "Bạn có thể đổi thành mạng cục bộ của mình",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "share_id": "ID chia sẻ",
+    "share_id-tips": "Phần sau dấu / cuối cùng trong liên kết chia sẻ",
+    "share_pwd": "Mật khẩu chia sẻ",
+    "share_pwd-tips": "Mật khẩu của liên kết chia sẻ",
+    "show_root_folder": "Hiển thị thư mục gốc"
+  },
+  "Local": {
+    "directory_size": "Kích thước thư mục",
+    "directory_size-tips": "Điều này có thể ảnh hưởng đến hiệu năng máy chủ",
+    "mkdir_perm": "Quyền tạo thư mục",
+    "pdf_thumbnail": "Hình thu nhỏ PDF",
+    "pdf_thumbnail-tips": "Tạo hình thu nhỏ trang đầu PDF bằng Quick Look trên macOS",
+    "recycle_bin_path": "Đường dẫn thùng rác",
+    "recycle_bin_path-tips": "Đường dẫn đến thùng rác; xóa vĩnh viễn nếu để trống hoặc nhập 'xóa vĩnh viễn'",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "show_hidden": "Hiển thị mục ẩn",
+    "show_hidden-tips": "Hiển thị thư mục và tệp ẩn",
+    "thumb_cache_folder": "Thư mục bộ nhớ đệm hình thu nhỏ",
+    "thumb_concurrency": "Số luồng xử lý hình thu nhỏ đồng thời",
+    "thumb_concurrency-tips": "Số goroutine đồng thời tạo hình thu nhỏ. Tùy chọn này kiểm soát số hình thu nhỏ có thể được tạo song song.",
+    "thumbnail": "Hình thu nhỏ",
+    "thumbnail-tips": "Bật hình thu nhỏ",
+    "video_thumb_pos": "Vị trí hình thu nhỏ video",
+    "video_thumb_pos-tips": "Vị trí hình thu nhỏ video. Nếu giá trị là số (số nguyên hoặc số thập phân), đó là thời gian tính bằng giây. Nếu giá trị kết thúc bằng '%', đó là tỷ lệ phần trăm thời lượng video."
+  },
+  "MediaFire": {
+    "chunk_size": "Kích thước khối",
+    "cookie": "Cookie",
+    "cookie-tips": "Bắt buộc để xác thực API MediaFire",
+    "limit_rate": "Giới hạn tốc độ",
+    "limit_rate-tips": "Giới hạn tốc độ yêu cầu API ([limit]r/1s)",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "name": "Tên",
+      "size": "Kích thước",
+      "time": "Thời gian"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "session_token": "Mã thông báo phiên",
+    "session_token-tips": "Không bắt buộc với API MediaFire; có thể tự động lấy từ cookie",
+    "upload_threads": "Luồng tải lên",
+    "upload_threads-tips": "Số luồng tải lên đồng thời"
+  },
+  "MediaTrack": {
+    "access_token": "Mã thông báo truy cập",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "size": "Kích thước",
+      "title": "Tiêu đề",
+      "updated_at": "Ngày cập nhật"
+    },
+    "order_desc": "Sắp xếp giảm dần",
+    "project_id": "ID dự án",
+    "root_folder_id": "ID thư mục gốc"
+  },
+  "Mega_nz": {
+    "email": "Email",
+    "move_to_trash": "Chuyển vào thùng rác",
+    "move_to_trash-tips": "Chuyển vào thùng rác khi xóa tệp",
+    "password": "Mật khẩu",
+    "two_fa_code": "Mã xác thực hai yếu tố",
+    "two_fa_code-tips": "Mã 2FA gồm 6 chữ số; chỉ điền mã 2FA sẽ không hỗ trợ tải lại trình điều khiển",
+    "two_fa_secret": "Mã bí mật xác thực hai yếu tố",
+    "two_fa_secret-tips": "Mã bí mật 2FA"
+  },
+  "Misskey": {
+    "access_token": "Mã thông báo truy cập",
+    "endpoint": "Điểm cuối",
+    "root_folder_path": "Đường dẫn thư mục gốc"
+  },
+  "MoPan": {
+    "cloud_id": "ID đám mây",
+    "device_info": "Thông tin thiết bị",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "filename": "Tên tệp",
+      "filesize": "Kích thước tệp",
+      "lastOpTime": "Thời gian thao tác cuối"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "password": "Mật khẩu",
+    "phone": "Điện thoại",
+    "root_folder_id": "ID thư mục gốc",
+    "sms_code": "Mã SMS",
+    "sms_code-tips": "Nhập 'send' để gửi SMS ",
+    "upload_thread": "Luồng tải lên",
+    "upload_thread-tips": "1<=luồng<=32"
+  },
+  "NeteaseMusic": {
+    "cookie": "Cookie",
+    "song_limit": "Giới hạn bài hát",
+    "song_limit-tips": "Mặc định chỉ lấy 200 bài hát"
+  },
+  "Onedrive": {
+    "api_url_address": "Địa chỉ URL API",
+    "chunk_size": "Kích thước khối",
+    "client_id": "ID ứng dụng khách",
+    "client_secret": "Mã bí mật ứng dụng",
+    "custom_host": "Máy chủ tùy chỉnh",
+    "custom_host-tips": "Máy chủ tùy chỉnh cho liên kết tải xuống OneDrive",
+    "disable_disk_usage": "Tắt mức sử dụng ổ đĩa",
+    "enable_direct_upload": "Bật tải lên trực tiếp",
+    "enable_direct_upload-tips": "Bật tải lên trực tiếp từ máy khách lên OneDrive",
+    "is_sharepoint": "Là SharePoint",
+    "redirect_uri": "URI chuyển hướng",
+    "refresh_token": "Mã thông báo làm mới",
+    "region": "Khu vực",
+    "regions": {
+      "cn": "Trung Quốc",
+      "de": "Đức",
+      "global": "Toàn cầu",
+      "us": "Hoa Kỳ"
+    },
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "site_id": "ID site",
+    "use_online_api": "Dùng API trực tuyến"
+  },
+  "Onedrive Sharelink": {
+    "disable_disk_usage": "Tắt mức sử dụng ổ đĩa",
+    "enable_direct_upload": "Bật tải lên trực tiếp",
+    "enable_direct_upload-tips": "Cho phép tải lên trực tiếp OneDrive mà không qua OpenList",
+    "password": "Mật khẩu",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "url": "URL"
+  },
+  "OnedriveAPP": {
+    "chunk_size": "Kích thước khối",
+    "client_id": "ID ứng dụng khách",
+    "client_secret": "Mã bí mật ứng dụng",
+    "custom_host": "Máy chủ tùy chỉnh",
+    "custom_host-tips": "Máy chủ tùy chỉnh cho liên kết tải xuống OneDrive",
+    "disable_disk_usage": "Tắt mức sử dụng ổ đĩa",
+    "email": "Email",
+    "enable_direct_upload": "Bật tải lên trực tiếp",
+    "enable_direct_upload-tips": "Bật tải lên trực tiếp từ máy khách lên OneDrive",
+    "region": "Khu vực",
+    "regions": {
+      "cn": "Trung Quốc",
+      "de": "Đức",
+      "global": "Toàn cầu",
+      "us": "Hoa Kỳ"
+    },
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "tenant_id": "ID đối tượng thuê"
+  },
+  "OpenList": {
+    "forward_archive_requests": "Chuyển tiếp yêu cầu lưu trữ",
+    "meta_password": "Mật khẩu meta",
+    "pass_ip_to_upsteam": "Chuyển tiếp IP đến máy chủ thượng nguồn",
+    "pass_refresh_flag_to_upsteam": "Chuyển tiếp cờ làm mới đến máy chủ thượng nguồn",
+    "pass_ua_to_upsteam": "Chuyển tiếp UA đến máy chủ thượng nguồn",
+    "password": "Mật khẩu",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "token": "Mã thông báo",
+    "url": "URL",
+    "username": "Tên người dùng"
+  },
+  "OpenListShare": {
+    "forward_archive_requests": "Chuyển tiếp yêu cầu lưu trữ",
+    "pwd": "Mật khẩu",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "sid": "SID",
+    "url": "URL"
+  },
+  "PikPak": {
+    "captcha_token": "Mã thông báo CAPTCHA",
+    "device_id": "ID thiết bị",
+    "disable_media_link": "Tắt liên kết phương tiện",
+    "password": "Mật khẩu",
+    "platform": "Nền tảng",
+    "platforms": {
+      "android": "Android",
+      "pc": "Máy tính",
+      "web": "Web"
+    },
+    "refresh_token": "Mã thông báo làm mới",
+    "root_folder_id": "ID thư mục gốc",
+    "skip_verification": "Bỏ qua xác minh",
+    "skip_verification-tips": "Bỏ qua URL xác minh người dùng do API CAPTCHA trả về thay vì báo lỗi; bật tùy chọn này có thể kích hoạt cơ chế kiểm soát rủi ro của PikPak",
+    "username": "Tên người dùng"
+  },
+  "PikPakShare": {
+    "device_id": "ID thiết bị",
+    "platform": "Nền tảng",
+    "platforms": {
+      "android": "Android",
+      "pc": "Máy tính",
+      "web": "Web"
+    },
+    "root_folder_id": "ID thư mục gốc",
+    "share_id": "ID chia sẻ",
+    "share_pwd": "Mật khẩu chia sẻ",
+    "use_transcoding_address": "Dùng địa chỉ chuyển mã"
+  },
+  "ProtonDrive": {
+    "chunk_size": "Kích thước khối",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "root_folder_id": "ID thư mục gốc",
+    "two_fa_code": "Mã xác thực hai yếu tố",
+    "use_reusable_login": "Dùng thông tin đăng nhập có thể tái sử dụng",
+    "use_reusable_login-tips": "Dùng thông tin đăng nhập có thể tái sử dụng thay cho tên người dùng/mật khẩu"
+  },
+  "Quark": {
+    "cookie": "Cookie",
+    "only_list_video_file": "Chỉ liệt kê tệp video",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "file_name": "Tên tệp",
+      "file_type": "Loại tệp",
+      "none": "Không có",
+      "updated_at": "Ngày cập nhật"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "root_folder_id": "ID thư mục gốc",
+    "use_transcoding_address": "Dùng địa chỉ chuyển mã",
+    "use_transcoding_address-tips": "Bạn có thể xem video đã chuyển mã và hỗ trợ chuyển hướng 302"
+  },
+  "QuarkOpen": {
+    "access_token": "Mã thông báo truy cập",
+    "api_url_address": "Địa chỉ URL API",
+    "app_id": "ID ứng dụng",
+    "app_id-tips": "Để trống nếu bạn không có",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "created_at": "Ngày tạo",
+      "file_name": "Tên tệp",
+      "file_type": "Loại tệp",
+      "none": "Không có",
+      "updated_at": "Ngày cập nhật"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "refresh_token": "Mã thông báo làm mới",
+    "root_folder_id": "ID thư mục gốc",
+    "sign_key": "Khóa ký",
+    "sign_key-tips": "Để trống nếu bạn không có",
+    "use_online_api": "Dùng API trực tuyến"
+  },
+  "QuarkTV": {
+    "device_id": "ID thiết bị",
+    "link_method": "Phương thức liên kết",
+    "link_methods": {
+      "download": "Tải xuống",
+      "streaming": "Phát trực tuyến"
+    },
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "file_name": "Tên tệp",
+      "updated_at": "Ngày cập nhật"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "query_token": "Mã thông báo truy vấn",
+    "query_token-tips": "đừng chỉnh sửa'",
+    "refresh_token": "Mã thông báo làm mới",
+    "root_folder_id": "ID thư mục gốc"
+  },
+  "S3": {
+    "access_key_id": "ID khóa truy cập",
+    "add_filename_to_disposition": "Thêm tên tệp vào Content-Disposition",
+    "add_filename_to_disposition-tips": "Thêm tên tệp vào tiêu đề Content-Disposition.",
+    "bucket": "Bucket",
+    "custom_host": "Máy chủ tùy chỉnh",
+    "direct_upload_host": "Máy chủ tải lên trực tiếp",
+    "enable_custom_host_presign": "Bật ký trước bằng máy chủ tùy chỉnh",
+    "enable_direct_upload": "Bật tải lên trực tiếp",
+    "endpoint": "Điểm cuối",
+    "force_path_style": "Buộc kiểu đường dẫn",
+    "list_object_version": "Liệt kê phiên bản đối tượng",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "Giá trị giữ chỗ",
+    "region": "Khu vực",
+    "remove_bucket": "Bỏ tên bucket",
+    "remove_bucket-tips": "Bỏ tên bucket khỏi đường dẫn khi dùng máy chủ tùy chỉnh.",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "secret_access_key": "Khóa truy cập bí mật",
+    "session_token": "Mã thông báo phiên",
+    "sign_url_expire": "Thời hạn hết hiệu lực của URL ký",
+    "user_agent": "Tác nhân người dùng",
+    "user_agent-tips": "User-Agent tùy chỉnh cho yêu cầu S3."
+  },
+  "SFTP": {
+    "address": "Địa chỉ",
+    "ignore_symlink_error": "Bỏ qua lỗi liên kết tượng trưng",
+    "passphrase": "Cụm mật khẩu",
+    "password": "Mật khẩu",
+    "private_key": "Khóa riêng tư",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "username": "Tên người dùng"
+  },
+  "SMB": {
+    "address": "Địa chỉ",
+    "password": "Mật khẩu",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "share_name": "Tên chia sẻ",
+    "username": "Tên người dùng"
+  },
+  "Seafile": {
+    "address": "Địa chỉ",
+    "password": "Mật khẩu",
+    "repoId": "ID kho lưu trữ",
+    "repoPwd": "Mật khẩu kho lưu trữ",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "token": "Mã thông báo",
+    "username": "Tên người dùng"
+  },
+  "Strm": {
+    "KeepLocalDownloadFile": "Giữ tệp tải xuống cục bộ",
+    "KeepLocalDownloadFile-tips": "Giữ các tệp tải xuống cục bộ",
+    "PathPrefix": "Tiền tố đường dẫn",
+    "PathPrefix-tips": "Tiền tố đường dẫn",
+    "SaveLocalMode": "Chế độ lưu cục bộ",
+    "SaveLocalMode-tips": "Chế độ lưu tệp strm cục bộ",
+    "SaveLocalModes": {
+      "insert": "Chèn",
+      "sync": "Đồng bộ",
+      "update": "Cập nhật"
+    },
+    "SaveStrmLocalPath": "Đường dẫn lưu tệp strm cục bộ",
+    "SaveStrmLocalPath-tips": "Đường dẫn lưu tệp strm cục bộ",
+    "SaveStrmToLocal": "Lưu tệp strm vào máy",
+    "SaveStrmToLocal-tips": "Lưu tệp strm cục bộ",
+    "downloadFileTypes": "Loại tệp tải xuống",
+    "downloadFileTypes-tips": "Các tệp cần tải xuống cùng với strm (thường là phụ đề)",
+    "encodePath": "Mã hóa đường dẫn",
+    "encodePath-tips": "Mã hóa đường dẫn trong tệp strm",
+    "filterFileTypes": "Lọc loại tệp",
+    "filterFileTypes-tips": "Hỗ trợ phần mở rộng của tệp strm",
+    "minFileSize": "Kích thước tệp tối thiểu",
+    "minFileSize-tips": "Lọc các tệp nhỏ hơn kích thước này (đơn vị: MB, 0 để tắt)",
+    "paths": "Đường dẫn",
+    "siteUrl": "URL trang web",
+    "siteUrl-tips": "URL tiền tố của tệp strm",
+    "withSign": "Có chữ ký",
+    "withoutUrl": "Không có URL",
+    "withoutUrl-tips": "Nội dung tệp strm không có tiền tố URL"
+  },
+  "Teambition": {
+    "cookie": "Cookie",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "created": "Ngày tạo",
+      "fileName": "Tên tệp",
+      "fileSize": "Kích thước tệp",
+      "updated": "Ngày cập nhật"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "Asc": "Tăng dần",
+      "Desc": "Giảm dần"
+    },
+    "project_id": "ID dự án",
+    "region": "Khu vực",
+    "regions": {
+      "china": "Trung Quốc",
+      "international": "Quốc tế"
+    },
+    "root_folder_id": "ID thư mục gốc",
+    "use_s3_upload_method": "Dùng phương thức tải lên S3"
+  },
+  "Teldrive": {
+    "chunk_size": "Kích thước khối",
+    "chunk_size-tips": "Kích thước khối tính bằng MiB",
+    "cookie": "Cookie",
+    "cookie-tips": "access_token=xxx",
+    "random_chunk_name": "Tên khối ngẫu nhiên",
+    "random_chunk_name-tips": "Tên khối ngẫu nhiên",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "upload_concurrency": "Số yêu cầu tải lên đồng thời",
+    "upload_concurrency-tips": "Số yêu cầu tải lên đồng thời",
+    "url": "URL",
+    "use_share_link": "Dùng liên kết chia sẻ",
+    "use_share_link-tips": "Tạo liên kết chia sẻ khi lấy liên kết để hỗ trợ chuyển hướng 302. Nếu tắt, bạn cần bật proxy web."
+  },
+  "Terabox": {
+    "cookie": "Cookie",
+    "download_api": "API tải xuống",
+    "download_apis": {
+      "crack": "Bẻ khóa",
+      "official": "Chính thức"
+    },
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "name": "Tên",
+      "size": "Kích thước",
+      "time": "Thời gian"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "root_folder_path": "Đường dẫn thư mục gốc"
+  },
+  "Thunder": {
+    "captcha_token": "Mã thông báo CAPTCHA",
+    "credit_key": "Khóa tín dụng",
+    "credit_key-tips": "Khóa tín dụng dùng để đăng nhập",
+    "device_id": "ID thiết bị",
+    "password": "Mật khẩu",
+    "root_folder_id": "ID thư mục gốc",
+    "space": "Không gian",
+    "space-tips": "ID thiết bị từ xa",
+    "username": "Tên người dùng"
+  },
+  "ThunderBrowser": {
+    "captcha_token": "Mã thông báo CAPTCHA",
+    "credit_key": "Khóa tín dụng",
+    "credit_key-tips": "Khóa tín dụng dùng để đăng nhập",
+    "device_id": "ID thiết bị",
+    "password": "Mật khẩu",
+    "remove_way": "Cách xóa",
+    "remove_ways": {
+      "delete": "Xóa",
+      "trash": "Thùng rác"
+    },
+    "root_folder_id": "ID thư mục gốc",
+    "safe_password": "Mật khẩu an toàn",
+    "use_fluent_play": "Dùng phát trực tuyến mượt",
+    "use_fluent_play-tips": "Dùng chế độ phát mượt để tải xuống ngoại tuyến; chỉ hỗ trợ liên kết magnet",
+    "use_video_url": "Dùng URL video",
+    "username": "Tên người dùng"
+  },
+  "ThunderBrowserExpert": {
+    "algorithms": "Thuật toán",
+    "algorithms-tips": "Bắt buộc khi loại chữ ký là algorithms",
+    "captcha_sign": "Chữ ký CAPTCHA",
+    "captcha_sign-tips": "Bắt buộc khi loại chữ ký là captcha_sign",
+    "captcha_token": "Mã thông báo CAPTCHA",
+    "client_id": "ID ứng dụng khách",
+    "client_secret": "Mã bí mật ứng dụng",
+    "client_version": "Phiên bản ứng dụng",
+    "credit_key": "Khóa tín dụng",
+    "credit_key-tips": "Khóa tín dụng dùng để đăng nhập",
+    "device_id": "ID thiết bị",
+    "download_user_agent": "Tác nhân người dùng tải xuống",
+    "login_type": "Loại đăng nhập",
+    "login_types": {
+      "refresh_token": "Mã thông báo làm mới",
+      "user": "Người dùng"
+    },
+    "package_name": "Tên gói",
+    "password": "Mật khẩu",
+    "password-tips": "Bắt buộc khi loại đăng nhập là user",
+    "refresh_token": "Mã thông báo làm mới",
+    "refresh_token-tips": "Bắt buộc khi loại đăng nhập là refresh_token",
+    "remove_way": "Cách xóa",
+    "remove_ways": {
+      "delete": "Xóa",
+      "trash": "Thùng rác"
+    },
+    "root_folder_id": "ID thư mục gốc",
+    "safe_password": "Mật khẩu an toàn",
+    "safe_password-tips": "Mật khẩu có độ an toàn rất cao",
+    "sign_type": "Loại chữ ký",
+    "sign_types": {
+      "algorithms": "Thuật toán",
+      "captcha_sign": "Chữ ký CAPTCHA"
+    },
+    "timestamp": "Dấu thời gian",
+    "timestamp-tips": "Bắt buộc khi loại chữ ký là captcha_sign",
+    "use_fluent_play": "Dùng phát trực tuyến mượt",
+    "use_fluent_play-tips": "Dùng chế độ phát mượt để tải xuống ngoại tuyến; chỉ hỗ trợ liên kết magnet",
+    "use_video_url": "Dùng URL video",
+    "user_agent": "Tác nhân người dùng",
+    "username": "Tên người dùng",
+    "username-tips": "Bắt buộc khi loại đăng nhập là user"
+  },
+  "ThunderExpert": {
+    "algorithms": "Thuật toán",
+    "algorithms-tips": "Bắt buộc khi loại chữ ký là algorithms",
+    "captcha_sign": "Chữ ký CAPTCHA",
+    "captcha_sign-tips": "Bắt buộc khi loại chữ ký là captcha_sign",
+    "captcha_token": "Mã thông báo CAPTCHA",
+    "client_id": "ID ứng dụng khách",
+    "client_secret": "Mã bí mật ứng dụng",
+    "client_version": "Phiên bản ứng dụng",
+    "credit_key": "Khóa tín dụng",
+    "credit_key-tips": "Khóa tín dụng dùng để đăng nhập",
+    "device_id": "ID thiết bị",
+    "download_user_agent": "Tác nhân người dùng tải xuống",
+    "login_type": "Loại đăng nhập",
+    "login_types": {
+      "refresh_token": "Mã thông báo làm mới",
+      "user": "Người dùng"
+    },
+    "package_name": "Tên gói",
+    "password": "Mật khẩu",
+    "password-tips": "Bắt buộc khi loại đăng nhập là user",
+    "refresh_token": "Mã thông báo làm mới",
+    "refresh_token-tips": "Bắt buộc khi loại đăng nhập là refresh_token",
+    "root_folder_id": "ID thư mục gốc",
+    "sign_type": "Loại chữ ký",
+    "sign_types": {
+      "algorithms": "Thuật toán",
+      "captcha_sign": "Chữ ký CAPTCHA"
+    },
+    "space": "Không gian",
+    "space-tips": "ID thiết bị từ xa",
+    "timestamp": "Dấu thời gian",
+    "timestamp-tips": "Bắt buộc khi loại chữ ký là captcha_sign",
+    "use_video_url": "Dùng URL video",
+    "user_agent": "Tác nhân người dùng",
+    "username": "Tên người dùng",
+    "username-tips": "Bắt buộc khi loại đăng nhập là user"
+  },
+  "ThunderX": {
+    "captcha_token": "Mã thông báo CAPTCHA",
+    "password": "Mật khẩu",
+    "root_folder_id": "ID thư mục gốc",
+    "use_video_url": "Dùng URL video",
+    "username": "Tên người dùng"
+  },
+  "ThunderXExpert": {
+    "algorithms": "Thuật toán",
+    "algorithms-tips": "Bắt buộc khi loại chữ ký là algorithms",
+    "captcha_sign": "Chữ ký CAPTCHA",
+    "captcha_sign-tips": "Bắt buộc khi loại chữ ký là captcha_sign",
+    "captcha_token": "Mã thông báo CAPTCHA",
+    "client_id": "ID ứng dụng khách",
+    "client_secret": "Mã bí mật ứng dụng",
+    "client_version": "Phiên bản ứng dụng",
+    "device_id": "ID thiết bị",
+    "download_user_agent": "Tác nhân người dùng tải xuống",
+    "login_type": "Loại đăng nhập",
+    "login_types": {
+      "refresh_token": "Mã thông báo làm mới",
+      "user": "Người dùng"
+    },
+    "package_name": "Tên gói",
+    "password": "Mật khẩu",
+    "password-tips": "Bắt buộc khi loại đăng nhập là user",
+    "refresh_token": "Mã thông báo làm mới",
+    "refresh_token-tips": "Bắt buộc khi loại đăng nhập là refresh_token",
+    "root_folder_id": "ID thư mục gốc",
+    "sign_type": "Loại chữ ký",
+    "sign_types": {
+      "algorithms": "Thuật toán",
+      "captcha_sign": "Chữ ký CAPTCHA"
+    },
+    "timestamp": "Dấu thời gian",
+    "timestamp-tips": "Bắt buộc khi loại chữ ký là captcha_sign",
+    "use_video_url": "Dùng URL video",
+    "user_agent": "Tác nhân người dùng",
+    "username": "Tên người dùng",
+    "username-tips": "Bắt buộc khi loại đăng nhập là user"
+  },
+  "UC": {
+    "cookie": "Cookie",
+    "only_list_video_file": "Chỉ liệt kê tệp video",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "file_name": "Tên tệp",
+      "file_type": "Loại tệp",
+      "none": "Không có",
+      "updated_at": "Ngày cập nhật"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "root_folder_id": "ID thư mục gốc",
+    "use_transcoding_address": "Dùng địa chỉ chuyển mã",
+    "use_transcoding_address-tips": "Bạn có thể xem video đã chuyển mã và hỗ trợ chuyển hướng 302"
+  },
+  "UCTV": {
+    "device_id": "ID thiết bị",
+    "link_method": "Phương thức liên kết",
+    "link_methods": {
+      "download": "Tải xuống",
+      "streaming": "Phát trực tuyến"
+    },
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "file_name": "Tên tệp",
+      "updated_at": "Ngày cập nhật"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "query_token": "Mã thông báo truy vấn",
+    "query_token-tips": "đừng chỉnh sửa'",
+    "refresh_token": "Mã thông báo làm mới",
+    "root_folder_id": "ID thư mục gốc"
+  },
+  "USS": {
+    "anti_theft_chain_token": "Mã thông báo chống trộm liên kết",
+    "bucket": "Bucket",
+    "endpoint": "Điểm cuối",
+    "operator_name": "Tên người vận hành",
+    "operator_password": "Mật khẩu người vận hành",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "sign_url_expire": "Thời hạn hết hiệu lực của URL ký"
+  },
+  "UrlTree": {
+    "head_size": "Kích thước HEAD",
+    "head_size-tips": "Dùng phương thức HEAD để lấy kích thước tệp, nhưng thao tác này có thể thất bại.",
+    "url_structure": "Cấu trúc URL",
+    "url_structure-tips": "cấu trúc:TênThưMục:\n  [TênTệp:][KíchThướcTệp:][ĐãSửaĐổi:]URL",
+    "writable": "Có thể ghi"
+  },
+  "Virtual": {
+    "max_file_size": "Kích thước tệp tối đa",
+    "min_file_size": "Kích thước tệp tối thiểu",
+    "num_file": "Số lượng tệp",
+    "num_folder": "Số lượng thư mục",
+    "root_folder_path": "Đường dẫn thư mục gốc"
+  },
+  "WPS": {
+    "cookie": "Cookie",
+    "custom_ua": "UA tùy chỉnh",
+    "mode": "Chế độ",
+    "modes": {
+      "Business": "Doanh nghiệp",
+      "Personal": "Cá nhân"
+    },
+    "root_folder_path": "Đường dẫn thư mục gốc"
+  },
+  "WebDav": {
+    "address": "Địa chỉ",
+    "password": "Mật khẩu",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "tls_insecure_skip_verify": "Bỏ qua xác minh TLS không an toàn",
+    "username": "Tên người dùng",
+    "vendor": "Nhà cung cấp",
+    "vendors": {
+      "other": "Khác",
+      "sharepoint": "SharePoint"
+    }
+  },
+  "WeiYun": {
+    "cookies": "Cookie",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "name": "Tên",
+      "size": "Kích thước",
+      "updated_at": "Ngày cập nhật"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "root_folder_id": "ID thư mục gốc",
+    "upload_thread": "Luồng tải lên",
+    "upload_thread-tips": "4<=luồng<=32"
+  },
+  "WoPan": {
+    "access_token": "Mã thông báo truy cập",
+    "access_token-tips": "Không bắt buộc nếu đã cung cấp refresh token; token sẽ được tự động làm mới nếu bị thiếu hoặc quá ngắn",
+    "family_id": "ID gia đình",
+    "family_id-tips": "Để trống nếu bạn muốn dùng ổ đĩa cá nhân",
+    "refresh_token": "Mã thông báo làm mới",
+    "refresh_token-tips": "Cung cấp refresh token hoặc access token (ít nhất 16 ký tự)",
+    "root_folder_id": "ID thư mục gốc",
+    "sort_rule": "Quy tắc sắp xếp",
+    "sort_rules": {
+      "name_asc": "Tên tăng dần",
+      "name_desc": "Tên giảm dần",
+      "size_asc": "Kích thước tăng dần",
+      "size_desc": "Kích thước giảm dần",
+      "time_asc": "Thời gian tăng dần",
+      "time_desc": "Thời gian giảm dần"
+    }
+  },
+  "YandexDisk": {
+    "api_url_address": "Địa chỉ URL API",
+    "client_id": "ID ứng dụng khách",
+    "client_secret": "Mã bí mật ứng dụng",
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "created": "Ngày tạo",
+      "modified": "Ngày sửa đổi",
+      "name": "Tên",
+      "path": "Đường dẫn",
+      "size": "Kích thước"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "refresh_token": "Mã thông báo làm mới",
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "use_online_api": "Dùng API trực tuyến"
+  },
+  "cloudflare_imgbed": {
+    "address": "Địa chỉ",
+    "address-tips": "Địa chỉ API backend của dịch vụ lưu trữ ảnh, ví dụ https://img.example.com",
+    "largeChannelName": "Tên kênh tệp lớn",
+    "largeChannelName-tips": "Tên kênh dành cho tệp lớn",
+    "largeChannelType": "Loại kênh tệp lớn",
+    "largeChannelType-tips": "Loại kênh tệp lớn: Hugging Face (tải trực tiếp), telegram/cfr2/s3/discord (tải lên nhiều phần)",
+    "largeChannelTypes": {
+      "": "",
+      "cfr2": "Cfr2",
+      "discord": "Discord",
+      "huggingface": "Hugging Face",
+      "s3": "S3",
+      "telegram": "Telegram"
+    },
+    "root_folder_path": "Đường dẫn thư mục gốc",
+    "smallChannelName": "Tên kênh tệp nhỏ",
+    "smallChannelName-tips": "Tên kênh dành cho tệp thông thường (thường dưới 20 MB)",
+    "token": "Mã thông báo",
+    "token-tips": "Mã thông báo xác thực",
+    "uploadThread": "Luồng tải lên",
+    "uploadThread-tips": "Số luồng đồng thời khi tải trực tiếp theo khối lên Hugging Face"
+  },
+  "config": {
+    "115 Cloud": {},
+    "115 Open": {},
+    "115 Share": {},
+    "123 Open": {},
+    "123Pan": {},
+    "123PanLink": {},
+    "123PanShare": {},
+    "139Yun": {},
+    "189Cloud": {
+      "alert": "Nếu trình điều khiển này không hoạt động, bạn có thể thử dùng trình điều khiển 189PC."
+    },
+    "189CloudPC": {},
+    "189CloudTV": {},
+    "AList V3": {},
+    "AliDoc": {
+      "alert": "Trình điều khiển này hỗ trợ truy cập DingDrive thông qua DingTalk Docs và hiện chỉ có thể đọc."
+    },
+    "Alias": {},
+    "Aliyundrive": {
+      "alert": "Trình điều khiển này có thể có lỗi lặp vô hạn.\nĐã lỗi thời, không còn được duy trì và sẽ bị xóa trong phiên bản tương lai.\nChúng tôi khuyên bạn nên dùng trình điều khiển chính thức AliyundriveOpen."
+    },
+    "AliyundriveOpen": {},
+    "AliyundriveShare": {},
+    "AutoIndex": {},
+    "Azure Blob Storage": {},
+    "BaiduNetdisk": {},
+    "BaiduPhoto": {},
+    "Bunny Storage": {},
+    "CNB Releases": {},
+    "ChaoXingGroupDrive": {},
+    "Chunk": {},
+    "Cloudreve": {},
+    "Cloudreve V4": {},
+    "Crypt": {},
+    "Degoo": {},
+    "Doge": {},
+    "Doubao": {},
+    "DoubaoNew": {
+      "alert": "Không dùng 302 nếu bộ lưu trữ có thể được truy cập công khai.\nNếu không, liên kết tải xuống có thể làm lộ thông tin nhạy cảm như mã thông báo truy cập hoặc chữ ký.\nNgười khác có thể dùng liên kết bị lộ để truy cập tất cả tệp của bạn."
+    },
+    "DoubaoShare": {},
+    "Dropbox": {},
+    "Emby": {},
+    "FTP": {},
+    "FebBox": {},
+    "FeijiPan": {},
+    "GitHub API": {},
+    "GitHub Releases": {},
+    "GoogleDrive": {},
+    "GooglePhoto": {},
+    "GuangYaPan": {
+      "alert": "Đăng nhập SMS hai bước: (1) nhập phone_number (và captcha_token nếu cần), đặt send_code=true rồi lưu; (2) nhập verify_code và lưu để hoàn tất đăng nhập, tự động lưu access_token/refresh_token."
+    },
+    "HalalCloud": {},
+    "HalalCloudOpen": {},
+    "ILanZou": {},
+    "IPFS API": {},
+    "KodBox": {},
+    "Lanzou": {},
+    "LenovoNasShare": {},
+    "Local": {},
+    "MediaFire": {},
+    "MediaTrack": {},
+    "Mega_nz": {},
+    "Misskey": {},
+    "MoPan": {
+      "alert": "Ổ đĩa mạng này có thể lưu mật khẩu của bạn dưới dạng văn bản thuần. Hãy cẩn thận khi đặt mật khẩu"
+    },
+    "NeteaseMusic": {},
+    "Onedrive": {},
+    "Onedrive Sharelink": {},
+    "OnedriveAPP": {},
+    "OpenList": {},
+    "OpenListShare": {},
+    "PikPak": {},
+    "PikPakShare": {},
+    "ProtonDrive": {},
+    "Quark": {},
+    "QuarkOpen": {},
+    "QuarkTV": {},
+    "S3": {},
+    "SFTP": {},
+    "SMB": {},
+    "Seafile": {},
+    "Strm": {},
+    "Teambition": {},
+    "Teldrive": {},
+    "Terabox": {},
+    "Thunder": {},
+    "ThunderBrowser": {},
+    "ThunderBrowserExpert": {},
+    "ThunderExpert": {},
+    "ThunderX": {},
+    "ThunderXExpert": {},
+    "UC": {},
+    "UCTV": {},
+    "USS": {},
+    "UrlTree": {},
+    "Virtual": {},
+    "WPS": {},
+    "WebDav": {},
+    "WeiYun": {},
+    "WoPan": {},
+    "YandexDisk": {},
+    "cloudflare_imgbed": {}
+  },
+  "drivers": {
+    "115 Cloud": "115 Cloud",
+    "115 Open": "115 Open",
+    "115 Share": "115 Share",
+    "123 Open": "123 Open",
+    "123Pan": "123Pan",
+    "123PanLink": "123PanLink",
+    "123PanShare": "123PanShare",
+    "139Yun": "139Yun",
+    "189Cloud": "189Cloud",
+    "189CloudPC": "189CloudPC",
+    "189CloudTV": "189CloudTV",
+    "AList V3": "AList V3",
+    "AliDoc": "AliDoc",
+    "Alias": "Alias",
+    "Aliyundrive": "Aliyundrive",
+    "AliyundriveOpen": "AliyundriveOpen",
+    "AliyundriveShare": "AliyundriveShare",
+    "AutoIndex": "AutoIndex",
+    "Azure Blob Storage": "Azure Blob Storage",
+    "BaiduNetdisk": "BaiduNetdisk",
+    "BaiduPhoto": "BaiduPhoto",
+    "Bunny Storage": "Bunny Storage",
+    "CNB Releases": "CNB Releases",
+    "ChaoXingGroupDrive": "ChaoXingGroupDrive",
+    "Chunk": "Chunk",
+    "Cloudreve": "Cloudreve",
+    "Cloudreve V4": "Cloudreve V4",
+    "Crypt": "Crypt",
+    "Degoo": "Degoo",
+    "Doge": "Doge",
+    "Doubao": "Doubao",
+    "DoubaoNew": "DoubaoNew",
+    "DoubaoShare": "DoubaoShare",
+    "Dropbox": "Dropbox",
+    "Emby": "Emby",
+    "FTP": "FTP",
+    "FebBox": "FebBox",
+    "FeijiPan": "FeijiPan",
+    "GitHub API": "GitHub API",
+    "GitHub Releases": "GitHub Releases",
+    "GoogleDrive": "GoogleDrive",
+    "GooglePhoto": "GooglePhoto",
+    "GuangYaPan": "GuangYaPan",
+    "HalalCloud": "HalalCloud",
+    "HalalCloudOpen": "HalalCloudOpen",
+    "ILanZou": "ILanZou",
+    "IPFS API": "IPFS API",
+    "KodBox": "KodBox",
+    "Lanzou": "Lanzou",
+    "LenovoNasShare": "LenovoNasShare",
+    "Local": "Local",
+    "MediaFire": "MediaFire",
+    "MediaTrack": "MediaTrack",
+    "Mega_nz": "Mega nz",
+    "Misskey": "Misskey",
+    "MoPan": "MoPan",
+    "NeteaseMusic": "NeteaseMusic",
+    "Onedrive": "Onedrive",
+    "Onedrive Sharelink": "Onedrive Sharelink",
+    "OnedriveAPP": "OnedriveAPP",
+    "OpenList": "OpenList",
+    "OpenListShare": "OpenListShare",
+    "PikPak": "PikPak",
+    "PikPakShare": "PikPakShare",
+    "ProtonDrive": "ProtonDrive",
+    "Quark": "Quark",
+    "QuarkOpen": "QuarkOpen",
+    "QuarkTV": "QuarkTV",
+    "S3": "S3",
+    "SFTP": "SFTP",
+    "SMB": "SMB",
+    "Seafile": "Seafile",
+    "Strm": "Strm",
+    "Teambition": "Teambition",
+    "Teldrive": "Teldrive",
+    "Terabox": "Terabox",
+    "Thunder": "Thunder",
+    "ThunderBrowser": "ThunderBrowser",
+    "ThunderBrowserExpert": "ThunderBrowserExpert",
+    "ThunderExpert": "ThunderExpert",
+    "ThunderX": "ThunderX",
+    "ThunderXExpert": "ThunderXExpert",
+    "UC": "UC",
+    "UCTV": "UCTV",
+    "USS": "USS",
+    "UrlTree": "UrlTree",
+    "Virtual": "Virtual",
+    "WPS": "WPS",
+    "WebDav": "WebDav",
+    "WeiYun": "WeiYun",
+    "WoPan": "WoPan",
+    "YandexDisk": "YandexDisk",
+    "cloudflare_imgbed": "Cloudflare imgbed"
+  }
+}

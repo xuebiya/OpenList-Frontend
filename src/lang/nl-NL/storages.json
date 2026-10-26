@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "Exporteren",
+    "export_title": "Exporteer opslag naar JSON",
+    "export_tips": "Kopieer de opslag JSON hierboven.",
+    "import": "Importeren",
+    "import_title": "Opslag importeren uit JSON",
+    "import_success": "Succesvol geïmporteerd!",
+    "import_tips": "Plak de geëxporteerde opslag JSON om te importeren.",
+    "mount_path": "Koppel pad",
+    "mount_path-tips": "Het pad dat u wilt invoeren, is uniek en kan niet herhaald worden",
+    "driver": "Chauffeur",
+    "order": "Bestelling",
+    "order-tips": "Gebruikt voor sortering",
+    "usage": "Gebruik",
+    "status": "status",
+    "remark": "Opmerking",
+    "cache_expiration": "Cache vervaldatum",
+    "cache_expiration-tips": "De cache verlooptijd voor deze opslag (minuten)",
+    "custom_cache_policies": "Aangepast Cache Beleid",
+    "custom_cache_policies-tips": "De cache verloopregels voor deze opslag (minuten)",
+    "down_proxy_url": "Proxy URL downloaden",
+    "disable_proxy_sign": "Proxy Teken Uitschakelen",
+    "disable_proxy_sign-tips": "Schakel teken voor download proxy URL uit",
+    "web_proxy": "Web Proxy",
+    "webdav_policy": "WebDAV beleid",
+    "proxy_range": "Proxy Range",
+    "proxy_range-tips": "Proxyserver inschakelen is nodig",
+    "webdav_policys": {
+      "302_redirect": "302 doorverwijzing",
+      "use_proxy_url": "Gebruik proxy URL",
+      "native_proxy": "Native proxy"
+    },
+    "order_by": "Sorteer op",
+    "order_bys": {
+      "name": "naam",
+      "size": "Grootte",
+      "modified": "Gewijzigd"
+    },
+    "order_direction": "Order richting",
+    "order_directions": {
+      "asc": "Oplopend",
+      "desc": "Aflopend"
+    },
+    "extract_folder": "Mappen volgorde",
+    "extract_folders": {
+      "front": " Mappen bovenaan",
+      "back": "Mappen onderaan"
+    },
+    "enable_sign": "Signaal inschakelen",
+    "disable_index": "Index uitschakelen"
+  },
+  "table_fields": {
+    "status": {
+      "work": "Werken",
+      "disabled": "Uitgeschakeld"
+    }
+  },
+  "other": {
+    "start_load_success": "Starten met laden",
+    "load_all": "Alles herladen",
+    "filter_by_driver": "Filteren op chauffeur",
+    "table_layout": "Tabel lay-out"
+  }
+}

@@ -1,0 +1,1804 @@
+{
+  "115 Cloud": {
+    "cookie": "クッキー",
+    "cookie-tips": "QRコードトークンとクッキーが必要",
+    "limit_rate": "リミットレート",
+    "limit_rate-tips": "すべてのAPIリクエストレートを制限する([limit]r/1s)",
+    "page_size": "ページサイズ",
+    "page_size-tips": "リストapiのページサイズ (115ドライバ)",
+    "qrcode_source": "Qrcode ソース",
+    "qrcode_source-tips": "QRコードデバイスを選択し、デフォルトのLinuxを選択します",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "Ios",
+      "qandroid": "Qandroid",
+      "tv": "テレビ",
+      "web": "ウェブ",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "Qrcode トークン",
+    "qrcode_token-tips": "QRコードトークンとクッキーが必要",
+    "root_folder_id": "ルートフォルダID"
+  },
+  "115 Open": {
+    "access_token": "アクセストークン",
+    "limit_rate": "リミットレート",
+    "limit_rate-tips": "すべてのAPIリクエストレートを制限する([limit]r/1s)",
+    "order_by": "並び順",
+    "order_bys": {
+      "file_name": "ファイル名",
+      "file_size": "ファイルのサイズ",
+      "file_type": "ファイルの種類",
+      "user_utime": "ユーザーの残業時間"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "page_size": "ページサイズ",
+    "page_size-tips": "リストapi ページサイズ (115open driver)",
+    "refresh_token": "トークンを更新",
+    "root_folder_id": "ルートフォルダID"
+  },
+  "115 Share": {
+    "cookie": "クッキー",
+    "cookie-tips": "QRコードトークンとクッキーが必要",
+    "limit_rate": "リミットレート",
+    "limit_rate-tips": "すべてのAPIリクエストレートを制限(1r/[limit_rate]s)",
+    "page_size": "ページサイズ",
+    "page_size-tips": "リストapiのページサイズ (115ドライバ)",
+    "qrcode_source": "Qrcode ソース",
+    "qrcode_source-tips": "QRコードデバイスを選択し、デフォルトのLinuxを選択します",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "Ios",
+      "qandroid": "Qandroid",
+      "tv": "テレビ",
+      "web": "ウェブ",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "Qrcode トークン",
+    "qrcode_token-tips": "QRコードトークンとクッキーが必要",
+    "receive_code": "受信コード",
+    "receive_code-tips": "115のシェアリンクのコードを受け取る",
+    "root_folder_id": "ルートフォルダID",
+    "share_code": "コードを共有",
+    "share_code-tips": "シェアコード115のシェアリンク"
+  },
+  "123 Open": {
+    "AccessToken": "AccessToken",
+    "ClientID": "ClientID",
+    "ClientSecret": "ClientSecret",
+    "DirectLink": "DirectLink",
+    "DirectLink-tips": "ファイルをダウンロードするときに直接リンクを使用する",
+    "DirectLinkPrivateKey": "DirectLinkPrivateKey",
+    "DirectLinkPrivateKey-tips": "URL認証が有効な場合、直接リンク用の秘密鍵。",
+    "DirectLinkValidDuration": "DirectLinkValidDuration",
+    "DirectLinkValidDuration-tips": "分、URL認証が有効になっている場合",
+    "RefreshToken": "RefreshToken",
+    "UploadThread": "アップロードスレッド",
+    "UploadThread-tips": "アップロードのスレッドは",
+    "api_url_address": "API URL アドレス",
+    "root_folder_id": "ルートフォルダID",
+    "use_online_api": "オンラインAPIを使用する"
+  },
+  "123Pan": {
+    "UploadThread": "アップロードスレッド",
+    "UploadThread-tips": "アップロードのスレッドは",
+    "password": "パスワード",
+    "platform": "プラットフォーム",
+    "platform-tips": "APIリクエストで送信されるプラットフォームヘッダー値",
+    "root_folder_id": "ルートフォルダID",
+    "username": "ユーザー名"
+  },
+  "123PanLink": {
+    "origin_urls": "原点URL",
+    "origin_urls-tips": "structure:FolderName:\n  [FileSize:][Modified:]Url",
+    "private_key": "Private key",
+    "uid": "Uid",
+    "valid_duration": "有効期間",
+    "valid_duration-tips": "分"
+  },
+  "123PanShare": {
+    "accesstoken": "Accesstoken",
+    "root_folder_id": "ルートフォルダID",
+    "sharekey": "Sharekey",
+    "sharepassword": "Sharepassword"
+  },
+  "139Yun": {
+    "authorization": "承認",
+    "authorization-tips": "認証は単独で使用することができます。空の場合は、mail_cookieだけで高速ログイン、または完全ログインの代替としてmail_cookie+ユーザー名 + パスワードを使用してください。",
+    "client_type": "クライアント種別",
+    "client_type-tips": "パーソナルクラウドAPIに通知されるクライアント種別です。web（9）では最大50 GBのファイルをアップロードでき、pc（13）では1ファイルあたりのアップロード上限が500 GBになります",
+    "client_types": {
+      "pc": "Pc",
+      "web": "ウェブ"
+    },
+    "cloud_id": "クラウド ID",
+    "custom_upload_part_size": "カスタムアップロード部品サイズ",
+    "custom_upload_part_size-tips": "0 で自動設定",
+    "link_id": "Link id",
+    "link_id-tips": "複数の共有は、コンマまたは新しい行で区切られています。パスワードで保護された共有には、link_id#password を使用してください。",
+    "mail_cookies": "メールクッキー",
+    "mail_cookies-tips": "ログイン認証に使用されるmail.139.comからのクッキー。",
+    "password": "パスワード",
+    "password-tips": "mail_cookieでパスワードログインフォールバックを使用する場合にのみ必要です。",
+    "report_real_size": "実際のサイズを報告する",
+    "report_real_size-tips": "アップロード中に実際のファイルサイズを報告することを有効にする",
+    "root_folder_id": "ルートフォルダID",
+    "sms_code": "SMSコード",
+    "sms_code-tips": "OpenListが139メールSMS検証コードが送信されたことを報告した後にのみこれを記入し、ストレージを再度保存します。",
+    "type": "タイプ",
+    "types": {
+      "family": "家族",
+      "group": "グループ",
+      "personal": "個人用",
+      "personal_new": "個人用新規",
+      "share": "共有"
+    },
+    "use_large_thumbnail": "大きなサムネイルを使用",
+    "use_large_thumbnail-tips": "画像に大きなサムネイルを使用できるようにする",
+    "use_old_stream_upload": "古いストリームのアップロードを使用",
+    "use_old_stream_upload-tips": "古いストリームのアップロード方法を有効にする (迅速なアップロードはサポートされていません)",
+    "user_domain_id": "ユーザードメインID",
+    "user_domain_id-tips": "ud_id in Cookie, fill in to show disk ussion",
+    "username": "ユーザー名",
+    "username-tips": "mail_cookieでパスワードログインフォールバックを使用する場合にのみ必要です。"
+  },
+  "189Cloud": {
+    "cookie": "クッキー",
+    "cookie-tips": "CAPTCHAが必要な場合はCookieを入力してください",
+    "password": "パスワード",
+    "root_folder_id": "ルートフォルダID",
+    "username": "ユーザー名"
+  },
+  "189CloudPC": {
+    "access_token": "アクセストークン",
+    "client_sn": "クライアントシリアル番号",
+    "client_sn-tips": "公式クライアントから取得したデバイスのシリアル番号です。お持ちでない場合は空欄にしてください",
+    "device_id": "デバイスID",
+    "device_id-tips": "2回目のデバイス認証後に発行されるDEVICEID Cookieです。再認証を避けるため、保持してください",
+    "family_id": "ファミリーID",
+    "family_transfer": "家族での送金",
+    "generate_torrent": "Torrent を生成",
+    "generate_torrent-tips": "CAS拡張子を持つファイルをアップロード後に生成する",
+    "jg_open_id": "JgオープンID",
+    "jg_open_id-tips": "公式クライアントから通知される任意のプッシュID",
+    "login_type": "ログインタイプ",
+    "login_types": {
+      "password": "パスワード",
+      "qrcode": "Qrcode"
+    },
+    "no_use_ocr": "No use ocr",
+    "order_by": "並び順",
+    "order_bys": {
+      "filename": "ファイル名",
+      "filesize": "ファイル化",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "password": "パスワード",
+    "password-tips": "アクセストークンまたはリフレッシュトークンを指定する場合は不要です",
+    "rapid_upload": "迅速なアップロード",
+    "refresh_token": "トークンを更新",
+    "refresh_token-tips": "アカウントを切り替えるには、このフィールドをクリアしてください",
+    "root_folder_id": "ルートフォルダID",
+    "sms_code": "SMSコード",
+    "sms_code-tips": "2回目のデバイス認証に使用するSMSコードです。ログイン時に要求されたら入力し、再度保存してください",
+    "type": "タイプ",
+    "types": {
+      "family": "家族",
+      "personal": "個人用"
+    },
+    "upload_method": "アップロード方法",
+    "upload_methods": {
+      "old": "古い",
+      "rapid": "ラピッド",
+      "stream": "ストリーム"
+    },
+    "upload_thread": "スレッドをアップロード",
+    "upload_thread-tips": "1<=thread<=32",
+    "user_finger": "ユーザーフィンガープリント",
+    "user_finger-tips": "ログインリクエストとともに送信されるデバイスフィンガープリントです。空欄の場合は自動生成され、保持されます",
+    "username": "ユーザー名",
+    "username-tips": "アクセストークンまたはリフレッシュトークンを指定する場合は不要です",
+    "validate_code": "Validate code"
+  },
+  "189CloudTV": {
+    "access_token": "アクセストークン",
+    "family_id": "ファミリーID",
+    "order_by": "並び順",
+    "order_bys": {
+      "filename": "ファイル名",
+      "filesize": "ファイル化",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "rapid_upload": "迅速なアップロード",
+    "root_folder_id": "ルートフォルダID",
+    "type": "タイプ",
+    "types": {
+      "family": "家族",
+      "personal": "個人用"
+    },
+    "upload_thread": "スレッドをアップロード",
+    "upload_thread-tips": "1<=thread<=32"
+  },
+  "AList V3": {
+    "forward_archive_requests": "アーカイブリクエストを転送する",
+    "meta_password": "メタパスワード",
+    "pass_ip_to_upsteam": "IPをアップスチームに渡す",
+    "pass_ua_to_upsteam": "upsteamにuaを渡す",
+    "password": "パスワード",
+    "root_folder_path": "ルートフォルダのパス",
+    "token": "トークン",
+    "url": "URL",
+    "username": "ユーザー名"
+  },
+  "AliDoc": {
+    "cookie": "クッキー",
+    "cookie-tips": "DingTalk ドキュメントの web クッキー",
+    "root_folder_id": "ルートフォルダID"
+  },
+  "Alias": {
+    "details_pass_through": "詳細が通過します",
+    "download_concurrency": "同時通貨をダウンロード",
+    "download_concurrency-tips": "プロキシを有効にする必要があります",
+    "download_part_size": "部品サイズをダウンロード",
+    "download_part_size-tips": "プロキシを有効にする必要があります。単位: KB",
+    "file_consistency_check": "ファイルの整合性チェック",
+    "paths": "パス",
+    "provider_pass_through": "プロバイダーがパススルーしました",
+    "put_conflict_policy": "競合ポリシーの置き換え",
+    "put_conflict_policy-tips": "アップロード、コピー、移動、または解凍時に、ドライバーが同じバックエンドパスを処理する方法。",
+    "put_conflict_policys": {
+      "all": "すべての競合パスに入れる",
+      "all_strict": "完全な競合パスを許可する",
+      "deterministic": "ユニークなパスを許可する",
+      "deterministic_or_all": "ユニークなパスと完全な競合パスを許可する",
+      "disabled": "配置を無効にする",
+      "first": "最初の競合パスに置く",
+      "quota": "残りのスペースに基づく重み付きランダム負荷バランシング",
+      "quota_strict": "残りのスペースに基づく厳密な加重ランダム負荷分散（ランダムな負荷分散）",
+      "random": "ランダムロードバランシング"
+    },
+    "read_conflict_policy": "競合ポリシーを読んでいます",
+    "read_conflict_policys": {
+      "all": "パーツ単位での負荷分散機能",
+      "first": "最初の競合パスに対応するファイルを取得します",
+      "random": "ファイル毎にバランシングを読み込む"
+    },
+    "write_conflict_policy": "競合ポリシーを書く",
+    "write_conflict_policy-tips": "ディレクトリの名前変更、削除、またはディレクトリ作成時に、同一のバックエンドパスをドライバーがどのように処理するか。",
+    "write_conflict_policys": {
+      "all": "すべての競合パスに書き込み",
+      "all_strict": "完全な競合パスを許可する",
+      "deterministic": "ユニークなパスを許可する",
+      "deterministic_or_all": "ユニークなパスと完全な競合パスを許可する",
+      "disabled": "書き込みを無効にする",
+      "first": "最初の競合パスに書く"
+    }
+  },
+  "Aliyundrive": {
+    "internal_upload": "内部アップロード",
+    "order_by": "並び順",
+    "order_bys": {
+      "created_at": "作成日時",
+      "name": "名前",
+      "size": "サイズ",
+      "updated_at": "更新日時"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "ASC": "ASCの",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "迅速なアップロード",
+    "refresh_token": "トークンを更新",
+    "root_folder_id": "ルートフォルダID"
+  },
+  "AliyundriveOpen": {
+    "alipan_type": "アリパンの種類",
+    "alipan_types": {
+      "alipanTV": "AlipanTV",
+      "default": "デフォルト"
+    },
+    "api_url_address": "API URL アドレス",
+    "callback_concurrency": "コールバック同時通貨",
+    "callback_concurrency-tips": "Aliyunユーザーが共有する最大プロキシダウンロード数",
+    "client_id": "クライアント ID",
+    "client_id-tips": "持っていない場合は空にしてください",
+    "client_secret": "クライアントシークレット",
+    "client_secret-tips": "持っていない場合は空にしてください",
+    "drive_type": "ドライブの種類",
+    "drive_types": {
+      "backup": "バックアップ",
+      "default": "デフォルト",
+      "resource": "リソース"
+    },
+    "internal_upload": "内部アップロード",
+    "internal_upload-tips": "Aliyun ECSが北京にある場合は、オンにしてアップロード速度を向上させることができます。",
+    "livp_download_format": "Livのダウンロード形式",
+    "livp_download_formats": {
+      "jpeg": "Jpeg",
+      "mov": "Mov"
+    },
+    "order_by": "並び順",
+    "order_bys": {
+      "created_at": "作成日時",
+      "name": "名前",
+      "size": "サイズ",
+      "updated_at": "更新日時"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "ASC": "ASCの",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "迅速なアップロード",
+    "rapid_upload-tips": "このオプションを有効にすると、ファイルは最初にサーバーにアップロードされるため、進行状況は間違っています",
+    "refresh_token": "トークンを更新",
+    "remove_way": "削除方法",
+    "remove_ways": {
+      "delete": "削除",
+      "trash": "ごみ箱に入れる"
+    },
+    "root_folder_id": "ルートフォルダID",
+    "use_online_api": "オンラインAPIを使用する"
+  },
+  "AliyundriveShare": {
+    "order_by": "並び順",
+    "order_bys": {
+      "created_at": "作成日時",
+      "name": "名前",
+      "size": "サイズ",
+      "updated_at": "更新日時"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "ASC": "ASCの",
+      "DESC": "DESC"
+    },
+    "refresh_token": "トークンを更新",
+    "root_folder_id": "ルートフォルダID",
+    "share_id": "IDを共有",
+    "share_pwd": "Pwdを共有"
+  },
+  "AutoIndex": {
+    "ignore_file_names": "ファイル名を無視",
+    "item_xpath": "XPath の入力",
+    "modified_time_format": "変更日の形式",
+    "modified_time_format-tips": "時間点に基づいていなければならない 1/2 15:04:05 -0700 MST 2006",
+    "modified_xpath": "変更時間 XPath",
+    "name_xpath": "ファイル名 XPath",
+    "size_xpath": "XPath のファイル サイズ",
+    "url": "URL"
+  },
+  "Azure Blob Storage": {
+    "access_key": "アクセスキー",
+    "access_key-tips": "認証に使用される Azure Storage のアクセスキーです。 https://learn.microsoft.com/azure/storage/common/storage-account-keys-manage",
+    "container_name": "コンテナ名",
+    "container_name-tips": "The name of the container in Azure Storage (created in the Azure port). https://learn.microsoft.com/azure/storage/blobs/blob-containers-portal",
+    "endpoint": "Endpoint",
+    "endpoint-tips": "例: https://accountname.blob.core.windows.net/. Azure Storageの完全エンドポイントURL。このURLには、固有のストレージアカウント名(3〜24桁の数字と小文字のみ)が含まれます。",
+    "root_folder_path": "ルートフォルダのパス",
+    "sign_url_expire": "URL の期限切れに署名",
+    "sign_url_expire-tips": "SAS URL の有効期限を時間単位で指定します。"
+  },
+  "BaiduNetdisk": {
+    "api_url_address": "API URL アドレス",
+    "client_id": "クライアント ID",
+    "client_secret": "クライアントシークレット",
+    "custom_crack_ua": "カスタム クラック ア",
+    "custom_upload_part_size": "カスタムアップロード部品サイズ",
+    "custom_upload_part_size-tips": "0 で自動設定",
+    "download_api": "APIをダウンロード",
+    "download_apis": {
+      "crack": "クラック",
+      "crack_video": "ビデオをクラックする",
+      "official": "オフィシャル"
+    },
+    "low_bandwith_upload_mode": "低帯域幅アップロードモード",
+    "only_list_video_file": "ビデオファイルのみを一覧表示する",
+    "order_by": "並び順",
+    "order_bys": {
+      "name": "名前",
+      "size": "サイズ",
+      "time": "時刻"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "トークンを更新",
+    "root_folder_path": "ルートフォルダのパス",
+    "upload_api": "APIをアップロード",
+    "upload_thread": "スレッドをアップロード",
+    "upload_thread-tips": "1<=thread<=32",
+    "upload_timeout": "アップロードのタイムアウト",
+    "upload_timeout-tips": "スライスごとのアップロードのタイムアウト時間（秒）",
+    "use_dynamic_upload_api": "動的アップロードAPIを使用する",
+    "use_dynamic_upload_api-tips": "有効にすると、動的に api ドメインをアップロードします。'Upload API' 設定は取得に失敗した場合、フォールバックとして使用されます。",
+    "use_online_api": "オンラインAPIを使用する"
+  },
+  "BaiduPhoto": {
+    "album_id": "アルバムID",
+    "cookie": "クッキー",
+    "delete_origin": "原点を削除",
+    "show_type": "種類を表示",
+    "show_types": {
+      "root": "ルート",
+      "root_only_album": "ルートのみのアルバム",
+      "root_only_file": "ルートのみのファイル"
+    },
+    "upload_thread": "スレッドをアップロード",
+    "upload_thread-tips": "1<=thread<=32"
+  },
+  "Bunny Storage": {
+    "access_key": "アクセスキー",
+    "cdn_base_url": "Cdn ベース URL",
+    "cdn_token_include_ip": "Cdn token include ip",
+    "cdn_token_key": "Cdnトークンキー",
+    "cdn_token_method": "Cdnトークンメソッド",
+    "cdn_token_methods": {
+      "hmac_sha256": "Hmac sha256",
+      "sha256": "Sha256"
+    },
+    "endpoint": "Endpoint",
+    "placeholder": "プレースホルダー",
+    "root_folder_path": "ルートフォルダのパス",
+    "sign_url_expire": "URL の期限切れに署名",
+    "storage_zone_name": "ストレージゾーン名"
+  },
+  "CNB Releases": {
+    "default_branch": "デフォルトブランチ",
+    "default_branch-tips": "新しいリリースのデフォルトブランチ",
+    "repo": "リポジトリ",
+    "root_folder_id": "ルートフォルダID",
+    "token": "トークン",
+    "use_tag_name": "タグ名を使用",
+    "use_tag_name-tips": "リリース名の代わりにタグ名を使用する"
+  },
+  "ChaoXingGroupDrive": {
+    "bbsid": "Bbsid",
+    "cookie": "クッキー",
+    "password": "パスワード",
+    "root_folder_id": "ルートフォルダID",
+    "user_name": "ユーザー名"
+  },
+  "Chunk": {
+    "chunk_large_file_only": "チャンクサイズのファイルのみ",
+    "chunk_large_file_only-tips": "ファイルサイズ > part_size の場合のみ",
+    "chunk_prefix": "Chunk prefix",
+    "chunk_prefix-tips": "チャンクフォルダの接頭辞です",
+    "custom_ext": "カスタムテキスト",
+    "num_list_workers": "ワーカー数",
+    "part_size": "部品サイズ",
+    "part_size-tips": "バイト",
+    "remote_path": "リモートパス",
+    "show_hidden": "非表示を表示",
+    "show_hidden-tips": "隠しディレクトリとファイルを表示",
+    "store_hash": "ストアハッシュ",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": ".thumbnailsフォルダの下にあらかじめ生成されたサムネイルを有効にする"
+  },
+  "Cloudreve": {
+    "address": "住所",
+    "cookie": "クッキー",
+    "custom_ua": "カスタム ua",
+    "enable_thumb_and_folder_size": "サムネイルとフォルダのサイズを有効にする",
+    "password": "パスワード",
+    "root_folder_path": "ルートフォルダのパス",
+    "username": "ユーザー名"
+  },
+  "Cloudreve V4": {
+    "access_token": "アクセストークン",
+    "address": "住所",
+    "custom_ua": "カスタム ua",
+    "enable_folder_size": "フォルダサイズを有効にする",
+    "enable_thumb": "サムを有効にする",
+    "enable_version_upload": "バージョンアップロードを有効にする",
+    "hide_uploading": "アップロードを非表示",
+    "order_by": "並び順",
+    "order_bys": {
+      "created_at": "作成日時",
+      "name": "名前",
+      "size": "サイズ",
+      "updated_at": "更新日時"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "password": "パスワード",
+    "refresh_token": "トークンを更新",
+    "root_folder_path": "ルートフォルダのパス",
+    "username": "ユーザー名"
+  },
+  "Crypt": {
+    "directory_name_encryption": "ディレクトリ名の暗号化",
+    "directory_name_encryptions": {
+      "false": "False",
+      "true": "True"
+    },
+    "encrypted_suffix": "暗号化されたサフィックス",
+    "encrypted_suffix-tips": "高度なユーザーのみ!暗号化されたファイルにはこのサフィックスがあります",
+    "filename_encoding": "ファイル名のエンコーディング",
+    "filename_encoding-tips": "上級ユーザーのみ!",
+    "filename_encodings": {
+      "base32": "Base32",
+      "base32768": "Base32768",
+      "base64": "Base64"
+    },
+    "filename_encryption": "ファイル名の暗号化",
+    "filename_encryptions": {
+      "obfuscate": "難読化",
+      "off": "オフ",
+      "standard": "標準"
+    },
+    "password": "パスワード",
+    "password-tips": "メインパスワード",
+    "remote_path": "リモートパス",
+    "remote_path-tips": "暗号化されたデータが保管されている場所",
+    "salt": "塩",
+    "salt-tips": "塩分がわからない場合は、2番目のパスワードとして扱います。オプションですがお勧めします",
+    "show_hidden": "非表示を表示",
+    "show_hidden-tips": "隠しディレクトリとファイルを表示",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": ".thumbnailsフォルダの下にあらかじめ生成されたサムネイルを有効にする"
+  },
+  "Degoo": {
+    "access_token": "アクセストークン",
+    "access_token-tips": "DegooのAPIのアクセストークンが自動的に取得されます",
+    "password": "パスワード",
+    "password-tips": "Debooアカウントのパスワード",
+    "refresh_token": "トークンを更新",
+    "refresh_token-tips": "自動更新のトークンを更新します。自動的に取得されます。",
+    "root_folder_id": "ルートフォルダID",
+    "username": "ユーザー名",
+    "username-tips": "Degooアカウントのメール アドレス"
+  },
+  "Doge": {
+    "access_key_id": "アクセスキーID",
+    "add_filename_to_disposition": "ファイル名を処分に追加",
+    "add_filename_to_disposition-tips": "Content-Disposition ヘッダーにファイル名を追加します。",
+    "bucket": "バケツ入りバケツ",
+    "custom_host": "カスタムホスト",
+    "direct_upload_host": "直接アップロードホスト",
+    "enable_custom_host_presign": "ホストの任命を有効にする",
+    "enable_direct_upload": "直接アップロードを有効にする",
+    "endpoint": "Endpoint",
+    "force_path_style": "強制的にパスのスタイル",
+    "list_object_version": "リストオブジェクトのバージョン",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "プレースホルダー",
+    "region": "地域",
+    "remove_bucket": "バケツを削除",
+    "remove_bucket-tips": "カスタムホストを使用している場合、パスから Bucket 名を削除します。",
+    "root_folder_path": "ルートフォルダのパス",
+    "secret_access_key": "シークレットアクセスキー",
+    "session_token": "セッション トークン",
+    "sign_url_expire": "URL の期限切れに署名",
+    "user_agent": "ユーザーエージェント",
+    "user_agent-tips": "カスタム User-Agent for S3 リクエスト。"
+  },
+  "Doubao": {
+    "cookie": "クッキー",
+    "download_api": "APIをダウンロード",
+    "download_apis": {
+      "get_download_info": "ダウンロード情報を取得",
+      "get_file_url": "ファイルの URL を取得"
+    },
+    "limit_rate": "リミットレート",
+    "limit_rate-tips": "すべてのAPIリクエストレートを制限する([limit]r/1s)",
+    "root_folder_id": "ルートフォルダID",
+    "upload_thread": "スレッドをアップロード"
+  },
+  "DoubaoNew": {
+    "app_id": "アプリ id",
+    "app_id-tips": "Doubao アプリID",
+    "auth_client_id": "認証クライアント ID",
+    "auth_client_id-tips": "Doubao Biz認証クライアントID",
+    "auth_client_type": "認証クライアントタイプ",
+    "auth_client_type-tips": "Doubao Biz認証クライアントタイプ",
+    "auth_scope": "認証スコープ",
+    "auth_scope-tips": "Doubao Biz認証スコープ",
+    "auth_sdk_source": "認証sdkソース",
+    "auth_sdk_source-tips": "Doubao Biz認証SDKソース",
+    "auth_sdk_version": "認証sdkバージョン",
+    "auth_sdk_version-tips": "Doubao Biz認証SDKバージョン",
+    "cookie": "クッキー",
+    "cookie-tips": "Web Cookie",
+    "dpop_key_secret": "Dpop キーシークレット",
+    "dpop_key_secret-tips": "DPoPトークンを生成するためのDPoPキーシークレット",
+    "ignore_jwt_check": "Jwtチェックを無視",
+    "ignore_jwt_check-tips": "時間の問題を防ぐためにJWTチェックを無視するか",
+    "root_folder_id": "ルートフォルダID",
+    "share_link": "リンクを共有",
+    "share_link-tips": "共有リンクをダウンロードに使用するか"
+  },
+  "DoubaoShare": {
+    "cookie": "クッキー",
+    "root_folder_path": "ルートフォルダのパス",
+    "share_ids": "IDを共有"
+  },
+  "Dropbox": {
+    "RootNamespaceId": "RootNamespaceId",
+    "api_url_address": "API URL アドレス",
+    "client_id": "クライアント ID",
+    "client_id-tips": "持っていない場合は空にしてください",
+    "client_secret": "クライアントシークレット",
+    "client_secret-tips": "持っていない場合は空にしてください",
+    "refresh_token": "トークンを更新",
+    "root_folder_path": "ルートフォルダのパス",
+    "use_online_api": "オンラインAPIを使用する"
+  },
+  "Emby": {
+    "api_key": "API キー",
+    "link_method": "リンク方法",
+    "link_methods": {
+      "download": "ダウンロード",
+      "stream": "ストリーム"
+    },
+    "password": "パスワード",
+    "root_folder_id": "ルートフォルダID",
+    "url": "URL",
+    "user_id": "ユーザー ID",
+    "username": "ユーザー名"
+  },
+  "FTP": {
+    "address": "住所",
+    "cwd_list": "リストにCwdを使用する",
+    "cwd_list-tips": "リストの前にディレクトリを入力してください",
+    "encoding": "エンコード",
+    "password": "パスワード",
+    "root_folder_path": "ルートフォルダのパス",
+    "username": "ユーザー名"
+  },
+  "FebBox": {
+    "client_id": "クライアント ID",
+    "client_secret": "クライアントシークレット",
+    "page_size": "ページサイズ",
+    "page_size-tips": "list api per page size of FebBox driver",
+    "root_folder_id": "ルートフォルダID",
+    "sort_rule": "並べ替えルール",
+    "sort_rules": {
+      "ext_asc": "Ext asc",
+      "ext_desc": "Ext desc",
+      "name_asc": "名前 asc",
+      "name_desc": "名前 desc",
+      "size_asc": "Size asc",
+      "size_desc": "サイズdesc",
+      "update_asc": "アップデートする",
+      "update_desc": "デスクを更新"
+    },
+    "user_ip": "ユーザー IP",
+    "user_ip-tips": "ダウンロードを高速化できるダウンロードリンク用のユーザーIPアドレスです"
+  },
+  "FeijiPan": {
+    "ip": "Ip",
+    "password": "パスワード",
+    "root_folder_id": "ルートフォルダID",
+    "username": "ユーザー名"
+  },
+  "GitHub API": {
+    "accurate_modified_time": "正確な変更時間",
+    "accurate_modified_time-tips": "小さなディレクトリ一覧で最高の精度で変更された時間。デフォルトは無効になっています。GitHub GraphQL リクエストを追加し、失敗時に古いゼロ時間値に戻ります。",
+    "author_email": "著者のメールアドレス",
+    "author_name": "投稿者名",
+    "committer_email": "コミッターメール",
+    "committer_name": "コミッター名",
+    "copy_commit_message": "コミットメッセージをコピー",
+    "delete_commit_message": "コミットメッセージを削除",
+    "gh_proxy": "Gh プロキシ",
+    "gh_proxy-tips": "GitHub プロキシ、例: https://ghproxy.net/raw.githubusercontent.com または https://gh-proxy.com/raw.githubusercontent.com",
+    "gpg_key_passphrase": "Gpgキーのパスワード",
+    "gpg_private_key": "Gpg private key",
+    "mkdir_commit_message": "Mkdir commit message",
+    "move_commit_message": "コミットメッセージを移動",
+    "owner": "所有者",
+    "put_commit_message": "コミットメッセージを置く",
+    "ref": "参照",
+    "ref-tips": "デフォルトではブランチ、タグ、またはコミット SA 、メインブランチ。",
+    "rename_commit_message": "コミットメッセージの名前を変更",
+    "repo": "リポジトリ",
+    "root_folder_path": "ルートフォルダのパス",
+    "token": "トークン"
+  },
+  "GitHub Releases": {
+    "gh_proxy": "Gh プロキシ",
+    "gh_proxy-tips": "GitHub proxy, e.g. https://ghproxy.net/github.com or https://gh-proxy.com/github.com ",
+    "max_page": "最大ページ",
+    "max_page-tips": "フェッチする最大ページ (0 = 無制限) は、すべてのバージョンを表示するときにのみ動作します",
+    "per_page": "ページごと",
+    "per_page-tips": "ページあたりのリリース（最大100）は、すべてのバージョンを表示するときにのみ動作します",
+    "repo_structure": "リポジトリの構造",
+    "repo_structure-tips": "structure:[path:]org/repo",
+    "root_folder_path": "ルートフォルダのパス",
+    "show_all_version": "すべてのバージョンを表示",
+    "show_all_version-tips": "すべてのバージョンを表示",
+    "show_readme": "readme を表示",
+    "show_readme-tips": "READMEを表示、LICENSEファイル",
+    "show_source_code": "ソースコードを表示",
+    "show_source_code-tips": "ソースコードを表示 (zip/tar.gz)",
+    "token": "トークン",
+    "token-tips": "プライベートリポジトリにアクセスするか、レート制限を上げたい場合はGitHubトークン"
+  },
+  "GoogleDrive": {
+    "api_url_address": "API URL アドレス",
+    "chunk_size": "チャンクのサイズ",
+    "chunk_size-tips": "アップロード中のチャンクサイズ(単位:MB)",
+    "client_id": "クライアント ID",
+    "client_secret": "クライアントシークレット",
+    "disable_disk_usage": "ディスクの使用を無効にする",
+    "order_by": "並び順",
+    "order_by-tips": "例: フォルダ,名前,modifiedTime",
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "トークンを更新",
+    "root_folder_id": "ルートフォルダID",
+    "use_online_api": "オンラインAPIを使用する"
+  },
+  "GooglePhoto": {
+    "client_id": "クライアント ID",
+    "client_secret": "クライアントシークレット",
+    "refresh_token": "トークンを更新",
+    "root_folder_id": "ルートフォルダID",
+    "show_archive": "アーカイブを表示"
+  },
+  "GuangYaPan": {
+    "access_token": "アクセストークン",
+    "access_token-tips": "Bearer access token (refresh_token が指定されている場合は任意)",
+    "captcha_token": "Captcha トークン",
+    "captcha_token-tips": "/v1/auth/verification に必要なCaptcha トークン",
+    "client_id": "クライアント ID",
+    "client_id-tips": "GuangYaPan APIのクライアントIDを指定する必要があります",
+    "device_id": "デバイス ID",
+    "device_id-tips": "任意のカスタムデバイス ID (32 16 進文字)、空の場合に自動生成されます",
+    "device_sign": "デバイスのサイン",
+    "device_sign-tips": "オプションのカスタム X-Device-Sign ヘッダー (device_id から空の場合に生成)",
+    "order_by": "並び順",
+    "order_by-tips": "ファイルリストで使用されるソートフィールド",
+    "page_size": "ページサイズ",
+    "phone_number": "電話番号",
+    "phone_number-tips": "SMSログイン用の電話番号。例：+86 13800000000",
+    "refresh_token": "トークンを更新",
+    "refresh_token-tips": "自動ログイン/自動更新のトークンを更新",
+    "root_path": "ルートパス",
+    "root_path-tips": "GuangYapanクラウドドライブのフルパス",
+    "send_code": "コードを送信",
+    "send_code-tips": "trueを設定し、SMSコードを送信するために保存します。送信後に自動的にfalseにリセットされます",
+    "sort_type": "ソートタイプ",
+    "sort_type-tips": "ファイルリストで使用されるソート方向",
+    "verification_id": "確認ID",
+    "verification_id-tips": "SMSコードを送信した後に自動生成されます。手動で編集しないでください",
+    "verify_code": "コードを確認",
+    "verify_code-tips": "SMS認証コードが電話番号で使用されます。入力して保存してログインを終了します。"
+  },
+  "HalalCloud": {
+    "app_id": "アプリ id",
+    "app_secret": "アプリのシークレット",
+    "app_version": "アプリのバージョン",
+    "refresh_token": "トークンを更新",
+    "refresh_token-tips": "ログインタイプはrefresh_tokenです。これは必須です",
+    "root_folder_path": "ルートフォルダのパス",
+    "upload_thread": "スレッドをアップロード",
+    "upload_thread-tips": "1 <= thread <= 32"
+  },
+  "HalalCloudOpen": {
+    "client_id": "クライアント ID",
+    "client_secret": "クライアントシークレット",
+    "host": "ホスト",
+    "refresh_token": "トークンを更新",
+    "refresh_token-tips": "個人的なAPIアプローチを使用する場合は、RefreshTokenは必要ありません。",
+    "root_folder_path": "ルートフォルダのパス",
+    "timeout": "タイムアウト",
+    "timeout-tips": "タイムアウト (秒)",
+    "upload_thread": "スレッドをアップロード",
+    "upload_thread-tips": "1 <= thread <= 32"
+  },
+  "ILanZou": {
+    "ip": "Ip",
+    "password": "パスワード",
+    "root_folder_id": "ルートフォルダID",
+    "username": "ユーザー名"
+  },
+  "IPFS API": {
+    "endpoint": "Endpoint",
+    "gateway": "ゲートウェイ",
+    "mode": "モード",
+    "modes": {
+      "ipfs": "Ipfs",
+      "ipns": "Ipns",
+      "mfs": "Mfs"
+    },
+    "root_folder_path": "ルートフォルダのパス"
+  },
+  "KodBox": {
+    "address": "住所",
+    "password": "パスワード",
+    "root_folder_path": "ルートフォルダのパス",
+    "username": "ユーザー名"
+  },
+  "Lanzou": {
+    "account": "アカウント",
+    "baseUrl": "BaseUrl",
+    "baseUrl-tips": "ファイル操作の基本URL",
+    "cookie": "クッキー",
+    "cookie-tips": "約 15 日間有効です。shareUrl が使用されている場合は無視します。",
+    "password": "パスワード",
+    "repair_file_info": "ファイル情報を修復",
+    "repair_file_info-tips": "Webdav を使用するには、有効にする必要があります。",
+    "root_folder_id": "ルートフォルダID",
+    "shareUrl": "ShareUrl",
+    "shareUrl-tips": "共有ページを取得するために使用されます",
+    "share_password": "パスワードを共有",
+    "type": "タイプ",
+    "types": {
+      "account": "アカウント",
+      "cookie": "クッキー",
+      "url": "URL"
+    },
+    "user_agent": "ユーザーエージェント"
+  },
+  "LenovoNasShare": {
+    "host": "ホスト",
+    "host-tips": "ローカルエリアネットワークに変更することができます",
+    "root_folder_path": "ルートフォルダのパス",
+    "share_id": "IDを共有",
+    "share_id-tips": "最後の / 共有リンクの後の部分",
+    "share_pwd": "Pwdを共有",
+    "share_pwd-tips": "共有リンクのパスワード",
+    "show_root_folder": "ルートフォルダを表示"
+  },
+  "Local": {
+    "directory_size": "ディレクトリのサイズ",
+    "directory_size-tips": "ホストのパフォーマンスに影響を与える可能性があります",
+    "mkdir_perm": "Mkdir perm",
+    "pdf_thumbnail": "Pdf thumbnail",
+    "pdf_thumbnail-tips": "macOS でクイックルックを使用して PDF の最初ページのサムネイルを生成する",
+    "recycle_bin_path": "ごみ箱のパス",
+    "recycle_bin_path-tips": "ごみ箱へのパス、空の場合は永久に削除、または「完全に削除」を維持",
+    "root_folder_path": "ルートフォルダのパス",
+    "show_hidden": "非表示を表示",
+    "show_hidden-tips": "隠しディレクトリとファイルを表示",
+    "thumb_cache_folder": "Thumb キャッシュフォルダ",
+    "thumb_concurrency": "親指並行性",
+    "thumb_concurrency-tips": "同時に生成されるサムネイルの数を指定します。同時に生成できるサムネイルの数を指定します。",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "サムネイルを有効にする",
+    "video_thumb_pos": "ビデオサムポス",
+    "video_thumb_pos-tips": "動画サムネイルの位置。数値が数値（整数のドット浮動小数点）の場合、時間を秒単位で表します。 値が '%' で終わると、動画の再生時間の割合を表します。"
+  },
+  "MediaFire": {
+    "chunk_size": "チャンクのサイズ",
+    "cookie": "クッキー",
+    "cookie-tips": "MediaFire API 認証に必要です",
+    "limit_rate": "リミットレート",
+    "limit_rate-tips": "すべてのAPIリクエストレートを制限する([limit]r/1s)",
+    "order_by": "並び順",
+    "order_bys": {
+      "name": "名前",
+      "size": "サイズ",
+      "time": "時刻"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_path": "ルートフォルダのパス",
+    "session_token": "セッション トークン",
+    "session_token-tips": "MediaFire APIのOptional は、cookieから自動取得できます。",
+    "upload_threads": "アップロードスレッド",
+    "upload_threads-tips": "同時アップロードスレッド"
+  },
+  "MediaTrack": {
+    "access_token": "アクセストークン",
+    "order_by": "並び順",
+    "order_bys": {
+      "size": "サイズ",
+      "title": "タイトル",
+      "updated_at": "更新日時"
+    },
+    "order_desc": "Order desc",
+    "project_id": "プロジェクトID",
+    "root_folder_id": "ルートフォルダID"
+  },
+  "Mega_nz": {
+    "email": "Eメールアドレス",
+    "move_to_trash": "ゴミ箱に移動",
+    "move_to_trash-tips": "ファイルを削除するときにゴミ箱に移動",
+    "password": "パスワード",
+    "two_fa_code": "2 fa code",
+    "two_fa_code-tips": "2FA6桁のコード、2FAコードだけを入力すると、リロードドライバはサポートされません",
+    "two_fa_secret": "2つのファシークレット",
+    "two_fa_secret-tips": "2FAシークレット"
+  },
+  "Misskey": {
+    "access_token": "アクセストークン",
+    "endpoint": "Endpoint",
+    "root_folder_path": "ルートフォルダのパス"
+  },
+  "MoPan": {
+    "cloud_id": "クラウド ID",
+    "device_info": "端末情報",
+    "order_by": "並び順",
+    "order_bys": {
+      "filename": "ファイル名",
+      "filesize": "ファイル化",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "password": "パスワード",
+    "phone": "電話番号",
+    "root_folder_id": "ルートフォルダID",
+    "sms_code": "SMSコード",
+    "sms_code-tips": "入力 'send' 送信 SMS ",
+    "upload_thread": "スレッドをアップロード",
+    "upload_thread-tips": "1<=thread<=32"
+  },
+  "NeteaseMusic": {
+    "cookie": "クッキー",
+    "song_limit": "曲の制限",
+    "song_limit-tips": "デフォルトでは200曲のみ取得できます"
+  },
+  "Onedrive": {
+    "api_url_address": "API URL アドレス",
+    "chunk_size": "チャンクのサイズ",
+    "client_id": "クライアント ID",
+    "client_secret": "クライアントシークレット",
+    "custom_host": "カスタムホスト",
+    "custom_host-tips": "OneDriveダウンロードリンクのカスタムホスト",
+    "disable_disk_usage": "ディスクの使用を無効にする",
+    "enable_direct_upload": "直接アップロードを有効にする",
+    "enable_direct_upload-tips": "クライアントから OneDrive への直接アップロードを有効にする",
+    "is_sharepoint": "シェアポイント",
+    "redirect_uri": "リダイレクトURI",
+    "refresh_token": "トークンを更新",
+    "region": "地域",
+    "regions": {
+      "cn": "Cn",
+      "de": "De",
+      "global": "グローバル",
+      "us": "私たちの"
+    },
+    "root_folder_path": "ルートフォルダのパス",
+    "site_id": "Site id",
+    "use_online_api": "オンラインAPIを使用する"
+  },
+  "Onedrive Sharelink": {
+    "disable_disk_usage": "ディスクの使用を無効にする",
+    "enable_direct_upload": "直接アップロードを有効にする",
+    "enable_direct_upload-tips": "OpenListを経由せずにOneDriveに直接アップロードを許可する",
+    "password": "パスワード",
+    "root_folder_path": "ルートフォルダのパス",
+    "url": "URL"
+  },
+  "OnedriveAPP": {
+    "chunk_size": "チャンクのサイズ",
+    "client_id": "クライアント ID",
+    "client_secret": "クライアントシークレット",
+    "custom_host": "カスタムホスト",
+    "custom_host-tips": "OneDriveダウンロードリンクのカスタムホスト",
+    "disable_disk_usage": "ディスクの使用を無効にする",
+    "email": "Eメールアドレス",
+    "enable_direct_upload": "直接アップロードを有効にする",
+    "enable_direct_upload-tips": "クライアントから OneDrive への直接アップロードを有効にする",
+    "region": "地域",
+    "regions": {
+      "cn": "Cn",
+      "de": "De",
+      "global": "グローバル",
+      "us": "私たちの"
+    },
+    "root_folder_path": "ルートフォルダのパス",
+    "tenant_id": "Tenant id"
+  },
+  "OpenList": {
+    "forward_archive_requests": "アーカイブリクエストを転送する",
+    "meta_password": "メタパスワード",
+    "pass_ip_to_upsteam": "上流にIPを渡す",
+    "pass_refresh_flag_to_upsteam": "リフレッシュフラグをupsteamに渡します",
+    "pass_ua_to_upsteam": "UAを上流へ",
+    "password": "パスワード",
+    "root_folder_path": "ルートフォルダのパス",
+    "token": "トークン",
+    "url": "URL",
+    "username": "ユーザー名"
+  },
+  "OpenListShare": {
+    "forward_archive_requests": "アーカイブリクエストを転送する",
+    "pwd": "Pwd",
+    "root_folder_path": "ルートフォルダのパス",
+    "sid": "Sid",
+    "url": "URL"
+  },
+  "PikPak": {
+    "captcha_token": "Captcha トークン",
+    "device_id": "デバイス ID",
+    "disable_media_link": "メディアリンクを無効にする",
+    "password": "パスワード",
+    "platform": "プラットフォーム",
+    "platforms": {
+      "android": "Android",
+      "pc": "Pc",
+      "web": "ウェブ"
+    },
+    "refresh_token": "トークンを更新",
+    "root_folder_id": "ルートフォルダID",
+    "skip_verification": "認証をスキップ",
+    "skip_verification-tips": "キャプチャAPIが失敗する代わりに返す人間認証URLを無視してください。有効にするとPikPakのリスクコントロールが発生する可能性があります。",
+    "username": "ユーザー名"
+  },
+  "PikPakShare": {
+    "device_id": "デバイス ID",
+    "platform": "プラットフォーム",
+    "platforms": {
+      "android": "Android",
+      "pc": "Pc",
+      "web": "ウェブ"
+    },
+    "root_folder_id": "ルートフォルダID",
+    "share_id": "IDを共有",
+    "share_pwd": "Pwdを共有",
+    "use_transcoding_address": "トランスコーディングアドレスを使用"
+  },
+  "ProtonDrive": {
+    "chunk_size": "チャンクのサイズ",
+    "email": "Eメールアドレス",
+    "password": "パスワード",
+    "root_folder_id": "ルートフォルダID",
+    "two_fa_code": "2 fa code",
+    "use_reusable_login": "再利用可能なログインを使用する",
+    "use_reusable_login-tips": "ユーザー名/パスワードの代わりに再利用可能なログイン資格情報を使用する"
+  },
+  "Quark": {
+    "cookie": "クッキー",
+    "only_list_video_file": "ビデオファイルのみを一覧表示する",
+    "order_by": "並び順",
+    "order_bys": {
+      "file_name": "ファイル名",
+      "file_type": "ファイルの種類",
+      "none": "なし",
+      "updated_at": "更新日時"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_id": "ルートフォルダID",
+    "use_transcoding_address": "トランスコーディングアドレスを使用",
+    "use_transcoding_address-tips": "トランスコードされたビデオを見ることができ、302リダイレクトをサポートします"
+  },
+  "QuarkOpen": {
+    "access_token": "アクセストークン",
+    "api_url_address": "API URL アドレス",
+    "app_id": "アプリ id",
+    "app_id-tips": "持っていない場合は空にしてください",
+    "order_by": "並び順",
+    "order_bys": {
+      "created_at": "作成日時",
+      "file_name": "ファイル名",
+      "file_type": "ファイルの種類",
+      "none": "なし",
+      "updated_at": "更新日時"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "トークンを更新",
+    "root_folder_id": "ルートフォルダID",
+    "sign_key": "署名キー",
+    "sign_key-tips": "持っていない場合は空にしてください",
+    "use_online_api": "オンラインAPIを使用する"
+  },
+  "QuarkTV": {
+    "device_id": "デバイス ID",
+    "link_method": "リンク方法",
+    "link_methods": {
+      "download": "ダウンロード",
+      "streaming": "ストリーミング"
+    },
+    "order_by": "並び順",
+    "order_bys": {
+      "file_name": "ファイル名",
+      "updated_at": "更新日時"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "query_token": "クエリトークン",
+    "query_token-tips": "' を編集しない",
+    "refresh_token": "トークンを更新",
+    "root_folder_id": "ルートフォルダID"
+  },
+  "S3": {
+    "access_key_id": "アクセスキーID",
+    "add_filename_to_disposition": "ファイル名を処分に追加",
+    "add_filename_to_disposition-tips": "Content-Disposition ヘッダーにファイル名を追加します。",
+    "bucket": "バケツ入りバケツ",
+    "custom_host": "カスタムホスト",
+    "direct_upload_host": "直接アップロードホスト",
+    "enable_custom_host_presign": "ホストの任命を有効にする",
+    "enable_direct_upload": "直接アップロードを有効にする",
+    "endpoint": "Endpoint",
+    "force_path_style": "強制的にパスのスタイル",
+    "list_object_version": "リストオブジェクトのバージョン",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "プレースホルダー",
+    "region": "地域",
+    "remove_bucket": "バケツを削除",
+    "remove_bucket-tips": "カスタムホストを使用している場合、パスから Bucket 名を削除します。",
+    "root_folder_path": "ルートフォルダのパス",
+    "secret_access_key": "シークレットアクセスキー",
+    "session_token": "セッション トークン",
+    "sign_url_expire": "URL の期限切れに署名",
+    "user_agent": "ユーザーエージェント",
+    "user_agent-tips": "カスタム User-Agent for S3 リクエスト。"
+  },
+  "SFTP": {
+    "address": "住所",
+    "ignore_symlink_error": "シンボリックリンクを無視するエラー",
+    "passphrase": "パスワード",
+    "password": "パスワード",
+    "private_key": "Private key",
+    "root_folder_path": "ルートフォルダのパス",
+    "username": "ユーザー名"
+  },
+  "SMB": {
+    "address": "住所",
+    "password": "パスワード",
+    "root_folder_path": "ルートフォルダのパス",
+    "share_name": "名前を共有",
+    "username": "ユーザー名"
+  },
+  "Seafile": {
+    "address": "住所",
+    "password": "パスワード",
+    "repoId": "RepoId",
+    "repoPwd": "RepoPwd",
+    "root_folder_path": "ルートフォルダのパス",
+    "token": "トークン",
+    "username": "ユーザー名"
+  },
+  "Strm": {
+    "KeepLocalDownloadFile": "KeepLocalDownloadFile",
+    "KeepLocalDownloadFile-tips": "ローカルのダウンロードファイルを保持",
+    "PathPrefix": "PathPrefix",
+    "PathPrefix-tips": "パスの接頭辞：",
+    "SaveLocalMode": "SaveLocalMode",
+    "SaveLocalMode-tips": "strmファイルをローカルモードで保存",
+    "SaveLocalModes": {
+      "insert": "Insert",
+      "sync": "同期",
+      "update": "更新"
+    },
+    "SaveStrmLocalPath": "SaveStrmLocalPath",
+    "SaveStrmLocalPath-tips": "strmファイルのローカルパスを保存",
+    "SaveStrmToLocal": "SaveStrmToLocal",
+    "SaveStrmToLocal-tips": "strmファイルをローカルに保存",
+    "downloadFileTypes": "DownloadFileType",
+    "downloadFileTypes-tips": "ファイルは strm (通常の字幕) でダウンロードする必要があります",
+    "encodePath": "エンコードパス",
+    "encodePath-tips": "strmファイル内のパスをエンコードする",
+    "filterFileTypes": "フィルタファイルタイプ",
+    "filterFileTypes-tips": "strmファイルのサフィックス名をサポート",
+    "minFileSize": "MinFileSize",
+    "minFileSize-tips": "このサイズより小さいファイルを除外します（単位：MB、無効にする場合は0）",
+    "paths": "パス",
+    "siteUrl": "SiteUrl",
+    "siteUrl-tips": "strm ファイルのプレフィックスURL",
+    "withSign": "WithSign",
+    "withoutUrl": "WithoutUrl",
+    "withoutUrl-tips": "URLプレフィックスのないstrmファイルの内容"
+  },
+  "Teambition": {
+    "cookie": "クッキー",
+    "order_by": "並び順",
+    "order_bys": {
+      "created": "作成済み",
+      "fileName": "ファイル名",
+      "fileSize": "FileSize",
+      "updated": "更新日時"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "Asc": "Asc",
+      "Desc": "Desc"
+    },
+    "project_id": "プロジェクトID",
+    "region": "地域",
+    "regions": {
+      "china": "中国",
+      "international": "<unk>"
+    },
+    "root_folder_id": "ルートフォルダID",
+    "use_s3_upload_method": "S3 アップロード方法を使用"
+  },
+  "Teldrive": {
+    "chunk_size": "チャンクのサイズ",
+    "chunk_size-tips": "MiBのチャンクサイズ",
+    "cookie": "クッキー",
+    "cookie-tips": "access_token=xxx",
+    "random_chunk_name": "ランダムチャンク名",
+    "random_chunk_name-tips": "ランダムチャンク名",
+    "root_folder_path": "ルートフォルダのパス",
+    "upload_concurrency": "同時通貨をアップロード",
+    "upload_concurrency-tips": "同時アップロードリクエスト",
+    "url": "URL",
+    "use_share_link": "共有リンクを使用する",
+    "use_share_link-tips": "302をサポートするリンクを取得するときに共有リンクを作成します。無効にする場合は、Webプロキシを有効にする必要があります。"
+  },
+  "Terabox": {
+    "cookie": "クッキー",
+    "download_api": "APIをダウンロード",
+    "download_apis": {
+      "crack": "クラック",
+      "official": "オフィシャル"
+    },
+    "order_by": "並び順",
+    "order_bys": {
+      "name": "名前",
+      "size": "サイズ",
+      "time": "時刻"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_path": "ルートフォルダのパス"
+  },
+  "Thunder": {
+    "captcha_token": "Captcha トークン",
+    "credit_key": "クレジットキー",
+    "credit_key-tips": "クレジットキー、ログインに使用",
+    "device_id": "デバイス ID",
+    "password": "パスワード",
+    "root_folder_id": "ルートフォルダID",
+    "space": "スペース",
+    "space-tips": "リモートデバイスのデバイスID",
+    "username": "ユーザー名"
+  },
+  "ThunderBrowser": {
+    "captcha_token": "Captcha トークン",
+    "credit_key": "クレジットキー",
+    "credit_key-tips": "クレジットキー、ログインに使用",
+    "device_id": "デバイス ID",
+    "password": "パスワード",
+    "remove_way": "削除方法",
+    "remove_ways": {
+      "delete": "削除",
+      "trash": "ごみ箱に入れる"
+    },
+    "root_folder_id": "ルートフォルダID",
+    "safe_password": "安全なパスワード",
+    "use_fluent_play": "流暢なプレイを使用",
+    "use_fluent_play-tips": "オフラインでのダウンロードに流暢なプレイを使用し、マグネットリンクのみサポートされています",
+    "use_video_url": "動画のURLを使用",
+    "username": "ユーザー名"
+  },
+  "ThunderBrowserExpert": {
+    "algorithms": "アルゴリズム",
+    "algorithms-tips": "符号タイプはアルゴリズムです。これは必須です。",
+    "captcha_sign": "Captcha サイン",
+    "captcha_sign-tips": "符号の種類は captcha_sign,this is required",
+    "captcha_token": "Captcha トークン",
+    "client_id": "クライアント ID",
+    "client_secret": "クライアントシークレット",
+    "client_version": "クライアントのバージョン",
+    "credit_key": "クレジットキー",
+    "credit_key-tips": "クレジットキー、ログインに使用",
+    "device_id": "デバイス ID",
+    "download_user_agent": "ユーザーエージェントをダウンロード",
+    "login_type": "ログインタイプ",
+    "login_types": {
+      "refresh_token": "トークンを更新",
+      "user": "ユーザー"
+    },
+    "package_name": "パッケージ名",
+    "password": "パスワード",
+    "password-tips": "ログインタイプはユーザーです。これは必須です。",
+    "refresh_token": "トークンを更新",
+    "refresh_token-tips": "ログインタイプはrefresh_tokenです。これは必須です",
+    "remove_way": "削除方法",
+    "remove_ways": {
+      "delete": "削除",
+      "trash": "ごみ箱に入れる"
+    },
+    "root_folder_id": "ルートフォルダID",
+    "safe_password": "安全なパスワード",
+    "safe_password-tips": "安全なパスワード",
+    "sign_type": "看板の種類",
+    "sign_types": {
+      "algorithms": "アルゴリズム",
+      "captcha_sign": "Captcha サイン"
+    },
+    "timestamp": "タイムスタンプ",
+    "timestamp-tips": "符号の種類は captcha_sign,this is required",
+    "use_fluent_play": "流暢なプレイを使用",
+    "use_fluent_play-tips": "オフラインでのダウンロードに流暢なプレイを使用し、マグネットリンクのみサポートされています",
+    "use_video_url": "動画のURLを使用",
+    "user_agent": "ユーザーエージェント",
+    "username": "ユーザー名",
+    "username-tips": "ログインタイプはユーザーです。これは必須です。"
+  },
+  "ThunderExpert": {
+    "algorithms": "アルゴリズム",
+    "algorithms-tips": "符号タイプはアルゴリズムです。これは必須です。",
+    "captcha_sign": "Captcha サイン",
+    "captcha_sign-tips": "符号の種類は captcha_sign,this is required",
+    "captcha_token": "Captcha トークン",
+    "client_id": "クライアント ID",
+    "client_secret": "クライアントシークレット",
+    "client_version": "クライアントのバージョン",
+    "credit_key": "クレジットキー",
+    "credit_key-tips": "クレジットキー、ログインに使用",
+    "device_id": "デバイス ID",
+    "download_user_agent": "ユーザーエージェントをダウンロード",
+    "login_type": "ログインタイプ",
+    "login_types": {
+      "refresh_token": "トークンを更新",
+      "user": "ユーザー"
+    },
+    "package_name": "パッケージ名",
+    "password": "パスワード",
+    "password-tips": "ログインタイプはユーザーです。これは必須です。",
+    "refresh_token": "トークンを更新",
+    "refresh_token-tips": "ログインタイプはrefresh_tokenです。これは必須です",
+    "root_folder_id": "ルートフォルダID",
+    "sign_type": "看板の種類",
+    "sign_types": {
+      "algorithms": "アルゴリズム",
+      "captcha_sign": "Captcha サイン"
+    },
+    "space": "スペース",
+    "space-tips": "リモートデバイスのデバイスID",
+    "timestamp": "タイムスタンプ",
+    "timestamp-tips": "符号の種類は captcha_sign,this is required",
+    "use_video_url": "動画のURLを使用",
+    "user_agent": "ユーザーエージェント",
+    "username": "ユーザー名",
+    "username-tips": "ログインタイプはユーザーです。これは必須です。"
+  },
+  "ThunderX": {
+    "captcha_token": "Captcha トークン",
+    "password": "パスワード",
+    "root_folder_id": "ルートフォルダID",
+    "use_video_url": "動画のURLを使用",
+    "username": "ユーザー名"
+  },
+  "ThunderXExpert": {
+    "algorithms": "アルゴリズム",
+    "algorithms-tips": "符号タイプはアルゴリズムです。これは必須です。",
+    "captcha_sign": "Captcha サイン",
+    "captcha_sign-tips": "符号の種類は captcha_sign,this is required",
+    "captcha_token": "Captcha トークン",
+    "client_id": "クライアント ID",
+    "client_secret": "クライアントシークレット",
+    "client_version": "クライアントのバージョン",
+    "device_id": "デバイス ID",
+    "download_user_agent": "ユーザーエージェントをダウンロード",
+    "login_type": "ログインタイプ",
+    "login_types": {
+      "refresh_token": "トークンを更新",
+      "user": "ユーザー"
+    },
+    "package_name": "パッケージ名",
+    "password": "パスワード",
+    "password-tips": "ログインタイプはユーザーです。これは必須です。",
+    "refresh_token": "トークンを更新",
+    "refresh_token-tips": "ログインタイプはrefresh_tokenです。これは必須です",
+    "root_folder_id": "ルートフォルダID",
+    "sign_type": "看板の種類",
+    "sign_types": {
+      "algorithms": "アルゴリズム",
+      "captcha_sign": "Captcha サイン"
+    },
+    "timestamp": "タイムスタンプ",
+    "timestamp-tips": "符号の種類は captcha_sign,this is required",
+    "use_video_url": "動画のURLを使用",
+    "user_agent": "ユーザーエージェント",
+    "username": "ユーザー名",
+    "username-tips": "ログインタイプはユーザーです。これは必須です。"
+  },
+  "UC": {
+    "cookie": "クッキー",
+    "only_list_video_file": "ビデオファイルのみを一覧表示する",
+    "order_by": "並び順",
+    "order_bys": {
+      "file_name": "ファイル名",
+      "file_type": "ファイルの種類",
+      "none": "なし",
+      "updated_at": "更新日時"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_id": "ルートフォルダID",
+    "use_transcoding_address": "トランスコーディングアドレスを使用",
+    "use_transcoding_address-tips": "トランスコードされたビデオを見ることができ、302リダイレクトをサポートします"
+  },
+  "UCTV": {
+    "device_id": "デバイス ID",
+    "link_method": "リンク方法",
+    "link_methods": {
+      "download": "ダウンロード",
+      "streaming": "ストリーミング"
+    },
+    "order_by": "並び順",
+    "order_bys": {
+      "file_name": "ファイル名",
+      "updated_at": "更新日時"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "query_token": "クエリトークン",
+    "query_token-tips": "' を編集しない",
+    "refresh_token": "トークンを更新",
+    "root_folder_id": "ルートフォルダID"
+  },
+  "USS": {
+    "anti_theft_chain_token": "Anti盗難チェイントークン",
+    "bucket": "バケツ入りバケツ",
+    "endpoint": "Endpoint",
+    "operator_name": "演算子名",
+    "operator_password": "オペレーターパスワード",
+    "root_folder_path": "ルートフォルダのパス",
+    "sign_url_expire": "URL の期限切れに署名"
+  },
+  "UrlTree": {
+    "head_size": "頭のサイズ",
+    "head_size-tips": "headメソッドを使用してファイルサイズを取得しますが、失敗する可能性があります。",
+    "url_structure": "Url 構造",
+    "url_structure-tips": "structure:FolderName:\n  [FileName:][FileSize:][Modified:]Url",
+    "writable": "書き込み可能"
+  },
+  "Virtual": {
+    "max_file_size": "最大ファイルサイズ",
+    "min_file_size": "最小ファイルサイズ",
+    "num_file": "Num ファイル",
+    "num_folder": "Num フォルダ",
+    "root_folder_path": "ルートフォルダのパス"
+  },
+  "WPS": {
+    "cookie": "クッキー",
+    "custom_ua": "カスタム ua",
+    "mode": "モード",
+    "modes": {
+      "Business": "ビジネス",
+      "Personal": "個人用"
+    },
+    "root_folder_path": "ルートフォルダのパス"
+  },
+  "WebDav": {
+    "address": "住所",
+    "password": "パスワード",
+    "root_folder_path": "ルートフォルダのパス",
+    "tls_insecure_skip_verify": "Tls insecure skip verify",
+    "username": "ユーザー名",
+    "vendor": "仕入先",
+    "vendors": {
+      "other": "その他",
+      "sharepoint": "Sharepoint"
+    }
+  },
+  "WeiYun": {
+    "cookies": "Cookie",
+    "order_by": "並び順",
+    "order_bys": {
+      "name": "名前",
+      "size": "サイズ",
+      "updated_at": "更新日時"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_id": "ルートフォルダID",
+    "upload_thread": "スレッドをアップロード",
+    "upload_thread-tips": "4<=thread<=32"
+  },
+  "WoPan": {
+    "access_token": "アクセストークン",
+    "access_token-tips": "リフレッシュトークンを指定する場合は任意です。未指定または短すぎる場合は自動的に更新されます",
+    "family_id": "ファミリーID",
+    "family_id-tips": "パーソナルドライブを使用したい場合は空にしておいてください",
+    "refresh_token": "トークンを更新",
+    "refresh_token-tips": "リフレッシュトークン、またはアクセストークン（16文字以上）を指定してください",
+    "root_folder_id": "ルートフォルダID",
+    "sort_rule": "並べ替えルール",
+    "sort_rules": {
+      "name_asc": "名前 asc",
+      "name_desc": "名前 desc",
+      "size_asc": "Size asc",
+      "size_desc": "サイズdesc",
+      "time_asc": "時刻",
+      "time_desc": "タイムデスクトップ"
+    }
+  },
+  "YandexDisk": {
+    "api_url_address": "API URL アドレス",
+    "client_id": "クライアント ID",
+    "client_secret": "クライアントシークレット",
+    "order_by": "並び順",
+    "order_bys": {
+      "created": "作成済み",
+      "modified": "修正されました",
+      "name": "名前",
+      "path": "パス",
+      "size": "サイズ"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "トークンを更新",
+    "root_folder_path": "ルートフォルダのパス",
+    "use_online_api": "オンラインAPIを使用する"
+  },
+  "cloudflare_imgbed": {
+    "address": "住所",
+    "address-tips": "画像ホスティングサービスのBackend APIアドレス。例えば、https://img.example.com",
+    "largeChannelName": "LargeChannelName",
+    "largeChannelName-tips": "大きなファイルのチャンネル名",
+    "largeChannelType": "LargeChannelType",
+    "largeChannelType-tips": "Large File Channel Type: Hugging Face (Direct Upload)、Telegram/cfr2/s3/discord(Multipart Upload)",
+    "largeChannelTypes": {
+      "": "",
+      "cfr2": "CFR2",
+      "discord": "Discord",
+      "huggingface": "抱擁面",
+      "s3": "S3",
+      "telegram": "Telegram"
+    },
+    "root_folder_path": "ルートフォルダのパス",
+    "smallChannelName": "SmallChannelName",
+    "smallChannelName-tips": "通常のファイルのチャンネル名 (通常は20MB未満)",
+    "token": "トークン",
+    "token-tips": "認証トークン",
+    "uploadThread": "アップロードスレッド",
+    "uploadThread-tips": "HuggingFace が直接アップロードするためのスレッドの同時数"
+  },
+  "config": {
+    "115 Cloud": {},
+    "115 Open": {},
+    "115 Share": {},
+    "123 Open": {},
+    "123Pan": {},
+    "123PanLink": {},
+    "123PanShare": {},
+    "139Yun": {},
+    "189Cloud": {
+      "alert": "このドライバが動作しない場合は、189PCドライバを使用してみてください。"
+    },
+    "189CloudPC": {},
+    "189CloudTV": {},
+    "AList V3": {},
+    "AliDoc": {
+      "alert": "このドライバはDingTalk Docs経由でDingDriveにアクセスでき、現在は読み取り専用です。"
+    },
+    "Alias": {},
+    "Aliyundrive": {
+      "alert": "このドライバーには無限ループの不具合がある可能性があります。\n非推奨で、現在はメンテナンスされていません。今後のバージョンで削除される予定です。\n公式ドライバーの AliyundriveOpen の使用をおすすめします。"
+    },
+    "AliyundriveOpen": {},
+    "AliyundriveShare": {},
+    "AutoIndex": {},
+    "Azure Blob Storage": {},
+    "BaiduNetdisk": {},
+    "BaiduPhoto": {},
+    "Bunny Storage": {},
+    "CNB Releases": {},
+    "ChaoXingGroupDrive": {},
+    "Chunk": {},
+    "Cloudreve": {},
+    "Cloudreve V4": {},
+    "Crypt": {},
+    "Degoo": {},
+    "Doge": {},
+    "Doubao": {},
+    "DoubaoNew": {
+      "alert": "ストレージが一般公開されている場合は、302 を使用しないでください。\nそうしないと、ダウンロードリンクからアクセストークンや署名などの機密情報が漏洩するおそれがあります。\n漏洩したリンクを使って、他者がすべてのファイルにアクセスできる可能性があります。"
+    },
+    "DoubaoShare": {},
+    "Dropbox": {},
+    "Emby": {},
+    "FTP": {},
+    "FebBox": {},
+    "FeijiPan": {},
+    "GitHub API": {},
+    "GitHub Releases": {},
+    "GoogleDrive": {},
+    "GooglePhoto": {},
+    "GuangYaPan": {
+      "alert": "2 段階の SMS ログイン: (1) 電話番号の入力 (+ captcha_token もし必要であれば)、send_code=true を設定して保存 (2) verify_code を入力してログインを終了し、access_token/refresh_token を自動保存します。"
+    },
+    "HalalCloud": {},
+    "HalalCloudOpen": {},
+    "ILanZou": {},
+    "IPFS API": {},
+    "KodBox": {},
+    "Lanzou": {},
+    "LenovoNasShare": {},
+    "Local": {},
+    "MediaFire": {},
+    "MediaTrack": {},
+    "Mega_nz": {},
+    "Misskey": {},
+    "MoPan": {
+      "alert": "このネットワークディスクはあなたのパスワードをクリアテキストに保存することができます。慎重にパスワードを設定してください。"
+    },
+    "NeteaseMusic": {},
+    "Onedrive": {},
+    "Onedrive Sharelink": {},
+    "OnedriveAPP": {},
+    "OpenList": {},
+    "OpenListShare": {},
+    "PikPak": {},
+    "PikPakShare": {},
+    "ProtonDrive": {},
+    "Quark": {},
+    "QuarkOpen": {},
+    "QuarkTV": {},
+    "S3": {},
+    "SFTP": {},
+    "SMB": {},
+    "Seafile": {},
+    "Strm": {},
+    "Teambition": {},
+    "Teldrive": {},
+    "Terabox": {},
+    "Thunder": {},
+    "ThunderBrowser": {},
+    "ThunderBrowserExpert": {},
+    "ThunderExpert": {},
+    "ThunderX": {},
+    "ThunderXExpert": {},
+    "UC": {},
+    "UCTV": {},
+    "USS": {},
+    "UrlTree": {},
+    "Virtual": {},
+    "WPS": {},
+    "WebDav": {},
+    "WeiYun": {},
+    "WoPan": {},
+    "YandexDisk": {},
+    "cloudflare_imgbed": {}
+  },
+  "drivers": {
+    "115 Cloud": "115 雲",
+    "115 Open": "115 オープン",
+    "115 Share": "115 シェア",
+    "123 Open": "123 開く",
+    "123Pan": "123パン",
+    "123PanLink": "123PanLink",
+    "123PanShare": "123PanShare",
+    "139Yun": "139Yun",
+    "189Cloud": "189クラウド",
+    "189CloudPC": "189CloudPC",
+    "189CloudTV": "189CloudTV",
+    "AList V3": "AList V3",
+    "AliDoc": "AliDoc",
+    "Alias": "Alias",
+    "Aliyundrive": "Aliyundrive",
+    "AliyundriveOpen": "AliyundriveOpen",
+    "AliyundriveShare": "AliyundriveShare",
+    "AutoIndex": "AutoIndex",
+    "Azure Blob Storage": "Azure Blob Storage",
+    "BaiduNetdisk": "BaiduNetdisk",
+    "BaiduPhoto": "BaiduPhoto",
+    "Bunny Storage": "バニーストレージ",
+    "CNB Releases": "CNBリリース",
+    "ChaoXingGroupDrive": "ChaoXingGroupDrive",
+    "Chunk": "Chunk",
+    "Cloudreve": "Cloudreve",
+    "Cloudreve V4": "Cloudreve V4",
+    "Crypt": "Cryptキー",
+    "Degoo": "Degoo",
+    "Doge": "Doge",
+    "Doubao": "Doubao",
+    "DoubaoNew": "DoubaoNew",
+    "DoubaoShare": "DoubaoShare",
+    "Dropbox": "Dropbox",
+    "Emby": "Emby",
+    "FTP": "FTP",
+    "FebBox": "FebBox",
+    "FeijiPan": "FeijiPan",
+    "GitHub API": "GitHub API",
+    "GitHub Releases": "GitHub リリース",
+    "GoogleDrive": "GoogleDrive",
+    "GooglePhoto": "GooglePhoto",
+    "GuangYaPan": "GuangYaPan",
+    "HalalCloud": "HalalCloud",
+    "HalalCloudOpen": "HalalCloudOpen",
+    "ILanZou": "ILanZou",
+    "IPFS API": "IPFS API",
+    "KodBox": "KodBox",
+    "Lanzou": "Lanzou",
+    "LenovoNasShare": "LenovoNasShare",
+    "Local": "ローカル",
+    "MediaFire": "MediaFire",
+    "MediaTrack": "MediaTrack",
+    "Mega_nz": "Mega nz",
+    "Misskey": "Misskey",
+    "MoPan": "MoPan",
+    "NeteaseMusic": "停止音楽",
+    "Onedrive": "Onedrive",
+    "Onedrive Sharelink": "一度限りの共有",
+    "OnedriveAPP": "Onedriveapp",
+    "OpenList": "OpenList",
+    "OpenListShare": "OpenListShare",
+    "PikPak": "PikPak",
+    "PikPakShare": "PikPakShare",
+    "ProtonDrive": "ProtonDrive",
+    "Quark": "Quark",
+    "QuarkOpen": "QuarkOpen",
+    "QuarkTV": "QuarkTV",
+    "S3": "S3",
+    "SFTP": "SFTP",
+    "SMB": "SMB",
+    "Seafile": "Seafile",
+    "Strm": "Strm",
+    "Teambition": "<unk>",
+    "Teldrive": "Teldrive",
+    "Terabox": "Terabox",
+    "Thunder": "サンダー(雷)",
+    "ThunderBrowser": "Thunderbird Browser",
+    "ThunderBrowserExpert": "ThunderbirdExpert",
+    "ThunderExpert": "Thunderbird Expert",
+    "ThunderX": "Thunderbird X",
+    "ThunderXExpert": "ThunderXExpert",
+    "UC": "UC",
+    "UCTV": "UCTv",
+    "USS": "USS",
+    "UrlTree": "UrlTree",
+    "Virtual": "仮想設定",
+    "WPS": "WPS",
+    "WebDav": "WebDav",
+    "WeiYun": "WeiYun",
+    "WoPan": "WoPan",
+    "YandexDisk": "YandexDisk",
+    "cloudflare_imgbed": "Cloudflare imgbed"
+  }
+}

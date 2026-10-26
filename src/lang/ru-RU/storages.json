@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "Экспорт",
+    "export_title": "Экспорт хранилища в JSON",
+    "export_tips": "Пожалуйста, скопируйте хранилище JSON выше.",
+    "import": "Импорт",
+    "import_title": "Импорт хранилища из JSON",
+    "import_success": "Импортировано успешно!",
+    "import_tips": "Вставьте экспортированное хранилище JSON для импорта.",
+    "mount_path": "Путь монтирования",
+    "mount_path-tips": "Путь, к которому вы хотите подключиться, является уникальным и не может быть повторен",
+    "driver": "Водитель",
+    "order": "Заказ",
+    "order-tips": "Используется для сортировки",
+    "usage": "Использование",
+    "status": "Статус",
+    "remark": "Замечание",
+    "cache_expiration": "Истечение кэша",
+    "cache_expiration-tips": "Время истечения кэша для этого хранилища (минут)",
+    "custom_cache_policies": "Пользовательские политики кэша",
+    "custom_cache_policies-tips": "Правила истечения срока действия кэша для этого хранилища (в минутах)",
+    "down_proxy_url": "Скачать URL-адрес прокси",
+    "disable_proxy_sign": "Отключить знак прокси",
+    "disable_proxy_sign-tips": "Отключить подписку на URL для скачивания прокси",
+    "web_proxy": "Прокси",
+    "webdav_policy": "Политика WebDAV",
+    "proxy_range": "Proxy Range",
+    "proxy_range-tips": "Необходимо включить прокси",
+    "webdav_policys": {
+      "302_redirect": "302 редиректа",
+      "use_proxy_url": "Использовать URL прокси",
+      "native_proxy": "Родной прокси"
+    },
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "name": "Наименование",
+      "size": "Размер",
+      "modified": "Изменено"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "asc": "По возрастанию",
+      "desc": "По убыванию"
+    },
+    "extract_folder": "Порядок папок",
+    "extract_folders": {
+      "front": " Папки сверху",
+      "back": "Папки внизу"
+    },
+    "enable_sign": "Включить знак",
+    "disable_index": "Отключить индекс"
+  },
+  "table_fields": {
+    "status": {
+      "work": "Работает",
+      "disabled": "Отключено"
+    }
+  },
+  "other": {
+    "start_load_success": "Начать загрузку",
+    "load_all": "Обновить все",
+    "filter_by_driver": "Фильтр по водителю",
+    "table_layout": "Макет таблицы"
+  }
+}

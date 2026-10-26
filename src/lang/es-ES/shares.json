@@ -1,0 +1,43 @@
+{
+  "expires": "Tiempo de caducidad",
+  "id": "ID",
+  "id_placeholder": "ID personalizado (opcional, dejar vacío para aleatorio)",
+  "accessed": "Conteo de acceso",
+  "max_accessed": "Número máximo de accesos",
+  "pwd": "Compartir código",
+  "files": "Compartir rutas",
+  "files_etc": " y {{more}} más",
+  "files_placeholder": "Introducir rutas de archivos o carpetas, una por línea",
+  "add_path": "Añadir ruta",
+  "creator": "Creador",
+  "status": "Estado",
+  "status_list": {
+    "disabled": "Deshabilitado",
+    "invalid": "Inválido",
+    "work": "Trabajar",
+    "denied": "Sin permiso"
+  },
+  "remark": "Recordatorio",
+  "readme": "Descripción",
+  "header": "Descripción del encabezado",
+  "order_by": "Ordenar por",
+  "order_bys": {
+    "name": "Nombre",
+    "size": "Tamaño",
+    "modified": "Modificado"
+  },
+  "order_direction": "Dirección del pedido",
+  "order_directions": {
+    "asc": "Ascendente",
+    "desc": "Descendente"
+  },
+  "extract_folder": "Carpeta de pedido",
+  "extract_folders": {
+    "front": "Carpetas arriba",
+    "back": "Carpetas al principio"
+  },
+  "input_password": "Por favor ingrese el código compartido",
+  "share_gone": "Esta parte ha caducado o ha sido cancelada",
+  "copy_msg": "Copiar enlace",
+  "no_permission_tip": "Para crear un compartir, necesitas permiso de \"Compartir\"."
+}

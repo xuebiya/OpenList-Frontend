@@ -1,0 +1,13 @@
+{
+  "login_to": "Đăng nhập vào",
+  "username-tips": "Nhập tên người dùng",
+  "password-tips": "Nhập mật khẩu",
+  "otp-tips": "Nhập mã OTP",
+  "remember": "Ghi nhớ tôi",
+  "forget": "Quên mật khẩu?",
+  "forget_url": "https://doc.oplist.org/faq/howto#how-to-get-password-if-i-forget-it",
+  "clear": "Xóa",
+  "login": "Đăng nhập",
+  "use_guest": "Duyệt với tư cách khách",
+  "success": "Đăng nhập thành công"
+}

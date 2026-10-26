@@ -1,0 +1,43 @@
+{
+  "expires": "Vervaltijd",
+  "id": "ID",
+  "id_placeholder": "Aangepaste ID (optioneel, leeg laten voor willekeurig)",
+  "accessed": "Aantal toegangs",
+  "max_accessed": "Maximale aantal toegang",
+  "pwd": "Deel code",
+  "files": "Paden delen",
+  "files_etc": " en {{more}} meer",
+  "files_placeholder": "Voer bestand of mappenpaden in, één per regel",
+  "add_path": "Pad toevoegen",
+  "creator": "Schepper",
+  "status": "status",
+  "status_list": {
+    "disabled": "Uitgeschakeld",
+    "invalid": "Ongeldig",
+    "work": "Werk",
+    "denied": "Geen toestemming"
+  },
+  "remark": "Opmerking",
+  "readme": "Beschrijving",
+  "header": "Beschrijving koptekst",
+  "order_by": "Sorteer op",
+  "order_bys": {
+    "name": "naam",
+    "size": "Grootte",
+    "modified": "Gewijzigd"
+  },
+  "order_direction": "Order richting",
+  "order_directions": {
+    "asc": "Oplopend",
+    "desc": "Aflopend"
+  },
+  "extract_folder": "Mappen volgorde",
+  "extract_folders": {
+    "front": "Mappen bovenaan",
+    "back": "Mappen onderaan"
+  },
+  "input_password": "Voer de Share code in",
+  "share_gone": "Deze share is verlopen of geannuleerd",
+  "copy_msg": "Koppeling kopiëren",
+  "no_permission_tip": "Om een aandeel te creëren, heb je toestemming \"Delen\" nodig."
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Plugin",
+  "name": "Tên plugin",
+  "type": "Loại",
+  "version": "Phiên bản",
+  "author": "Tác giả",
+  "status_col": "Trạng thái",
+  "empty_desc": "Chưa có mô tả",
+  "subtitle": "Quản lý và cấu hình tiện ích mở rộng OpenList bằng cách tải lên tệp ZIP hoặc cài đặt từ URL bên thứ ba",
+  "search_placeholder": "Tìm kiếm plugin theo tên, ID, mô tả hoặc quyền...",
+  "filter_type": "Lọc theo loại",
+  "types": {
+    "all": "Tất cả loại",
+    "ui": "Giao diện và tiện ích",
+    "preview": "Trình xem trước",
+    "tool": "Công cụ",
+    "theme": "Giao diện và hiệu ứng",
+    "integration": "Tích hợp",
+    "system": "Lõi hệ thống"
+  },
+  "status": {
+    "enabled": "Đã bật",
+    "disabled": "Đã tắt",
+    "builtin": "Tích hợp sẵn",
+    "custom": "Tùy chỉnh",
+    "high_privilege": "Quyền cao"
+  },
+  "actions": {
+    "install": "Cài đặt plugin",
+    "reinstall": "Cài đặt lại",
+    "uninstall": "Gỡ cài đặt",
+    "config": "Cài đặt",
+    "view_details": "Chi tiết",
+    "enable": "Bật",
+    "disable": "Tắt",
+    "export": "Xuất cấu hình",
+    "import": "Nhập cấu hình",
+    "refresh": "Làm mới",
+    "save": "Lưu cài đặt",
+    "cancel": "Hủy",
+    "install_url": "Cài đặt qua URL"
+  },
+  "install_modal": {
+    "install_type": "Nguồn cài đặt",
+    "zip_tab": "Tải lên gói ZIP",
+    "url_tab": "Cài đặt qua URL",
+    "zip_file_label": "Gói ZIP của plugin",
+    "zip_drop_title": "Nhấp để chọn hoặc kéo thả tệp ZIP của plugin vào đây",
+    "zip_drop_help": "Hỗ trợ các tệp lưu trữ plugin mã nguồn mở có chứa plugin.json / manifest.json",
+    "url_label": "URL tệp kê khai của plugin",
+    "url_placeholder": "ví dụ: https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "Hỗ trợ liên kết tệp kê khai JSON của plugin mã nguồn mở (GitHub Raw, jsDelivr, unpkg, v.v.).",
+    "high_privilege_label": "Cấp quyền cao cho hệ thống (quyền root / quản trị viên)",
+    "high_privilege_help": "Cho phép truy cập trực tiếp vào các API hệ thống tệp cấp thấp, tải lại trình điều khiển lưu trữ, đọc/ghi toàn bộ cài đặt trang web và gửi yêu cầu HTTP thô",
+    "fetch_and_install": "Tải xuống và cài đặt"
+  },
+  "config_modal": {
+    "title": "Cấu hình plugin",
+    "no_config": "Plugin này không yêu cầu tham số cấu hình.",
+    "save_success": "Đã lưu cấu hình plugin thành công"
+  },
+  "delete_confirm": "Bạn có chắc muốn gỡ cài đặt và xóa plugin này không? Thao tác này không thể hoàn tác.",
+  "import_modal": {
+    "title": "Nhập bản sao lưu plugin",
+    "paste_json": "Dán dữ liệu JSON của plugin vào đây",
+    "import_success": "Đã nhập plugin thành công"
+  },
+  "empty_installed": "Chưa cài đặt plugin nào. Nhấp vào 'Cài đặt plugin' để tải lên gói ZIP hoặc cài đặt từ URL."
+}

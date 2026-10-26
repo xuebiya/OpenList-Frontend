@@ -1,0 +1,18 @@
+{
+  "path": "Đường dẫn",
+  "password": "Mật khẩu",
+  "read_users": "Người dùng có quyền đọc",
+  "read_users_help": "Chỉ những người dùng được chọn có quyền cần thiết mới có thể đọc đường dẫn này.",
+  "write_users": "Người dùng có quyền ghi",
+  "write_users_help": "Chỉ những người dùng được chọn có quyền cần thiết mới có thể ghi vào đường dẫn này.",
+  "all_permitted_users": "Tất cả người dùng được cấp quyền",
+  "write": "Bỏ qua quyền ghi nội dung",
+  "write_help": "Bỏ qua bước kiểm tra quyền người dùng khi ghi nội dung (tạo/tải lên/chỉnh sửa). HÃY THẬN TRỌNG.",
+  "hide": "Ẩn",
+  "readme": "Tệp Readme",
+  "readme_help": "Hiển thị nội dung Markdown ở cuối, hỗ trợ nội dung hoặc liên kết",
+  "header": "Đầu trang",
+  "header_help": "Hiển thị nội dung Markdown ở đầu trang, hỗ trợ nội dung hoặc liên kết",
+  "apply_sub": "Áp dụng cho thư mục con",
+  "hide_help": "Mỗi dòng một biểu thức chính quy"
+}

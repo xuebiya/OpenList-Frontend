@@ -1,0 +1,69 @@
+{
+  "title": "Plugins",
+  "name": "Plugin-Name",
+  "type": "Typ",
+  "version": "Version",
+  "author": "Autor",
+  "status_col": "Status",
+  "empty_desc": "Keine Beschreibung angegeben",
+  "subtitle": "Verwalten und konfigurieren von OpenListen-Erweiterungen mit ZIP-Datei-Upload und der Installation von Drittanbieter-URL",
+  "search_placeholder": "Plugins nach Name, ID, Beschreibung oder Berechtigungen suchen...",
+  "filter_type": "Nach Typ filtern",
+  "types": {
+    "all": "Alle Typen",
+    "ui": "UI & Widgets",
+    "preview": "Vorschaubilder",
+    "tool": "Werkzeuge",
+    "theme": "Themes & Effekte",
+    "integration": "Integrationen",
+    "system": "Systemkern"
+  },
+  "status": {
+    "enabled": "Aktiviert",
+    "disabled": "Deaktiviert",
+    "builtin": "Integriert",
+    "custom": "Eigene",
+    "high_privilege": "Hohes Privileg"
+  },
+  "actions": {
+    "install": "Plugin installieren",
+    "reinstall": "Neu installieren",
+    "uninstall": "Deinstallieren",
+    "config": "Einstellungen",
+    "view_details": "Details",
+    "enable": "Aktivieren",
+    "disable": "Deaktivieren",
+    "export": "Konfiguration exportieren",
+    "import": "Konfiguration importieren",
+    "refresh": "Aktualisieren",
+    "save": "Einstellungen speichern",
+    "cancel": "Abbrechen",
+    "install_url": "Über URL installieren"
+  },
+  "install_modal": {
+    "install_type": "Installationsquelle",
+    "zip_tab": "ZIP-Paket hochladen",
+    "url_tab": "Über URL installieren",
+    "zip_file_label": "Plugin-ZIP-Paket",
+    "zip_drop_title": "Zum Auswählen oder Ziehen der Plugin-ZIP-Datei hier klicken",
+    "zip_drop_help": "Unterstützt Open-Source-Plugin-Archive mit plugin.json / manifest.json",
+    "url_label": "Plugin-Manifest-URL",
+    "url_placeholder": "z.B.: https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "Unterstützt Open-Source-Plugin JSON Manifest-Links (GitHub Raw, jsDelivr, unpkg, etc.)",
+    "high_privilege_label": "Hohes Privileg gewähren (Root / Admin-Rechte)",
+    "high_privilege_help": "Ermöglicht direkten Zugriff auf Low-Level-Dateisystem-APIs, Read/Write-Einstellungen und Roh-HTTP-Anfragen",
+    "fetch_and_install": "Abrufen und installieren"
+  },
+  "config_modal": {
+    "title": "Plugin-Konfiguration",
+    "no_config": "Für dieses Plugin sind keine Konfigurationsparameter erforderlich.",
+    "save_success": "Plugin-Konfiguration erfolgreich gespeichert"
+  },
+  "delete_confirm": "Sind Sie sicher, dass Sie dieses Plugin deinstallieren und entfernen möchten? Dies kann nicht rückgängig gemacht werden.",
+  "import_modal": {
+    "title": "Plugins Sicherung importieren",
+    "paste_json": "Plugins JSON-Daten hier einfügen",
+    "import_success": "Plugins erfolgreich importiert"
+  },
+  "empty_installed": "Noch keine Plugins installiert. Klicken Sie auf 'Plugin installieren', um ein ZIP-Paket hochzuladen oder von einer URL zu installieren."
+}

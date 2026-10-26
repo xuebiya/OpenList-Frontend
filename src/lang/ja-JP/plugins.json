@@ -1,0 +1,69 @@
+{
+  "title": "プラグイン",
+  "name": "プラグイン名",
+  "type": "タイプ",
+  "version": "バージョン",
+  "author": "作成者",
+  "status_col": "ステータス",
+  "empty_desc": "説明が提供されていません",
+  "subtitle": "ZIPファイルのアップロードとサードパーティURLのインストールでOpenListの拡張機能を管理および構成します",
+  "search_placeholder": "名前、ID、説明、権限でプラグインを検索...",
+  "filter_type": "種類でフィルター",
+  "types": {
+    "all": "すべてのタイプ",
+    "ui": "UI & ウィジェット",
+    "preview": "プレビュー回数",
+    "tool": "ツール",
+    "theme": "テーマとエフェクト",
+    "integration": "統合",
+    "system": "システムコア"
+  },
+  "status": {
+    "enabled": "有効",
+    "disabled": "無効",
+    "builtin": "ビルトイン",
+    "custom": "カスタム",
+    "high_privilege": "高級特権"
+  },
+  "actions": {
+    "install": "プラグインをインストール",
+    "reinstall": "再インストールする",
+    "uninstall": "アンインストール",
+    "config": "設定",
+    "view_details": "詳細",
+    "enable": "有効にする",
+    "disable": "無効",
+    "export": "設定をエクスポート",
+    "import": "設定をインポート",
+    "refresh": "更新",
+    "save": "設定を保存",
+    "cancel": "キャンセル",
+    "install_url": "URLからインストール"
+  },
+  "install_modal": {
+    "install_type": "インストール元",
+    "zip_tab": "ZIPパッケージをアップロード",
+    "url_tab": "URLからインストール",
+    "zip_file_label": "プラグインZIPパッケージ",
+    "zip_drop_title": "ここでプラグインZIPファイルを選択またはドラッグ&ドロップしてください",
+    "zip_drop_help": "plugin.json / manifest.json を含むオープンソース プラグイン アーカイブをサポート",
+    "url_label": "プラグインマニフェストURL",
+    "url_placeholder": "例: https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "オープンソースプラグインJSONマニフェストリンクをサポート (GitHub Raw, jsDelivr, unpkg, など)",
+    "high_privilege_label": "システム高特権を付与（ルート／管理者特権）",
+    "high_privilege_help": "低レベルのファイルシステムAPI、ストレージドライバーの再読み込み、フルサイト設定の読み取り/書き込み、生のHTTPリクエストに直接アクセスできます。",
+    "fetch_and_install": "取得とインストール"
+  },
+  "config_modal": {
+    "title": "プラグインの設定",
+    "no_config": "このプラグインに設定パラメータは必要ありません。",
+    "save_success": "プラグインの設定が正常に保存されました"
+  },
+  "delete_confirm": "このプラグインをアンインストールして削除してもよろしいですか？元に戻すことはできません。",
+  "import_modal": {
+    "title": "プラグインのバックアップをインポート",
+    "paste_json": "プラグインのJSONデータをここに貼り付け",
+    "import_success": "プラグインが正常にインポートされました"
+  },
+  "empty_installed": "プラグインはまだインストールされていません。「プラグインのインストール」をクリックしてZIPパッケージをアップロードするか、URLからインストールしてください。"
+}

@@ -1,0 +1,17 @@
+{
+  "backup": "Säkerhetskopiera",
+  "restore": "Återställ",
+  "start_backup": "Starta säkerhetskopiering",
+  "finish_backup": "Slutför säkerhetskopiering",
+  "success_backup_item": "[ {{item}} ] Säkerhetskopia lyckades",
+  "failed_backup_item": "[ {{item}} ] Säkerhetskopiering misslyckades",
+  "no_file": "Ingen fil vald",
+  "start_restore": "Starta återställning",
+  "finish_restore": "Slutför återställning",
+  "success_restore_item": "[ {{item}} ] Återställning lyckades",
+  "failed_restore_item": "[ {{item}} ] Återställning misslyckades",
+  "override": "Åsidosätt",
+  "encrypt_password_placeholder": "Lämna tomt om du inte behöver kryptering",
+  "encrypt_password": "Krypteringslösenord",
+  "wrong_encrypt_password": "Fel krypteringslösenord"
+}

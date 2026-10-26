@@ -1,0 +1,13 @@
+{
+  "login_to": "Anmelden am",
+  "username-tips": "Benutzernamen eingeben",
+  "password-tips": "Geben Sie Ihr Passwort ein",
+  "otp-tips": "OTP Code eingeben",
+  "remember": "Erinnere mich",
+  "forget": "Passwort vergessen?",
+  "forget_url": "https://doc.oplist.org/faq/howto#how-to-get-password-if-i-forget-it",
+  "clear": "Leeren",
+  "login": "Anmelden",
+  "use_guest": "Als Gast durchsuchen",
+  "success": "Anmeldung erfolgreich"
+}

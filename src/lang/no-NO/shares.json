@@ -1,0 +1,43 @@
+{
+  "expires": "Utløpe tid",
+  "id": "ID",
+  "id_placeholder": "Tilpasset ID (valgfritt, la stå tom for tilfeldig)",
+  "accessed": "Antall tilganger",
+  "max_accessed": "Maksimalt antall tilganger",
+  "pwd": "Del kode",
+  "files": "Del baner",
+  "files_etc": " og {{more}} mer",
+  "files_placeholder": "Angi fil eller mappe stier, en per linje",
+  "add_path": "Legg til sti",
+  "creator": "Skaper",
+  "status": "Status:",
+  "status_list": {
+    "disabled": "Deaktivert",
+    "invalid": "Ugyldig",
+    "work": "Arbeid",
+    "denied": "Ingen tillatelse"
+  },
+  "remark": "Merknad",
+  "readme": "Beskrivelse",
+  "header": "Topptekst beskrivelse",
+  "order_by": "Sorter etter",
+  "order_bys": {
+    "name": "Navn",
+    "size": "Størrelse",
+    "modified": "Endret"
+  },
+  "order_direction": "Sorterings retning",
+  "order_directions": {
+    "asc": "Stigende",
+    "desc": "Synkende"
+  },
+  "extract_folder": "Mappe sortering",
+  "extract_folders": {
+    "front": "Mapper øverst",
+    "back": "Mapper på bunnen"
+  },
+  "input_password": "Legg til Delt Kode",
+  "share_gone": "Delen er utløpt eller kansellert",
+  "copy_msg": "Kopier lenke",
+  "no_permission_tip": "For å opprette en del, trenger du \"Del\" tillatelse."
+}

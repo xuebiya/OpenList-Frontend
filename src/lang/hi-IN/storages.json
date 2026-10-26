@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "निर्यात करें",
+    "export_title": "स्टोरेज को JSON में निर्यात करें",
+    "export_tips": "कृपया ऊपर दिया गया स्टोरेज JSON कॉपी करें।",
+    "import": "आयात करें",
+    "import_title": "JSON से स्टोरेज आयात करें",
+    "import_success": "सफलतापूर्वक आयात किया गया!",
+    "import_tips": "आयात करने के लिए निर्यात किया गया स्टोरेज JSON पेस्ट करें।",
+    "mount_path": "माउंट पथ",
+    "mount_path-tips": "वह पथ जहाँ आप माउंट करना चाहते हैं, अद्वितीय है और इसे दोहराया नहीं जा सकता",
+    "driver": "ड्राइवर",
+    "order": "क्रम",
+    "order-tips": "क्रमबद्ध करने के लिए उपयोग किया जाता है",
+    "usage": "उपयोग",
+    "status": "स्थिति",
+    "remark": "टिप्पणी",
+    "cache_expiration": "कैश समाप्ति",
+    "cache_expiration-tips": "इस स्टोरेज के लिए कैश समाप्ति समय (मिनटों में)",
+    "custom_cache_policies": "कस्टम कैश नीतियाँ",
+    "custom_cache_policies-tips": "इस स्टोरेज के लिए कैश समाप्ति नियम (मिनटों में)",
+    "down_proxy_url": "डाउनलोड प्रॉक्सी URL",
+    "disable_proxy_sign": "प्रॉक्सी हस्ताक्षर अक्षम करें",
+    "disable_proxy_sign-tips": "डाउनलोड प्रॉक्सी URL के लिए हस्ताक्षर अक्षम करें",
+    "web_proxy": "वेब प्रॉक्सी",
+    "webdav_policy": "WebDAV नीति",
+    "proxy_range": "प्रॉक्सी रेंज",
+    "proxy_range-tips": "प्रॉक्सी सक्षम करना आवश्यक है",
+    "webdav_policys": {
+      "302_redirect": "302 रीडायरेक्ट",
+      "use_proxy_url": "प्रॉक्सी URL का उपयोग करें",
+      "native_proxy": "नेटिव प्रॉक्सी"
+    },
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "name": "नाम",
+      "size": "आकार",
+      "modified": "संशोधित"
+    },
+    "order_direction": "क्रम दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "extract_folder": "फ़ोल्डर क्रम",
+    "extract_folders": {
+      "front": " फ़ोल्डर सबसे ऊपर",
+      "back": "फ़ोल्डर सबसे नीचे"
+    },
+    "enable_sign": "हस्ताक्षर सक्षम करें",
+    "disable_index": "इंडेक्स अक्षम करें"
+  },
+  "table_fields": {
+    "status": {
+      "work": "कार्यरत",
+      "disabled": "अक्षम"
+    }
+  },
+  "other": {
+    "start_load_success": "लोड करना शुरू करें",
+    "load_all": "सभी पुनः लोड करें",
+    "filter_by_driver": "ड्राइवर के अनुसार फ़िल्टर करें",
+    "table_layout": "तालिका लेआउट"
+  }
+}

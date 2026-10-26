@@ -1,0 +1,23 @@
+{
+  "index_header": "Indstillinger for søgeindeks",
+  "search_index": "Søg indeks",
+  "current": "Aktuelle indekser",
+  "build": "Byg indekser",
+  "rebuild": "Genopbyg indekser",
+  "paths_to_update": "Stier at opdatere",
+  "max_depth": "Maks dybde",
+  "update": "Opdater indekser",
+  "obj_count": "Antal objekter",
+  "last_done_time": "Sidst færdig tid",
+  "unknown": "Ukendt",
+  "stop": "Stop",
+  "clear": "Ryd",
+  "error": "Fejl",
+  "scan_header": "Scan Manuelt",
+  "task_status": "Opgave status",
+  "running": "Kører",
+  "idle": "Tomgang",
+  "path_to_scan": "Sti til scanning",
+  "rate_limit": "Bedøm grænse",
+  "start": "Start"
+}

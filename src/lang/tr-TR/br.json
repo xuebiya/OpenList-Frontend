@@ -1,0 +1,17 @@
+{
+  "backup": "Yedekle",
+  "restore": "Geri yükle",
+  "start_backup": "Yedeklemeyi başlat",
+  "finish_backup": "Yedeklemeyi bitir",
+  "success_backup_item": "[ {{item}} ] Yedekleme başarılı oldu",
+  "failed_backup_item": "[ {{item}} ] Yedekleme başarısız oldu",
+  "no_file": "Dosya seçilmedi",
+  "start_restore": "Geri yüklemeyi başlat",
+  "finish_restore": "Geri yüklemeyi bitir",
+  "success_restore_item": "[ {{item}} ] Geri yükleme başarılı oldu",
+  "failed_restore_item": "[ {{item}} ] Geri yükleme başarısız oldu",
+  "override": "Üzerine yaz",
+  "encrypt_password_placeholder": "Şifreleme kullanmayacaksanız boş bırakın",
+  "encrypt_password": "Şifreleme parolası",
+  "wrong_encrypt_password": "Şifreleme parolası yanlış"
+}

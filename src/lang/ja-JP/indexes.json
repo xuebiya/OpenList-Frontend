@@ -1,0 +1,23 @@
+{
+  "index_header": "検索インデックスの設定",
+  "search_index": "検索インデックス",
+  "current": "現在のインデックス",
+  "build": "インデックスを構築",
+  "rebuild": "インデックスの再構築",
+  "paths_to_update": "更新するパス",
+  "max_depth": "最大深さ",
+  "update": "インデックスを更新",
+  "obj_count": "オブジェクトの数",
+  "last_done_time": "最後に完了した時間",
+  "unknown": "不明",
+  "stop": "停止",
+  "clear": "クリア",
+  "error": "エラー",
+  "scan_header": "手動でスキャン",
+  "task_status": "タスクの状態",
+  "running": "実行中",
+  "idle": "待機中",
+  "path_to_scan": "スキャンするパス",
+  "rate_limit": "レート制限",
+  "start": "開始"
+}

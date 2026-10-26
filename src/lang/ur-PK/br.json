@@ -1,0 +1,17 @@
+{
+  "backup": "بیک اپ",
+  "restore": "بحال کریں",
+  "start_backup": "بیک اپ شروع کریں",
+  "finish_backup": "بیک اپ مکمل کریں",
+  "success_backup_item": "[ {{item}} ] بیک اپ کامیاب رہا",
+  "failed_backup_item": "[ {{item}} ] بیک اپ ناکام رہا",
+  "no_file": "کوئی فائل منتخب نہیں کی گئی",
+  "start_restore": "بحالی شروع کریں",
+  "finish_restore": "بحالی مکمل کریں",
+  "success_restore_item": "[ {{item}} ] بحالی کامیاب رہی",
+  "failed_restore_item": "[ {{item}} ] بحالی ناکام رہی",
+  "override": "اوور رائڈ کریں",
+  "encrypt_password_placeholder": "اگر آپ کو خفیہ کاری کی ضرورت نہیں ہے تو خالی چھوڑ دیں",
+  "encrypt_password": "خفیہ کاری کا پاس ورڈ",
+  "wrong_encrypt_password": "خفیہ کاری کا پاس ورڈ غلط ہے"
+}

@@ -1,0 +1,66 @@
+{
+  "offline_download": "Datei auf lokales Gerät herunterladen",
+  "offline_download_transfer": "Heruntergeladene Datei auf den entsprechenden Speicher übertragen",
+  "upload": "Datei auf den entsprechenden Speicher hochladen",
+  "copy": "Datei von einem Speicher auf einen anderen Speicher kopieren",
+  "move": "Datei von einem Speicher auf einen anderen Speicher verschieben",
+  "decompress": "Archivdatei herunterladen und entpacken",
+  "decompress_upload": "Extrahierte Dateien in den Zielspeicher hochladen",
+  "done": "Abgeschlossen",
+  "undone": "Laufend",
+  "clear_succeeded": "Löschen erfolgreich",
+  "retry": "Wiederholen",
+  "retry_failed": "Wiederholung fehlgeschlagen",
+  "state": {
+    "0": "Ausstehend",
+    "1": "Laufend",
+    "2": "Erfolgreich",
+    "3": "Abbrechen",
+    "4": "Abgebrochen",
+    "5": "Fehler",
+    "6": "Fehlt",
+    "7": "Fehler",
+    "8": "Warte auf Wiederholung",
+    "9": "Vorbereitung auf Wiederholung"
+  },
+  "retry_selected": "Ausgewählte wiederholen",
+  "cancel_selected": "Ausgewählte abbrechen",
+  "delete_selected": "Ausgewählte löschen",
+  "filter": "Filtern",
+  "expand": "Erweitern",
+  "fold": "Falten",
+  "expand_all": "Alle aufklappen",
+  "fold_all": "Alle falten",
+  "attr": {
+    "name": "Name",
+    "creator": "Urheber",
+    "state": "Bundesland",
+    "progress": "Fortschritt",
+    "speed": "Geschwindigkeit",
+    "operation": "Operation",
+    "copy": {
+      "src": "Quellpfad",
+      "dst": "Zielpfad"
+    },
+    "upload": {
+      "path": "Pfad"
+    },
+    "offline_download": {
+      "url": "URL",
+      "path": "Zielpfad",
+      "transfer_src": "Quellpfad",
+      "transfer_src_local": "Quellpfad (Lokal)",
+      "transfer_dst": "Zielpfad"
+    },
+    "decompress": {
+      "src": "Quellpfad",
+      "dst": "Zielpfad",
+      "inner": "Innerer Pfad",
+      "password": "Extrahierungspasswort"
+    },
+    "time_elapsed": "Verstrichene Zeit",
+    "status": "Status",
+    "err": "Fehler"
+  },
+  "show_only_mine": "Nur meine Aufgaben anzeigen"
+}

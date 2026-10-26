@@ -1,0 +1,23 @@
+{
+  "index_header": "Innstillinger for søk",
+  "search_index": "Søk i indeks",
+  "current": "Gjeldende indekser",
+  "build": "Bygg indekser",
+  "rebuild": "Gjenoppbygg indekser",
+  "paths_to_update": "Baner å oppdatere",
+  "max_depth": "Maks dybde",
+  "update": "Oppdater indekser",
+  "obj_count": "Objekt teller",
+  "last_done_time": "Sist ferdiggjort",
+  "unknown": "Ukjent",
+  "stop": "Stopp",
+  "clear": "Tøm",
+  "error": "Feil",
+  "scan_header": "Manuelt skann",
+  "task_status": "Oppgave status",
+  "running": "Kjører",
+  "idle": "Inaktiv",
+  "path_to_scan": "Bane å skanne",
+  "rate_limit": "Grense for sats",
+  "start": "Begynn"
+}

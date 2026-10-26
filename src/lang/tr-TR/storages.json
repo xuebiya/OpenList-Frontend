@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "Dışa Aktar",
+    "export_title": "Depolama Alanını JSON'a Aktar",
+    "export_tips": "Lütfen yukarıdaki depolama alanı JSON'unu kopyalayın.",
+    "import": "İçe Aktar",
+    "import_title": "Depolama Alanını JSON'dan İçe Aktar",
+    "import_success": "Başarıyla içe aktarıldı!",
+    "import_tips": "İçe aktarmak için dışa aktarılan depolama alanı JSON'unu yapıştırın.",
+    "mount_path": "Bağlama Yolu",
+    "mount_path-tips": "Bağlamak istediğiniz yol; benzersiz olmalı ve tekrarlanamaz",
+    "driver": "Sürücü",
+    "order": "Sıralama",
+    "order-tips": "Sıralama için kullanılır",
+    "usage": "Kullanım",
+    "status": "Durum",
+    "remark": "Açıklama",
+    "cache_expiration": "Önbellek Süresi",
+    "cache_expiration-tips": "Bu depolama alanı için önbellek süresi (dakika)",
+    "custom_cache_policies": "Özel Önbellek Politikaları",
+    "custom_cache_policies-tips": "Bu depolama alanı için önbellek süresi kuralları (dakika)",
+    "down_proxy_url": "İndirme Proxy URL'si",
+    "disable_proxy_sign": "Proxy İmzasını Devre Dışı Bırak",
+    "disable_proxy_sign-tips": "İndirme proxy URL'si için imzayı devre dışı bırak",
+    "web_proxy": "Web Proxy'si",
+    "webdav_policy": "WebDAV Politikası",
+    "proxy_range": "Proxy Aralığı",
+    "proxy_range-tips": "Proxy'yi etkinleştirmeniz gerekiyor",
+    "webdav_policys": {
+      "302_redirect": "302 yönlendirmesi",
+      "use_proxy_url": "Proxy URL'sini kullan",
+      "native_proxy": "Yerel proxy"
+    },
+    "order_by": "Şuna Göre Sırala",
+    "order_bys": {
+      "name": "Ad",
+      "size": "Boyut",
+      "modified": "Değiştirilme Tarihi"
+    },
+    "order_direction": "Sıralama Yönü",
+    "order_directions": {
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "extract_folder": "Klasör Sıralaması",
+    "extract_folders": {
+      "front": " Klasörler Üstte",
+      "back": "Klasörler Altta"
+    },
+    "enable_sign": "İmzayı etkinleştir",
+    "disable_index": "Dizini devre dışı bırak"
+  },
+  "table_fields": {
+    "status": {
+      "work": "Çalışıyor",
+      "disabled": "Devre dışı"
+    }
+  },
+  "other": {
+    "start_load_success": "Yükleme başlatılıyor",
+    "load_all": "Tümünü Yeniden Yükle",
+    "filter_by_driver": "Sürücüye göre filtrele",
+    "table_layout": "Tablo düzeni"
+  }
+}

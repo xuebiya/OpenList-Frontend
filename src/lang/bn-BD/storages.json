@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "রপ্তানি",
+    "export_title": "স্টোরেজ JSON-এ রপ্তানি করুন",
+    "export_tips": "উপরের স্টোরেজ JSON-টি অনুগ্রহ করে কপি করুন।",
+    "import": "আমদানি",
+    "import_title": "JSON থেকে স্টোরেজ আমদানি করুন",
+    "import_success": "সফলভাবে আমদানি হয়েছে!",
+    "import_tips": "আমদানি করতে রপ্তানি করা স্টোরেজ JSON পেস্ট করুন।",
+    "mount_path": "মাউন্ট পাথ",
+    "mount_path-tips": "যে পাথে মাউন্ট করতে চান; এটি অনন্য হতে হবে এবং পুনরাবৃত্তি করা যাবে না",
+    "driver": "ড্রাইভার",
+    "order": "ক্রম",
+    "order-tips": "সাজানোর জন্য ব্যবহৃত হয়",
+    "usage": "ব্যবহার",
+    "status": "স্থিতি",
+    "remark": "মন্তব্য",
+    "cache_expiration": "ক্যাশের মেয়াদ শেষ হওয়ার সময়",
+    "cache_expiration-tips": "এই স্টোরেজের ক্যাশের মেয়াদ শেষ হওয়ার সময় (মিনিটে)",
+    "custom_cache_policies": "কাস্টম ক্যাশ নীতিমালা",
+    "custom_cache_policies-tips": "এই স্টোরেজের ক্যাশের মেয়াদ শেষ হওয়ার নিয়মাবলি (মিনিটে)",
+    "down_proxy_url": "ডাউনলোড প্রক্সি URL",
+    "disable_proxy_sign": "প্রক্সি স্বাক্ষর নিষ্ক্রিয় করুন",
+    "disable_proxy_sign-tips": "ডাউনলোড প্রক্সি URL-এর স্বাক্ষর নিষ্ক্রিয় করুন",
+    "web_proxy": "ওয়েব প্রক্সি",
+    "webdav_policy": "WebDAV নীতি",
+    "proxy_range": "প্রক্সি পরিসর",
+    "proxy_range-tips": "প্রক্সি সক্রিয় করতে হবে",
+    "webdav_policys": {
+      "302_redirect": "৩০২ পুনর্নির্দেশ",
+      "use_proxy_url": "প্রক্সি URL ব্যবহার করুন",
+      "native_proxy": "নেটিভ প্রক্সি"
+    },
+    "order_by": "যে অনুযায়ী সাজান",
+    "order_bys": {
+      "name": "নাম",
+      "size": "আকার",
+      "modified": "সংশোধিত"
+    },
+    "order_direction": "সাজানোর দিক",
+    "order_directions": {
+      "asc": "ঊর্ধ্বক্রম",
+      "desc": "নিম্নক্রম"
+    },
+    "extract_folder": "ফোল্ডারের ক্রম",
+    "extract_folders": {
+      "front": " ফোল্ডারগুলো উপরে",
+      "back": "ফোল্ডারগুলো নিচে"
+    },
+    "enable_sign": "স্বাক্ষর সক্রিয় করুন",
+    "disable_index": "ইনডেক্স নিষ্ক্রিয় করুন"
+  },
+  "table_fields": {
+    "status": {
+      "work": "কাজ চলছে",
+      "disabled": "নিষ্ক্রিয়"
+    }
+  },
+  "other": {
+    "start_load_success": "লোড শুরু করুন",
+    "load_all": "সব পুনরায় লোড করুন",
+    "filter_by_driver": "ড্রাইভার অনুযায়ী ফিল্টার করুন",
+    "table_layout": "টেবিল বিন্যাস"
+  }
+}

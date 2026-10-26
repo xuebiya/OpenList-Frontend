@@ -1,0 +1,18 @@
+{
+  "path": "Pad",
+  "password": "Wachtwoord",
+  "read_users": "Lees gebruikers",
+  "read_users_help": "Alleen geselecteerde gebruikers met de vereiste toestemming kunnen dit pad lezen.",
+  "write_users": "Gebruikers schrijven",
+  "write_users_help": "Alleen geselecteerde gebruikers met de vereiste toestemming kunnen dit pad schrijven.",
+  "all_permitted_users": "Alle toegestane gebruikers",
+  "write": "Schrijf Content Bypass",
+  "write_help": "Bypasses gebruikersrechten controles op inhoud writes (create/upload/modify). GEBRUIK MET LET OP.",
+  "hide": "Verbergen",
+  "readme": "Lezen",
+  "readme_help": "Geef een markdown weer onderaan, ondersteun inhoud of link",
+  "header": "Koptekst",
+  "header_help": "Geef een markdown weer bovenaan, ondersteun inhoud of link",
+  "apply_sub": "Toepassen op submap",
+  "hide_help": "Een reguliere expressie per regel"
+}

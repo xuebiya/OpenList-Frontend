@@ -1,0 +1,69 @@
+{
+  "title": "Plugin",
+  "name": "Nome Plugin",
+  "type": "Tipo",
+  "version": "Versione",
+  "author": "Autore",
+  "status_col": "Stato",
+  "empty_desc": "Nessuna descrizione fornita",
+  "subtitle": "Gestire e configurare le estensioni OpenList con il caricamento dei file ZIP e l'installazione di URL di terze parti",
+  "search_placeholder": "Cerca plugin per nome, ID, descrizione o permessi...",
+  "filter_type": "Filtra per tipo",
+  "types": {
+    "all": "Tutti I Tipi",
+    "ui": "Interfaccia Utente & Widget",
+    "preview": "Previsori",
+    "tool": "Strumenti",
+    "theme": "Temi E Effetti",
+    "integration": "Integrazioni",
+    "system": "Core Di Sistema"
+  },
+  "status": {
+    "enabled": "Abilitato",
+    "disabled": "Disabilitato",
+    "builtin": "Integrato",
+    "custom": "Personalizzato",
+    "high_privilege": "Privilegio Alto"
+  },
+  "actions": {
+    "install": "Installa Plugin",
+    "reinstall": "Reinstalla",
+    "uninstall": "Disinstalla",
+    "config": "Impostazioni",
+    "view_details": "Dettagli",
+    "enable": "Abilita",
+    "disable": "Disabilita",
+    "export": "Esporta Configurazione",
+    "import": "Importa Configurazione",
+    "refresh": "Aggiorna",
+    "save": "Salva Impostazioni",
+    "cancel": "Annulla",
+    "install_url": "Installa tramite URL"
+  },
+  "install_modal": {
+    "install_type": "Sorgente Di Installazione",
+    "zip_tab": "Carica Pacchetto ZIP",
+    "url_tab": "Installa tramite URL",
+    "zip_file_label": "Pacchetto ZIP Plugin",
+    "zip_drop_title": "Fare clic per selezionare o trascinare il file ZIP plugin qui",
+    "zip_drop_help": "Supporta archivi di plugin open-source contenenti plugin.json / manifest.json",
+    "url_label": "Url Manifesto Plugin",
+    "url_placeholder": "e.g.: https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "Supporta collegamenti manifesti JSON del plugin open-source (GitHub Raw, jsConsegna, unpkg, ecc.)",
+    "high_privilege_label": "Concedi Privilegio Alto Sistema (Root / Admin Privilegi)",
+    "high_privilege_help": "Consente l'accesso diretto alle API di filesystem a basso livello, ricarica dei driver di archiviazione, lettura/scrittura delle impostazioni del sito e richieste HTTP grezze",
+    "fetch_and_install": "Recupera e installa"
+  },
+  "config_modal": {
+    "title": "Configurazione Plugin",
+    "no_config": "Nessun parametro di configurazione richiesto per questo plugin.",
+    "save_success": "Configurazione plugin salvata con successo"
+  },
+  "delete_confirm": "Sei sicuro di voler disinstallare e rimuovere questo plugin? Questo non può essere annullato.",
+  "import_modal": {
+    "title": "Importa Backup Dei Plugin",
+    "paste_json": "Incolla qui i plugin dati JSON",
+    "import_success": "Plugin importati con successo"
+  },
+  "empty_installed": "Nessun plugin installato. Clicca su 'Installa Plugin' per caricare un pacchetto ZIP o installare da URL."
+}

@@ -1,0 +1,17 @@
+{
+  "backup": "Sao lưu",
+  "restore": "Khôi phục",
+  "start_backup": "Bắt đầu sao lưu",
+  "finish_backup": "Hoàn tất sao lưu",
+  "success_backup_item": "[ {{item}} ] Sao lưu thành công",
+  "failed_backup_item": "[ {{item}} ] Sao lưu thất bại",
+  "no_file": "Chưa chọn tệp",
+  "start_restore": "Bắt đầu khôi phục",
+  "finish_restore": "Hoàn tất khôi phục",
+  "success_restore_item": "[ {{item}} ] Khôi phục thành công",
+  "failed_restore_item": "[ {{item}} ] Khôi phục thất bại",
+  "override": "Ghi đè",
+  "encrypt_password_placeholder": "Để trống nếu bạn không cần mã hóa",
+  "encrypt_password": "Mật khẩu mã hóa",
+  "wrong_encrypt_password": "Mật khẩu mã hóa không đúng"
+}

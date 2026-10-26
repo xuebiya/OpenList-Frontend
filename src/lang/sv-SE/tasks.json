@@ -1,0 +1,66 @@
+{
+  "offline_download": "Ladda ner filen till lokal enhet",
+  "offline_download_transfer": "Överför nedladdad fil till motsvarande lagringsutrymme",
+  "upload": "Ladda upp fil till motsvarande lagringsutrymme",
+  "copy": "Kopiera fil från ett lagringsutrymme till ett annat lagringsutrymme",
+  "move": "Flytta filen från ett lagringsutrymme till ett annat lagringsutrymme",
+  "decompress": "Ladda ner och dekomprimera en arkivfil",
+  "decompress_upload": "Ladda upp extraherade filer till mållagring",
+  "done": "Slutförd",
+  "undone": "Körs",
+  "clear_succeeded": "Rensa lyckades",
+  "retry": "Försök igen",
+  "retry_failed": "Försök misslyckades",
+  "state": {
+    "0": "Väntande",
+    "1": "Körs",
+    "2": "Lyckades",
+    "3": "Avbryter",
+    "4": "Avbruten",
+    "5": "Fel",
+    "6": "Misslyckades",
+    "7": "Misslyckades",
+    "8": "Väntar på försök",
+    "9": "Förbereder att försöka igen"
+  },
+  "retry_selected": "Försök igen valda",
+  "cancel_selected": "Avbryt valda",
+  "delete_selected": "Ta bort markerade",
+  "filter": "Filtrera",
+  "expand": "Expandera",
+  "fold": "Vik",
+  "expand_all": "Expandera alla",
+  "fold_all": "Vik alla",
+  "attr": {
+    "name": "Namn",
+    "creator": "Skapare",
+    "state": "Län",
+    "progress": "Förlopp",
+    "speed": "Hastighet",
+    "operation": "Åtgärd",
+    "copy": {
+      "src": "Källans sökväg",
+      "dst": "Sökväg till destination"
+    },
+    "upload": {
+      "path": "Sökväg"
+    },
+    "offline_download": {
+      "url": "URL",
+      "path": "Sökväg till destination",
+      "transfer_src": "Källans sökväg",
+      "transfer_src_local": "Källans sökväg (lokal)",
+      "transfer_dst": "Sökväg till destination"
+    },
+    "decompress": {
+      "src": "Källans sökväg",
+      "dst": "Sökväg till destination",
+      "inner": "Inre sökväg",
+      "password": "Extrahera lösenord"
+    },
+    "time_elapsed": "Förfluten tid",
+    "status": "Status",
+    "err": "Fel"
+  },
+  "show_only_mine": "Visa bara mina uppgifter"
+}

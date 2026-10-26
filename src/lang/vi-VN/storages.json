@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "Xuất",
+    "export_title": "Xuất kho lưu trữ sang JSON",
+    "export_tips": "Vui lòng sao chép JSON kho lưu trữ ở trên.",
+    "import": "Nhập",
+    "import_title": "Nhập kho lưu trữ từ JSON",
+    "import_success": "Đã nhập thành công!",
+    "import_tips": "Dán JSON kho lưu trữ đã xuất để nhập.",
+    "mount_path": "Đường dẫn gắn kết",
+    "mount_path-tips": "Đường dẫn bạn muốn gắn kết; đường dẫn này là duy nhất và không thể trùng lặp",
+    "driver": "Trình điều khiển",
+    "order": "Thứ tự",
+    "order-tips": "Dùng để sắp xếp",
+    "usage": "Mức sử dụng",
+    "status": "Trạng thái",
+    "remark": "Ghi chú",
+    "cache_expiration": "Thời hạn bộ nhớ đệm",
+    "cache_expiration-tips": "Thời hạn bộ nhớ đệm của kho lưu trữ này (phút)",
+    "custom_cache_policies": "Chính sách bộ nhớ đệm tùy chỉnh",
+    "custom_cache_policies-tips": "Quy tắc thời hạn bộ nhớ đệm cho kho lưu trữ này (phút)",
+    "down_proxy_url": "URL proxy tải xuống",
+    "disable_proxy_sign": "Tắt chữ ký proxy",
+    "disable_proxy_sign-tips": "Tắt chữ ký cho URL proxy tải xuống",
+    "web_proxy": "Proxy web",
+    "webdav_policy": "Chính sách WebDAV",
+    "proxy_range": "Dải proxy",
+    "proxy_range-tips": "Cần bật proxy",
+    "webdav_policys": {
+      "302_redirect": "Chuyển hướng 302",
+      "use_proxy_url": "Sử dụng URL proxy",
+      "native_proxy": "Proxy gốc"
+    },
+    "order_by": "Sắp xếp theo",
+    "order_bys": {
+      "name": "Tên",
+      "size": "Kích thước",
+      "modified": "Đã sửa đổi"
+    },
+    "order_direction": "Thứ tự sắp xếp",
+    "order_directions": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "extract_folder": "Thứ tự thư mục",
+    "extract_folders": {
+      "front": " Thư mục ở trên cùng",
+      "back": "Thư mục ở dưới cùng"
+    },
+    "enable_sign": "Bật chữ ký",
+    "disable_index": "Tắt chỉ mục"
+  },
+  "table_fields": {
+    "status": {
+      "work": "Đang hoạt động",
+      "disabled": "Đã tắt"
+    }
+  },
+  "other": {
+    "start_load_success": "Bắt đầu tải",
+    "load_all": "Tải lại tất cả",
+    "filter_by_driver": "Lọc theo trình điều khiển",
+    "table_layout": "Bố cục bảng"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "backup": "बैकअप",
+  "restore": "पुनर्स्थापित करें",
+  "start_backup": "बैकअप शुरू करें",
+  "finish_backup": "बैकअप पूरा करें",
+  "success_backup_item": "[ {{item}} ] बैकअप सफल रहा",
+  "failed_backup_item": "[ {{item}} ] बैकअप विफल रहा",
+  "no_file": "कोई फ़ाइल चयनित नहीं है",
+  "start_restore": "पुनर्स्थापना शुरू करें",
+  "finish_restore": "पुनर्स्थापना पूरी करें",
+  "success_restore_item": "[ {{item}} ] पुनर्स्थापना सफल रही",
+  "failed_restore_item": "[ {{item}} ] पुनर्स्थापना विफल रही",
+  "override": "ओवरराइड करें",
+  "encrypt_password_placeholder": "यदि आपको एन्क्रिप्शन की आवश्यकता नहीं है, तो इसे खाली छोड़ दें",
+  "encrypt_password": "एन्क्रिप्शन पासवर्ड",
+  "wrong_encrypt_password": "गलत एन्क्रिप्शन पासवर्ड"
+}

@@ -1,0 +1,66 @@
+{
+  "offline_download": "Baixar arquivo para o dispositivo local",
+  "offline_download_transfer": "Transferir arquivo baixado para o armazenamento correspondente",
+  "upload": "Enviar arquivo para o armazenamento correspondente",
+  "copy": "Copiar arquivo de um armazenamento para outro armazenamento",
+  "move": "Mover arquivos de um armazenamento para outro armazenamento",
+  "decompress": "Baixar e descompactar um arquivo",
+  "decompress_upload": "Enviar arquivos extraídos para o armazenamento alvo",
+  "done": "Concluído",
+  "undone": "Executando",
+  "clear_succeeded": "Limpeza bem sucedida",
+  "retry": "Repetir",
+  "retry_failed": "Falha ao Repetir",
+  "state": {
+    "0": "PENDENTE",
+    "1": "Executando",
+    "2": "Sucesso",
+    "3": "Cancelando",
+    "4": "Cancelado",
+    "5": "ERRO",
+    "6": "Falhando",
+    "7": "Falhou",
+    "8": "Aguardando Retentativa",
+    "9": "Preparando-se para Repetir"
+  },
+  "retry_selected": "Tentar novamente selecionado",
+  "cancel_selected": "Cancelar Selecionado",
+  "delete_selected": "Excluir Selecionados",
+  "filter": "filtro",
+  "expand": "Expandir",
+  "fold": "Recolher",
+  "expand_all": "Expandir tudo",
+  "fold_all": "Dobrar todos",
+  "attr": {
+    "name": "Nome:",
+    "creator": "Criador",
+    "state": "Estado:",
+    "progress": "Progresso",
+    "speed": "Velocidade",
+    "operation": "Operação",
+    "copy": {
+      "src": "Caminho de origem",
+      "dst": "Caminho de Destino"
+    },
+    "upload": {
+      "path": "Caminho"
+    },
+    "offline_download": {
+      "url": "URL:",
+      "path": "Caminho de Destino",
+      "transfer_src": "Caminho de origem",
+      "transfer_src_local": "Caminho de origem (Local)",
+      "transfer_dst": "Caminho de Destino"
+    },
+    "decompress": {
+      "src": "Caminho de origem",
+      "dst": "Caminho de Destino",
+      "inner": "Caminho interno",
+      "password": "Senha de extração"
+    },
+    "time_elapsed": "Tempo decorrido",
+    "status": "SItuação",
+    "err": "ERRO"
+  },
+  "show_only_mine": "Mostrar apenas minhas tarefas"
+}

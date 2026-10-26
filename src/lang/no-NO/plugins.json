@@ -1,0 +1,69 @@
+{
+  "title": "Utvidelser",
+  "name": "Navn på tillegg",
+  "type": "Type:",
+  "version": "Versjon",
+  "author": "Forfatter",
+  "status_col": "Status:",
+  "empty_desc": "Ingen beskrivelse oppgitt",
+  "subtitle": "Administrer og konfigurer OpenList utvidelser med ZIP-filopplasting og tredjeparts URL-installasjon",
+  "search_placeholder": "Søk plugins etter navn, ID, beskrivelse eller tillatelser...",
+  "filter_type": "Filtrer etter type",
+  "types": {
+    "all": "Alle typer",
+    "ui": "UI & Widgeter",
+    "preview": "Forhåndsseere",
+    "tool": "Verktøy",
+    "theme": "Temaer & Effekter",
+    "integration": "Integrasjoner",
+    "system": "System kjerne"
+  },
+  "status": {
+    "enabled": "Aktivert",
+    "disabled": "Deaktivert",
+    "builtin": "Innebygget",
+    "custom": "Egendefinert",
+    "high_privilege": "Høy privilegium"
+  },
+  "actions": {
+    "install": "Installer plugin",
+    "reinstall": "Reinstaller",
+    "uninstall": "Avinstaller",
+    "config": "Innstillinger",
+    "view_details": "Detaljer",
+    "enable": "Aktiver",
+    "disable": "Deaktiver",
+    "export": "Eksporter konfigurasjon",
+    "import": "Importer konfigurasjon",
+    "refresh": "Oppdater",
+    "save": "Lagre innstillinger",
+    "cancel": "Avbryt",
+    "install_url": "Installer via nettadresse"
+  },
+  "install_modal": {
+    "install_type": "Installasjonens kilde",
+    "zip_tab": "Laste opp ZIP Pakke",
+    "url_tab": "Installer via nettadresse",
+    "zip_file_label": "Programtillegg ZIP Pakke",
+    "zip_drop_title": "Klikk for å velge eller dra & slipp plugin ZIP-fil her",
+    "zip_drop_help": "Støtter plugin for åpen kildekode som inneholder plugin.json / manifest.json",
+    "url_label": "Manifest av programtillegget",
+    "url_placeholder": "F.eks.: https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "Støtter open-source plugin JSON manifest linker (GitHub Raw, jsDelivr, unpkg, etc.)",
+    "high_privilege_label": "Gi systemhøye rettigheter (rot / Admin privilegier)",
+    "high_privilege_help": "Gir direkte tilgang til lavnivå-filsystem-APIer, lagringsjåføren relasting, fulle sideinnstillinger, lese/skrive og rå HTTP-forespørsler",
+    "fetch_and_install": "Hent og installer"
+  },
+  "config_modal": {
+    "title": "Plugin konfigurasjon",
+    "no_config": "Ingen konfigurasjonsparametre kreves for dette programtillegget.",
+    "save_success": "Konfigurasjonen av programtillegget ble lagret"
+  },
+  "delete_confirm": "Er du sikker på at du vil avinstallere og fjerne denne utvidelsen? Dette kan ikke angres.",
+  "import_modal": {
+    "title": "Importer Plugins",
+    "paste_json": "Lim inn programtilleggets JSON data her",
+    "import_success": "Plugins ble importert"
+  },
+  "empty_installed": "Ingen utvidelser installert enda. Klikk på 'Installer programtillegg' for å laste opp en ZIP-pakke eller installere fra nettadresse."
+}

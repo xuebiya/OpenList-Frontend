@@ -1,0 +1,23 @@
+{
+  "index_header": "Pengaturan indeks pencarian",
+  "search_index": "Indeks pencarian",
+  "current": "Indeks saat ini",
+  "build": "Bangun indeks",
+  "rebuild": "Bangun ulang indeks",
+  "paths_to_update": "Jalur yang akan diperbarui",
+  "max_depth": "Kedalaman maksimum",
+  "update": "Perbarui indeks",
+  "obj_count": "Jumlah objek",
+  "last_done_time": "Waktu terakhir selesai",
+  "unknown": "Tidak diketahui",
+  "stop": "Hentikan",
+  "clear": "Hapus",
+  "error": "Kesalahan",
+  "scan_header": "Pindai secara manual",
+  "task_status": "Status tugas",
+  "running": "Berjalan",
+  "idle": "Tidak aktif",
+  "path_to_scan": "Jalur yang akan dipindai",
+  "rate_limit": "Batas laju",
+  "start": "Mulai"
+}

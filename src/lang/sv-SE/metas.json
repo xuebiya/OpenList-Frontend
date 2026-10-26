@@ -1,0 +1,18 @@
+{
+  "path": "Sökväg",
+  "password": "Lösenord",
+  "read_users": "Läs användare",
+  "read_users_help": "Endast valda användare med behörighet kan läsa den här sökvägen.",
+  "write_users": "Skriv användare",
+  "write_users_help": "Endast valda användare med behörighet kan skriva den här sökvägen.",
+  "all_permitted_users": "Alla tillåtna användare",
+  "write": "Förbifart för innehåll",
+  "write_help": "Går förbi användarbehörighetskontroller för innehållskriverier (skapa/ladda upp/ändra). ANVÄND MED CAUTION.",
+  "hide": "Dölj",
+  "readme": "Läsa",
+  "readme_help": "Rendera en markdown längst ner, stödja innehåll eller länk",
+  "header": "Rubrik",
+  "header_help": "Rendera en markdown högst upp, stödja innehåll eller länk",
+  "apply_sub": "Tillämpa till undermapp",
+  "hide_help": "Ett reguljärt uttryck per rad"
+}

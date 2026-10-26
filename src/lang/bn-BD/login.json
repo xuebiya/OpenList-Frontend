@@ -1,0 +1,13 @@
+{
+  "login_to": "লগইন করুন",
+  "username-tips": "আপনার ব্যবহারকারীর নাম লিখুন",
+  "password-tips": "আপনার পাসওয়ার্ড লিখুন",
+  "otp-tips": "আপনার OTP কোড লিখুন",
+  "remember": "আমাকে মনে রাখুন",
+  "forget": "পাসওয়ার্ড ভুলে গেছেন?",
+  "forget_url": "https://doc.oplist.org/faq/howto#how-to-get-password-if-i-forget-it",
+  "clear": "মুছুন",
+  "login": "লগইন",
+  "use_guest": "অতিথি হিসেবে ব্রাউজ করুন",
+  "success": "সফলভাবে লগইন হয়েছে"
+}

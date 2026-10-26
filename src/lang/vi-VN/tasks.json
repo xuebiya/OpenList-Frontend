@@ -1,0 +1,66 @@
+{
+  "offline_download": "Tải tệp xuống thiết bị cục bộ",
+  "offline_download_transfer": "Chuyển tệp đã tải xuống vào bộ lưu trữ tương ứng",
+  "upload": "Tải tệp lên bộ lưu trữ tương ứng",
+  "copy": "Sao chép tệp từ bộ lưu trữ này sang bộ lưu trữ khác",
+  "move": "Di chuyển tệp từ bộ lưu trữ này sang bộ lưu trữ khác",
+  "decompress": "Tải xuống và giải nén tệp lưu trữ",
+  "decompress_upload": "Tải các tệp đã giải nén lên bộ lưu trữ đích",
+  "done": "Đã hoàn tất",
+  "undone": "Đang chạy",
+  "clear_succeeded": "Xóa các mục đã thành công",
+  "retry": "Thử lại",
+  "retry_failed": "Thử lại không thành công",
+  "state": {
+    "0": "Đang chờ",
+    "1": "Đang chạy",
+    "2": "Đã thành công",
+    "3": "Đang hủy",
+    "4": "Đã hủy",
+    "5": "Lỗi",
+    "6": "Đang thất bại",
+    "7": "Đã thất bại",
+    "8": "Đang chờ thử lại",
+    "9": "Đang chuẩn bị thử lại"
+  },
+  "retry_selected": "Thử lại các mục đã chọn",
+  "cancel_selected": "Hủy các mục đã chọn",
+  "delete_selected": "Xóa các mục đã chọn",
+  "filter": "Lọc",
+  "expand": "Mở rộng",
+  "fold": "Thu gọn",
+  "expand_all": "Mở rộng tất cả",
+  "fold_all": "Thu gọn tất cả",
+  "attr": {
+    "name": "Tên",
+    "creator": "Người tạo",
+    "state": "Trạng thái",
+    "progress": "Tiến độ",
+    "speed": "Tốc độ",
+    "operation": "Thao tác",
+    "copy": {
+      "src": "Đường dẫn nguồn",
+      "dst": "Đường dẫn đích"
+    },
+    "upload": {
+      "path": "Đường dẫn"
+    },
+    "offline_download": {
+      "url": "URL",
+      "path": "Đường dẫn đích",
+      "transfer_src": "Đường dẫn nguồn",
+      "transfer_src_local": "Đường dẫn nguồn (cục bộ)",
+      "transfer_dst": "Đường dẫn đích"
+    },
+    "decompress": {
+      "src": "Đường dẫn nguồn",
+      "dst": "Đường dẫn đích",
+      "inner": "Đường dẫn bên trong",
+      "password": "Mật khẩu giải nén"
+    },
+    "time_elapsed": "Thời gian đã trôi qua",
+    "status": "Trạng thái",
+    "err": "Lỗi"
+  },
+  "show_only_mine": "Chỉ hiển thị tác vụ của tôi"
+}

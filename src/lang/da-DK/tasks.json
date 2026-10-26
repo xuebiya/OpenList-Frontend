@@ -1,0 +1,66 @@
+{
+  "offline_download": "Download fil til lokal enhed",
+  "offline_download_transfer": "Overfør downloadede filer til tilsvarende lagerplads",
+  "upload": "Upload fil til tilsvarende lager",
+  "copy": "Kopier fil fra et lager til et andet lager",
+  "move": "Flyt filen fra et lager til et andet lager",
+  "decompress": "Download og dekomprimere en arkivfil",
+  "decompress_upload": "Upload udpakkede filer til mållageret",
+  "done": "Afsluttet",
+  "undone": "Kører",
+  "clear_succeeded": "Ryd Lykkedes",
+  "retry": "Forsøg igen",
+  "retry_failed": "Forsøg Mislykkedes",
+  "state": {
+    "0": "Afventer",
+    "1": "Kører",
+    "2": "Succes",
+    "3": "Annullerer",
+    "4": "Annulleret",
+    "5": "Fejl",
+    "6": "Mislykkede",
+    "7": "Mislykkedes",
+    "8": "Venter på Prøv igen",
+    "9": "Forbereder sig på at Prøv igen"
+  },
+  "retry_selected": "Forsøg Valgte",
+  "cancel_selected": "Annuller Valgte",
+  "delete_selected": "Slet Valgte",
+  "filter": "Filtrer",
+  "expand": "Udvid",
+  "fold": "Fold",
+  "expand_all": "Udvid Alle",
+  "fold_all": "Fold Alle",
+  "attr": {
+    "name": "Navn",
+    "creator": "Skaber",
+    "state": "Stat",
+    "progress": "Fremskridt",
+    "speed": "Hastighed",
+    "operation": "Handling",
+    "copy": {
+      "src": "Kilde Sti",
+      "dst": "Destinations Sti"
+    },
+    "upload": {
+      "path": "Sti"
+    },
+    "offline_download": {
+      "url": "URL",
+      "path": "Destinations Sti",
+      "transfer_src": "Kilde Sti",
+      "transfer_src_local": "Kildesti (lokal)",
+      "transfer_dst": "Destinations Sti"
+    },
+    "decompress": {
+      "src": "Kilde Sti",
+      "dst": "Destinations Sti",
+      "inner": "Indre Sti",
+      "password": "Udtrækning Adgangskode"
+    },
+    "time_elapsed": "Tid Forløbet",
+    "status": "Status",
+    "err": "Fejl"
+  },
+  "show_only_mine": "Vis kun mine opgaver"
+}

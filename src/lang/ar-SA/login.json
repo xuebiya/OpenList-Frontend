@@ -1,0 +1,13 @@
+{
+  "login_to": "تسجيل الدخول إلى",
+  "username-tips": "أدخل اسم المستخدم الخاص بك",
+  "password-tips": "أدخل كلمة المرور الخاصة بك",
+  "otp-tips": "أدخل رمز OTP الخاص بك",
+  "remember": "تذكر لي",
+  "forget": "ننسى كلمة المرور؟",
+  "forget_url": "https://doc.oplist.org/faq/howto#how-to-get-password-if-i-forget-it",
+  "clear": "مسح",
+  "login": "تسجيل الدخول",
+  "use_guest": "تصفح كضيف",
+  "success": "تسجيل الدخول بنجاح"
+}

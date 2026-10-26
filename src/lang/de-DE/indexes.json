@@ -1,0 +1,23 @@
+{
+  "index_header": "Suchindex Einstellungen",
+  "search_index": "Suchindex",
+  "current": "Aktuelle Indizes",
+  "build": "Indizes erstellen",
+  "rebuild": "Indizes neu aufbauen",
+  "paths_to_update": "Pfade zum Update",
+  "max_depth": "Max. Tiefe",
+  "update": "Indizes aktualisieren",
+  "obj_count": "Objektzahl",
+  "last_done_time": "Zuletzt erledigt",
+  "unknown": "Unbekannt",
+  "stop": "Stoppen",
+  "clear": "Leeren",
+  "error": "Fehler",
+  "scan_header": "Manuell scannen",
+  "task_status": "Aufgabenstatus",
+  "running": "Laufend",
+  "idle": "Leerlauf",
+  "path_to_scan": "Pfad zum Scannen",
+  "rate_limit": "Preislimit",
+  "start": "Start"
+}

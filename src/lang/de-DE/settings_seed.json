@@ -1,0 +1,23 @@
+{
+  "site_config": "Website-Konfiguration",
+  "site_url": "Website-URL",
+  "site_url_help": "Öffentliche Basis-URL, die beim Generieren von Freigabelinks in Seed-Quellen eingebettet wird. Leer lassen, um den Ursprung der aktuellen Anfrage zu verwenden.",
+  "default_matrix": "Standard-Hash-Matrix",
+  "default_matrix_help": "Hashes, die beim Generieren von Seeds aus der Dateiliste vorausgewählt werden. Torrent erzwingt bei der Generierung SHA-1, CAS erzwingt MD5.",
+  "whole": "Gesamte Datei",
+  "pieces": "Teile",
+  "default_format": "Standardformat",
+  "default_format_help": "Format, das im Dialog zur Seed-Generierung vorausgewählt wird.",
+  "format_policies": "Richtlinien für automatische Formate",
+  "format_policies_help": "Formate, die automatisch als Begleitdateien generiert werden. Jeder Speicher kann die globale Richtlinie weiterhin überschreiben.",
+  "oss_format": "OSS (.oss)",
+  "torrent_format": "Torrent-Datei (.torrent)",
+  "cas_format": "CAS (.cas)",
+  "other_options": "Weitere Optionen",
+  "auto_generate": "Seeds beim Hochladen automatisch generieren",
+  "auto_generate_help": "Begleitdatei-Seeds während des Hochladens mithilfe der oben genannten Formatierungsrichtlinien generieren.",
+  "single_direct_preview": "Direkte Vorschau für Seeds mit einer einzelnen Datei",
+  "single_direct_preview_help": "Die enthaltene Datei direkt anstelle der Seed-Detailansicht öffnen, wenn ein Seed genau eine Datei enthält.",
+  "cas_direct_access": "Direkter CAS-Zugriff",
+  "cas_direct_access_help": "Beim Öffnen eines CAS-Seeds mit einer einzelnen Datei diesen per Schnellupload in denselben Ordner hochladen und eine Vorschau der wiederhergestellten Datei anzeigen."
+}

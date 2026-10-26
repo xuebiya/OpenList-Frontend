@@ -1,0 +1,18 @@
+{
+  "path": "Sti",
+  "password": "Adgangskode",
+  "read_users": "Læs Brugere",
+  "read_users_help": "Kun valgte brugere med den krævede tilladelse kan læse denne sti.",
+  "write_users": "Skriv Brugere",
+  "write_users_help": "Kun valgte brugere med den krævede tilladelse kan skrive denne sti.",
+  "all_permitted_users": "Alle Tilladte Brugere",
+  "write": "Skriv Indhold Bypass",
+  "write_help": "Tilsidesætter brugertilladelsestjek for indhold skriver (opret/upload/ændre). BRUG MED FORSIGTIGHED.",
+  "hide": "Skjul",
+  "readme": "Læs",
+  "readme_help": "Vis en markdown nederst, support indhold eller link",
+  "header": "Overskrift",
+  "header_help": "Vis en markdown øverst, support indhold eller link",
+  "apply_sub": "Anvend på undermappe",
+  "hide_help": "Et regulært udtryk pr. linje"
+}

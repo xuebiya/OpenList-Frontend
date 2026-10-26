@@ -1,0 +1,1804 @@
+{
+  "115 Cloud": {
+    "cookie": "Cookie",
+    "cookie-tips": "un des codes QR et des cookies requis",
+    "limit_rate": "Taux limite",
+    "limit_rate-tips": "limiter tous les taux de requête de l'API ([limit]r/1s)",
+    "page_size": "Taille de la page",
+    "page_size-tips": "lister l'api par taille de page de 115 pilote",
+    "qrcode_source": "Source du Qrcode",
+    "qrcode_source-tips": "sélectionnez le périphérique de code QR, linux par défaut",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "Ios",
+      "qandroid": "Qandroid",
+      "tv": "Tv",
+      "web": "Web",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "Token Qrcode",
+    "qrcode_token-tips": "un des codes QR et des cookies requis",
+    "root_folder_id": "ID du dossier racine"
+  },
+  "115 Open": {
+    "access_token": "Jeton d'accès",
+    "limit_rate": "Taux limite",
+    "limit_rate-tips": "limiter tous les taux de requête de l'API ([limit]r/1s)",
+    "order_by": "Trier par",
+    "order_bys": {
+      "file_name": "Nom du fichier",
+      "file_size": "Taille du fichier",
+      "file_type": "Type de fichier",
+      "user_utime": "Utilisation de l'utilisateur"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "page_size": "Taille de la page",
+    "page_size-tips": "liste des api par taille de page de 115open driver",
+    "refresh_token": "Actualiser le jeton",
+    "root_folder_id": "ID du dossier racine"
+  },
+  "115 Share": {
+    "cookie": "Cookie",
+    "cookie-tips": "un des codes QR et des cookies requis",
+    "limit_rate": "Taux limite",
+    "limit_rate-tips": "limiter tous les frais de requête de l'API (1r/[limit_rate]s)",
+    "page_size": "Taille de la page",
+    "page_size-tips": "lister l'api par taille de page de 115 pilote",
+    "qrcode_source": "Source du Qrcode",
+    "qrcode_source-tips": "sélectionnez le périphérique de code QR, linux par défaut",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "Ios",
+      "qandroid": "Qandroid",
+      "tv": "Tv",
+      "web": "Web",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "Token Qrcode",
+    "qrcode_token-tips": "un des codes QR et des cookies requis",
+    "receive_code": "Recevoir le code",
+    "receive_code-tips": "recevoir le code 115 lien de partage",
+    "root_folder_id": "ID du dossier racine",
+    "share_code": "Partager le code",
+    "share_code-tips": "partager le code de 115 lien de partage"
+  },
+  "123 Open": {
+    "AccessToken": "AccessToken",
+    "ClientID": "ClientID",
+    "ClientSecret": "ClientSecret",
+    "DirectLink": "DirectLink",
+    "DirectLink-tips": "utiliser le lien direct lors du téléchargement du fichier",
+    "DirectLinkPrivateKey": "DirectLinkPrivateKey",
+    "DirectLinkPrivateKey-tips": "clé privée pour le lien direct, si l'authentification d'URL est activée",
+    "DirectLinkValidDuration": "DirectLinkValidDuration",
+    "DirectLinkValidDuration-tips": "minutes, si l'authentification URL est activée",
+    "RefreshToken": "RefreshToken",
+    "UploadThread": "Envoyer un fil de discussion",
+    "UploadThread-tips": "les fils de discussion du téléchargement",
+    "api_url_address": "Adresse URL de l'Api",
+    "root_folder_id": "ID du dossier racine",
+    "use_online_api": "Utiliser l'api en ligne"
+  },
+  "123Pan": {
+    "UploadThread": "Envoyer un fil de discussion",
+    "UploadThread-tips": "les fils de discussion du téléchargement",
+    "password": "Mot de passe",
+    "platform": "Plateforme",
+    "platform-tips": "la valeur de l'en-tête de la plate-forme, envoyée avec des requêtes API",
+    "root_folder_id": "ID du dossier racine",
+    "username": "Nom d'utilisateur"
+  },
+  "123PanLink": {
+    "origin_urls": "Urls d'origine",
+    "origin_urls-tips": "structure:Nom du dossier :\n  [Taille du fichier:][Modifié:]Url",
+    "private_key": "Clé privée",
+    "uid": "Uid",
+    "valid_duration": "Durée de validité",
+    "valid_duration-tips": "minutes"
+  },
+  "123PanShare": {
+    "accesstoken": "Accesstoken",
+    "root_folder_id": "ID du dossier racine",
+    "sharekey": "Clef Sharekey",
+    "sharepassword": "Mot de passe partagé"
+  },
+  "139Yun": {
+    "authorization": "Autorisation",
+    "authorization-tips": "L'autorisation peut être utilisée seule. Si elle est vide, utilisez uniquement mail_cookies pour une connexion rapide, ou mail_cookies + nom d'utilisateur + mot de passe pour la connexion complète.",
+    "client_type": "Type de client",
+    "client_type-tips": "Type de client indiqué à l’API du cloud personnel. web (9) permet de téléverser des fichiers jusqu’à 50 Go ; pc (13) porte la limite de téléversement par fichier à 500 Go.",
+    "client_types": {
+      "pc": "Pc",
+      "web": "Internet"
+    },
+    "cloud_id": "Id Cloud",
+    "custom_upload_part_size": "Taille personnalisée de la pièce téléchargée",
+    "custom_upload_part_size-tips": "0 pour l'auto",
+    "link_id": "Link id",
+    "link_id-tips": "Les partages multiples sont séparés par des virgules ou des nouvelles lignes. Utilisez link_id#password pour les partages protégés par un mot de passe.",
+    "mail_cookies": "Cookies de courrier",
+    "mail_cookies-tips": "Cookies de mail.139.com utilisés pour l'authentification de connexion.",
+    "password": "Mot de passe",
+    "password-tips": "Requis uniquement lors de l'utilisation du mot de passe de connexion par défaut avec mail_cookies.",
+    "report_real_size": "Signaler la taille réelle",
+    "report_real_size-tips": "Activer pour signaler la taille réelle du fichier lors du téléchargement",
+    "root_folder_id": "ID du dossier racine",
+    "sms_code": "Code SMS",
+    "sms_code-tips": "Remplissez ceci seulement après que OpenList rapporte qu'un code de vérification par SMS 139 a été envoyé, puis enregistrez le stockage à nouveau.",
+    "type": "Type de texte",
+    "types": {
+      "family": "Famille",
+      "group": "Groupes",
+      "personal": "Personnels",
+      "personal_new": "Nouveau personnel",
+      "share": "Partager"
+    },
+    "use_large_thumbnail": "Utiliser une grande miniature",
+    "use_large_thumbnail-tips": "Activer pour utiliser une grande miniature pour les images",
+    "use_old_stream_upload": "Utiliser l'ancien téléchargement de flux",
+    "use_old_stream_upload-tips": "Activer pour utiliser l'ancienne méthode de téléchargement de flux (ne prend pas en charge l'envoi rapide)",
+    "user_domain_id": "Identifiant du domaine utilisateur",
+    "user_domain_id-tips": "ud_id dans Cookie, remplissez pour afficher l'utilisation du disque",
+    "username": "Nom d'utilisateur",
+    "username-tips": "Requis uniquement lors de l'utilisation du mot de passe de connexion par défaut avec mail_cookies."
+  },
+  "189Cloud": {
+    "cookie": "Cookie",
+    "cookie-tips": "Remplissez le cookie si besoin de captcha",
+    "password": "Mot de passe",
+    "root_folder_id": "ID du dossier racine",
+    "username": "Nom d'utilisateur"
+  },
+  "189CloudPC": {
+    "access_token": "Jeton d'accès",
+    "client_sn": "Numéro de série du client",
+    "client_sn-tips": "Numéro de série de l’appareil récupéré depuis le client officiel. Laissez ce champ vide si vous n’en avez pas",
+    "device_id": "Identifiant de l’appareil",
+    "device_id-tips": "Cookie DEVICEID délivré après la deuxième vérification de l’appareil. Conservez-le pour éviter de refaire la vérification",
+    "family_id": "ID de famille",
+    "family_transfer": "Transfert de famille",
+    "generate_torrent": "Générer un torrent",
+    "generate_torrent-tips": "Générer un fichier torrent avec une extension CAS après téléchargement",
+    "jg_open_id": "Identifiant Jg open",
+    "jg_open_id-tips": "Identifiant de push facultatif indiqué par le client officiel",
+    "login_type": "Type de connexion",
+    "login_types": {
+      "password": "Mot de passe",
+      "qrcode": "Qrcode"
+    },
+    "no_use_ocr": "Pas d'utilisation d'ocr",
+    "order_by": "Trier par",
+    "order_bys": {
+      "filename": "Nom du fichier",
+      "filesize": "Taille du fichier",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "password": "Mot de passe",
+    "password-tips": "Inutile si un jeton d’accès ou un jeton de renouvellement est fourni",
+    "rapid_upload": "Envoi rapide",
+    "refresh_token": "Actualiser le jeton",
+    "refresh_token-tips": "Pour changer de compte, veuillez vider ce champ",
+    "root_folder_id": "ID du dossier racine",
+    "sms_code": "Sms code",
+    "sms_code-tips": "Code SMS pour la deuxième vérification de l’appareil. Saisissez-le et enregistrez de nouveau lorsque la connexion le demande",
+    "type": "Type de texte",
+    "types": {
+      "family": "Famille",
+      "personal": "Personnels"
+    },
+    "upload_method": "Méthode d'envoi",
+    "upload_methods": {
+      "old": "Ancien",
+      "rapid": "Rapide",
+      "stream": "Flux"
+    },
+    "upload_thread": "Télécharger le fil de discussion",
+    "upload_thread-tips": "1<=sujet<=32",
+    "user_finger": "Empreinte utilisateur",
+    "user_finger-tips": "Empreinte de l’appareil envoyée avec les demandes de connexion. Elle est générée et conservée automatiquement si le champ est vide",
+    "username": "Nom d'utilisateur",
+    "username-tips": "Inutile si un jeton d’accès ou un jeton de renouvellement est fourni",
+    "validate_code": "Validate code"
+  },
+  "189CloudTV": {
+    "access_token": "Jeton d'accès",
+    "family_id": "ID de famille",
+    "order_by": "Trier par",
+    "order_bys": {
+      "filename": "Nom du fichier",
+      "filesize": "Taille du fichier",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "rapid_upload": "Envoi rapide",
+    "root_folder_id": "ID du dossier racine",
+    "type": "Type de texte",
+    "types": {
+      "family": "Famille",
+      "personal": "Personnels"
+    },
+    "upload_thread": "Télécharger le fil de discussion",
+    "upload_thread-tips": "1<=sujet<=32"
+  },
+  "AList V3": {
+    "forward_archive_requests": "Transférer les requêtes d'archive",
+    "meta_password": "Mot de passe Meta",
+    "pass_ip_to_upsteam": "Passer l'IP vers le haut",
+    "pass_ua_to_upsteam": "Passez ua à la vapeur",
+    "password": "Mot de passe",
+    "root_folder_path": "Chemin du dossier racine",
+    "token": "Jeton",
+    "url": "Url",
+    "username": "Nom d'utilisateur"
+  },
+  "AliDoc": {
+    "cookie": "Cookie",
+    "cookie-tips": "Cookie web du document DingTalk",
+    "root_folder_id": "ID du dossier racine"
+  },
+  "Alias": {
+    "details_pass_through": "Les détails passent par",
+    "download_concurrency": "Télécharger en même temps",
+    "download_concurrency-tips": "Besoin d'activer le proxy",
+    "download_part_size": "Télécharger la taille de la pièce",
+    "download_part_size-tips": "Besoin d'activer le proxy. Unité: KB",
+    "file_consistency_check": "Vérification de la cohérence du fichier",
+    "paths": "Chemins",
+    "provider_pass_through": "Le fournisseur passe à travers",
+    "put_conflict_policy": "Mettre en place une politique de conflit",
+    "put_conflict_policy-tips": "Comment le pilote gère les chemins d'arrière-plan identiques lors du téléchargement, de la copie, du déplacement ou du décompression.",
+    "put_conflict_policys": {
+      "all": "Mettre dans tous les chemins de conflit",
+      "all_strict": "Autoriser les chemins de conflit complets",
+      "deterministic": "Autoriser un chemin unique",
+      "deterministic_or_all": "Autoriser le chemin unique et les chemins de conflit complets",
+      "disabled": "Désactiver la mise",
+      "first": "Mettre dans le premier chemin de conflit",
+      "quota": "Balancier de charge aléatoire pondéré en fonction de l'espace restant",
+      "quota_strict": "Équilibrage de charge aléatoire pondéré strict basé sur l'espace restant",
+      "random": "Équilibrage de charge aléatoire"
+    },
+    "read_conflict_policy": "Lecture de la politique de conflit",
+    "read_conflict_policys": {
+      "all": "Équilibrage de charge sur une base par pièce",
+      "first": "Récupère le fichier correspondant au premier chemin de conflit",
+      "random": "Équilibrage de charge par fichier"
+    },
+    "write_conflict_policy": "Écriture de la politique de conflit",
+    "write_conflict_policy-tips": "Comment le pilote gère des chemins d'arrière-plan identiques lors du renommage, de la suppression ou de la création de répertoires.",
+    "write_conflict_policys": {
+      "all": "Écrire dans tous les chemins de conflit",
+      "all_strict": "Autoriser les chemins de conflit complets",
+      "deterministic": "Autoriser un chemin unique",
+      "deterministic_or_all": "Autoriser le chemin unique et les chemins de conflit complets",
+      "disabled": "Désactiver l'écriture",
+      "first": "Écrire dans le premier chemin de conflit"
+    }
+  },
+  "Aliyundrive": {
+    "internal_upload": "Envoi interne",
+    "order_by": "Trier par",
+    "order_bys": {
+      "created_at": "Créé le",
+      "name": "Nom",
+      "size": "Taille",
+      "updated_at": "Mis à jour le"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "ASC": "NAS",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "Envoi rapide",
+    "refresh_token": "Actualiser le jeton",
+    "root_folder_id": "ID du dossier racine"
+  },
+  "AliyundriveOpen": {
+    "alipan_type": "Type Alipan",
+    "alipan_types": {
+      "alipanTV": "AlipanTV",
+      "default": "Par défaut"
+    },
+    "api_url_address": "Adresse URL de l'Api",
+    "callback_concurrency": "Concurrence de rappel",
+    "callback_concurrency-tips": "Nombre maximum de téléchargements proxiés actifs partagés par l'utilisateur Aliyun",
+    "client_id": "Id du client",
+    "client_id-tips": "Laisser vide si vous n'en avez pas un",
+    "client_secret": "Secret du client",
+    "client_secret-tips": "Laisser vide si vous n'en avez pas un",
+    "drive_type": "Type de lecteur",
+    "drive_types": {
+      "backup": "Sauvegarde",
+      "default": "Par défaut",
+      "resource": "Ressource"
+    },
+    "internal_upload": "Envoi interne",
+    "internal_upload-tips": "Si vous utilisez Aliyun ECS est situé à Pékin, vous pouvez l'activer pour augmenter la vitesse d'envoi",
+    "livp_download_format": "Format de téléchargement Livp",
+    "livp_download_formats": {
+      "jpeg": "Jpeg",
+      "mov": "Déplacement"
+    },
+    "order_by": "Trier par",
+    "order_bys": {
+      "created_at": "Créé le",
+      "name": "Nom",
+      "size": "Taille",
+      "updated_at": "Mis à jour le"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "ASC": "NAS",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "Envoi rapide",
+    "rapid_upload-tips": "Si vous activez cette option, le fichier sera téléchargé sur le serveur en premier, donc la progression sera incorrecte",
+    "refresh_token": "Actualiser le jeton",
+    "remove_way": "Supprimer la voie",
+    "remove_ways": {
+      "delete": "Supprimez",
+      "trash": "Corbeille"
+    },
+    "root_folder_id": "ID du dossier racine",
+    "use_online_api": "Utiliser l'api en ligne"
+  },
+  "AliyundriveShare": {
+    "order_by": "Trier par",
+    "order_bys": {
+      "created_at": "Créé le",
+      "name": "Nom",
+      "size": "Taille",
+      "updated_at": "Mis à jour le"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "ASC": "NAS",
+      "DESC": "DESC"
+    },
+    "refresh_token": "Actualiser le jeton",
+    "root_folder_id": "ID du dossier racine",
+    "share_id": "Partager l'id",
+    "share_pwd": "Partager pwd"
+  },
+  "AutoIndex": {
+    "ignore_file_names": "Ignorer les noms de fichiers",
+    "item_xpath": "Chemin de l'entrée XPath",
+    "modified_time_format": "Format de date de modification",
+    "modified_time_format-tips": "Doit être basé sur le point de temps lun. 2 15:04:05 -0700 MST 2006",
+    "modified_xpath": "Modification du temps XPath",
+    "name_xpath": "Nom de fichier XPath",
+    "size_xpath": "Taille du fichier XPath",
+    "url": "URL"
+  },
+  "Azure Blob Storage": {
+    "access_key": "Clé d'accès",
+    "access_key-tips": "La clé d'accès pour Azure Storage, utilisée pour l'authentification. https://learn.microsoft.com/azure/storage/common/storage-account-keys-manage",
+    "container_name": "Nom du conteneur",
+    "container_name-tips": "Le nom du conteneur dans Azure Storage (créé sur le portail Azure). https://learn.microsoft.com/azure/storage/blobs/blob-containers-portal",
+    "endpoint": "Endpoint",
+    "endpoint-tips": "par exemple https://accountname.blob.core.windows.net/. L'URL de terminaison complète pour le stockage Azure, y compris le nom du compte de stockage unique (3 ~ 24 chiffres et lettres minuscules seulement).",
+    "root_folder_path": "Chemin du dossier racine",
+    "sign_url_expire": "Expiration de l'url du signe",
+    "sign_url_expire-tips": "La durée d'expiration des URL SAS, en heures."
+  },
+  "BaiduNetdisk": {
+    "api_url_address": "Adresse URL de l'Api",
+    "client_id": "Id du client",
+    "client_secret": "Secret du client",
+    "custom_crack_ua": "Fissure personnalisée ua",
+    "custom_upload_part_size": "Taille personnalisée de la pièce téléchargée",
+    "custom_upload_part_size-tips": "0 pour l'auto",
+    "download_api": "Télécharger l'api",
+    "download_apis": {
+      "crack": "Craquage",
+      "crack_video": "Casser la vidéo",
+      "official": "Officiel"
+    },
+    "low_bandwith_upload_mode": "Mode de téléchargement à faible bande passante",
+    "only_list_video_file": "Lister uniquement le fichier vidéo",
+    "order_by": "Trier par",
+    "order_bys": {
+      "name": "Nom",
+      "size": "Taille",
+      "time": "Date et heure"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "refresh_token": "Actualiser le jeton",
+    "root_folder_path": "Chemin du dossier racine",
+    "upload_api": "Charger l'api",
+    "upload_thread": "Télécharger le fil de discussion",
+    "upload_thread-tips": "1<=sujet<=32",
+    "upload_timeout": "Délai d'upload dépassé",
+    "upload_timeout-tips": "Délai d'upload par tranche en secondes",
+    "use_dynamic_upload_api": "Utiliser l'api de téléchargement dynamique",
+    "use_dynamic_upload_api-tips": "récupère dynamiquement le domaine de l'api de téléchargement, une fois activé, le paramètre 'Upload API' sera utilisé comme secours si impossible d'obtenir",
+    "use_online_api": "Utiliser l'api en ligne"
+  },
+  "BaiduPhoto": {
+    "album_id": "Identifiant de l'album",
+    "cookie": "Cookie",
+    "delete_origin": "Supprimer l'origine",
+    "show_type": "Afficher le type",
+    "show_types": {
+      "root": "Racine",
+      "root_only_album": "Album uniquement racine",
+      "root_only_file": "Fichier racine uniquement"
+    },
+    "upload_thread": "Télécharger le fil de discussion",
+    "upload_thread-tips": "1<=sujet<=32"
+  },
+  "Bunny Storage": {
+    "access_key": "Clé d'accès",
+    "cdn_base_url": "Url de base du Cdn",
+    "cdn_token_include_ip": "Cdn token inclut l'IP",
+    "cdn_token_key": "Clé de jeton Cdn",
+    "cdn_token_method": "Méthode de jeton Cdn",
+    "cdn_token_methods": {
+      "hmac_sha256": "Hmac sha256",
+      "sha256": "Sha256"
+    },
+    "endpoint": "Endpoint",
+    "placeholder": "Placeholder",
+    "root_folder_path": "Chemin du dossier racine",
+    "sign_url_expire": "Expiration de l'url du signe",
+    "storage_zone_name": "Nom de la zone de stockage"
+  },
+  "CNB Releases": {
+    "default_branch": "Branche par défaut",
+    "default_branch-tips": "Branche par défaut pour les nouvelles versions",
+    "repo": "Dépôt",
+    "root_folder_id": "ID du dossier racine",
+    "token": "Jeton",
+    "use_tag_name": "Utiliser le nom du tag",
+    "use_tag_name-tips": "Utiliser le nom du tag au lieu du nom de la version"
+  },
+  "ChaoXingGroupDrive": {
+    "bbsid": "Bbsid",
+    "cookie": "Cookie",
+    "password": "Mot de passe",
+    "root_folder_id": "ID du dossier racine",
+    "user_name": "Nom d'utilisateur"
+  },
+  "Chunk": {
+    "chunk_large_file_only": "Fichier volumineux uniquement",
+    "chunk_large_file_only-tips": "chunk uniquement si la taille du fichier > part_size",
+    "chunk_prefix": "Chunk prefix",
+    "chunk_prefix-tips": "le préfixe du dossier chunk",
+    "custom_ext": "Ext personnalisé",
+    "num_list_workers": "Nombre de collaborateurs-trices",
+    "part_size": "Taille de la pièce",
+    "part_size-tips": "octets",
+    "remote_path": "Chemin d'accès distant",
+    "show_hidden": "Afficher les caches placées",
+    "show_hidden-tips": "afficher les répertoires et fichiers cachés",
+    "store_hash": "Stocker le hachage",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "Activer la miniature qui a été pré-générée dans le dossier .thumbnails"
+  },
+  "Cloudreve": {
+    "address": "Adresses",
+    "cookie": "Cookie",
+    "custom_ua": "ua personnalisé",
+    "enable_thumb_and_folder_size": "Activer la taille du pouce et du dossier",
+    "password": "Mot de passe",
+    "root_folder_path": "Chemin du dossier racine",
+    "username": "Nom d'utilisateur"
+  },
+  "Cloudreve V4": {
+    "access_token": "Jeton d'accès",
+    "address": "Adresses",
+    "custom_ua": "ua personnalisé",
+    "enable_folder_size": "Activer la taille du dossier",
+    "enable_thumb": "Activer le pouce",
+    "enable_version_upload": "Activer le téléchargement de la version",
+    "hide_uploading": "Masquer le téléchargement",
+    "order_by": "Trier par",
+    "order_bys": {
+      "created_at": "Créé le",
+      "name": "Nom",
+      "size": "Taille",
+      "updated_at": "Mis à jour le"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "password": "Mot de passe",
+    "refresh_token": "Actualiser le jeton",
+    "root_folder_path": "Chemin du dossier racine",
+    "username": "Nom d'utilisateur"
+  },
+  "Crypt": {
+    "directory_name_encryption": "Chiffrement des noms de dossier",
+    "directory_name_encryptions": {
+      "false": "Faux",
+      "true": "Vrai"
+    },
+    "encrypted_suffix": "Suffixe chiffré",
+    "encrypted_suffix-tips": "pour les utilisateurs avancés seulement! les fichiers chiffrés auront ce suffixe",
+    "filename_encoding": "Encodage du nom de fichier",
+    "filename_encoding-tips": "pour les utilisateurs avancés seulement!",
+    "filename_encodings": {
+      "base32": "Base32",
+      "base32768": "Base32768",
+      "base64": "Base64"
+    },
+    "filename_encryption": "Chiffrement du nom du fichier",
+    "filename_encryptions": {
+      "obfuscate": "Obfusquer",
+      "off": "Désactivé",
+      "standard": "Standard"
+    },
+    "password": "Mot de passe",
+    "password-tips": "le mot de passe principal",
+    "remote_path": "Chemin d'accès distant",
+    "remote_path-tips": "C'est là que les données cryptées stockent",
+    "salt": "Sel",
+    "salt-tips": "Si vous ne savez pas ce qu'est le sel, traitez le comme un second mot de passe. Optionnel mais recommandé",
+    "show_hidden": "Afficher les caches placées",
+    "show_hidden-tips": "afficher les répertoires et fichiers cachés",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "Activer la miniature qui a été pré-générée dans le dossier .thumbnails"
+  },
+  "Degoo": {
+    "access_token": "Jeton d'accès",
+    "access_token-tips": "Jeton d'accès pour l'API Degoo, obtenu automatiquement",
+    "password": "Mot de passe",
+    "password-tips": "Mot de passe de votre compte Degoo",
+    "refresh_token": "Actualiser le jeton",
+    "refresh_token-tips": "Actualiser le jeton pour le renouvellement automatique des jetons, obtenu automatiquement",
+    "root_folder_id": "ID du dossier racine",
+    "username": "Nom d'utilisateur",
+    "username-tips": "Email de votre compte Degoo"
+  },
+  "Doge": {
+    "access_key_id": "ID de la clé d'accès",
+    "add_filename_to_disposition": "Ajouter un nom de fichier à la disposition",
+    "add_filename_to_disposition-tips": "Ajouter le nom du fichier à l'en-tête Content-Disposition.",
+    "bucket": "Seau",
+    "custom_host": "Hôte personnalisé",
+    "direct_upload_host": "Hôte de téléversement direct",
+    "enable_custom_host_presign": "Activer le présigne d'hôte personnalisé",
+    "enable_direct_upload": "Activer l'envoi direct",
+    "endpoint": "Endpoint",
+    "force_path_style": "Forcer le style de chemin d'accès",
+    "list_object_version": "Lister la version de l'objet",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "Placeholder",
+    "region": "Région",
+    "remove_bucket": "Supprimer le seau",
+    "remove_bucket-tips": "Retirer le nom du segment du chemin lorsque vous utilisez un hôte personnalisé.",
+    "root_folder_path": "Chemin du dossier racine",
+    "secret_access_key": "Clé d'accès secrète",
+    "session_token": "Jeton de session",
+    "sign_url_expire": "Expiration de l'url du signe",
+    "user_agent": "Agent utilisateur",
+    "user_agent-tips": "Agent utilisateur personnalisé pour les requêtes S3."
+  },
+  "Doubao": {
+    "cookie": "Cookie",
+    "download_api": "Télécharger l'api",
+    "download_apis": {
+      "get_download_info": "Obtenir les infos de téléchargement",
+      "get_file_url": "Récupérer l'URL du fichier"
+    },
+    "limit_rate": "Taux limite",
+    "limit_rate-tips": "limiter tous les taux de requête de l'API ([limit]r/1s)",
+    "root_folder_id": "ID du dossier racine",
+    "upload_thread": "Télécharger le fil de discussion"
+  },
+  "DoubaoNew": {
+    "app_id": "Identifiant de l'application",
+    "app_id-tips": "ID de l'application Doubao",
+    "auth_client_id": "ID du client d'authentification",
+    "auth_client_id-tips": "ID client d'authentification Doubao Biz",
+    "auth_client_type": "Type de client d'authentification",
+    "auth_client_type-tips": "Type de client Doubao Biz Auth",
+    "auth_scope": "Périmètre d'authentification",
+    "auth_scope-tips": "Portée d'authentification Doubao Biz",
+    "auth_sdk_source": "Source Auth sdk",
+    "auth_sdk_source-tips": "Doubao Biz Auth SDK Source",
+    "auth_sdk_version": "Version Auth sdk",
+    "auth_sdk_version-tips": "Version SDK Doubao Biz Auth",
+    "cookie": "Cookie",
+    "cookie-tips": "Cookie Web",
+    "dpop_key_secret": "Secret de la clé Dpop",
+    "dpop_key_secret-tips": "Secret de clé DPoP pour la génération de jeton DPoP",
+    "ignore_jwt_check": "Ignorer la vérification de jwt",
+    "ignore_jwt_check-tips": "Ignorer ou non la vérification JWT pour éviter un problème de temps",
+    "root_folder_id": "ID du dossier racine",
+    "share_link": "Partager le lien",
+    "share_link-tips": "Utiliser ou non le lien de partage pour le téléchargement"
+  },
+  "DoubaoShare": {
+    "cookie": "Cookie",
+    "root_folder_path": "Chemin du dossier racine",
+    "share_ids": "Partager les identifiants"
+  },
+  "Dropbox": {
+    "RootNamespaceId": "RootNamespaceId",
+    "api_url_address": "Adresse URL de l'Api",
+    "client_id": "Id du client",
+    "client_id-tips": "Laisser vide si vous n'en avez pas un",
+    "client_secret": "Secret du client",
+    "client_secret-tips": "Laisser vide si vous n'en avez pas un",
+    "refresh_token": "Actualiser le jeton",
+    "root_folder_path": "Chemin du dossier racine",
+    "use_online_api": "Utiliser l'api en ligne"
+  },
+  "Emby": {
+    "api_key": "Clé Api",
+    "link_method": "Méthode de liaison",
+    "link_methods": {
+      "download": "Télécharger",
+      "stream": "Flux"
+    },
+    "password": "Mot de passe",
+    "root_folder_id": "ID du dossier racine",
+    "url": "Url",
+    "user_id": "Identifiant de l'utilisateur",
+    "username": "Nom d'utilisateur"
+  },
+  "FTP": {
+    "address": "Adresses",
+    "cwd_list": "Utiliser Cwd pour lister",
+    "cwd_list-tips": "Entrez le répertoire avant la liste",
+    "encoding": "Encodage",
+    "password": "Mot de passe",
+    "root_folder_path": "Chemin du dossier racine",
+    "username": "Nom d'utilisateur"
+  },
+  "FebBox": {
+    "client_id": "Id du client",
+    "client_secret": "Secret du client",
+    "page_size": "Taille de la page",
+    "page_size-tips": "liste des api par taille de page du pilote FebBox",
+    "root_folder_id": "ID du dossier racine",
+    "sort_rule": "Règle de tri",
+    "sort_rules": {
+      "ext_asc": "Asc externe",
+      "ext_desc": "Déc. ext.",
+      "name_asc": "Nom asc",
+      "name_desc": "Nom desc",
+      "size_asc": "Size asc",
+      "size_desc": "Taille desc",
+      "update_asc": "Mettre à jour asc",
+      "update_desc": "Mettre à jour desc"
+    },
+    "user_ip": "IP de l'utilisateur",
+    "user_ip-tips": "adresse IP de l'utilisateur pour le lien de téléchargement qui peut accélérer le téléchargement"
+  },
+  "FeijiPan": {
+    "ip": "Ip",
+    "password": "Mot de passe",
+    "root_folder_id": "ID du dossier racine",
+    "username": "Nom d'utilisateur"
+  },
+  "GitHub API": {
+    "accurate_modified_time": "Heure exacte de modification",
+    "accurate_modified_time-tips": "Temps de modification précis du meilleur effort pour les petites listes de répertoires. Défaut désactivé. Ajoute une requête GitHub GraphQL et retombe aux valeurs zéro-temps héritées en cas d'échec.",
+    "author_email": "E-mail de l'auteur",
+    "author_name": "Nom de l'auteur",
+    "committer_email": "Courriel du validateur",
+    "committer_name": "Nom du commit",
+    "copy_commit_message": "Copier le message du commit",
+    "delete_commit_message": "Supprimer le message du commit",
+    "gh_proxy": "Proxy Gh",
+    "gh_proxy-tips": "Proxy GitHub, par exemple https://ghproxy.net/raw.githubusercontent.com ou https://gh-proxy.com/raw.githubusercontent.com",
+    "gpg_key_passphrase": "Mot de passe de la clé Gpg",
+    "gpg_private_key": "Clé privée Gpg",
+    "mkdir_commit_message": "Message de commit Mkdir",
+    "move_commit_message": "Déplacer le message du commit",
+    "owner": "Propriétaire",
+    "put_commit_message": "Envoyer un message de commit",
+    "ref": "Réf.",
+    "ref-tips": "Une branche, un tag ou un commit SHA, une branche principale par défaut.",
+    "rename_commit_message": "Renommer le message de commit",
+    "repo": "Dépôt",
+    "root_folder_path": "Chemin du dossier racine",
+    "token": "Jeton"
+  },
+  "GitHub Releases": {
+    "gh_proxy": "Proxy Gh",
+    "gh_proxy-tips": "GitHub proxy, e.g. https://ghproxy.net/github.com or https://gh-proxy.com/github.com ",
+    "max_page": "Page max",
+    "max_page-tips": "max de pages à récupérer (0 = illimité), ne fonctionne que si toutes les versions sont affichées",
+    "per_page": "Par page",
+    "per_page-tips": "versions par page (max 100), ne fonctionne que si toutes les versions sont affichées",
+    "repo_structure": "Structure du dépôt",
+    "repo_structure-tips": "structure:[chemin:]org/repo",
+    "root_folder_path": "Chemin du dossier racine",
+    "show_all_version": "Afficher toutes les versions",
+    "show_all_version-tips": "afficher toutes les versions",
+    "show_readme": "Afficher le readme",
+    "show_readme-tips": "afficher le fichier README、LICENCE",
+    "show_source_code": "Afficher le code source",
+    "show_source_code-tips": "afficher le code source (zip/tar.gz)",
+    "token": "Jeton",
+    "token-tips": "Jeton GitHub, si vous voulez accéder à des dépôts privés ou augmenter la limite de débit"
+  },
+  "GoogleDrive": {
+    "api_url_address": "Adresse URL de l'Api",
+    "chunk_size": "Taille du tronçon",
+    "chunk_size-tips": "taille du chunk lors du téléchargement (unité : MB)",
+    "client_id": "Id du client",
+    "client_secret": "Secret du client",
+    "disable_disk_usage": "Désactiver l'utilisation du disque",
+    "order_by": "Trier par",
+    "order_by-tips": "comme : dossier,nom,date de modification",
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "refresh_token": "Actualiser le jeton",
+    "root_folder_id": "ID du dossier racine",
+    "use_online_api": "Utiliser l'api en ligne"
+  },
+  "GooglePhoto": {
+    "client_id": "Id du client",
+    "client_secret": "Secret du client",
+    "refresh_token": "Actualiser le jeton",
+    "root_folder_id": "ID du dossier racine",
+    "show_archive": "Afficher les archives"
+  },
+  "GuangYaPan": {
+    "access_token": "Jeton d'accès",
+    "access_token-tips": "Jeton d'accès au porteur (facultatif si rafraîchh_token est fourni)",
+    "captcha_token": "Jeton de captcha",
+    "captcha_token-tips": "Jeton de captcha requis par /v1/auth/verification",
+    "client_id": "Id du client",
+    "client_id-tips": "ID du client pour l'API de GuangYaPan, doit être fourni",
+    "device_id": "Id de l'appareil",
+    "device_id-tips": "Id de périphérique personnalisé optionnel (32 caractères hexadécimaux), généré automatiquement si vide",
+    "device_sign": "Panneau de l'appareil",
+    "device_sign-tips": "En-tête personnalisé facultatif X-Device-Sign (généré à partir de device_id quand vide)",
+    "order_by": "Trier par",
+    "order_by-tips": "Champ de tri utilisé par la liste des fichiers",
+    "page_size": "Taille de la page",
+    "phone_number": "Numéro de téléphone",
+    "phone_number-tips": "Numéro de téléphone pour la connexion SMS, par exemple +86 13800000000",
+    "refresh_token": "Actualiser le jeton",
+    "refresh_token-tips": "Rafraîchir le jeton pour la connexion automatique/actualisation automatique",
+    "root_path": "Chemin racine",
+    "root_path-tips": "Chemin d'accès complet sur le disque nuagique de GuangYaPan",
+    "send_code": "Envoyer le code",
+    "send_code-tips": "Définir vrai et enregistrer pour envoyer le code SMS, il se réinitialise automatiquement à false après l'envoi",
+    "sort_type": "Type de tri",
+    "sort_type-tips": "Trier la direction utilisée par la liste des fichiers",
+    "verification_id": "ID de vérification",
+    "verification_id-tips": "Généré automatiquement après l'envoi du code SMS; ne pas modifier manuellement",
+    "verify_code": "Vérifier le code",
+    "verify_code-tips": "Code de vérification SMS utilisé avec numéro de téléphone; Remplissez puis enregistrez pour terminer la connexion"
+  },
+  "HalalCloud": {
+    "app_id": "Identifiant de l'application",
+    "app_secret": "Secret de l'application",
+    "app_version": "Version de l'application",
+    "refresh_token": "Actualiser le jeton",
+    "refresh_token-tips": "le type de connexion est refresh_token,ceci est requis",
+    "root_folder_path": "Chemin du dossier racine",
+    "upload_thread": "Télécharger le fil de discussion",
+    "upload_thread-tips": "1 <= fil <= 32"
+  },
+  "HalalCloudOpen": {
+    "client_id": "Id du client",
+    "client_secret": "Secret du client",
+    "host": "Hôte",
+    "refresh_token": "Actualiser le jeton",
+    "refresh_token-tips": "Si vous utilisez une approche d'API personnelle, le RefreshToken n'est pas nécessaire.",
+    "root_folder_path": "Chemin du dossier racine",
+    "timeout": "Délai d'expiration",
+    "timeout-tips": "délai d'attente en secondes",
+    "upload_thread": "Télécharger le fil de discussion",
+    "upload_thread-tips": "1 <= fil <= 32"
+  },
+  "ILanZou": {
+    "ip": "Ip",
+    "password": "Mot de passe",
+    "root_folder_id": "ID du dossier racine",
+    "username": "Nom d'utilisateur"
+  },
+  "IPFS API": {
+    "endpoint": "Endpoint",
+    "gateway": "Passerelle",
+    "mode": "Mode",
+    "modes": {
+      "ipfs": "Ipfs",
+      "ipns": "Ipns",
+      "mfs": "Mfs"
+    },
+    "root_folder_path": "Chemin du dossier racine"
+  },
+  "KodBox": {
+    "address": "Adresses",
+    "password": "Mot de passe",
+    "root_folder_path": "Chemin du dossier racine",
+    "username": "Nom d'utilisateur"
+  },
+  "Lanzou": {
+    "account": "Compte client",
+    "baseUrl": "BaseUrl",
+    "baseUrl-tips": "URL de base pour l'opération de fichier",
+    "cookie": "Cookie",
+    "cookie-tips": "environ 15 jours valides, ignorer si shareUrl est utilisé",
+    "password": "Mot de passe",
+    "repair_file_info": "Réparer les informations du fichier",
+    "repair_file_info-tips": "Pour utiliser webdav, vous devez l'activer",
+    "root_folder_id": "ID du dossier racine",
+    "shareUrl": "ShareUrl",
+    "shareUrl-tips": "utilisé pour obtenir la page de partage",
+    "share_password": "Partager le mot de passe",
+    "type": "Type de texte",
+    "types": {
+      "account": "Compte client",
+      "cookie": "Cookie",
+      "url": "Url"
+    },
+    "user_agent": "Agent utilisateur"
+  },
+  "LenovoNasShare": {
+    "host": "Hôte",
+    "host-tips": "Vous pouvez le changer pour votre réseau local",
+    "root_folder_path": "Chemin du dossier racine",
+    "share_id": "Partager l'id",
+    "share_id-tips": "La partie après le dernier / dans le lien partagé",
+    "share_pwd": "Partager pwd",
+    "share_pwd-tips": "Le mot de passe du lien partagé",
+    "show_root_folder": "Afficher le dossier racine"
+  },
+  "Local": {
+    "directory_size": "Taille du répertoire",
+    "directory_size-tips": "Ceci peut affecter les performances de l'hôte",
+    "mkdir_perm": "Mkdir perm",
+    "pdf_thumbnail": "Pdf thumbnail",
+    "pdf_thumbnail-tips": "Générer des vignettes PDF en première page avec l'aperçu rapide sur macOS",
+    "recycle_bin_path": "Chemin de la corbeille",
+    "recycle_bin_path-tips": "chemin vers la corbeille, supprimer définitivement si vide ou conserver 'supprimer définitivement'",
+    "root_folder_path": "Chemin du dossier racine",
+    "show_hidden": "Afficher les caches placées",
+    "show_hidden-tips": "afficher les répertoires et fichiers cachés",
+    "thumb_cache_folder": "Dossier de cache des miniatures",
+    "thumb_concurrency": "Concurrence du pouce",
+    "thumb_concurrency-tips": "Nombre de goroutins de génération simultanée des vignettes. Ceci contrôle combien de vignettes peuvent être générées en parallèle.",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "Activer la miniature",
+    "video_thumb_pos": "Pouce vidéo",
+    "video_thumb_pos-tips": "La position de la miniature de la vidéo. Si la valeur est un nombre (entier et virgule flottante), elle représente le temps en secondes. Si la valeur se termine par '%', elle représente le pourcentage de la durée de la vidéo."
+  },
+  "MediaFire": {
+    "chunk_size": "Taille du tronçon",
+    "cookie": "Cookie",
+    "cookie-tips": "Requis pour l'authentification de l'API MediaFire",
+    "limit_rate": "Taux limite",
+    "limit_rate-tips": "limiter tous les taux de requête de l'API ([limit]r/1s)",
+    "order_by": "Trier par",
+    "order_bys": {
+      "name": "Nom",
+      "size": "Taille",
+      "time": "Date et heure"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "root_folder_path": "Chemin du dossier racine",
+    "session_token": "Jeton de session",
+    "session_token-tips": "Optionnel pour MediaFire API, peut être auto-acquis à partir de cookies",
+    "upload_threads": "Charger des sujets",
+    "upload_threads-tips": "threads de téléchargement simultanés"
+  },
+  "MediaTrack": {
+    "access_token": "Jeton d'accès",
+    "order_by": "Trier par",
+    "order_bys": {
+      "size": "Taille",
+      "title": "Titre de la page",
+      "updated_at": "Mis à jour le"
+    },
+    "order_desc": "Description de la commande",
+    "project_id": "Id du projet",
+    "root_folder_id": "ID du dossier racine"
+  },
+  "Mega_nz": {
+    "email": "Courriel",
+    "move_to_trash": "Déplacer vers la corbeille",
+    "move_to_trash-tips": "déplacer dans la corbeille lors de la suppression des fichiers",
+    "password": "Mot de passe",
+    "two_fa_code": "Code de deux fa",
+    "two_fa_code-tips": "Le code à 6 chiffres 2FA, en remplissant le code 2FA à lui seul ne permettra pas de recharger le pilote",
+    "two_fa_secret": "Deux fa secret",
+    "two_fa_secret-tips": "Secret 2FA"
+  },
+  "Misskey": {
+    "access_token": "Jeton d'accès",
+    "endpoint": "Endpoint",
+    "root_folder_path": "Chemin du dossier racine"
+  },
+  "MoPan": {
+    "cloud_id": "Id Cloud",
+    "device_info": "Infos sur l'appareil",
+    "order_by": "Trier par",
+    "order_bys": {
+      "filename": "Nom du fichier",
+      "filesize": "Taille du fichier",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "password": "Mot de passe",
+    "phone": "Téléphone",
+    "root_folder_id": "ID du dossier racine",
+    "sms_code": "Code SMS",
+    "sms_code-tips": "envoyer des sms en entrée 'send' ",
+    "upload_thread": "Télécharger le fil de discussion",
+    "upload_thread-tips": "1<=sujet<=32"
+  },
+  "NeteaseMusic": {
+    "cookie": "Cookie",
+    "song_limit": "Limite de musique",
+    "song_limit-tips": "N'obtenir que 200 chansons par défaut"
+  },
+  "Onedrive": {
+    "api_url_address": "Adresse URL de l'Api",
+    "chunk_size": "Taille du tronçon",
+    "client_id": "Id du client",
+    "client_secret": "Secret du client",
+    "custom_host": "Hôte personnalisé",
+    "custom_host-tips": "Hôte personnalisé pour le lien de téléchargement OneDrive",
+    "disable_disk_usage": "Désactiver l'utilisation du disque",
+    "enable_direct_upload": "Activer l'envoi direct",
+    "enable_direct_upload-tips": "Activer l'envoi direct du client vers OneDrive",
+    "is_sharepoint": "Est un point commun",
+    "redirect_uri": "Uri de redirection",
+    "refresh_token": "Actualiser le jeton",
+    "region": "Région",
+    "regions": {
+      "cn": "Famille Cn",
+      "de": "De",
+      "global": "Globale",
+      "us": "Nous"
+    },
+    "root_folder_path": "Chemin du dossier racine",
+    "site_id": "Site id",
+    "use_online_api": "Utiliser l'api en ligne"
+  },
+  "Onedrive Sharelink": {
+    "disable_disk_usage": "Désactiver l'utilisation du disque",
+    "enable_direct_upload": "Activer l'envoi direct",
+    "enable_direct_upload-tips": "Permettre de télécharger directement sur OneDrive sans passer par OpenList",
+    "password": "Mot de passe",
+    "root_folder_path": "Chemin du dossier racine",
+    "url": "Url"
+  },
+  "OnedriveAPP": {
+    "chunk_size": "Taille du tronçon",
+    "client_id": "Id du client",
+    "client_secret": "Secret du client",
+    "custom_host": "Hôte personnalisé",
+    "custom_host-tips": "Hôte personnalisé pour le lien de téléchargement OneDrive",
+    "disable_disk_usage": "Désactiver l'utilisation du disque",
+    "email": "Courriel",
+    "enable_direct_upload": "Activer l'envoi direct",
+    "enable_direct_upload-tips": "Activer l'envoi direct du client vers OneDrive",
+    "region": "Région",
+    "regions": {
+      "cn": "Famille Cn",
+      "de": "De",
+      "global": "Globale",
+      "us": "Nous"
+    },
+    "root_folder_path": "Chemin du dossier racine",
+    "tenant_id": "Tenant id"
+  },
+  "OpenList": {
+    "forward_archive_requests": "Transférer les requêtes d'archive",
+    "meta_password": "Mot de passe Meta",
+    "pass_ip_to_upsteam": "Passer l'IP vers le flux amont",
+    "pass_refresh_flag_to_upsteam": "Passer le drapeau d'actualisation à la vapeur",
+    "pass_ua_to_upsteam": "Passer ua à amont",
+    "password": "Mot de passe",
+    "root_folder_path": "Chemin du dossier racine",
+    "token": "Jeton",
+    "url": "Url",
+    "username": "Nom d'utilisateur"
+  },
+  "OpenListShare": {
+    "forward_archive_requests": "Transférer les requêtes d'archive",
+    "pwd": "Pwd",
+    "root_folder_path": "Chemin du dossier racine",
+    "sid": "Sid",
+    "url": "Url"
+  },
+  "PikPak": {
+    "captcha_token": "Jeton de captcha",
+    "device_id": "Id de l'appareil",
+    "disable_media_link": "Désactiver le lien média",
+    "password": "Mot de passe",
+    "platform": "Plateforme",
+    "platforms": {
+      "android": "Android",
+      "pc": "Pc",
+      "web": "Web"
+    },
+    "refresh_token": "Actualiser le jeton",
+    "root_folder_id": "ID du dossier racine",
+    "skip_verification": "Passer la vérification",
+    "skip_verification-tips": "ignore l'URL de vérification humaine retournée par l'API captcha au lieu d'échouer ; activer ceci peut déclencher le contrôle des risques de PikPak",
+    "username": "Nom d'utilisateur"
+  },
+  "PikPakShare": {
+    "device_id": "Id de l'appareil",
+    "platform": "Plateforme",
+    "platforms": {
+      "android": "Android",
+      "pc": "Pc",
+      "web": "Web"
+    },
+    "root_folder_id": "ID du dossier racine",
+    "share_id": "Partager l'id",
+    "share_pwd": "Partager pwd",
+    "use_transcoding_address": "Utiliser l'adresse de transcodage"
+  },
+  "ProtonDrive": {
+    "chunk_size": "Taille du tronçon",
+    "email": "Courriel",
+    "password": "Mot de passe",
+    "root_folder_id": "ID du dossier racine",
+    "two_fa_code": "Code de deux fa",
+    "use_reusable_login": "Utiliser la connexion réutilisable",
+    "use_reusable_login-tips": "Utiliser les identifiants de connexion réutilisables au lieu du nom d'utilisateur/mot de passe"
+  },
+  "Quark": {
+    "cookie": "Cookie",
+    "only_list_video_file": "Lister uniquement le fichier vidéo",
+    "order_by": "Trier par",
+    "order_bys": {
+      "file_name": "Nom du fichier",
+      "file_type": "Type de fichier",
+      "none": "Aucun",
+      "updated_at": "Mis à jour le"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "root_folder_id": "ID du dossier racine",
+    "use_transcoding_address": "Utiliser l'adresse de transcodage",
+    "use_transcoding_address-tips": "Vous pouvez regarder la vidéo transcodée et soutenir la redirection 302"
+  },
+  "QuarkOpen": {
+    "access_token": "Jeton d'accès",
+    "api_url_address": "Adresse URL de l'Api",
+    "app_id": "Identifiant de l'application",
+    "app_id-tips": "Laisser vide si vous n'en avez pas un",
+    "order_by": "Trier par",
+    "order_bys": {
+      "created_at": "Créé le",
+      "file_name": "Nom du fichier",
+      "file_type": "Type de fichier",
+      "none": "Aucun",
+      "updated_at": "Mis à jour le"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "refresh_token": "Actualiser le jeton",
+    "root_folder_id": "ID du dossier racine",
+    "sign_key": "Touche de signature",
+    "sign_key-tips": "Laisser vide si vous n'en avez pas un",
+    "use_online_api": "Utiliser l'api en ligne"
+  },
+  "QuarkTV": {
+    "device_id": "Id de l'appareil",
+    "link_method": "Méthode de liaison",
+    "link_methods": {
+      "download": "Télécharger",
+      "streaming": "Streaming en cours"
+    },
+    "order_by": "Trier par",
+    "order_bys": {
+      "file_name": "Nom du fichier",
+      "updated_at": "Mis à jour le"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "query_token": "Jeton de requête",
+    "query_token-tips": "ne pas modifier'",
+    "refresh_token": "Actualiser le jeton",
+    "root_folder_id": "ID du dossier racine"
+  },
+  "S3": {
+    "access_key_id": "ID de la clé d'accès",
+    "add_filename_to_disposition": "Ajouter un nom de fichier à la disposition",
+    "add_filename_to_disposition-tips": "Ajouter le nom du fichier à l'en-tête Content-Disposition.",
+    "bucket": "Seau",
+    "custom_host": "Hôte personnalisé",
+    "direct_upload_host": "Hôte de téléversement direct",
+    "enable_custom_host_presign": "Activer le présigne d'hôte personnalisé",
+    "enable_direct_upload": "Activer l'envoi direct",
+    "endpoint": "Endpoint",
+    "force_path_style": "Forcer le style de chemin d'accès",
+    "list_object_version": "Lister la version de l'objet",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "Placeholder",
+    "region": "Région",
+    "remove_bucket": "Supprimer le seau",
+    "remove_bucket-tips": "Retirer le nom du segment du chemin lorsque vous utilisez un hôte personnalisé.",
+    "root_folder_path": "Chemin du dossier racine",
+    "secret_access_key": "Clé d'accès secrète",
+    "session_token": "Jeton de session",
+    "sign_url_expire": "Expiration de l'url du signe",
+    "user_agent": "Agent utilisateur",
+    "user_agent-tips": "Agent utilisateur personnalisé pour les requêtes S3."
+  },
+  "SFTP": {
+    "address": "Adresses",
+    "ignore_symlink_error": "Ignorer l'erreur de lien symbolique",
+    "passphrase": "Phrase de passe",
+    "password": "Mot de passe",
+    "private_key": "Clé privée",
+    "root_folder_path": "Chemin du dossier racine",
+    "username": "Nom d'utilisateur"
+  },
+  "SMB": {
+    "address": "Adresses",
+    "password": "Mot de passe",
+    "root_folder_path": "Chemin du dossier racine",
+    "share_name": "Partager le nom",
+    "username": "Nom d'utilisateur"
+  },
+  "Seafile": {
+    "address": "Adresses",
+    "password": "Mot de passe",
+    "repoId": "RepoId",
+    "repoPwd": "Dépôts",
+    "root_folder_path": "Chemin du dossier racine",
+    "token": "Jeton",
+    "username": "Nom d'utilisateur"
+  },
+  "Strm": {
+    "KeepLocalDownloadFile": "Garder le fichier local de téléchargement",
+    "KeepLocalDownloadFile-tips": "conserver les fichiers de téléchargement locaux",
+    "PathPrefix": "Préfixe du chemin",
+    "PathPrefix-tips": "Préfixe du chemin d'accès",
+    "SaveLocalMode": "Enregistrer le mode local",
+    "SaveLocalMode-tips": "enregistrer le mode localement du fichier strm",
+    "SaveLocalModes": {
+      "insert": "Insert",
+      "sync": "Synchroniser",
+      "update": "Mise à jour"
+    },
+    "SaveStrmLocalPath": "Enregistrer le chemin local",
+    "SaveStrmLocalPath-tips": "enregistrer le chemin local du fichier strm",
+    "SaveStrmToLocal": "Enregistré dans la locale",
+    "SaveStrmToLocal-tips": "Enregistrer le fichier strm localement",
+    "downloadFileTypes": "Télécharger les types de fichiers",
+    "downloadFileTypes-tips": "Les fichiers doivent être téléchargés avec strm (sous-titres habituels)",
+    "encodePath": "Chemin de l'encodage",
+    "encodePath-tips": "encoder le chemin dans le fichier strm",
+    "filterFileTypes": "Filtrer les types de fichiers",
+    "filterFileTypes-tips": "Supporte le nom du suffixe du fichier strm",
+    "minFileSize": "Taille minimale du fichier",
+    "minFileSize-tips": "Filtrer les fichiers inférieurs à cette taille (unité : Mo, 0 pour désactiver)",
+    "paths": "Chemins",
+    "siteUrl": "SiteUrl",
+    "siteUrl-tips": "L'URL du préfixe du fichier strm",
+    "withSign": "format@@0 WithSign",
+    "withoutUrl": "Sans Url",
+    "withoutUrl-tips": "contenu du fichier strm sans préfixe d'URL"
+  },
+  "Teambition": {
+    "cookie": "Cookie",
+    "order_by": "Trier par",
+    "order_bys": {
+      "created": "Créé",
+      "fileName": "Nom du fichier",
+      "fileSize": "Taille du fichier",
+      "updated": "Mis à jour"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "Asc": "Ascendant",
+      "Desc": "Desc"
+    },
+    "project_id": "Id du projet",
+    "region": "Région",
+    "regions": {
+      "china": "La Chine",
+      "international": "International"
+    },
+    "root_folder_id": "ID du dossier racine",
+    "use_s3_upload_method": "Utiliser la méthode de téléchargement s3"
+  },
+  "Teldrive": {
+    "chunk_size": "Taille du tronçon",
+    "chunk_size-tips": "Taille du chunk en MiB",
+    "cookie": "Cookie",
+    "cookie-tips": "jeton_accès=xxx",
+    "random_chunk_name": "Nom de chunk aléatoire",
+    "random_chunk_name-tips": "Nom de chunk aléatoire",
+    "root_folder_path": "Chemin du dossier racine",
+    "upload_concurrency": "Télécharger en même temps",
+    "upload_concurrency-tips": "Demandes de téléversement de la conversion",
+    "url": "Url",
+    "use_share_link": "Utiliser le lien de partage",
+    "use_share_link-tips": "Créez un lien de partage lorsque vous obtenez un lien vers la prise en charge 302. Si désactivé, vous devez activer le proxy web."
+  },
+  "Terabox": {
+    "cookie": "Cookie",
+    "download_api": "Télécharger l'api",
+    "download_apis": {
+      "crack": "Craquage",
+      "official": "Officiel"
+    },
+    "order_by": "Trier par",
+    "order_bys": {
+      "name": "Nom",
+      "size": "Taille",
+      "time": "Date et heure"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "root_folder_path": "Chemin du dossier racine"
+  },
+  "Thunder": {
+    "captcha_token": "Jeton de captcha",
+    "credit_key": "Clé de crédit",
+    "credit_key-tips": "clé de crédit, utilisée pour la connexion",
+    "device_id": "Id de l'appareil",
+    "password": "Mot de passe",
+    "root_folder_id": "ID du dossier racine",
+    "space": "Espace libre",
+    "space-tips": "id de l'appareil à distance",
+    "username": "Nom d'utilisateur"
+  },
+  "ThunderBrowser": {
+    "captcha_token": "Jeton de captcha",
+    "credit_key": "Clé de crédit",
+    "credit_key-tips": "clé de crédit, utilisée pour la connexion",
+    "device_id": "Id de l'appareil",
+    "password": "Mot de passe",
+    "remove_way": "Supprimer la voie",
+    "remove_ways": {
+      "delete": "Supprimez",
+      "trash": "Corbeille"
+    },
+    "root_folder_id": "ID du dossier racine",
+    "safe_password": "Mot de passe sécurisé",
+    "use_fluent_play": "Utiliser une lecture fluide",
+    "use_fluent_play-tips": "utiliser une lecture fluide pour le téléchargement hors ligne, seuls les liens magnet sont pris en charge",
+    "use_video_url": "Utiliser l'url de la vidéo",
+    "username": "Nom d'utilisateur"
+  },
+  "ThunderBrowserExpert": {
+    "algorithms": "Algorithmes",
+    "algorithms-tips": "le type de signe est des algorithmes, ceci est requis",
+    "captcha_sign": "Panneau Captcha",
+    "captcha_sign-tips": "le type de signe est captcha_sign,ceci est requis",
+    "captcha_token": "Jeton de captcha",
+    "client_id": "Id du client",
+    "client_secret": "Secret du client",
+    "client_version": "Version du client",
+    "credit_key": "Clé de crédit",
+    "credit_key-tips": "clé de crédit, utilisée pour la connexion",
+    "device_id": "Id de l'appareil",
+    "download_user_agent": "Télécharger l'agent utilisateur",
+    "login_type": "Type de connexion",
+    "login_types": {
+      "refresh_token": "Actualiser le jeton",
+      "user": "Utilisateur"
+    },
+    "package_name": "Nom du paquet",
+    "password": "Mot de passe",
+    "password-tips": "le type de connexion est un utilisateur,ceci est requis",
+    "refresh_token": "Actualiser le jeton",
+    "refresh_token-tips": "le type de connexion est refresh_token,ceci est requis",
+    "remove_way": "Supprimer la voie",
+    "remove_ways": {
+      "delete": "Supprimez",
+      "trash": "Corbeille"
+    },
+    "root_folder_id": "ID du dossier racine",
+    "safe_password": "Mot de passe sécurisé",
+    "safe_password-tips": "mot de passe super sécurisé",
+    "sign_type": "Type de signe",
+    "sign_types": {
+      "algorithms": "Algorithmes",
+      "captcha_sign": "Panneau Captcha"
+    },
+    "timestamp": "Horodatage",
+    "timestamp-tips": "le type de signe est captcha_sign,ceci est requis",
+    "use_fluent_play": "Utiliser une lecture fluide",
+    "use_fluent_play-tips": "utiliser une lecture fluide pour le téléchargement hors ligne, seuls les liens magnet sont pris en charge",
+    "use_video_url": "Utiliser l'url de la vidéo",
+    "user_agent": "Agent utilisateur",
+    "username": "Nom d'utilisateur",
+    "username-tips": "le type de connexion est un utilisateur,ceci est requis"
+  },
+  "ThunderExpert": {
+    "algorithms": "Algorithmes",
+    "algorithms-tips": "le type de signe est des algorithmes, ceci est requis",
+    "captcha_sign": "Panneau Captcha",
+    "captcha_sign-tips": "le type de signe est captcha_sign,ceci est requis",
+    "captcha_token": "Jeton de captcha",
+    "client_id": "Id du client",
+    "client_secret": "Secret du client",
+    "client_version": "Version du client",
+    "credit_key": "Clé de crédit",
+    "credit_key-tips": "clé de crédit, utilisée pour la connexion",
+    "device_id": "Id de l'appareil",
+    "download_user_agent": "Télécharger l'agent utilisateur",
+    "login_type": "Type de connexion",
+    "login_types": {
+      "refresh_token": "Actualiser le jeton",
+      "user": "Utilisateur"
+    },
+    "package_name": "Nom du paquet",
+    "password": "Mot de passe",
+    "password-tips": "le type de connexion est un utilisateur,ceci est requis",
+    "refresh_token": "Actualiser le jeton",
+    "refresh_token-tips": "le type de connexion est refresh_token,ceci est requis",
+    "root_folder_id": "ID du dossier racine",
+    "sign_type": "Type de signe",
+    "sign_types": {
+      "algorithms": "Algorithmes",
+      "captcha_sign": "Panneau Captcha"
+    },
+    "space": "Espace libre",
+    "space-tips": "id de l'appareil à distance",
+    "timestamp": "Horodatage",
+    "timestamp-tips": "le type de signe est captcha_sign,ceci est requis",
+    "use_video_url": "Utiliser l'url de la vidéo",
+    "user_agent": "Agent utilisateur",
+    "username": "Nom d'utilisateur",
+    "username-tips": "le type de connexion est un utilisateur,ceci est requis"
+  },
+  "ThunderX": {
+    "captcha_token": "Jeton de captcha",
+    "password": "Mot de passe",
+    "root_folder_id": "ID du dossier racine",
+    "use_video_url": "Utiliser l'url de la vidéo",
+    "username": "Nom d'utilisateur"
+  },
+  "ThunderXExpert": {
+    "algorithms": "Algorithmes",
+    "algorithms-tips": "le type de signe est des algorithmes, ceci est requis",
+    "captcha_sign": "Panneau Captcha",
+    "captcha_sign-tips": "le type de signe est captcha_sign,ceci est requis",
+    "captcha_token": "Jeton de captcha",
+    "client_id": "Id du client",
+    "client_secret": "Secret du client",
+    "client_version": "Version du client",
+    "device_id": "Id de l'appareil",
+    "download_user_agent": "Télécharger l'agent utilisateur",
+    "login_type": "Type de connexion",
+    "login_types": {
+      "refresh_token": "Actualiser le jeton",
+      "user": "Utilisateur"
+    },
+    "package_name": "Nom du paquet",
+    "password": "Mot de passe",
+    "password-tips": "le type de connexion est un utilisateur,ceci est requis",
+    "refresh_token": "Actualiser le jeton",
+    "refresh_token-tips": "le type de connexion est refresh_token,ceci est requis",
+    "root_folder_id": "ID du dossier racine",
+    "sign_type": "Type de signe",
+    "sign_types": {
+      "algorithms": "Algorithmes",
+      "captcha_sign": "Panneau Captcha"
+    },
+    "timestamp": "Horodatage",
+    "timestamp-tips": "le type de signe est captcha_sign,ceci est requis",
+    "use_video_url": "Utiliser l'url de la vidéo",
+    "user_agent": "Agent utilisateur",
+    "username": "Nom d'utilisateur",
+    "username-tips": "le type de connexion est un utilisateur,ceci est requis"
+  },
+  "UC": {
+    "cookie": "Cookie",
+    "only_list_video_file": "Lister uniquement le fichier vidéo",
+    "order_by": "Trier par",
+    "order_bys": {
+      "file_name": "Nom du fichier",
+      "file_type": "Type de fichier",
+      "none": "Aucun",
+      "updated_at": "Mis à jour le"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "root_folder_id": "ID du dossier racine",
+    "use_transcoding_address": "Utiliser l'adresse de transcodage",
+    "use_transcoding_address-tips": "Vous pouvez regarder la vidéo transcodée et soutenir la redirection 302"
+  },
+  "UCTV": {
+    "device_id": "Id de l'appareil",
+    "link_method": "Méthode de liaison",
+    "link_methods": {
+      "download": "Télécharger",
+      "streaming": "Streaming en cours"
+    },
+    "order_by": "Trier par",
+    "order_bys": {
+      "file_name": "Nom du fichier",
+      "updated_at": "Mis à jour le"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "query_token": "Jeton de requête",
+    "query_token-tips": "ne pas modifier'",
+    "refresh_token": "Actualiser le jeton",
+    "root_folder_id": "ID du dossier racine"
+  },
+  "USS": {
+    "anti_theft_chain_token": "Jeton de chaîne anti-vol",
+    "bucket": "Seau",
+    "endpoint": "Endpoint",
+    "operator_name": "Nom de l'opérateur",
+    "operator_password": "Mot de passe de l'opérateur",
+    "root_folder_path": "Chemin du dossier racine",
+    "sign_url_expire": "Expiration de l'url du signe"
+  },
+  "UrlTree": {
+    "head_size": "Taille de la tête",
+    "head_size-tips": "Utilisez la méthode head pour obtenir la taille du fichier, mais cela peut être un échec.",
+    "url_structure": "Structure de l'URL",
+    "url_structure-tips": "structure:Nom du dossier :\n  [Nom du fichier:][Taille du fichier:][Modifié:]Url",
+    "writable": "Inscriptible"
+  },
+  "Virtual": {
+    "max_file_size": "Taille maximale du fichier",
+    "min_file_size": "Taille minimale du fichier",
+    "num_file": "Nombre de fichiers",
+    "num_folder": "Nombre de dossiers",
+    "root_folder_path": "Chemin du dossier racine"
+  },
+  "WPS": {
+    "cookie": "Cookie",
+    "custom_ua": "ua personnalisé",
+    "mode": "Mode",
+    "modes": {
+      "Business": "Entreprise",
+      "Personal": "Personnels"
+    },
+    "root_folder_path": "Chemin du dossier racine"
+  },
+  "WebDav": {
+    "address": "Adresses",
+    "password": "Mot de passe",
+    "root_folder_path": "Chemin du dossier racine",
+    "tls_insecure_skip_verify": "Tls saut non sécurisé de vérification",
+    "username": "Nom d'utilisateur",
+    "vendor": "Fournisseur",
+    "vendors": {
+      "other": "Autres",
+      "sharepoint": "Partage"
+    }
+  },
+  "WeiYun": {
+    "cookies": "Cookies",
+    "order_by": "Trier par",
+    "order_bys": {
+      "name": "Nom",
+      "size": "Taille",
+      "updated_at": "Mis à jour le"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "root_folder_id": "ID du dossier racine",
+    "upload_thread": "Télécharger le fil de discussion",
+    "upload_thread-tips": "4<=thread<=32"
+  },
+  "WoPan": {
+    "access_token": "Jeton d'accès",
+    "access_token-tips": "Facultatif si un jeton de renouvellement est fourni ; il est renouvelé automatiquement s’il est manquant ou trop court",
+    "family_id": "ID de famille",
+    "family_id-tips": "Gardez-le vide si vous voulez utiliser votre lecteur personnel",
+    "refresh_token": "Actualiser le jeton",
+    "refresh_token-tips": "Fournissez un jeton de renouvellement ou un jeton d’accès (d’au moins 16 caractères)",
+    "root_folder_id": "ID du dossier racine",
+    "sort_rule": "Règle de tri",
+    "sort_rules": {
+      "name_asc": "Nom asc",
+      "name_desc": "Nom desc",
+      "size_asc": "Size asc",
+      "size_desc": "Taille desc",
+      "time_asc": "Temps asc",
+      "time_desc": "Décalage du temps"
+    }
+  },
+  "YandexDisk": {
+    "api_url_address": "Adresse URL de l'Api",
+    "client_id": "Id du client",
+    "client_secret": "Secret du client",
+    "order_by": "Trier par",
+    "order_bys": {
+      "created": "Créé",
+      "modified": "Modifié",
+      "name": "Nom",
+      "path": "Chemin d'accès",
+      "size": "Taille"
+    },
+    "order_direction": "Direction de la commande",
+    "order_directions": {
+      "asc": "Ascendant",
+      "desc": "Desc"
+    },
+    "refresh_token": "Actualiser le jeton",
+    "root_folder_path": "Chemin du dossier racine",
+    "use_online_api": "Utiliser l'api en ligne"
+  },
+  "cloudflare_imgbed": {
+    "address": "Adresses",
+    "address-tips": "Adresse de l'API backend du service d'hébergement d'image, par exemple https://img.example.com",
+    "largeChannelName": "Nom du grand canal",
+    "largeChannelName-tips": "Nom du salon pour les gros fichiers",
+    "largeChannelType": "Type de canal large",
+    "largeChannelType-tips": "Type de canal de fichier volumineux : Accrochage facial (téléchargement direct), télégramme/cfr2/s3/discord(chargement multipartite)",
+    "largeChannelTypes": {
+      "": "",
+      "cfr2": "format@@0 Cfr2",
+      "discord": "Discord.",
+      "huggingface": "Surface d'embrasement",
+      "s3": "S3",
+      "telegram": "Télégramme"
+    },
+    "root_folder_path": "Chemin du dossier racine",
+    "smallChannelName": "Nom de la petite chaîne",
+    "smallChannelName-tips": "Nom du salon pour les fichiers ordinaires (typiquement <20MB)",
+    "token": "Jeton",
+    "token-tips": "Jeton d'authentification",
+    "uploadThread": "Envoyer un fil de discussion",
+    "uploadThread-tips": "Nombre de fils simultanés pour l'envoi direct de messages HuggingFace"
+  },
+  "config": {
+    "115 Cloud": {},
+    "115 Open": {},
+    "115 Share": {},
+    "123 Open": {},
+    "123Pan": {},
+    "123PanLink": {},
+    "123PanShare": {},
+    "139Yun": {},
+    "189Cloud": {
+      "alert": "Vous pouvez essayer d'utiliser le pilote 189PC si ce pilote ne fonctionne pas."
+    },
+    "189CloudPC": {},
+    "189CloudTV": {},
+    "AList V3": {},
+    "AliDoc": {
+      "alert": "Ce pilote prend en charge l'accès à DingDrive via les Docs DingTalk et est actuellement en lecture seule."
+    },
+    "Alias": {},
+    "Aliyundrive": {
+      "alert": "Il peut y avoir un bogue de boucle infinie dans ce pilote.\nObsolète, n’est plus maintenu et sera supprimé dans une version ultérieure.\nNous vous recommandons d’utiliser le pilote officiel AliyundriveOpen."
+    },
+    "AliyundriveOpen": {},
+    "AliyundriveShare": {},
+    "AutoIndex": {},
+    "Azure Blob Storage": {},
+    "BaiduNetdisk": {},
+    "BaiduPhoto": {},
+    "Bunny Storage": {},
+    "CNB Releases": {},
+    "ChaoXingGroupDrive": {},
+    "Chunk": {},
+    "Cloudreve": {},
+    "Cloudreve V4": {},
+    "Crypt": {},
+    "Degoo": {},
+    "Doge": {},
+    "Doubao": {},
+    "DoubaoNew": {
+      "alert": "N'utilisez pas 302 si le stockage est accessible au public.\nSinon, le lien de téléchargement peut révéler des informations sensibles telles que le jeton d'accès ou la signature.\nD'autres peuvent utiliser le lien divulgué pour accéder à tous vos fichiers."
+    },
+    "DoubaoShare": {},
+    "Dropbox": {},
+    "Emby": {},
+    "FTP": {},
+    "FebBox": {},
+    "FeijiPan": {},
+    "GitHub API": {},
+    "GitHub Releases": {},
+    "GoogleDrive": {},
+    "GooglePhoto": {},
+    "GuangYaPan": {
+      "alert": "Connexion SMS en deux étapes: (1) remplir phone_number (+ captcha_token si nécessaire), définir send_code=true et sauvegarder; (2) remplir verify_code et enregistrer pour terminer la connexion et auto-enregistrer access_token/refresh_token."
+    },
+    "HalalCloud": {},
+    "HalalCloudOpen": {},
+    "ILanZou": {},
+    "IPFS API": {},
+    "KodBox": {},
+    "Lanzou": {},
+    "LenovoNasShare": {},
+    "Local": {},
+    "MediaFire": {},
+    "MediaTrack": {},
+    "Mega_nz": {},
+    "Misskey": {},
+    "MoPan": {
+      "alert": "Ce disque réseau peut stocker votre mot de passe en clair. Veuillez définir votre mot de passe avec soin"
+    },
+    "NeteaseMusic": {},
+    "Onedrive": {},
+    "Onedrive Sharelink": {},
+    "OnedriveAPP": {},
+    "OpenList": {},
+    "OpenListShare": {},
+    "PikPak": {},
+    "PikPakShare": {},
+    "ProtonDrive": {},
+    "Quark": {},
+    "QuarkOpen": {},
+    "QuarkTV": {},
+    "S3": {},
+    "SFTP": {},
+    "SMB": {},
+    "Seafile": {},
+    "Strm": {},
+    "Teambition": {},
+    "Teldrive": {},
+    "Terabox": {},
+    "Thunder": {},
+    "ThunderBrowser": {},
+    "ThunderBrowserExpert": {},
+    "ThunderExpert": {},
+    "ThunderX": {},
+    "ThunderXExpert": {},
+    "UC": {},
+    "UCTV": {},
+    "USS": {},
+    "UrlTree": {},
+    "Virtual": {},
+    "WPS": {},
+    "WebDav": {},
+    "WeiYun": {},
+    "WoPan": {},
+    "YandexDisk": {},
+    "cloudflare_imgbed": {}
+  },
+  "drivers": {
+    "115 Cloud": "115 nuages",
+    "115 Open": "115 Ouvert",
+    "115 Share": "115 Partage",
+    "123 Open": "123 Ouvert",
+    "123Pan": "123Pan",
+    "123PanLink": "123PanLink",
+    "123PanShare": "123PanShare",
+    "139Yun": "139Yun",
+    "189Cloud": "189Cloud",
+    "189CloudPC": "189CloudPC",
+    "189CloudTV": "189CloudTV",
+    "AList V3": "AList V3",
+    "AliDoc": "AliDoc",
+    "Alias": "Alias",
+    "Aliyundrive": "Aliyundrive",
+    "AliyundriveOpen": "AliyundriveOuvert",
+    "AliyundriveShare": "Partage AliyundriveShare",
+    "AutoIndex": "AutoIndex",
+    "Azure Blob Storage": "Stockage de Blob Azure",
+    "BaiduNetdisk": "BaiduNetdisk",
+    "BaiduPhoto": "BaiduPhoto",
+    "Bunny Storage": "Stockage de lapin",
+    "CNB Releases": "Libérations CNB",
+    "ChaoXingGroupDrive": "ChaoXingGroupDrive",
+    "Chunk": "Chunk",
+    "Cloudreve": "Cloudreve",
+    "Cloudreve V4": "Cloudreve V4",
+    "Crypt": "Crypte",
+    "Degoo": "Degoo",
+    "Doge": "Doge",
+    "Doubao": "Doubao",
+    "DoubaoNew": "DoubaoNew",
+    "DoubaoShare": "DoubaoShare",
+    "Dropbox": "Dropbox",
+    "Emby": "Etreinte",
+    "FTP": "FTP",
+    "FebBox": "FebBox",
+    "FeijiPan": "FeijiPan",
+    "GitHub API": "GitHub API",
+    "GitHub Releases": "Versions GitHub",
+    "GoogleDrive": "GoogleDrive",
+    "GooglePhoto": "GooglePhoto",
+    "GuangYaPan": "GuangYaPan",
+    "HalalCloud": "HalalCloud",
+    "HalalCloudOpen": "HalalCloudOpen",
+    "ILanZou": "ILanZou",
+    "IPFS API": "IPFS API",
+    "KodBox": "KodBox",
+    "Lanzou": "Lanzou",
+    "LenovoNasShare": "LenovoNasShare",
+    "Local": "Locale",
+    "MediaFire": "format@@0 MediaFire",
+    "MediaTrack": "Piste multimédia",
+    "Mega_nz": "Méga nz",
+    "Misskey": "Misskey",
+    "MoPan": "MoPan",
+    "NeteaseMusic": "format@@0 NeteaseMusic",
+    "Onedrive": "Un seul disque",
+    "Onedrive Sharelink": "Sharelink Onedrive",
+    "OnedriveAPP": "App OneDrive",
+    "OpenList": "Liste ouverte",
+    "OpenListShare": "Partager la liste ouverte",
+    "PikPak": "PikPak",
+    "PikPakShare": "format@@0 PikPakShare",
+    "ProtonDrive": "ProtonDrive",
+    "Quark": "Quark",
+    "QuarkOpen": "QuarkOpen",
+    "QuarkTV": "QuarkTV",
+    "S3": "S3",
+    "SFTP": "SFTP",
+    "SMB": "SMB",
+    "Seafile": "Fichier de la mer",
+    "Strm": "Strm",
+    "Teambition": "Teambition",
+    "Teldrive": "Télescope",
+    "Terabox": "Terabox",
+    "Thunder": "Tonnerre",
+    "ThunderBrowser": "Navigateur de tonnerre",
+    "ThunderBrowserExpert": "Expert du navigateur de tonnerre",
+    "ThunderExpert": "Expert en orage",
+    "ThunderX": "OrageX",
+    "ThunderXExpert": "ThunderXExpert",
+    "UC": "UC",
+    "UCTV": "UCTV",
+    "USS": "USS",
+    "UrlTree": "Arborescence",
+    "Virtual": "Virtuel",
+    "WPS": "WPS",
+    "WebDav": "WebDav",
+    "WeiYun": "WeiYun",
+    "WoPan": "WoPan",
+    "YandexDisk": "Disque Yandex",
+    "cloudflare_imgbed": "Fusée nuageuse imprégnée"
+  }
+}

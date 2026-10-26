@@ -1,0 +1,17 @@
+{
+  "backup": "Sichern",
+  "restore": "Wiederherstellen",
+  "start_backup": "Sicherung starten",
+  "finish_backup": "Sicherung abschließen",
+  "success_backup_item": "[ {{item}} ] Sicherung erfolgreich",
+  "failed_backup_item": "[ {{item}} ] Backup fehlgeschlagen",
+  "no_file": "Keine Datei ausgewählt",
+  "start_restore": "Starte Wiederherstellung",
+  "finish_restore": "Wiederherstellung beenden",
+  "success_restore_item": "[ {{item}} ] Wiederherstellung erfolgreich",
+  "failed_restore_item": "[ {{item}} ] Wiederherstellung fehlgeschlagen",
+  "override": "Überschreiben",
+  "encrypt_password_placeholder": "Leer lassen, wenn keine Verschlüsselung benötigt wird",
+  "encrypt_password": "Verschlüsselungspasswort",
+  "wrong_encrypt_password": "Falsches Verschlüsselungspasswort"
+}

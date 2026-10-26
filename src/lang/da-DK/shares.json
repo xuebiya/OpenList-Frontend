@@ -1,0 +1,43 @@
+{
+  "expires": "Udløbstid",
+  "id": "ID",
+  "id_placeholder": "Brugerdefineret ID (valgfri, lad være tom for tilfældig)",
+  "accessed": "Antal adgang",
+  "max_accessed": "Maksimal antal adgangsveje",
+  "pwd": "Del kode",
+  "files": "Del Stier",
+  "files_etc": " og {{more}} mere",
+  "files_placeholder": "Indtast fil- eller mappestier, én pr. linje",
+  "add_path": "Tilføj Sti",
+  "creator": "Skaber",
+  "status": "Status",
+  "status_list": {
+    "disabled": "Deaktiveret",
+    "invalid": "Ugyldig",
+    "work": "Arbejde",
+    "denied": "Ingen tilladelse"
+  },
+  "remark": "Bemærkning",
+  "readme": "Varebeskrivelse",
+  "header": "Header Beskrivelse",
+  "order_by": "Sorter Efter",
+  "order_bys": {
+    "name": "Navn",
+    "size": "Størrelse",
+    "modified": "Ændret"
+  },
+  "order_direction": "Ordre Retning",
+  "order_directions": {
+    "asc": "Stigende",
+    "desc": "Faldende"
+  },
+  "extract_folder": "Mappe Ordre",
+  "extract_folders": {
+    "front": "Mapper øverst",
+    "back": "Mapper i bunden"
+  },
+  "input_password": "Indtast del kode",
+  "share_gone": "Denne andel er udløbet eller er blevet annulleret",
+  "copy_msg": "Kopiér link",
+  "no_permission_tip": "For at oprette en aktie, skal du bruge tilladelsen \"Del\"."
+}

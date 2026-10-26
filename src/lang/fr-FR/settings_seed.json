@@ -1,0 +1,23 @@
+{
+  "site_config": "Configuration du site",
+  "site_url": "URL du site",
+  "site_url_help": "URL de base publique intégrée aux sources seed lors de la génération des liens de partage. Laissez ce champ vide pour utiliser l’origine de la requête actuelle.",
+  "default_matrix": "Matrice de hachage par défaut",
+  "default_matrix_help": "Hachages présélectionnés lors de la génération de seeds à partir de la liste de fichiers. Torrent impose SHA-1 et CAS impose MD5 au moment de la génération.",
+  "whole": "Fichier entier",
+  "pieces": "Morceaux",
+  "default_format": "Format par défaut",
+  "default_format_help": "Format présélectionné dans la fenêtre de génération des seeds.",
+  "format_policies": "Stratégies de format automatique",
+  "format_policies_help": "Formats générés automatiquement sous forme de fichiers annexes. Chaque espace de stockage peut toujours remplacer la stratégie globale.",
+  "oss_format": "OSS (.oss)",
+  "torrent_format": "Torrent (.torrent)",
+  "cas_format": "CAS (.cas)",
+  "other_options": "Autres options",
+  "auto_generate": "Générer automatiquement des seeds lors du téléversement",
+  "auto_generate_help": "Générer des seeds annexes pendant le téléversement, selon les stratégies de format ci-dessus.",
+  "single_direct_preview": "Aperçu direct des seeds à fichier unique",
+  "single_direct_preview_help": "Ouvrir directement le fichier contenu au lieu d’afficher les détails du seed lorsqu’un seed contient exactement un fichier.",
+  "cas_direct_access": "Accès direct CAS",
+  "cas_direct_access_help": "À l’ouverture d’un seed CAS contenant un seul fichier, le téléverser rapidement dans le même dossier et afficher un aperçu du fichier restauré."
+}

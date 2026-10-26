@@ -1,0 +1,23 @@
+{
+  "index_header": "Arama dizini ayarları",
+  "search_index": "Arama dizini",
+  "current": "Mevcut dizinler",
+  "build": "Dizinleri oluştur",
+  "rebuild": "Dizinleri yeniden oluştur",
+  "paths_to_update": "Güncellenecek yollar",
+  "max_depth": "Maksimum derinlik",
+  "update": "Dizinleri güncelle",
+  "obj_count": "Nesne sayısı",
+  "last_done_time": "Son tamamlanma zamanı",
+  "unknown": "Bilinmiyor",
+  "stop": "Durdur",
+  "clear": "Temizle",
+  "error": "Hata",
+  "scan_header": "Elle tara",
+  "task_status": "Görev durumu",
+  "running": "Çalışıyor",
+  "idle": "Boşta",
+  "path_to_scan": "Taranacak yol",
+  "rate_limit": "Hız sınırı",
+  "start": "Başlat"
+}

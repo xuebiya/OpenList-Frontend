@@ -1,0 +1,69 @@
+{
+  "title": "الإضافات",
+  "name": "اسم الإضافة",
+  "type": "نوع",
+  "version": "الإصدار",
+  "author": "المؤلف",
+  "status_col": "الحالة",
+  "empty_desc": "لا يوجد وصف",
+  "subtitle": "إدارة وتكوين ملحقات قائمة OpenList مع تحميل ملف ZIP وتثبيت URL لطرف ثالث",
+  "search_placeholder": "البحث عن الإضافات حسب الاسم أو المعرف أو الوصف أو الأذونات...",
+  "filter_type": "تصفية حسب النوع",
+  "types": {
+    "all": "جميع الأنواع",
+    "ui": "واجهة المستخدم و الأدوات",
+    "preview": "المشاهدون",
+    "tool": "أدوات",
+    "theme": "الثيمات و التأثيرات",
+    "integration": "التكاملات",
+    "system": "نواة النظام"
+  },
+  "status": {
+    "enabled": "تمكين",
+    "disabled": "معطل",
+    "builtin": "مدمج",
+    "custom": "مخصص",
+    "high_privilege": "امتياز عالي"
+  },
+  "actions": {
+    "install": "تثبيت الإضافة",
+    "reinstall": "إعادة التثبيت",
+    "uninstall": "إلغاء",
+    "config": "الإعدادات",
+    "view_details": "التفاصيل",
+    "enable": "تمكين",
+    "disable": "تعطيل",
+    "export": "إعدادات التصدير",
+    "import": "استيراد الإعدادات",
+    "refresh": "تحديث",
+    "save": "حفظ الإعدادات",
+    "cancel": "إلغاء",
+    "install_url": "تثبيت عبر URL"
+  },
+  "install_modal": {
+    "install_type": "مصدر التثبيت",
+    "zip_tab": "تحميل حزمة ZIP",
+    "url_tab": "تثبيت عبر URL",
+    "zip_file_label": "حزمة الاضافات ZIP",
+    "zip_drop_title": "انقر لتحديد أو سحب وإسقاط ملف ملحق ZIP هنا",
+    "zip_drop_help": "يدعم أرشيف الملحق المفتوح المصدر المحتوي على plugin.json / manifest.json",
+    "url_label": "رابط بيان الاضافات",
+    "url_placeholder": "على سبيل المثال: https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "يدعم البرنامج المساعد المفتوح المصدر روابط بيان JSON (GitHub Raw, jsDelivr, unpkg, الخ)",
+    "high_privilege_label": "امتياز نظام منح عالي (الجذر / امتيازات المشرف)",
+    "high_privilege_help": "السماح بالوصول المباشر إلى API نظام الملفات المنخفض المستوى، إعادة تحميل مشغل التخزين، إعدادات الموقع الكاملة/الكتابة، والطلبات الأولية HTTP",
+    "fetch_and_install": "إحضار وتثبيت"
+  },
+  "config_modal": {
+    "title": "تكوين الإضافة",
+    "no_config": "لا توجد معلمات تكوين مطلوبة لهذه الإضافة.",
+    "save_success": "تم حفظ إعدادات الإضافة بنجاح"
+  },
+  "delete_confirm": "هل أنت متأكد من أنك تريد إلغاء هذه الإضافة وإزالتها؟ لا يمكن التراجع عن ذلك.",
+  "import_modal": {
+    "title": "استيراد النسخ الاحتياطي للملحقات",
+    "paste_json": "لصق بيانات الملحقات JSON هنا",
+    "import_success": "تم استيراد الإضافات بنجاح"
+  },
+  "empty_installed": "لا توجد إضافات مثبتة حتى الآن. انقر فوق 'تثبيت إضافة' لتحميل حزمة ZIP أو تثبيت من URL."
+}

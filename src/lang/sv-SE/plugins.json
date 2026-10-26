@@ -1,0 +1,69 @@
+{
+  "title": "Tillägg",
+  "name": "Plugin namn",
+  "type": "Typ",
+  "version": "Version",
+  "author": "Författare",
+  "status_col": "Status",
+  "empty_desc": "Ingen beskrivning angiven",
+  "subtitle": "Hantera och konfigurera OpenList tillägg med ZIP-filuppladdning och tredjeparts-URL-installation",
+  "search_placeholder": "Sök plugins efter namn, ID, beskrivning eller behörigheter...",
+  "filter_type": "Filtrera efter typ",
+  "types": {
+    "all": "Alla typer",
+    "ui": "UI & widgetar",
+    "preview": "Förhandsgranskare",
+    "tool": "Verktyg",
+    "theme": "Teman och effekter",
+    "integration": "Integrationer",
+    "system": "Systemets kärna"
+  },
+  "status": {
+    "enabled": "Aktiverad",
+    "disabled": "Inaktiverad",
+    "builtin": "Inbyggd",
+    "custom": "Anpassad",
+    "high_privilege": "Hög privilegium"
+  },
+  "actions": {
+    "install": "Installera plugin",
+    "reinstall": "Installera om",
+    "uninstall": "Avinstallera",
+    "config": "Inställningar",
+    "view_details": "Detaljer",
+    "enable": "Aktivera",
+    "disable": "Inaktivera",
+    "export": "Exportera konfiguration",
+    "import": "Importera konfiguration",
+    "refresh": "Uppdatera",
+    "save": "Spara inställningar",
+    "cancel": "Avbryt",
+    "install_url": "Installera via URL"
+  },
+  "install_modal": {
+    "install_type": "Installationskälla",
+    "zip_tab": "Ladda upp zip-paket",
+    "url_tab": "Installera via URL",
+    "zip_file_label": "Postpaket för insticksprogram",
+    "zip_drop_title": "Klicka för att välja eller dra och släppa plugin ZIP-fil här",
+    "zip_drop_help": "Stöder plugin-arkiv med öppen källkod som innehåller plugin.json / manifest.json",
+    "url_label": "Plugin Manifest URL",
+    "url_placeholder": "e.g.: https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "Stöder plugin med öppen källkod JSON manifest länkar (GitHub Raw, jsDelivr, unpkg, etc.)",
+    "high_privilege_label": "Bevilja systemet hög prioritet (Root / Admin Privilegier)",
+    "high_privilege_help": "Ger direkt åtkomst till filsystems-API:er på låg nivå, laddar om drivrutinens lagringsutrymme, läser / skriver hela webbplatsinställningar och rawa HTTP-förfrågningar",
+    "fetch_and_install": "Hämta och installera"
+  },
+  "config_modal": {
+    "title": "Konfiguration för plugin",
+    "no_config": "Inga konfigurationsparametrar krävs för denna plugin.",
+    "save_success": "Plugin-konfigurationen har sparats"
+  },
+  "delete_confirm": "Är du säker på att du vill avinstallera och ta bort denna plugin? Detta kan inte ångras.",
+  "import_modal": {
+    "title": "Importera säkerhetskopia av plugins",
+    "paste_json": "Klistra in JSON-data här",
+    "import_success": "Tillägg har importerats"
+  },
+  "empty_installed": "Inga plugins installerade ännu. Klicka på \"Installera Plugin\" för att ladda upp ett ZIP-paket eller installera från URL."
+}

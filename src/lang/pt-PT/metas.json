@@ -1,0 +1,18 @@
+{
+  "path": "Caminho",
+  "password": "Palavra-passe",
+  "read_users": "Ler Usuários",
+  "read_users_help": "Apenas usuários selecionados com a permissão requerida podem ler este caminho.",
+  "write_users": "Escrever Usuários",
+  "write_users_help": "Apenas usuários selecionados com a permissão requerida podem escrever este caminho.",
+  "all_permitted_users": "Todos os usuários permitidos",
+  "write": "Gravar conteúdo Bypass",
+  "write_help": "Ignora a verificação de permissão do usuário para escrita de conteúdo (criar/upload/modificar). USE COM CUIDAÇÃO.",
+  "hide": "Esconder",
+  "readme": "Leia-me",
+  "readme_help": "Renderizar um markdown na parte inferior, suporte conteúdo ou link",
+  "header": "Cabeçalho",
+  "header_help": "Renderizar um markdown no topo, conteúdo de suporte ou link",
+  "apply_sub": "Aplicar à subpasta",
+  "hide_help": "Uma expressão regular por linha"
+}

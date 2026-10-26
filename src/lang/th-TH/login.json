@@ -1,0 +1,13 @@
+{
+  "login_to": "เข้าสู่ระบบ",
+  "username-tips": "ป้อนชื่อผู้ใช้",
+  "password-tips": "ป้อนรหัสผ่าน",
+  "otp-tips": "ป้อนรหัส OTP",
+  "remember": "จดจำฉัน",
+  "forget": "ลืมรหัสผ่าน?",
+  "forget_url": "https://doc.oplist.org/faq/howto#how-to-get-password-if-i-forget-it",
+  "clear": "ล้าง",
+  "login": "เข้าสู่ระบบ",
+  "use_guest": "เข้าใช้งานในฐานะผู้เยี่ยมชม",
+  "success": "เข้าสู่ระบบสำเร็จ"
+}

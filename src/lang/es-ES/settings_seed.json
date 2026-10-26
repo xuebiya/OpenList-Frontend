@@ -1,0 +1,23 @@
+{
+  "site_config": "Configuración del sitio",
+  "site_url": "URL del sitio",
+  "site_url_help": "URL base pública incrustada en las fuentes semilla al generar enlaces para compartir. Déjala vacía para usar el origen de la solicitud actual.",
+  "default_matrix": "Matriz de hash predeterminada",
+  "default_matrix_help": "Hashes preseleccionados al generar semillas a partir de la lista de archivos. Torrent fuerza SHA-1 y CAS fuerza MD5 en el momento de la generación.",
+  "whole": "Archivo completo",
+  "pieces": "Piezas",
+  "default_format": "Formato predeterminado",
+  "default_format_help": "Formato preseleccionado en el cuadro de diálogo de generación de semillas.",
+  "format_policies": "Políticas de formato automáticas",
+  "format_policies_help": "Formatos generados automáticamente como archivos auxiliares. Cada almacenamiento puede anular la política global.",
+  "oss_format": "Formato OSS (.oss)",
+  "torrent_format": "Formato Torrent (.torrent)",
+  "cas_format": "Formato CAS (.cas)",
+  "other_options": "Otras opciones",
+  "auto_generate": "Generar semillas automáticamente al cargar",
+  "auto_generate_help": "Genera semillas auxiliares mientras cargas archivos, usando las políticas de formato anteriores.",
+  "single_direct_preview": "Vista previa directa para semillas de un solo archivo",
+  "single_direct_preview_help": "Abre directamente el archivo contenido en lugar de la vista de detalles de la semilla cuando una semilla contiene exactamente un archivo.",
+  "cas_direct_access": "Acceso directo a CAS",
+  "cas_direct_access_help": "Al abrir una semilla CAS de un solo archivo, cárgala rápidamente en la misma carpeta y muestra una vista previa del archivo restaurado."
+}

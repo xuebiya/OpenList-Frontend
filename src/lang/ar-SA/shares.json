@@ -1,0 +1,43 @@
+{
+  "expires": "وقت انتهاء الصلاحية",
+  "id": "ID",
+  "id_placeholder": "معرف مخصص (اختياري، اتركه فارغاً عشوائي)",
+  "accessed": "عدد الدخول",
+  "max_accessed": "الحد الأقصى لعدد الوصول",
+  "pwd": "مشاركة الرمز",
+  "files": "مشاركة المسارات",
+  "files_etc": " و {{more}} أكثر",
+  "files_placeholder": "أدخل مسار الملف أو المجلد، واحد لكل سطر",
+  "add_path": "إضافة مسار",
+  "creator": "منشئ",
+  "status": "الحالة",
+  "status_list": {
+    "disabled": "معطل",
+    "invalid": "غير صالح",
+    "work": "العمل",
+    "denied": "لا يوجد إذن"
+  },
+  "remark": "ملاحظة",
+  "readme": "الوصف",
+  "header": "وصف الترويسة",
+  "order_by": "الترتيب حسب",
+  "order_bys": {
+    "name": "الاسم",
+    "size": "الحجم",
+    "modified": "معدّل"
+  },
+  "order_direction": "اتجاه الطلب",
+  "order_directions": {
+    "asc": "تصاعدي",
+    "desc": "تنازلي"
+  },
+  "extract_folder": "ترتيب المجلد",
+  "extract_folders": {
+    "front": "المجلدات في الأعلى",
+    "back": "المجلدات في الأسفل"
+  },
+  "input_password": "الرجاء إدخال رمز المشاركة",
+  "share_gone": "انتهت صلاحية هذه المشاركة أو تم إلغاؤها",
+  "copy_msg": "نسخ الرابط",
+  "no_permission_tip": "لإنشاء مشاركة، تحتاج إلى إذن \"مشاركة\"."
+}

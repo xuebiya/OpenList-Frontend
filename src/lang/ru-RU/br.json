@@ -1,0 +1,17 @@
+{
+  "backup": "Резервное копирование",
+  "restore": "Восстановить",
+  "start_backup": "Начать резервное копирование",
+  "finish_backup": "Завершить резервное копирование",
+  "success_backup_item": "[ {{item}} ] Резервное копирование прошло успешно",
+  "failed_backup_item": "[ {{item}} ] Сбой резервного копирования",
+  "no_file": "Файл не выбран",
+  "start_restore": "Начать восстановление",
+  "finish_restore": "Закончить восстановление",
+  "success_restore_item": "[ {{item}} ] Восстановление прошло успешно",
+  "failed_restore_item": "[ {{item}} ] Восстановление не удалось",
+  "override": "Переопределить",
+  "encrypt_password_placeholder": "Оставьте пустым, если вам не требуется шифрование",
+  "encrypt_password": "Пароль шифрования",
+  "wrong_encrypt_password": "Неверный пароль шифрования"
+}

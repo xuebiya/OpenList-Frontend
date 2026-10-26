@@ -1,0 +1,69 @@
+{
+  "title": "Complementos",
+  "name": "Nome do Plugin",
+  "type": "tipo",
+  "version": "Versão",
+  "author": "Autor",
+  "status_col": "SItuação",
+  "empty_desc": "Descrição não fornecida",
+  "subtitle": "Gerenciar e configurar extensões OpenList com upload de arquivo ZIP e instalação de URL de terceiros",
+  "search_placeholder": "Pesquisar plugins por nome, ID, descrição ou permissões...",
+  "filter_type": "Filtrar por tipo",
+  "types": {
+    "all": "Todos os tipos",
+    "ui": "Interface e Widgets",
+    "preview": "Pré-visualizações",
+    "tool": "Ferramentas",
+    "theme": "Temas e Efeitos",
+    "integration": "Integrações",
+    "system": "Núcleo do Sistema"
+  },
+  "status": {
+    "enabled": "Ativado",
+    "disabled": "Desabilitado",
+    "builtin": "Internos",
+    "custom": "Personalizado",
+    "high_privilege": "Privilégio de Alta"
+  },
+  "actions": {
+    "install": "Instalar Plugin",
+    "reinstall": "Reinstalar",
+    "uninstall": "Desinstalar",
+    "config": "Confirgurações",
+    "view_details": "detalhes",
+    "enable": "Habilitado",
+    "disable": "Desligado",
+    "export": "Configuração de exportação",
+    "import": "Configuração de importação",
+    "refresh": "atualizar",
+    "save": "Salvar Configurações",
+    "cancel": "cancelar",
+    "install_url": "Instalar via URL"
+  },
+  "install_modal": {
+    "install_type": "Fonte da Instalação",
+    "zip_tab": "Carregar pacote ZIP",
+    "url_tab": "Instalar via URL",
+    "zip_file_label": "Pacote ZIP do Plugin",
+    "zip_drop_title": "Clique para selecionar ou arraste e solte o arquivo ZIP do plugin aqui",
+    "zip_drop_help": "Suporta arquivos de plugin de código aberto contendo plugin.json / manifest.json",
+    "url_label": "URL Manifesto de Plugin",
+    "url_placeholder": "ex.: https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "Suporta links de manifesto JSON de código aberto (GitHub Raw, jsDelivr, unpkg, etc.)",
+    "high_privilege_label": "Conceder Privilégio de Alta Sistema (Privilégios de Root / Admin)",
+    "high_privilege_help": "Permite acesso direto a APIs de sistema de arquivos de baixo nível, recarga do driver de armazenamento, configurações completas do site de leitura/escrita e requisições HTTP brutas",
+    "fetch_and_install": "Buscar e instalar"
+  },
+  "config_modal": {
+    "title": "Configuração do plugin",
+    "no_config": "Nenhum parâmetro de configuração necessário para este plugin.",
+    "save_success": "Configuração do plugin salva com sucesso"
+  },
+  "delete_confirm": "Você tem certeza que deseja desinstalar e remover este plugin? Isto não pode ser desfeito.",
+  "import_modal": {
+    "title": "Importar Backup de Plugins",
+    "paste_json": "Cole dados de plugins JSON aqui",
+    "import_success": "Plugins importados com sucesso"
+  },
+  "empty_installed": "Nenhum plugin instalado ainda. Clique em 'Instalar Plugin' para enviar um pacote ZIP ou instalar a partir de URL."
+}

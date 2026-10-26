@@ -1,0 +1,43 @@
+{
+  "expires": "Förfallodatum",
+  "id": "ID",
+  "id_placeholder": "Anpassat ID (valfritt, lämna tomt för slumpmässigt)",
+  "accessed": "Antal åtkomst",
+  "max_accessed": "Maximal antal åtkomst",
+  "pwd": "Dela kod",
+  "files": "Dela sökvägar",
+  "files_etc": " och {{more}} mer",
+  "files_placeholder": "Ange sökvägar för fil eller mapp, en per rad",
+  "add_path": "Lägg till sökväg",
+  "creator": "Skapare",
+  "status": "Status",
+  "status_list": {
+    "disabled": "Inaktiverad",
+    "invalid": "Ogiltig",
+    "work": "Arbete",
+    "denied": "Ingen behörighet"
+  },
+  "remark": "Anmärkning",
+  "readme": "Beskrivning",
+  "header": "Beskrivning av sidhuvud",
+  "order_by": "Ordna efter",
+  "order_bys": {
+    "name": "Namn",
+    "size": "Storlek",
+    "modified": "Ändrad"
+  },
+  "order_direction": "Order Riktning",
+  "order_directions": {
+    "asc": "Stigande",
+    "desc": "Fallande"
+  },
+  "extract_folder": "Beställning av mapp",
+  "extract_folders": {
+    "front": "Mappar överst",
+    "back": "Mappar längst ner"
+  },
+  "input_password": "Ange delningskod",
+  "share_gone": "Denna delning har löpt ut eller avbrutits",
+  "copy_msg": "Kopiera länk",
+  "no_permission_tip": "För att skapa en aktie behöver du behörigheten \"Dela\"."
+}

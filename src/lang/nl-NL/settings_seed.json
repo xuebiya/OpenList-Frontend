@@ -1,0 +1,23 @@
+{
+  "site_config": "Siteconfiguratie",
+  "site_url": "Site-URL",
+  "site_url_help": "Openbare basis-URL die in seedbronnen wordt opgenomen bij het genereren van deellinks. Laat leeg om de oorsprong van het huidige verzoek te gebruiken.",
+  "default_matrix": "Standaard-hashmatrix",
+  "default_matrix_help": "Hashes die vooraf zijn geselecteerd bij het genereren van seeds uit de bestandslijst. Torrent dwingt SHA-1 af en CAS dwingt MD5 af tijdens het genereren.",
+  "whole": "Volledig bestand",
+  "pieces": "Stukken",
+  "default_format": "Standaardindeling",
+  "default_format_help": "Indeling die vooraf is geselecteerd in het dialoogvenster voor het genereren van seeds.",
+  "format_policies": "Automatisch indelingsbeleid",
+  "format_policies_help": "Indelingen die automatisch als sidecarbestanden worden gegenereerd. Elke opslaglocatie kan het algemene beleid nog steeds overschrijven.",
+  "oss_format": "OSS (.oss)",
+  "torrent_format": "Torrentbestand (.torrent)",
+  "cas_format": "CAS (.cas)",
+  "other_options": "Overige opties",
+  "auto_generate": "Seeds automatisch genereren bij uploaden",
+  "auto_generate_help": "Genereer tijdens het uploaden sidecar-seeds met behulp van het bovenstaande indelingsbeleid.",
+  "single_direct_preview": "Directe preview voor seeds met één bestand",
+  "single_direct_preview_help": "Open het opgenomen bestand rechtstreeks in plaats van de seeddetailweergave wanneer een seed precies één bestand bevat.",
+  "cas_direct_access": "CAS-directe toegang",
+  "cas_direct_access_help": "Wanneer je een CAS-seed met één bestand opent, upload je het snel naar dezelfde map en bekijk je een preview van het herstelde bestand."
+}

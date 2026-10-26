@@ -1,0 +1,23 @@
+{
+  "index_header": "إعدادات فهرس البحث",
+  "search_index": "فهرس البحث",
+  "current": "الفهارس الحالية",
+  "build": "إنشاء فهارس",
+  "rebuild": "إعادة إنشاء الفهارس",
+  "paths_to_update": "المسارات للتحديث",
+  "max_depth": "أقصى عمق",
+  "update": "تحديث الفهارس",
+  "obj_count": "عدد الكائنات",
+  "last_done_time": "آخر وقت تم إنجازه",
+  "unknown": "غير معروف",
+  "stop": "توقف",
+  "clear": "مسح",
+  "error": "خطأ",
+  "scan_header": "فحص يدوي",
+  "task_status": "حالة المهمة",
+  "running": "تشغيل",
+  "idle": "الخمول",
+  "path_to_scan": "مسار المسح",
+  "rate_limit": "حد المعدل",
+  "start": "ابدأ"
+}

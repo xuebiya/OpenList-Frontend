@@ -1,0 +1,41 @@
+name: Fork Frontend Release
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fork-frontend-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  frontend:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: pnpm/action-setup@v4
+      - name: Build standard and lite from local translations
+        run: |
+          set -euo pipefail
+          bash build.sh --dev --compress --skip-i18n
+          mkdir -p release
+          cp dist/*.tar.gz release/
+          bash build.sh --dev --compress --skip-i18n --lite
+          cp dist/*lite*.tar.gz release/
+          printf '%s\n' "$GITHUB_SHA" > release/FRONTEND_COMMIT.txt
+          (cd release && sha256sum *.tar.gz > SHA256SUMS.txt)
+      - uses: actions/upload-artifact@v4
+        with:
+          name: openlist-frontend-${{ github.sha }}
+          path: release/*
+          if-no-files-found: error
+      - name: Publish fork frontend assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag="frontend-${GITHUB_RUN_NUMBER}-${GITHUB_SHA:0:7}"
+          gh release create "$tag" release/* --target "$GITHUB_SHA" --title "Fork frontend $tag" --notes "Built exclusively from xuebiya/OpenList-Frontend at $GITHUB_SHA, including repository translations." --latest

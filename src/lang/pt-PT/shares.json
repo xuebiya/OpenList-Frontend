@@ -1,0 +1,43 @@
+{
+  "expires": "Tempo de expiração",
+  "id": "ID",
+  "id_placeholder": "ID personalizado (opcional, deixe vazio para aleatório)",
+  "accessed": "Contagem de acessos",
+  "max_accessed": "Contagem máxima de acesso",
+  "pwd": "Compartilhar código",
+  "files": "Compartilhar caminhos",
+  "files_etc": " e mais {{more}}",
+  "files_placeholder": "Insira o caminho do arquivo ou pasta, um por linha",
+  "add_path": "Adicionar caminho",
+  "creator": "Criador",
+  "status": "SItuação",
+  "status_list": {
+    "disabled": "Desabilitado",
+    "invalid": "Inválido",
+    "work": "Trabalho",
+    "denied": "Sem permissão"
+  },
+  "remark": "Observação",
+  "readme": "Descrição:",
+  "header": "Descrição do Cabeçalho",
+  "order_by": "Ordenar Por",
+  "order_bys": {
+    "name": "Nome:",
+    "size": "Tamanho",
+    "modified": "Modificado"
+  },
+  "order_direction": "Direção da ordem",
+  "order_directions": {
+    "asc": "Ascendente",
+    "desc": "Descendente"
+  },
+  "extract_folder": "Ordem de pasta",
+  "extract_folders": {
+    "front": "Pastas no Topo",
+    "back": "Pastas na parte inferior"
+  },
+  "input_password": "Digite o Código de Compartilhamento",
+  "share_gone": "Esta ação expirou ou foi cancelada",
+  "copy_msg": "Link de cópia",
+  "no_permission_tip": "Para criar um compartilhamento, você precisa da permissão \"Compartilhar\"."
+}

@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "Exportação",
+    "export_title": "Exportar Armazenamento para JSON",
+    "export_tips": "Copie o JSON de armazenamento acima.",
+    "import": "Importação",
+    "import_title": "Importar Armazenamento de JSON",
+    "import_success": "Importado com sucesso!",
+    "import_tips": "Cole o JSON de armazenamento exportado para importar.",
+    "mount_path": "Caminho de montagem",
+    "mount_path-tips": "O caminho para o qual você deseja montar, ele é único e não pode ser repetido",
+    "driver": "Motorista",
+    "order": "Encomenda",
+    "order-tips": "Usado para ordenação",
+    "usage": "Utilização",
+    "status": "SItuação",
+    "remark": "Observação",
+    "cache_expiration": "Expiração do Cache",
+    "cache_expiration-tips": "O tempo de expiração do cache para este armazenamento (minutos)",
+    "custom_cache_policies": "Políticas de Cache Personalizadas",
+    "custom_cache_policies-tips": "As regras de expiração do cache para este armazenamento (minutos)",
+    "down_proxy_url": "Baixar URL do Proxy",
+    "disable_proxy_sign": "Desativar assinatura de proxy",
+    "disable_proxy_sign-tips": "Desabilitar assinatura para URL do proxy de download",
+    "web_proxy": "Proxy da Web",
+    "webdav_policy": "Política WebDAV",
+    "proxy_range": "Proxy Range",
+    "proxy_range-tips": "Necessário habilitar proxy",
+    "webdav_policys": {
+      "302_redirect": "Redirecionamento 302",
+      "use_proxy_url": "Usar URL do proxy",
+      "native_proxy": "Proxy nativo"
+    },
+    "order_by": "Ordenar Por",
+    "order_bys": {
+      "name": "Nome:",
+      "size": "Tamanho",
+      "modified": "Modificado"
+    },
+    "order_direction": "Direção da ordem",
+    "order_directions": {
+      "asc": "Ascendente",
+      "desc": "Descendente"
+    },
+    "extract_folder": "Ordem de pasta",
+    "extract_folders": {
+      "front": " Pastas no Topo",
+      "back": "Pastas na parte inferior"
+    },
+    "enable_sign": "Ativar sinal",
+    "disable_index": "Desativar o índice"
+  },
+  "table_fields": {
+    "status": {
+      "work": "Trabalhando",
+      "disabled": "Desabilitado"
+    }
+  },
+  "other": {
+    "start_load_success": "Iniciar carregamento",
+    "load_all": "Recarregar todas",
+    "filter_by_driver": "Filtrar por motorista",
+    "table_layout": "Layout de tabela"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "site_config": "Nettstedskonfigurasjon",
+  "site_url": "Nettstedets URL",
+  "site_url_help": "Offentlig basis-URL som bygges inn i seed-kilder ved generering av delingslenker. La stå tomt for å bruke opphav for gjeldende forespørsel.",
+  "default_matrix": "Standard hash-matrise",
+  "default_matrix_help": "Hashverdier som er forhåndsvalgt ved generering av seed-filer fra fillisten. Torrent tvinger SHA-1, og CAS tvinger MD5 ved generering.",
+  "whole": "Hele filen",
+  "pieces": "Deler",
+  "default_format": "Standardformat",
+  "default_format_help": "Format som er forhåndsvalgt i dialogboksen for seed-generering.",
+  "format_policies": "Automatiske formatregler",
+  "format_policies_help": "Formater som genereres automatisk som sidecar-filer. Hver lagring kan fortsatt overstyre den globale regelen.",
+  "oss_format": "OSS-format (.oss)",
+  "torrent_format": "Torrent-format (.torrent)",
+  "cas_format": "CAS-format (.cas)",
+  "other_options": "Andre alternativer",
+  "auto_generate": "Generer seed-filer automatisk ved opplasting",
+  "auto_generate_help": "Generer sidecar-seed-filer under opplasting ved hjelp av formatreglene ovenfor.",
+  "single_direct_preview": "Direkte forhåndsvisning for seed-filer med én fil",
+  "single_direct_preview_help": "Åpne den inneholdte filen direkte i stedet for detaljvisningen for seed-filen når en seed-fil inneholder nøyaktig én fil.",
+  "cas_direct_access": "Direkte CAS-tilgang",
+  "cas_direct_access_help": "Når en CAS-seed-fil med én fil åpnes, last den raskt opp til samme mappe og forhåndsvis den gjenopprettede filen."
+}

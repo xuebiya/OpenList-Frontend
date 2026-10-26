@@ -1,0 +1,1804 @@
+{
+  "115 Cloud": {
+    "cookie": "كوكي",
+    "cookie-tips": "واحد من رمز رمز QR والكعكة مطلوب",
+    "limit_rate": "معدل الحد",
+    "limit_rate-tips": "الحد من معدل طلب جميع الـ api ([limit]r/1s)",
+    "page_size": "حجم الصفحة",
+    "page_size-tips": "قائمة التطبيق لكل صفحة بحجم 115 مشغل",
+    "qrcode_source": "مصدر رمز Qrcode",
+    "qrcode_source-tips": "حدد جهاز رمز QR، الخط الافتراضي",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "أيوس",
+      "qandroid": "Qandroid",
+      "tv": "تلويث",
+      "web": "ويب",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "رمز Qrcode",
+    "qrcode_token-tips": "واحد من رمز رمز QR والكعكة مطلوب",
+    "root_folder_id": "معرف المجلد الجذر"
+  },
+  "115 Open": {
+    "access_token": "رمز الوصول",
+    "limit_rate": "معدل الحد",
+    "limit_rate-tips": "الحد من معدل طلب جميع الـ api ([limit]r/1s)",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "file_name": "اسم الملف",
+      "file_size": "حجم الملف",
+      "file_type": "نوع الملف",
+      "user_utime": "وقت المستخدم"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "page_size": "حجم الصفحة",
+    "page_size-tips": "قائمة api لكل صفحة بحجم 115فتح المشغل",
+    "refresh_token": "تحديث الرمز",
+    "root_folder_id": "معرف المجلد الجذر"
+  },
+  "115 Share": {
+    "cookie": "كوكي",
+    "cookie-tips": "واحد من رمز رمز QR والكعكة مطلوب",
+    "limit_rate": "معدل الحد",
+    "limit_rate-tips": "الحد من معدل طلب جميع الـ api (1 r/[limit_rate]s)",
+    "page_size": "حجم الصفحة",
+    "page_size-tips": "قائمة التطبيق لكل صفحة بحجم 115 مشغل",
+    "qrcode_source": "مصدر رمز Qrcode",
+    "qrcode_source-tips": "حدد جهاز رمز QR، الخط الافتراضي",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "أيوس",
+      "qandroid": "Qandroid",
+      "tv": "تلويث",
+      "web": "ويب",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "رمز Qrcode",
+    "qrcode_token-tips": "واحد من رمز رمز QR والكعكة مطلوب",
+    "receive_code": "تلقي الرمز",
+    "receive_code-tips": "تلقي رمز 115 رابط المشاركة",
+    "root_folder_id": "معرف المجلد الجذر",
+    "share_code": "مشاركة الرمز",
+    "share_code-tips": "مشاركة رمز 115 رابط المشاركة"
+  },
+  "123 Open": {
+    "AccessToken": "AccessToken",
+    "ClientID": "ClientID",
+    "ClientSecret": "ClientSecret",
+    "DirectLink": "DirectLink",
+    "DirectLink-tips": "استخدام الرابط المباشر عند تحميل الملف",
+    "DirectLinkPrivateKey": "DirectLinkPrivateKey",
+    "DirectLinkPrivateKey-tips": "المفتاح الخاص للرابط المباشر، إذا تم تمكين مصادقة URL",
+    "DirectLinkValidDuration": "DirectLinkValidDuration",
+    "DirectLinkValidDuration-tips": "دقائق، إذا تم تمكين مصادقة URL",
+    "RefreshToken": "RefreshToken",
+    "UploadThread": "تحميل الموضوع",
+    "UploadThread-tips": "مواضيع التحميل",
+    "api_url_address": "عنوان رابط Api",
+    "root_folder_id": "معرف المجلد الجذر",
+    "use_online_api": "استخدام api عبر الإنترنت"
+  },
+  "123Pan": {
+    "UploadThread": "تحميل الموضوع",
+    "UploadThread-tips": "مواضيع التحميل",
+    "password": "كلمة المرور",
+    "platform": "المنصة",
+    "platform-tips": "قيمة رأس المنصة، المرسلة مع طلبات API",
+    "root_folder_id": "معرف المجلد الجذر",
+    "username": "اسم المستخدم"
+  },
+  "123PanLink": {
+    "origin_urls": "روابط الأصل",
+    "origin_urls-tips": "هيكل:FolderName:\n  [FileSize:][معدل:]Url",
+    "private_key": "المفتاح الخاص",
+    "uid": "غير صالح",
+    "valid_duration": "مدة الصلاحية",
+    "valid_duration-tips": "دقائق"
+  },
+  "123PanShare": {
+    "accesstoken": "Accesstoken",
+    "root_folder_id": "معرف المجلد الجذر",
+    "sharekey": "المشاركة",
+    "sharepassword": "مشاركة كلمة المرور"
+  },
+  "139Yun": {
+    "authorization": "التصريح",
+    "authorization-tips": "يمكن استخدام التفويض لوحده. إذا كان فارغاً، استخدم mail_cookies وحده لتسجيل الدخول السريع، أو mail_cookies + اسم المستخدم + كلمة المرور لسرد تسجيل الدخول الكامل.",
+    "client_type": "نوع العميل",
+    "client_type-tips": "نوع العميل المُبلّغ إلى واجهة برمجة التطبيقات للسحابة الشخصية. يتيح web (9) رفع ملفات يصل حجمها إلى 50 جيجابايت؛ بينما يرفع pc (13) الحد الأقصى لرفع الملف الواحد إلى 500 جيجابايت.",
+    "client_types": {
+      "pc": "حاسوب شخصي",
+      "web": "الويب"
+    },
+    "cloud_id": "معرف السحابة",
+    "custom_upload_part_size": "رفع حجم جزء مخصص",
+    "custom_upload_part_size-tips": "0 تلقائي",
+    "link_id": "Link id",
+    "link_id-tips": "يتم فصل المشاركات المتعددة بفواصل أو خطوط جديدة. استخدم link_id#password للمشاركة المحمية بكلمة المرور.",
+    "mail_cookies": "ملفات تعريف الارتباط",
+    "mail_cookies-tips": "ملفات تعريف الارتباط من mail.139.com المستخدمة في مصادقة تسجيل الدخول.",
+    "password": "كلمة المرور",
+    "password-tips": "مطلوب فقط عند استخدام إعادة تسجيل الدخول لكلمة المرور باستخدام mail_cookies.",
+    "report_real_size": "الإبلاغ عن الحجم الحقيقي",
+    "report_real_size-tips": "تمكين الإبلاغ عن حجم الملف الحقيقي أثناء التحميل",
+    "root_folder_id": "معرف المجلد الجذر",
+    "sms_code": "رمز الرسائل القصيرة",
+    "sms_code-tips": "قم بملء هذا فقط بعد أن تفيد قائمة OpenList أنه تم إرسال 139 رسالة تحقق برمز إرسال الرسائل القصيرة، ثم قم بحفظ التخزين مرة أخرى.",
+    "type": "نوع",
+    "types": {
+      "family": "العائلة",
+      "group": "مجموعة",
+      "personal": "شخصي",
+      "personal_new": "جديد شخصي",
+      "share": "مشاركة"
+    },
+    "use_large_thumbnail": "استخدام صورة مصغرة كبيرة",
+    "use_large_thumbnail-tips": "تمكين لاستخدام صورة مصغرة كبيرة للصور",
+    "use_old_stream_upload": "استخدام تحميل البث القديم",
+    "use_old_stream_upload-tips": "تمكين استخدام طريقة تحميل البث القديمة (لا تدعم التحميل السريع)",
+    "user_domain_id": "معرف نطاق المستخدم",
+    "user_domain_id-tips": "ud_id في Cooki، املأ لإظهار استخدام القرص",
+    "username": "اسم المستخدم",
+    "username-tips": "مطلوب فقط عند استخدام إعادة تسجيل الدخول لكلمة المرور باستخدام mail_cookies."
+  },
+  "189Cloud": {
+    "cookie": "كوكي",
+    "cookie-tips": "ملء ملف تعريف الارتباط عند الحاجة إلى كلمة التحقق",
+    "password": "كلمة المرور",
+    "root_folder_id": "معرف المجلد الجذر",
+    "username": "اسم المستخدم"
+  },
+  "189CloudPC": {
+    "access_token": "رمز الوصول",
+    "client_sn": "الرقم التسلسلي للعميل",
+    "client_sn-tips": "الرقم التسلسلي للجهاز المستخرج من العميل الرسمي، اتركه فارغًا إذا لم يكن لديك واحد",
+    "device_id": "معرّف الجهاز",
+    "device_id-tips": "ملف تعريف الارتباط DEVICEID الصادر بعد التحقق الثاني من الجهاز، احتفظ به لتجنب التحقق مرة أخرى",
+    "family_id": "معرف الأسرة",
+    "family_transfer": "تحويل العائلة",
+    "generate_torrent": "توليد تورنت",
+    "generate_torrent-tips": "إنشاء ملف تورنت مع امتداد CAS بعد التحميل",
+    "jg_open_id": "معرّف Jg المفتوح",
+    "jg_open_id-tips": "معرّف الدفع الاختياري الذي يرسله العميل الرسمي",
+    "login_type": "نوع تسجيل الدخول",
+    "login_types": {
+      "password": "كلمة المرور",
+      "qrcode": "Qrcode"
+    },
+    "no_use_ocr": "لا يوجد إستخدام cr",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "filename": "اسم الملف",
+      "filesize": "حجم الملف",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "password": "كلمة المرور",
+    "password-tips": "لا يلزم عند توفير رمز وصول أو رمز تحديث",
+    "rapid_upload": "رفع سريع",
+    "refresh_token": "تحديث الرمز",
+    "refresh_token-tips": "لتبديل الحسابات، يرجى مسح هذا الحقل",
+    "root_folder_id": "معرف المجلد الجذر",
+    "sms_code": "رمز SMS",
+    "sms_code-tips": "رمز SMS للتحقق الثاني من الجهاز، أدخله واحفظه مرة أخرى عندما يطلبه تسجيل الدخول",
+    "type": "نوع",
+    "types": {
+      "family": "العائلة",
+      "personal": "شخصي"
+    },
+    "upload_method": "طريقة الرفع",
+    "upload_methods": {
+      "old": "قديم",
+      "rapid": "سريع",
+      "stream": "البث"
+    },
+    "upload_thread": "تحميل الموضوع",
+    "upload_thread-tips": "1<=موضوع<=32",
+    "user_finger": "بصمة المستخدم",
+    "user_finger-tips": "بصمة الجهاز المُرسلة مع طلبات تسجيل الدخول، يتم إنشاؤها والاحتفاظ بها تلقائيًا عند ترك الحقل فارغًا",
+    "username": "اسم المستخدم",
+    "username-tips": "لا يلزم عند توفير رمز وصول أو رمز تحديث",
+    "validate_code": "Validate code"
+  },
+  "189CloudTV": {
+    "access_token": "رمز الوصول",
+    "family_id": "معرف الأسرة",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "filename": "اسم الملف",
+      "filesize": "حجم الملف",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "rapid_upload": "رفع سريع",
+    "root_folder_id": "معرف المجلد الجذر",
+    "type": "نوع",
+    "types": {
+      "family": "العائلة",
+      "personal": "شخصي"
+    },
+    "upload_thread": "تحميل الموضوع",
+    "upload_thread-tips": "1<=موضوع<=32"
+  },
+  "AList V3": {
+    "forward_archive_requests": "إعادة توجيه طلبات الأرشيف",
+    "meta_password": "كلمة المرور",
+    "pass_ip_to_upsteam": "مرر ip إلى الارتقاء",
+    "pass_ua_to_upsteam": "اجتياز وا إلى الارتقاء",
+    "password": "كلمة المرور",
+    "root_folder_path": "مسار المجلد الجذر",
+    "token": "الرمز",
+    "url": "الرابط",
+    "username": "اسم المستخدم"
+  },
+  "AliDoc": {
+    "cookie": "كوكي",
+    "cookie-tips": "ملف تعريف تعريف الارتباط لوثيقة DingTalk",
+    "root_folder_id": "معرف المجلد الجذر"
+  },
+  "Alias": {
+    "details_pass_through": "تمرير التفاصيل عبر",
+    "download_concurrency": "تنزيل متزامنة",
+    "download_concurrency-tips": "الحاجة إلى تمكين الوكيل",
+    "download_part_size": "تحميل حجم الجزء",
+    "download_part_size-tips": "تحتاج إلى تمكين الوكيل. الوحدة: KB",
+    "file_consistency_check": "التحقق من اتساق الملف",
+    "paths": "المسارات",
+    "provider_pass_through": "مرور المزود عبر",
+    "put_conflict_policy": "وضع سياسة التنازع",
+    "put_conflict_policy-tips": "كيف يتعامل السائق مع المسارات المتطابقة في نهاية الخلفية عند التحميل أو النسخ أو الحركة أو التحلل.",
+    "put_conflict_policys": {
+      "all": "ضع في جميع مسارات الصراع",
+      "all_strict": "السماح بمسارات الصراع الكاملة",
+      "deterministic": "السماح بالمسار الفريد",
+      "deterministic_or_all": "السماح بالمسار الفريد والمسارات الكاملة للصراع",
+      "disabled": "تعطيل وضع",
+      "first": "ضع في مسار الصراع الأول",
+      "quota": "موازنة تحميل عشوائية مرجحة بناء على المساحة المتبقية",
+      "quota_strict": "موازنة تحميل عشوائية مرجحة بدقة بناء على المساحة المتبقية",
+      "random": "موازنة التحميل العشوائية"
+    },
+    "read_conflict_policy": "قراءة سياسة التنازع",
+    "read_conflict_policys": {
+      "all": "موازنة الحمولة على أساس كل جزء",
+      "first": "احصل على الملف المقابل لمسار التعارض الأول",
+      "random": "موازنة التحميل على أساس كل ملف"
+    },
+    "write_conflict_policy": "سياسة كتابة التضارب",
+    "write_conflict_policy-tips": "كيف يتعامل السائق مع المسارات المتطابقة في نهاية الخلفية عند تغيير التسمية أو الإزالة أو إنشاء الدليل.",
+    "write_conflict_policys": {
+      "all": "الكتابة إلى جميع مسارات الصراع",
+      "all_strict": "السماح بمسارات الصراع الكاملة",
+      "deterministic": "السماح بالمسار الفريد",
+      "deterministic_or_all": "السماح بالمسار الفريد والمسارات الكاملة للصراع",
+      "disabled": "تعطيل الكتابة",
+      "first": "الكتابة إلى أول مسار تضارب"
+    }
+  },
+  "Aliyundrive": {
+    "internal_upload": "تحميل داخلي",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "created_at": "تم إنشاؤها في",
+      "name": "الاسم",
+      "size": "الحجم",
+      "updated_at": "تم التحديث في"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "ASC": "أريكس",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "رفع سريع",
+    "refresh_token": "تحديث الرمز",
+    "root_folder_id": "معرف المجلد الجذر"
+  },
+  "AliyundriveOpen": {
+    "alipan_type": "نوع أجنبي",
+    "alipan_types": {
+      "alipanTV": "AlipanTV",
+      "default": "الافتراضي"
+    },
+    "api_url_address": "عنوان رابط Api",
+    "callback_concurrency": "رد المكالمة",
+    "callback_concurrency-tips": "الحد الأقصى للتحميلات النشطة الوكيل المشتركة من قبل المستخدم أليون",
+    "client_id": "معرف العميل",
+    "client_id-tips": "ابقها فارغة إذا لم يكن لديك واحدة",
+    "client_secret": "سر العميل",
+    "client_secret-tips": "ابقها فارغة إذا لم يكن لديك واحدة",
+    "drive_type": "نوع القرص",
+    "drive_types": {
+      "backup": "النسخ الاحتياطي",
+      "default": "الافتراضي",
+      "resource": "المورد"
+    },
+    "internal_upload": "تحميل داخلي",
+    "internal_upload-tips": "إذا كنت تستخدم أليون ECS موجود في بكين، يمكنك تشغيله لزيادة سرعة التحميل",
+    "livp_download_format": "تنسيق تحميل Livp",
+    "livp_download_formats": {
+      "jpeg": "Jpeg",
+      "mov": "موف"
+    },
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "created_at": "تم إنشاؤها في",
+      "name": "الاسم",
+      "size": "الحجم",
+      "updated_at": "تم التحديث في"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "ASC": "أريكس",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "رفع سريع",
+    "rapid_upload-tips": "إذا قمت بتمكين هذا الخيار، سيتم تحميل الملف إلى الخادم أولا، لذلك سيكون التقدم غير صحيح",
+    "refresh_token": "تحديث الرمز",
+    "remove_way": "إزالة الطريقة",
+    "remove_ways": {
+      "delete": "حذف",
+      "trash": "المهملات"
+    },
+    "root_folder_id": "معرف المجلد الجذر",
+    "use_online_api": "استخدام api عبر الإنترنت"
+  },
+  "AliyundriveShare": {
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "created_at": "تم إنشاؤها في",
+      "name": "الاسم",
+      "size": "الحجم",
+      "updated_at": "تم التحديث في"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "ASC": "أريكس",
+      "DESC": "DESC"
+    },
+    "refresh_token": "تحديث الرمز",
+    "root_folder_id": "معرف المجلد الجذر",
+    "share_id": "مشاركة المعرف",
+    "share_pwd": "مشاركة pwd"
+  },
+  "AutoIndex": {
+    "ignore_file_names": "تجاهل أسماء الملفات",
+    "item_xpath": "ادخال XPath",
+    "modified_time_format": "تنسيق تاريخ التعديل",
+    "modified_time_format-tips": "يجب أن يستند إلى النقطة الزمنية من مون يان 2 15:04:05:0700 MST 2006",
+    "modified_xpath": "وقت التعديل XPath",
+    "name_xpath": "اسم الملف XPath",
+    "size_xpath": "حجم الملف XPath",
+    "url": "الرابط"
+  },
+  "Azure Blob Storage": {
+    "access_key": "مفتاح الوصول",
+    "access_key-tips": "مفتاح الوصول لتخزين Azure ، المستخدم للمصادقة. https://learn.microsoft.com/azure/storage/common/storage-account-keys-Management",
+    "container_name": "اسم الحاوية",
+    "container_name-tips": "اسم الحاوية في مخزن آزور (تم إنشاؤه في بوابة آزور). https://learn.microsoft.com/azure/storage/blobs/blob-containers-portal",
+    "endpoint": "Endpoint",
+    "endpoint-tips": "مثلا: https://accountname.blob.core.windows.net/. الرابط الكامل لنقطة النهاية لتخزين Azure ، بما في ذلك اسم حساب التخزين الفريد (3 ~ 24 رقماً وحروف صغيرة فقط).",
+    "root_folder_path": "مسار المجلد الجذر",
+    "sign_url_expire": "رابط التوقيع ينتهي",
+    "sign_url_expire-tips": "وقت انتهاء صلاحية عناوين URL للأساس، في ساعات."
+  },
+  "BaiduNetdisk": {
+    "api_url_address": "عنوان رابط Api",
+    "client_id": "معرف العميل",
+    "client_secret": "سر العميل",
+    "custom_crack_ua": "كراك مخصص وا",
+    "custom_upload_part_size": "رفع حجم جزء مخصص",
+    "custom_upload_part_size-tips": "0 تلقائي",
+    "download_api": "تحميل api",
+    "download_apis": {
+      "crack": "كسر",
+      "crack_video": "فيديو كراك",
+      "official": "رسمي"
+    },
+    "low_bandwith_upload_mode": "وضع تحميل عرض النطاق الترددي المنخفض",
+    "only_list_video_file": "قائمة ملف الفيديو فقط",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "name": "الاسم",
+      "size": "الحجم",
+      "time": "الوقت"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "refresh_token": "تحديث الرمز",
+    "root_folder_path": "مسار المجلد الجذر",
+    "upload_api": "تحميل api",
+    "upload_thread": "تحميل الموضوع",
+    "upload_thread-tips": "1<=موضوع<=32",
+    "upload_timeout": "مهلة التحميل",
+    "upload_timeout-tips": "مهلة الرفع لكل شريحة في ثواني",
+    "use_dynamic_upload_api": "استخدام خاصية التحميل الديناميكي",
+    "use_dynamic_upload_api-tips": "بشكل ديناميكي الحصول على تحميل نطاق api ، عند التمكين ، سيتم استخدام إعداد 'تحميل API' كنسخة احتياطية إذا فشل الحصول على",
+    "use_online_api": "استخدام api عبر الإنترنت"
+  },
+  "BaiduPhoto": {
+    "album_id": "معرف الألبوم",
+    "cookie": "كوكي",
+    "delete_origin": "حذف الأصل",
+    "show_type": "إظهار النوع",
+    "show_types": {
+      "root": "جذر",
+      "root_only_album": "الألبوم الجذر فقط",
+      "root_only_file": "ملف الجذر فقط"
+    },
+    "upload_thread": "تحميل الموضوع",
+    "upload_thread-tips": "1<=موضوع<=32"
+  },
+  "Bunny Storage": {
+    "access_key": "مفتاح الوصول",
+    "cdn_base_url": "رابط قاعدة Cdn",
+    "cdn_token_include_ip": "رمز Cdn يشمل ip",
+    "cdn_token_key": "مفتاح الرمز المميز",
+    "cdn_token_method": "طريقة الرمز المميز",
+    "cdn_token_methods": {
+      "hmac_sha256": "Hmac sha256",
+      "sha256": "Sha256"
+    },
+    "endpoint": "Endpoint",
+    "placeholder": "المحور",
+    "root_folder_path": "مسار المجلد الجذر",
+    "sign_url_expire": "رابط التوقيع ينتهي",
+    "storage_zone_name": "اسم منطقة التخزين"
+  },
+  "CNB Releases": {
+    "default_branch": "الفرع الافتراضي",
+    "default_branch-tips": "الفرع الافتراضي للإصدارات الجديدة",
+    "repo": "مستعرض",
+    "root_folder_id": "معرف المجلد الجذر",
+    "token": "الرمز",
+    "use_tag_name": "استخدام اسم العلامة",
+    "use_tag_name-tips": "استخدام اسم العلامة بدلاً من اسم الإصدار"
+  },
+  "ChaoXingGroupDrive": {
+    "bbsid": "Bbsid",
+    "cookie": "كوكي",
+    "password": "كلمة المرور",
+    "root_folder_id": "معرف المجلد الجذر",
+    "user_name": "اسم المستخدم"
+  },
+  "Chunk": {
+    "chunk_large_file_only": "قطع ملف كبير فقط",
+    "chunk_large_file_only-tips": "قطع فقط إذا كان حجم الملف > حجم جزء",
+    "chunk_prefix": "Chunk prefix",
+    "chunk_prefix-tips": "بادئة مجلد القطع",
+    "custom_ext": "نص مخصص",
+    "num_list_workers": "لا يوجد عمال",
+    "part_size": "حجم القطع",
+    "part_size-tips": "بايت",
+    "remote_path": "المسار البعيد",
+    "show_hidden": "إظهار المخفي",
+    "show_hidden-tips": "إظهار الدلائل والملفات المخفية",
+    "store_hash": "تجزئة المتجر",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "تمكين الصورة المصغرة التي تم إنشاؤها مسبقاً تحت مجلد .thumbnails"
+  },
+  "Cloudreve": {
+    "address": "العنوان",
+    "cookie": "كوكي",
+    "custom_ua": "واي مخصص",
+    "enable_thumb_and_folder_size": "تمكين حجم الإبهام والمجلد",
+    "password": "كلمة المرور",
+    "root_folder_path": "مسار المجلد الجذر",
+    "username": "اسم المستخدم"
+  },
+  "Cloudreve V4": {
+    "access_token": "رمز الوصول",
+    "address": "العنوان",
+    "custom_ua": "واي مخصص",
+    "enable_folder_size": "تمكين حجم المجلد",
+    "enable_thumb": "تمكين الإبهام",
+    "enable_version_upload": "تمكين تحميل الإصدار",
+    "hide_uploading": "إخفاء التحميل",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "created_at": "تم إنشاؤها في",
+      "name": "الاسم",
+      "size": "الحجم",
+      "updated_at": "تم التحديث في"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "password": "كلمة المرور",
+    "refresh_token": "تحديث الرمز",
+    "root_folder_path": "مسار المجلد الجذر",
+    "username": "اسم المستخدم"
+  },
+  "Crypt": {
+    "directory_name_encryption": "تشفير اسم الدليل",
+    "directory_name_encryptions": {
+      "false": "كاذبة",
+      "true": "حقيقي"
+    },
+    "encrypted_suffix": "لاحقة مشفرة",
+    "encrypted_suffix-tips": "للمستخدم المتقدم فقط! الملفات المشفرة سوف تحتوي على هذه اللاحقة",
+    "filename_encoding": "ترميز اسم الملف",
+    "filename_encoding-tips": "للمستخدم المتقدم فقط!",
+    "filename_encodings": {
+      "base32": "القاعدة32",
+      "base32768": "القاعدة 32768",
+      "base64": "القاعدة64"
+    },
+    "filename_encryption": "تشفير اسم الملف",
+    "filename_encryptions": {
+      "obfuscate": "تشويش",
+      "off": "متوقف",
+      "standard": "قياسي"
+    },
+    "password": "كلمة المرور",
+    "password-tips": "كلمة المرور الرئيسية",
+    "remote_path": "المسار البعيد",
+    "remote_path-tips": "هنا حيث مخازن البيانات المشفرة",
+    "salt": "ملح",
+    "salt-tips": "إذا كنت لا تعرف ما هو الملح ، فتعامل معه ككلمة مرور ثانية. اختياري ولكن يوصى به",
+    "show_hidden": "إظهار المخفي",
+    "show_hidden-tips": "إظهار الدلائل والملفات المخفية",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "تمكين الصورة المصغرة التي تم إنشاؤها مسبقاً تحت مجلد .thumbnails"
+  },
+  "Degoo": {
+    "access_token": "رمز الوصول",
+    "access_token-tips": "رمز الوصول ل Degoo API ، يتم الحصول عليه تلقائيًا",
+    "password": "كلمة المرور",
+    "password-tips": "كلمة مرور حسابك في Degoo",
+    "refresh_token": "تحديث الرمز",
+    "refresh_token-tips": "تحديث الرمز المميز للتجديد التلقائي للرمز المميز، يتم الحصول عليه تلقائياً",
+    "root_folder_id": "معرف المجلد الجذر",
+    "username": "اسم المستخدم",
+    "username-tips": "بريدك الإلكتروني الخاص بحساب Degoo"
+  },
+  "Doge": {
+    "access_key_id": "معرف مفتاح الوصول",
+    "add_filename_to_disposition": "إضافة اسم الملف للتصرف",
+    "add_filename_to_disposition-tips": "أضف اسم الملف إلى عنوان ترتيب المحتوى.",
+    "bucket": "دلو",
+    "custom_host": "مضيف مخصص",
+    "direct_upload_host": "المضيف المباشر للتحميل",
+    "enable_custom_host_presign": "تمكين تعيين مضيف مخصص",
+    "enable_direct_upload": "تمكين التحميل المباشر",
+    "endpoint": "Endpoint",
+    "force_path_style": "نمط المسار الإجباري",
+    "list_object_version": "اصدار عنصر القائمة",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "المحور",
+    "region": "المنطقة",
+    "remove_bucket": "إزالة دلو",
+    "remove_bucket-tips": "إزالة اسم دلو من المسار عند استخدام مضيف مخصص.",
+    "root_folder_path": "مسار المجلد الجذر",
+    "secret_access_key": "مفتاح الوصول السري",
+    "session_token": "رمز الجلسة",
+    "sign_url_expire": "رابط التوقيع ينتهي",
+    "user_agent": "وكيل المستخدم",
+    "user_agent-tips": "وكيل مستخدم مخصص لطلبات S3."
+  },
+  "Doubao": {
+    "cookie": "كوكي",
+    "download_api": "تحميل api",
+    "download_apis": {
+      "get_download_info": "الحصول على معلومات التحميل",
+      "get_file_url": "الحصول على رابط الملف"
+    },
+    "limit_rate": "معدل الحد",
+    "limit_rate-tips": "الحد من معدل طلب جميع الـ api ([limit]r/1s)",
+    "root_folder_id": "معرف المجلد الجذر",
+    "upload_thread": "تحميل الموضوع"
+  },
+  "DoubaoNew": {
+    "app_id": "معرف التطبيق",
+    "app_id-tips": "معرف تطبيق دوباو",
+    "auth_client_id": "معرف مصادقة العميل",
+    "auth_client_id-tips": "معرف عميل مصادقة دوباو بيز",
+    "auth_client_type": "نوع مصادقة العميل",
+    "auth_client_type-tips": "نوع عميل مصادقة دوباو بيز",
+    "auth_scope": "نطاق المصادقة",
+    "auth_scope-tips": "نطاق مصادقة دوباو بيز",
+    "auth_sdk_source": "مصدر المصادقة",
+    "auth_sdk_source-tips": "مصدر Doubao Biz Auth SDK",
+    "auth_sdk_version": "إصدار مصادقة sdk",
+    "auth_sdk_version-tips": "إصدار Doubao Biz Auth SDK",
+    "cookie": "كوكي",
+    "cookie-tips": "كوكي الويب",
+    "dpop_key_secret": "سر مفتاح Dpop",
+    "dpop_key_secret-tips": "سر مفتاح DPoP لإنشاء رمز DPoP",
+    "ignore_jwt_check": "تجاهل التحقق من الشفرة",
+    "ignore_jwt_check-tips": "ما إذا كنت تريد تجاهل التحقق من JWT لمنع مشكلة الوقت",
+    "root_folder_id": "معرف المجلد الجذر",
+    "share_link": "مشاركة الرابط",
+    "share_link-tips": "ما إذا كان سيتم استخدام رابط المشاركة للتحميل"
+  },
+  "DoubaoShare": {
+    "cookie": "كوكي",
+    "root_folder_path": "مسار المجلد الجذر",
+    "share_ids": "مشاركة المعرف"
+  },
+  "Dropbox": {
+    "RootNamespaceId": "RootNamespaceId",
+    "api_url_address": "عنوان رابط Api",
+    "client_id": "معرف العميل",
+    "client_id-tips": "ابقها فارغة إذا لم يكن لديك واحدة",
+    "client_secret": "سر العميل",
+    "client_secret-tips": "ابقها فارغة إذا لم يكن لديك واحدة",
+    "refresh_token": "تحديث الرمز",
+    "root_folder_path": "مسار المجلد الجذر",
+    "use_online_api": "استخدام api عبر الإنترنت"
+  },
+  "Emby": {
+    "api_key": "مفتاح Api",
+    "link_method": "طريقة الربط",
+    "link_methods": {
+      "download": "تنزيل",
+      "stream": "البث"
+    },
+    "password": "كلمة المرور",
+    "root_folder_id": "معرف المجلد الجذر",
+    "url": "الرابط",
+    "user_id": "معرف المستخدم",
+    "username": "اسم المستخدم"
+  },
+  "FTP": {
+    "address": "العنوان",
+    "cwd_list": "استخدام Cwd للقائمة",
+    "cwd_list-tips": "أدخل الدليل قبل الإدراج",
+    "encoding": "الترميز",
+    "password": "كلمة المرور",
+    "root_folder_path": "مسار المجلد الجذر",
+    "username": "اسم المستخدم"
+  },
+  "FebBox": {
+    "client_id": "معرف العميل",
+    "client_secret": "سر العميل",
+    "page_size": "حجم الصفحة",
+    "page_size-tips": "قائمة التطبيق حسب حجم الصفحة من مشغل بيسبوكس",
+    "root_folder_id": "معرف المجلد الجذر",
+    "sort_rule": "ترتيب القاعدة",
+    "sort_rules": {
+      "ext_asc": "خانة أسفل",
+      "ext_desc": "مكتب خارجي",
+      "name_asc": "اسم أسلاك",
+      "name_desc": "اسم منضدة",
+      "size_asc": "Size asc",
+      "size_desc": "حجم السقف",
+      "update_asc": "تحديث أعلى",
+      "update_desc": "تحديث السقف"
+    },
+    "user_ip": "المستخدم ip",
+    "user_ip-tips": "عنوان ip المستخدم لرابط التحميل الذي يمكن أن يسرع التنزيل"
+  },
+  "FeijiPan": {
+    "ip": "آي",
+    "password": "كلمة المرور",
+    "root_folder_id": "معرف المجلد الجذر",
+    "username": "اسم المستخدم"
+  },
+  "GitHub API": {
+    "accurate_modified_time": "تعديل الوقت بدقة",
+    "accurate_modified_time-tips": "أفضل جهد لتعديل الوقت الدقيق لقوائم الدليل الصغير. معطل افتراضيا. يضيف طلب GitHub GraphQL واحد ويعود إلى قيم الوقت الصفر القديمة عند الفشل.",
+    "author_email": "البريد الإلكتروني للمؤلف",
+    "author_name": "اسم المؤلف",
+    "committer_email": "البريد الإلكتروني للجنة",
+    "committer_name": "اسم اللجنة",
+    "copy_commit_message": "نسخ رسالة الالتزام",
+    "delete_commit_message": "حذف رسالة الالتزام",
+    "gh_proxy": "وكيل جيه",
+    "gh_proxy-tips": "وكيل GitHub مثلا: https://ghproxy.net/raw.githubusercontent.com أو https://gh-proxy.com/raw.githubusercontent.com",
+    "gpg_key_passphrase": "كلمة مرور مفتاح Gpg",
+    "gpg_private_key": "مفتاح خاص Gpg",
+    "mkdir_commit_message": "رسالة التزام مخضر",
+    "move_commit_message": "نقل رسالة الالتزام",
+    "owner": "المالك",
+    "put_commit_message": "وضع رسالة الالتزام",
+    "ref": "مرجع",
+    "ref-tips": "فرع أو علامة أو التزام SHA ، الفرع الرئيسي بشكل افتراضي.",
+    "rename_commit_message": "إعادة تسمية رسالة الالتزام",
+    "repo": "مستعرض",
+    "root_folder_path": "مسار المجلد الجذر",
+    "token": "الرمز"
+  },
+  "GitHub Releases": {
+    "gh_proxy": "وكيل جيه",
+    "gh_proxy-tips": "GitHub proxy, e.g. https://ghproxy.net/github.com or https://gh-proxy.com/github.com ",
+    "max_page": "الحد الأقصى للصفحة",
+    "max_page-tips": "الصفحات القصوى لجلب (0 = غير محدود)، تعمل فقط عند إظهار جميع الإصدارات",
+    "per_page": "لكل صفحة",
+    "per_page-tips": "الإصدارات لكل صفحة (الحد الأقصى 100)، تعمل فقط عند إظهار جميع الإصدارات",
+    "repo_structure": "هيكل Repo",
+    "repo_structure-tips": "الهيكل:[path:]org/repo",
+    "root_folder_path": "مسار المجلد الجذر",
+    "show_all_version": "إظهار كل الإصدار",
+    "show_all_version-tips": "إظهار جميع الإصدارات",
+    "show_readme": "إظهار القراءة",
+    "show_readme-tips": "إظهار ملف READMEEALICENSE",
+    "show_source_code": "إظهار رمز المصدر",
+    "show_source_code-tips": "إظهار رمز المصدر (zip/tar.gz)",
+    "token": "الرمز",
+    "token-tips": "رمز GitHub ، إذا كنت ترغب في الوصول إلى المستودعات الخاصة أو زيادة حد المعدل"
+  },
+  "GoogleDrive": {
+    "api_url_address": "عنوان رابط Api",
+    "chunk_size": "حجم القطعة",
+    "chunk_size-tips": "حجم القطعة أثناء التحميل (الوحدة: ميغابايت)",
+    "client_id": "معرف العميل",
+    "client_secret": "سر العميل",
+    "disable_disk_usage": "تعطيل استخدام القرص",
+    "order_by": "الترتيب حسب",
+    "order_by-tips": "مثل: المجلد، الاسم، تعديل الوقت",
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "refresh_token": "تحديث الرمز",
+    "root_folder_id": "معرف المجلد الجذر",
+    "use_online_api": "استخدام api عبر الإنترنت"
+  },
+  "GooglePhoto": {
+    "client_id": "معرف العميل",
+    "client_secret": "سر العميل",
+    "refresh_token": "تحديث الرمز",
+    "root_folder_id": "معرف المجلد الجذر",
+    "show_archive": "إظهار الأرشيف"
+  },
+  "GuangYaPan": {
+    "access_token": "رمز الوصول",
+    "access_token-tips": "رمز الوصول لحامله (اختياري إذا تم توفير التحديث التوكين)",
+    "captcha_token": "رمز كلمة التحقق",
+    "captcha_token-tips": "رمز كلمة التحقق مطلوب من قبل /v1/auth/verification",
+    "client_id": "معرف العميل",
+    "client_id-tips": "يجب توفير معرف العميل لـ GuangYaPan API",
+    "device_id": "معرف الجهاز",
+    "device_id-tips": "معرف جهاز مخصص اختياري (32 حرف hex )، يتم إنشاؤه تلقائياً عند فارغ",
+    "device_sign": "علامة الجهاز",
+    "device_sign-tips": "إختيار رأس توقيع X-Dedevice-Sign (يتم إنشاؤه من جهاز_معرف عندما يكون فارغا)",
+    "order_by": "الترتيب حسب",
+    "order_by-tips": "فرز الحقل المستخدم حسب قائمة الملفات",
+    "page_size": "حجم الصفحة",
+    "phone_number": "رقم الهاتف",
+    "phone_number-tips": "رقم الهاتف لتسجيل دخول الرسائل القصيرة، على سبيل المثال +86 13800000000",
+    "refresh_token": "تحديث الرمز",
+    "refresh_token-tips": "تحديث الرمز المميز لتسجيل الدخول التلقائي/التحديث التلقائي",
+    "root_path": "مسار الجذر",
+    "root_path-tips": "المسار الكامل في محرك الأقراص السحابي لـ GuangYaPan",
+    "send_code": "إرسال الرمز",
+    "send_code-tips": "تعيين صحيح وحفظ لإرسال رمز الرسائل القصيرة، إعادة الضبط التلقائي إلى خطأ بعد الإرسال",
+    "sort_type": "نوع الترتيب",
+    "sort_type-tips": "ترتيب الاتجاه المستخدم حسب قائمة الملفات",
+    "verification_id": "معرف التحقق",
+    "verification_id-tips": "إنشاء تلقائي بعد إرسال رمز الرسائل القصيرة؛ لا تقم بتعديل يدوياً",
+    "verify_code": "التحقق من الرمز",
+    "verify_code-tips": "رمز التحقق SMS المستخدم مع الهاتف_number; قم بتعبئته ثم قم بالحفظ لإنهاء تسجيل الدخول"
+  },
+  "HalalCloud": {
+    "app_id": "معرف التطبيق",
+    "app_secret": "سرية التطبيق",
+    "app_version": "إصدار التطبيق",
+    "refresh_token": "تحديث الرمز",
+    "refresh_token-tips": "نوع تسجيل الدخول تم تحديث_التوكين، هذا مطلوب",
+    "root_folder_path": "مسار المجلد الجذر",
+    "upload_thread": "تحميل الموضوع",
+    "upload_thread-tips": "1 <= موضوع <= 32"
+  },
+  "HalalCloudOpen": {
+    "client_id": "معرف العميل",
+    "client_secret": "سر العميل",
+    "host": "المضيف",
+    "refresh_token": "تحديث الرمز",
+    "refresh_token-tips": "إذا كان استخدام نهج API الشخصي، فإن إعادة التحديث غير مطلوبة.",
+    "root_folder_path": "مسار المجلد الجذر",
+    "timeout": "مهلة",
+    "timeout-tips": "مهلة في ثوان",
+    "upload_thread": "تحميل الموضوع",
+    "upload_thread-tips": "1 <= موضوع <= 32"
+  },
+  "ILanZou": {
+    "ip": "آي",
+    "password": "كلمة المرور",
+    "root_folder_id": "معرف المجلد الجذر",
+    "username": "اسم المستخدم"
+  },
+  "IPFS API": {
+    "endpoint": "Endpoint",
+    "gateway": "البوابة",
+    "mode": "الوضع",
+    "modes": {
+      "ipfs": "الأيقونات",
+      "ipns": "الأيقونات",
+      "mfs": "Mfs"
+    },
+    "root_folder_path": "مسار المجلد الجذر"
+  },
+  "KodBox": {
+    "address": "العنوان",
+    "password": "كلمة المرور",
+    "root_folder_path": "مسار المجلد الجذر",
+    "username": "اسم المستخدم"
+  },
+  "Lanzou": {
+    "account": "حساب",
+    "baseUrl": "BaseUrl",
+    "baseUrl-tips": "عنوان URL الأساسي لعملية الملف",
+    "cookie": "كوكي",
+    "cookie-tips": "حوالي 15 يوم صالح، تجاهل إذا كانت مشاركة Url مستخدمة",
+    "password": "كلمة المرور",
+    "repair_file_info": "إصلاح معلومات الملف",
+    "repair_file_info-tips": "لاستخدام webdav، تحتاج إلى تمكينه",
+    "root_folder_id": "معرف المجلد الجذر",
+    "shareUrl": "شارع",
+    "shareUrl-tips": "يستخدم للحصول على صفحة المشاركة",
+    "share_password": "مشاركة كلمة المرور",
+    "type": "نوع",
+    "types": {
+      "account": "حساب",
+      "cookie": "كوكي",
+      "url": "الرابط"
+    },
+    "user_agent": "وكيل المستخدم"
+  },
+  "LenovoNasShare": {
+    "host": "المضيف",
+    "host-tips": "يمكنك تغييره إلى شبكة منطقتك المحلية",
+    "root_folder_path": "مسار المجلد الجذر",
+    "share_id": "مشاركة المعرف",
+    "share_id-tips": "الجزء التالي لآخر / في الرابط المشترك",
+    "share_pwd": "مشاركة pwd",
+    "share_pwd-tips": "كلمة مرور الرابط المشترك",
+    "show_root_folder": "إظهار المجلد الجذر"
+  },
+  "Local": {
+    "directory_size": "حجم الدليل",
+    "directory_size-tips": "وقد يؤثر ذلك على أداء المضيف",
+    "mkdir_perm": "Mkdir perm",
+    "pdf_thumbnail": "Pdf thumbnail",
+    "pdf_thumbnail-tips": "إنشاء الصور المصغرة لصفحة PDF الأولى مع نظرة سريعة على macOS",
+    "recycle_bin_path": "مسار سلة المحذوفات",
+    "recycle_bin_path-tips": "مسار إعادة تدوير السلة، وحذف بشكل دائم إذا كان فارغاً أو الاحتفاظ 'بحذف دائم'",
+    "root_folder_path": "مسار المجلد الجذر",
+    "show_hidden": "إظهار المخفي",
+    "show_hidden-tips": "إظهار الدلائل والملفات المخفية",
+    "thumb_cache_folder": "مجلد ذاكرة التخزين المؤقت",
+    "thumb_concurrency": "تزامن اللمب",
+    "thumb_concurrency-tips": "عدد غوروتين إنشاء الصور المصغرة المتزامنة. هذا يتحكم في عدد الصور المصغرة التي يمكن إنشاؤها بالتوازي.",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "تمكين الصورة المصغرة",
+    "video_thumb_pos": "بواعث الفيديو",
+    "video_thumb_pos-tips": "موضع الصورة المصغرة للفيديو. إذا كانت القيمة رقم (عدد صحيح من النقاط العائمة)، فإنها تمثل الوقت بالثواني. إذا انتهت القيمة بـ '%'، فإنها تمثل النسبة المئوية من مدة الفيديو."
+  },
+  "MediaFire": {
+    "chunk_size": "حجم القطعة",
+    "cookie": "كوكي",
+    "cookie-tips": "مطلوب مصادقة API لـ MediaFire",
+    "limit_rate": "معدل الحد",
+    "limit_rate-tips": "الحد من معدل طلب جميع الـ api ([limit]r/1s)",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "name": "الاسم",
+      "size": "الحجم",
+      "time": "الوقت"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "root_folder_path": "مسار المجلد الجذر",
+    "session_token": "رمز الجلسة",
+    "session_token-tips": "اختياري لـ MediaFire API ، يمكن الحصول عليه تلقائياً من ملفات تعريف الارتباط",
+    "upload_threads": "تحميل المواضيع",
+    "upload_threads-tips": "مواضيع التحميل المتزامنة"
+  },
+  "MediaTrack": {
+    "access_token": "رمز الوصول",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "size": "الحجم",
+      "title": "العنوان",
+      "updated_at": "تم التحديث في"
+    },
+    "order_desc": "طلب التنازل",
+    "project_id": "معرف المشروع",
+    "root_folder_id": "معرف المجلد الجذر"
+  },
+  "Mega_nz": {
+    "email": "البريد الإلكتروني",
+    "move_to_trash": "نقل إلى سلة المهملات",
+    "move_to_trash-tips": "نقل إلى سلة المهملات عند حذف الملفات",
+    "password": "كلمة المرور",
+    "two_fa_code": "رمز فاي ثنائي",
+    "two_fa_code-tips": "رمز 2FA من 6 خانات، ملء رمز 2FA وحده لن يدعم إعادة تحميل المشغل",
+    "two_fa_secret": "سر 2 فاي",
+    "two_fa_secret-tips": "سر 2FA"
+  },
+  "Misskey": {
+    "access_token": "رمز الوصول",
+    "endpoint": "Endpoint",
+    "root_folder_path": "مسار المجلد الجذر"
+  },
+  "MoPan": {
+    "cloud_id": "معرف السحابة",
+    "device_info": "معلومات الجهاز",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "filename": "اسم الملف",
+      "filesize": "حجم الملف",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "password": "كلمة المرور",
+    "phone": "الهاتف",
+    "root_folder_id": "معرف المجلد الجذر",
+    "sms_code": "رمز الرسائل القصيرة",
+    "sms_code-tips": "إدخال 'إرسال' إرسال الرسائل القصيرة ",
+    "upload_thread": "تحميل الموضوع",
+    "upload_thread-tips": "1<=موضوع<=32"
+  },
+  "NeteaseMusic": {
+    "cookie": "كوكي",
+    "song_limit": "حد الأغنية",
+    "song_limit-tips": "احصل على 200 أغنية فقط بشكل افتراضي"
+  },
+  "Onedrive": {
+    "api_url_address": "عنوان رابط Api",
+    "chunk_size": "حجم القطعة",
+    "client_id": "معرف العميل",
+    "client_secret": "سر العميل",
+    "custom_host": "مضيف مخصص",
+    "custom_host-tips": "مضيف مخصص لرابط تحميل OneDrive",
+    "disable_disk_usage": "تعطيل استخدام القرص",
+    "enable_direct_upload": "تمكين التحميل المباشر",
+    "enable_direct_upload-tips": "تمكين التحميل المباشر من العميل إلى OneDrive",
+    "is_sharepoint": "هو نقطة مشاركة",
+    "redirect_uri": "إعادة توجيه uri",
+    "refresh_token": "تحديث الرمز",
+    "region": "المنطقة",
+    "regions": {
+      "cn": "إهداء",
+      "de": "دي",
+      "global": "عام",
+      "us": "نحن"
+    },
+    "root_folder_path": "مسار المجلد الجذر",
+    "site_id": "Site id",
+    "use_online_api": "استخدام api عبر الإنترنت"
+  },
+  "Onedrive Sharelink": {
+    "disable_disk_usage": "تعطيل استخدام القرص",
+    "enable_direct_upload": "تمكين التحميل المباشر",
+    "enable_direct_upload-tips": "السماح بالتحميل مباشرة إلى OneDrive دون الانتقال إلى قائمة OpenList",
+    "password": "كلمة المرور",
+    "root_folder_path": "مسار المجلد الجذر",
+    "url": "الرابط"
+  },
+  "OnedriveAPP": {
+    "chunk_size": "حجم القطعة",
+    "client_id": "معرف العميل",
+    "client_secret": "سر العميل",
+    "custom_host": "مضيف مخصص",
+    "custom_host-tips": "مضيف مخصص لرابط تحميل OneDrive",
+    "disable_disk_usage": "تعطيل استخدام القرص",
+    "email": "البريد الإلكتروني",
+    "enable_direct_upload": "تمكين التحميل المباشر",
+    "enable_direct_upload-tips": "تمكين التحميل المباشر من العميل إلى OneDrive",
+    "region": "المنطقة",
+    "regions": {
+      "cn": "إهداء",
+      "de": "دي",
+      "global": "عام",
+      "us": "نحن"
+    },
+    "root_folder_path": "مسار المجلد الجذر",
+    "tenant_id": "Tenant id"
+  },
+  "OpenList": {
+    "forward_archive_requests": "إعادة توجيه طلبات الأرشيف",
+    "meta_password": "كلمة المرور",
+    "pass_ip_to_upsteam": "اجتياز ip إلى الأعلى",
+    "pass_refresh_flag_to_upsteam": "اجتياز علم التحديث إلى الارتقاء",
+    "pass_ua_to_upsteam": "اجتياز وا إلى أعلى مجرى",
+    "password": "كلمة المرور",
+    "root_folder_path": "مسار المجلد الجذر",
+    "token": "الرمز",
+    "url": "الرابط",
+    "username": "اسم المستخدم"
+  },
+  "OpenListShare": {
+    "forward_archive_requests": "إعادة توجيه طلبات الأرشيف",
+    "pwd": "باد",
+    "root_folder_path": "مسار المجلد الجذر",
+    "sid": "سعيد",
+    "url": "الرابط"
+  },
+  "PikPak": {
+    "captcha_token": "رمز كلمة التحقق",
+    "device_id": "معرف الجهاز",
+    "disable_media_link": "تعطيل رابط الوسائط",
+    "password": "كلمة المرور",
+    "platform": "المنصة",
+    "platforms": {
+      "android": "Android",
+      "pc": "بيك",
+      "web": "ويب"
+    },
+    "refresh_token": "تحديث الرمز",
+    "root_folder_id": "معرف المجلد الجذر",
+    "skip_verification": "تخطي التحقق",
+    "skip_verification-tips": "تجاهل رابط التحقق البشري المرتجع بواسطة API كلمة التحقق بدلاً من الفشل؛ تمكين هذا قد يؤدي إلى التحكم في مخاطر PikPak",
+    "username": "اسم المستخدم"
+  },
+  "PikPakShare": {
+    "device_id": "معرف الجهاز",
+    "platform": "المنصة",
+    "platforms": {
+      "android": "Android",
+      "pc": "بيك",
+      "web": "ويب"
+    },
+    "root_folder_id": "معرف المجلد الجذر",
+    "share_id": "مشاركة المعرف",
+    "share_pwd": "مشاركة pwd",
+    "use_transcoding_address": "استخدام عنوان التدوين"
+  },
+  "ProtonDrive": {
+    "chunk_size": "حجم القطعة",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "root_folder_id": "معرف المجلد الجذر",
+    "two_fa_code": "رمز فاي ثنائي",
+    "use_reusable_login": "استخدام تسجيل دخول قابل لإعادة الاستخدام",
+    "use_reusable_login-tips": "استخدام بيانات اعتماد تسجيل الدخول القابلة لإعادة الاستخدام بدلاً من اسم المستخدم/كلمة المرور"
+  },
+  "Quark": {
+    "cookie": "كوكي",
+    "only_list_video_file": "قائمة ملف الفيديو فقط",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "file_name": "اسم الملف",
+      "file_type": "نوع الملف",
+      "none": "لا",
+      "updated_at": "تم التحديث في"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "root_folder_id": "معرف المجلد الجذر",
+    "use_transcoding_address": "استخدام عنوان التدوين",
+    "use_transcoding_address-tips": "يمكنك مشاهدة الفيديو المنقول ودعم إعادة التوجيه 302"
+  },
+  "QuarkOpen": {
+    "access_token": "رمز الوصول",
+    "api_url_address": "عنوان رابط Api",
+    "app_id": "معرف التطبيق",
+    "app_id-tips": "ابقها فارغة إذا لم يكن لديك واحدة",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "created_at": "تم إنشاؤها في",
+      "file_name": "اسم الملف",
+      "file_type": "نوع الملف",
+      "none": "لا",
+      "updated_at": "تم التحديث في"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "refresh_token": "تحديث الرمز",
+    "root_folder_id": "معرف المجلد الجذر",
+    "sign_key": "مفتاح التوقيع",
+    "sign_key-tips": "ابقها فارغة إذا لم يكن لديك واحدة",
+    "use_online_api": "استخدام api عبر الإنترنت"
+  },
+  "QuarkTV": {
+    "device_id": "معرف الجهاز",
+    "link_method": "طريقة الربط",
+    "link_methods": {
+      "download": "تنزيل",
+      "streaming": "البث"
+    },
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "file_name": "اسم الملف",
+      "updated_at": "تم التحديث في"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "query_token": "رمز الاستعلام",
+    "query_token-tips": "لا تعدل",
+    "refresh_token": "تحديث الرمز",
+    "root_folder_id": "معرف المجلد الجذر"
+  },
+  "S3": {
+    "access_key_id": "معرف مفتاح الوصول",
+    "add_filename_to_disposition": "إضافة اسم الملف للتصرف",
+    "add_filename_to_disposition-tips": "أضف اسم الملف إلى عنوان ترتيب المحتوى.",
+    "bucket": "دلو",
+    "custom_host": "مضيف مخصص",
+    "direct_upload_host": "المضيف المباشر للتحميل",
+    "enable_custom_host_presign": "تمكين تعيين مضيف مخصص",
+    "enable_direct_upload": "تمكين التحميل المباشر",
+    "endpoint": "Endpoint",
+    "force_path_style": "نمط المسار الإجباري",
+    "list_object_version": "اصدار عنصر القائمة",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "المحور",
+    "region": "المنطقة",
+    "remove_bucket": "إزالة دلو",
+    "remove_bucket-tips": "إزالة اسم دلو من المسار عند استخدام مضيف مخصص.",
+    "root_folder_path": "مسار المجلد الجذر",
+    "secret_access_key": "مفتاح الوصول السري",
+    "session_token": "رمز الجلسة",
+    "sign_url_expire": "رابط التوقيع ينتهي",
+    "user_agent": "وكيل المستخدم",
+    "user_agent-tips": "وكيل مستخدم مخصص لطلبات S3."
+  },
+  "SFTP": {
+    "address": "العنوان",
+    "ignore_symlink_error": "تجاهل خطأ الارتباط الرمزي",
+    "passphrase": "كلمة المرور",
+    "password": "كلمة المرور",
+    "private_key": "المفتاح الخاص",
+    "root_folder_path": "مسار المجلد الجذر",
+    "username": "اسم المستخدم"
+  },
+  "SMB": {
+    "address": "العنوان",
+    "password": "كلمة المرور",
+    "root_folder_path": "مسار المجلد الجذر",
+    "share_name": "مشاركة الاسم",
+    "username": "اسم المستخدم"
+  },
+  "Seafile": {
+    "address": "العنوان",
+    "password": "كلمة المرور",
+    "repoId": "RepoId",
+    "repoPwd": "مستعرض",
+    "root_folder_path": "مسار المجلد الجذر",
+    "token": "الرمز",
+    "username": "اسم المستخدم"
+  },
+  "Strm": {
+    "KeepLocalDownloadFile": "ملف KeepLocalDownloadFile",
+    "KeepLocalDownloadFile-tips": "الاحتفاظ بملفات التحميل المحلية",
+    "PathPrefix": "بادئة المسار",
+    "PathPrefix-tips": "بادئة المسار",
+    "SaveLocalMode": "حفظ لوكالMode",
+    "SaveLocalMode-tips": "حفظ ملف السلسلة المحلية",
+    "SaveLocalModes": {
+      "insert": "Insert",
+      "sync": "مزامنة",
+      "update": "تحديث"
+    },
+    "SaveStrmLocalPath": "مسار حفظ سترم لوكالبايت",
+    "SaveStrmLocalPath-tips": "حفظ مسار ملف السلسلة المحلي",
+    "SaveStrmToLocal": "حفظ سترم التيار المحلي",
+    "SaveStrmToLocal-tips": "حفظ ملف السلسلة محليا",
+    "downloadFileTypes": "تحميل FileTypes",
+    "downloadFileTypes-tips": "الملفات تحتاج إلى تنزيل عبر السلسلة (ترجمات استخدامية)",
+    "encodePath": "مسار الكود",
+    "encodePath-tips": "ترميز المسار في ملف السلسلة",
+    "filterFileTypes": "تصفية FileTypes",
+    "filterFileTypes-tips": "يدعم اسم لاحقة ملف السلسلة",
+    "minFileSize": "حجم MinFileSsize",
+    "minFileSize-tips": "تصفية الملفات الأصغر من هذا الحجم (الوحدة: MB، 0 لتعطيل)",
+    "paths": "المسارات",
+    "siteUrl": "SiteUrl",
+    "siteUrl-tips": "عنوان URL للبادئة لملف السلسلة",
+    "withSign": "توقيع السحب",
+    "withoutUrl": "الانسحاب",
+    "withoutUrl-tips": "محتوى ملف السلسلة بدون بادئة URL"
+  },
+  "Teambition": {
+    "cookie": "كوكي",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "created": "أنشئ",
+      "fileName": "اسم الملف",
+      "fileSize": "حجم الملف",
+      "updated": "تم التحديث"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "Asc": "اسباني",
+      "Desc": "Desc"
+    },
+    "project_id": "معرف المشروع",
+    "region": "المنطقة",
+    "regions": {
+      "china": "الصين",
+      "international": "الدولية"
+    },
+    "root_folder_id": "معرف المجلد الجذر",
+    "use_s3_upload_method": "استخدام طريقة تحميل s3"
+  },
+  "Teldrive": {
+    "chunk_size": "حجم القطعة",
+    "chunk_size-tips": "حجم القطعة في ميبايت",
+    "cookie": "كوكي",
+    "cookie-tips": "الوصول_token=xxx",
+    "random_chunk_name": "اسم قطعة عشوائي",
+    "random_chunk_name-tips": "اسم قطعة عشوائي",
+    "root_folder_path": "مسار المجلد الجذر",
+    "upload_concurrency": "رفع التزامن",
+    "upload_concurrency-tips": "طلبات رفع العملة",
+    "url": "الرابط",
+    "use_share_link": "استخدام رابط المشاركة",
+    "use_share_link-tips": "إنشاء رابط المشاركة عند الحصول على رابط لدعم 302. إذا تم تعطيله، تحتاج إلى تمكين وكيل الويب."
+  },
+  "Terabox": {
+    "cookie": "كوكي",
+    "download_api": "تحميل api",
+    "download_apis": {
+      "crack": "كسر",
+      "official": "رسمي"
+    },
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "name": "الاسم",
+      "size": "الحجم",
+      "time": "الوقت"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "root_folder_path": "مسار المجلد الجذر"
+  },
+  "Thunder": {
+    "captcha_token": "رمز كلمة التحقق",
+    "credit_key": "مفتاح الائتمان",
+    "credit_key-tips": "مفتاح الائتمان, المستخدم لتسجيل الدخول",
+    "device_id": "معرف الجهاز",
+    "password": "كلمة المرور",
+    "root_folder_id": "معرف المجلد الجذر",
+    "space": "المساحة",
+    "space-tips": "معرف الجهاز للجهاز البعيد",
+    "username": "اسم المستخدم"
+  },
+  "ThunderBrowser": {
+    "captcha_token": "رمز كلمة التحقق",
+    "credit_key": "مفتاح الائتمان",
+    "credit_key-tips": "مفتاح الائتمان, المستخدم لتسجيل الدخول",
+    "device_id": "معرف الجهاز",
+    "password": "كلمة المرور",
+    "remove_way": "إزالة الطريقة",
+    "remove_ways": {
+      "delete": "حذف",
+      "trash": "المهملات"
+    },
+    "root_folder_id": "معرف المجلد الجذر",
+    "safe_password": "كلمة المرور الآمنة",
+    "use_fluent_play": "استخدام اللعب بطلاقة",
+    "use_fluent_play-tips": "استخدام اللعب بطلاقة للتنزيل دون اتصال، فقط روابط المغناطيس المدعومة",
+    "use_video_url": "استخدام رابط الفيديو",
+    "username": "اسم المستخدم"
+  },
+  "ThunderBrowserExpert": {
+    "algorithms": "الخوارزميات",
+    "algorithms-tips": "نوع الإشارة هو خوارزميات ، وهذا مطلوب",
+    "captcha_sign": "علامة كلمة التحقق",
+    "captcha_sign-tips": "نوع الإشارة هو captcha_sign,هذا مطلوب",
+    "captcha_token": "رمز كلمة التحقق",
+    "client_id": "معرف العميل",
+    "client_secret": "سر العميل",
+    "client_version": "إصدار العميل",
+    "credit_key": "مفتاح الائتمان",
+    "credit_key-tips": "مفتاح الائتمان, المستخدم لتسجيل الدخول",
+    "device_id": "معرف الجهاز",
+    "download_user_agent": "تحميل وكيل المستخدم",
+    "login_type": "نوع تسجيل الدخول",
+    "login_types": {
+      "refresh_token": "تحديث الرمز",
+      "user": "المستخدم"
+    },
+    "package_name": "اسم الحزمة",
+    "password": "كلمة المرور",
+    "password-tips": "نوع تسجيل الدخول هو المستخدم، هذا مطلوب",
+    "refresh_token": "تحديث الرمز",
+    "refresh_token-tips": "نوع تسجيل الدخول تم تحديث_التوكين، هذا مطلوب",
+    "remove_way": "إزالة الطريقة",
+    "remove_ways": {
+      "delete": "حذف",
+      "trash": "المهملات"
+    },
+    "root_folder_id": "معرف المجلد الجذر",
+    "safe_password": "كلمة المرور الآمنة",
+    "safe_password-tips": "كلمة المرور عالية الأمان",
+    "sign_type": "نوع التوقيع",
+    "sign_types": {
+      "algorithms": "الخوارزميات",
+      "captcha_sign": "علامة كلمة التحقق"
+    },
+    "timestamp": "الطابع الزمني",
+    "timestamp-tips": "نوع الإشارة هو captcha_sign,هذا مطلوب",
+    "use_fluent_play": "استخدام اللعب بطلاقة",
+    "use_fluent_play-tips": "استخدام اللعب بطلاقة للتنزيل دون اتصال، فقط روابط المغناطيس المدعومة",
+    "use_video_url": "استخدام رابط الفيديو",
+    "user_agent": "وكيل المستخدم",
+    "username": "اسم المستخدم",
+    "username-tips": "نوع تسجيل الدخول هو المستخدم، هذا مطلوب"
+  },
+  "ThunderExpert": {
+    "algorithms": "الخوارزميات",
+    "algorithms-tips": "نوع الإشارة هو خوارزميات ، وهذا مطلوب",
+    "captcha_sign": "علامة كلمة التحقق",
+    "captcha_sign-tips": "نوع الإشارة هو captcha_sign,هذا مطلوب",
+    "captcha_token": "رمز كلمة التحقق",
+    "client_id": "معرف العميل",
+    "client_secret": "سر العميل",
+    "client_version": "إصدار العميل",
+    "credit_key": "مفتاح الائتمان",
+    "credit_key-tips": "مفتاح الائتمان, المستخدم لتسجيل الدخول",
+    "device_id": "معرف الجهاز",
+    "download_user_agent": "تحميل وكيل المستخدم",
+    "login_type": "نوع تسجيل الدخول",
+    "login_types": {
+      "refresh_token": "تحديث الرمز",
+      "user": "المستخدم"
+    },
+    "package_name": "اسم الحزمة",
+    "password": "كلمة المرور",
+    "password-tips": "نوع تسجيل الدخول هو المستخدم، هذا مطلوب",
+    "refresh_token": "تحديث الرمز",
+    "refresh_token-tips": "نوع تسجيل الدخول تم تحديث_التوكين، هذا مطلوب",
+    "root_folder_id": "معرف المجلد الجذر",
+    "sign_type": "نوع التوقيع",
+    "sign_types": {
+      "algorithms": "الخوارزميات",
+      "captcha_sign": "علامة كلمة التحقق"
+    },
+    "space": "المساحة",
+    "space-tips": "معرف الجهاز للجهاز البعيد",
+    "timestamp": "الطابع الزمني",
+    "timestamp-tips": "نوع الإشارة هو captcha_sign,هذا مطلوب",
+    "use_video_url": "استخدام رابط الفيديو",
+    "user_agent": "وكيل المستخدم",
+    "username": "اسم المستخدم",
+    "username-tips": "نوع تسجيل الدخول هو المستخدم، هذا مطلوب"
+  },
+  "ThunderX": {
+    "captcha_token": "رمز كلمة التحقق",
+    "password": "كلمة المرور",
+    "root_folder_id": "معرف المجلد الجذر",
+    "use_video_url": "استخدام رابط الفيديو",
+    "username": "اسم المستخدم"
+  },
+  "ThunderXExpert": {
+    "algorithms": "الخوارزميات",
+    "algorithms-tips": "نوع الإشارة هو خوارزميات ، وهذا مطلوب",
+    "captcha_sign": "علامة كلمة التحقق",
+    "captcha_sign-tips": "نوع الإشارة هو captcha_sign,هذا مطلوب",
+    "captcha_token": "رمز كلمة التحقق",
+    "client_id": "معرف العميل",
+    "client_secret": "سر العميل",
+    "client_version": "إصدار العميل",
+    "device_id": "معرف الجهاز",
+    "download_user_agent": "تحميل وكيل المستخدم",
+    "login_type": "نوع تسجيل الدخول",
+    "login_types": {
+      "refresh_token": "تحديث الرمز",
+      "user": "المستخدم"
+    },
+    "package_name": "اسم الحزمة",
+    "password": "كلمة المرور",
+    "password-tips": "نوع تسجيل الدخول هو المستخدم، هذا مطلوب",
+    "refresh_token": "تحديث الرمز",
+    "refresh_token-tips": "نوع تسجيل الدخول تم تحديث_التوكين، هذا مطلوب",
+    "root_folder_id": "معرف المجلد الجذر",
+    "sign_type": "نوع التوقيع",
+    "sign_types": {
+      "algorithms": "الخوارزميات",
+      "captcha_sign": "علامة كلمة التحقق"
+    },
+    "timestamp": "الطابع الزمني",
+    "timestamp-tips": "نوع الإشارة هو captcha_sign,هذا مطلوب",
+    "use_video_url": "استخدام رابط الفيديو",
+    "user_agent": "وكيل المستخدم",
+    "username": "اسم المستخدم",
+    "username-tips": "نوع تسجيل الدخول هو المستخدم، هذا مطلوب"
+  },
+  "UC": {
+    "cookie": "كوكي",
+    "only_list_video_file": "قائمة ملف الفيديو فقط",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "file_name": "اسم الملف",
+      "file_type": "نوع الملف",
+      "none": "لا",
+      "updated_at": "تم التحديث في"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "root_folder_id": "معرف المجلد الجذر",
+    "use_transcoding_address": "استخدام عنوان التدوين",
+    "use_transcoding_address-tips": "يمكنك مشاهدة الفيديو المنقول ودعم إعادة التوجيه 302"
+  },
+  "UCTV": {
+    "device_id": "معرف الجهاز",
+    "link_method": "طريقة الربط",
+    "link_methods": {
+      "download": "تنزيل",
+      "streaming": "البث"
+    },
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "file_name": "اسم الملف",
+      "updated_at": "تم التحديث في"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "query_token": "رمز الاستعلام",
+    "query_token-tips": "لا تعدل",
+    "refresh_token": "تحديث الرمز",
+    "root_folder_id": "معرف المجلد الجذر"
+  },
+  "USS": {
+    "anti_theft_chain_token": "الرمز المميز لسلسلة السرقة",
+    "bucket": "دلو",
+    "endpoint": "Endpoint",
+    "operator_name": "اسم المشغل",
+    "operator_password": "كلمة مرور المشغل",
+    "root_folder_path": "مسار المجلد الجذر",
+    "sign_url_expire": "رابط التوقيع ينتهي"
+  },
+  "UrlTree": {
+    "head_size": "حجم الرأس",
+    "head_size-tips": "استخدم طريقة الرأس للحصول على حجم الملف، ولكن قد تفشل.",
+    "url_structure": "بنية الرابط",
+    "url_structure-tips": "هيكل:FolderName:\n  [FileName:][FileSize:][معدل:]Url",
+    "writable": "قابل للكتابة"
+  },
+  "Virtual": {
+    "max_file_size": "الحد الأقصى لحجم الملف",
+    "min_file_size": "الحد الأدنى لحجم الملف",
+    "num_file": "ملف Num",
+    "num_folder": "مجلد Num",
+    "root_folder_path": "مسار المجلد الجذر"
+  },
+  "WPS": {
+    "cookie": "كوكي",
+    "custom_ua": "واي مخصص",
+    "mode": "الوضع",
+    "modes": {
+      "Business": "الأعمال",
+      "Personal": "شخصي"
+    },
+    "root_folder_path": "مسار المجلد الجذر"
+  },
+  "WebDav": {
+    "address": "العنوان",
+    "password": "كلمة المرور",
+    "root_folder_path": "مسار المجلد الجذر",
+    "tls_insecure_skip_verify": "التحقق من تخطي Tls غير آمن",
+    "username": "اسم المستخدم",
+    "vendor": "البائع",
+    "vendors": {
+      "other": "اخرى",
+      "sharepoint": "حصة"
+    }
+  },
+  "WeiYun": {
+    "cookies": "الكعكات",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "name": "الاسم",
+      "size": "الحجم",
+      "updated_at": "تم التحديث في"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "root_folder_id": "معرف المجلد الجذر",
+    "upload_thread": "تحميل الموضوع",
+    "upload_thread-tips": "4<=موضوع<=32"
+  },
+  "WoPan": {
+    "access_token": "رمز الوصول",
+    "access_token-tips": "اختياري عند توفير رمز تحديث؛ يتم تحديثه تلقائيًا عند فقدانه أو إذا كان قصيرًا جدًا",
+    "family_id": "معرف الأسرة",
+    "family_id-tips": "ابقه فارغاً إذا كنت ترغب في استخدام القرص الشخصي الخاص بك",
+    "refresh_token": "تحديث الرمز",
+    "refresh_token-tips": "قدّم رمز تحديث أو رمز وصول <b>(</b>بطول 16 حرفًا على الأقل)",
+    "root_folder_id": "معرف المجلد الجذر",
+    "sort_rule": "ترتيب القاعدة",
+    "sort_rules": {
+      "name_asc": "اسم أسلاك",
+      "name_desc": "اسم منضدة",
+      "size_asc": "Size asc",
+      "size_desc": "حجم السقف",
+      "time_asc": "زيادة الوقت",
+      "time_desc": "تناقص الوقت"
+    }
+  },
+  "YandexDisk": {
+    "api_url_address": "عنوان رابط Api",
+    "client_id": "معرف العميل",
+    "client_secret": "سر العميل",
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "created": "أنشئ",
+      "modified": "معدّل",
+      "name": "الاسم",
+      "path": "المسار",
+      "size": "الحجم"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "اسباني",
+      "desc": "Desc"
+    },
+    "refresh_token": "تحديث الرمز",
+    "root_folder_path": "مسار المجلد الجذر",
+    "use_online_api": "استخدام api عبر الإنترنت"
+  },
+  "cloudflare_imgbed": {
+    "address": "العنوان",
+    "address-tips": "عنوان واجهة برمجة التطبيقات الخلفية لخدمة استضافة الصور، على سبيل المثال، https://img.example.com",
+    "largeChannelName": "اسم القناة الكبيرة",
+    "largeChannelName-tips": "اسم القناة للملفات الكبيرة",
+    "largeChannelType": "LargeChannelType",
+    "largeChannelType-tips": "نوع قناة الملفات الكبيرة: الوجه الهائج (تحميل مباشر) برقية /cfr2/s3/discord(تحميل متعدد)",
+    "largeChannelTypes": {
+      "": "",
+      "cfr2": "فر2",
+      "discord": "ديسكورد",
+      "huggingface": "واجهة المواصلات",
+      "s3": "S3",
+      "telegram": "تيليجرام"
+    },
+    "root_folder_path": "مسار المجلد الجذر",
+    "smallChannelName": "MallChannelname",
+    "smallChannelName-tips": "اسم القناة للملفات العادية (عادة <20MB)",
+    "token": "الرمز",
+    "token-tips": "رمز المصادقة",
+    "uploadThread": "تحميل الموضوع",
+    "uploadThread-tips": "عدد المواضيع المتزامنة للتحميل المباشر المجزأ للوجه"
+  },
+  "config": {
+    "115 Cloud": {},
+    "115 Open": {},
+    "115 Share": {},
+    "123 Open": {},
+    "123Pan": {},
+    "123PanLink": {},
+    "123PanShare": {},
+    "139Yun": {},
+    "189Cloud": {
+      "alert": "يمكنك محاولة استخدام مشغل 189PC إذا لم يعمل هذا السائق."
+    },
+    "189CloudPC": {},
+    "189CloudTV": {},
+    "AList V3": {},
+    "AliDoc": {
+      "alert": "هذا المشغل يدعم الوصول إلى DingDrive من خلال DingTalk Docs وهو حاليا مقروء فقط."
+    },
+    "Alias": {},
+    "Aliyundrive": {
+      "alert": "قد يوجد خلل في هذا المشغّل يؤدي إلى حلقة لا نهائية.\nمهمل، ولم تعد تتم صيانته، وستتم إزالته في إصدار مستقبلي.\nنوصي باستخدام المشغّل الرسمي AliyundriveOpen."
+    },
+    "AliyundriveOpen": {},
+    "AliyundriveShare": {},
+    "AutoIndex": {},
+    "Azure Blob Storage": {},
+    "BaiduNetdisk": {},
+    "BaiduPhoto": {},
+    "Bunny Storage": {},
+    "CNB Releases": {},
+    "ChaoXingGroupDrive": {},
+    "Chunk": {},
+    "Cloudreve": {},
+    "Cloudreve V4": {},
+    "Crypt": {},
+    "Degoo": {},
+    "Doge": {},
+    "Doubao": {},
+    "DoubaoNew": {
+      "alert": "لا تستخدم إعادة التوجيه 302 إذا كان التخزين متاحًا للعامة.\nوإلا فقد يتسرّب رابط التنزيل معلومات حساسة، مثل رمز الوصول أو التوقيع.\nقد يستخدم آخرون الرابط المتسرّب للوصول إلى جميع ملفاتك."
+    },
+    "DoubaoShare": {},
+    "Dropbox": {},
+    "Emby": {},
+    "FTP": {},
+    "FebBox": {},
+    "FeijiPan": {},
+    "GitHub API": {},
+    "GitHub Releases": {},
+    "GoogleDrive": {},
+    "GooglePhoto": {},
+    "GuangYaPan": {
+      "alert": "تسجيل دخول الرسائل القصيرة على مرحلتين: (1) ملء الهاتف_number (+ captcha_token عند الحاجة)، تعيين send_code=true و الحفظ؛ (2) ملء verify_code و حفظ لإنهاء تسجيل الدخول و حفظ الوصول التلقائي إلى التوكين/refresh_token."
+    },
+    "HalalCloud": {},
+    "HalalCloudOpen": {},
+    "ILanZou": {},
+    "IPFS API": {},
+    "KodBox": {},
+    "Lanzou": {},
+    "LenovoNasShare": {},
+    "Local": {},
+    "MediaFire": {},
+    "MediaTrack": {},
+    "Mega_nz": {},
+    "Misskey": {},
+    "MoPan": {
+      "alert": "قرص الشبكة هذا قد يخزن كلمة المرور الخاصة بك في نص واضح. الرجاء تعيين كلمة المرور بعناية"
+    },
+    "NeteaseMusic": {},
+    "Onedrive": {},
+    "Onedrive Sharelink": {},
+    "OnedriveAPP": {},
+    "OpenList": {},
+    "OpenListShare": {},
+    "PikPak": {},
+    "PikPakShare": {},
+    "ProtonDrive": {},
+    "Quark": {},
+    "QuarkOpen": {},
+    "QuarkTV": {},
+    "S3": {},
+    "SFTP": {},
+    "SMB": {},
+    "Seafile": {},
+    "Strm": {},
+    "Teambition": {},
+    "Teldrive": {},
+    "Terabox": {},
+    "Thunder": {},
+    "ThunderBrowser": {},
+    "ThunderBrowserExpert": {},
+    "ThunderExpert": {},
+    "ThunderX": {},
+    "ThunderXExpert": {},
+    "UC": {},
+    "UCTV": {},
+    "USS": {},
+    "UrlTree": {},
+    "Virtual": {},
+    "WPS": {},
+    "WebDav": {},
+    "WeiYun": {},
+    "WoPan": {},
+    "YandexDisk": {},
+    "cloudflare_imgbed": {}
+  },
+  "drivers": {
+    "115 Cloud": "115 سحابة",
+    "115 Open": "115 مفتوحة",
+    "115 Share": "115 مشاركة",
+    "123 Open": "123 فتح",
+    "123Pan": "123P",
+    "123PanLink": "123PanLink",
+    "123PanShare": "123PanShare",
+    "139Yun": "139Yun",
+    "189Cloud": "189Cloud",
+    "189CloudPC": "189CloudPC",
+    "189CloudTV": "تلفزيون 189Cloudoud",
+    "AList V3": "AList V3",
+    "AliDoc": "AliDoc",
+    "Alias": "Alias",
+    "Aliyundrive": "أليندريف",
+    "AliyundriveOpen": "AliyundriveOpen",
+    "AliyundriveShare": "AliyundriveShare",
+    "AutoIndex": "AutoIndex",
+    "Azure Blob Storage": "تخزين بلوك آزور",
+    "BaiduNetdisk": "BaiduNetdisk",
+    "BaiduPhoto": "صورة بايدوبوتو",
+    "Bunny Storage": "تخزين مزعج",
+    "CNB Releases": "إصدارات CNB",
+    "ChaoXingGroupDrive": "ChaoXingGroupDrive",
+    "Chunk": "Chunk",
+    "Cloudreve": "Cloudreve",
+    "Cloudreve V4": "Cloudreve V4",
+    "Crypt": "تشفير",
+    "Degoo": "Degoo",
+    "Doge": "Doge",
+    "Doubao": "Doubao",
+    "DoubaoNew": "DoubaoNew",
+    "DoubaoShare": "DoubaoShare",
+    "Dropbox": "دروبكس",
+    "Emby": "إمبي",
+    "FTP": "FTP",
+    "FebBox": "FebBox",
+    "FeijiPan": "فيجيبان",
+    "GitHub API": "GitHub API",
+    "GitHub Releases": "إصدارات GitHub",
+    "GoogleDrive": "GoogleDrive",
+    "GooglePhoto": "GooglePhoto",
+    "GuangYaPan": "GuangYaPan",
+    "HalalCloud": "HalalCloud",
+    "HalalCloudOpen": "HalalCloudOpen",
+    "ILanZou": "ILanZou",
+    "IPFS API": "IPFS API",
+    "KodBox": "KodBox",
+    "Lanzou": "Lanzou",
+    "LenovoNasShare": "LenovoNasShare",
+    "Local": "محلي",
+    "MediaFire": "الاعلاميات",
+    "MediaTrack": "مقطع الوسائط",
+    "Mega_nz": "ميغا نانز",
+    "Misskey": "ميسكي",
+    "MoPan": "MoPan",
+    "NeteaseMusic": "نيتاسيموسيقى",
+    "Onedrive": "أوندريف",
+    "Onedrive Sharelink": "شارع أوندريف",
+    "OnedriveAPP": "OnedriveAPP",
+    "OpenList": "قائمة مفتوحة",
+    "OpenListShare": "OpenListShare",
+    "PikPak": "PikPak",
+    "PikPakShare": "PikPakShar",
+    "ProtonDrive": "ProtonDrive",
+    "Quark": "الربع",
+    "QuarkOpen": "الربع مفتوح",
+    "QuarkTV": "الربع تلفزيون",
+    "S3": "S3",
+    "SFTP": "SFTP",
+    "SMB": "SMB",
+    "Seafile": "سيفلي",
+    "Strm": "Strm",
+    "Teambition": "الطموح",
+    "Teldrive": "تيلاسير",
+    "Terabox": "تيرابوكس",
+    "Thunder": "رعد",
+    "ThunderBrowser": "متصفح الثاقب",
+    "ThunderBrowserExpert": "خبير التصفح",
+    "ThunderExpert": "خبير الثيرانج",
+    "ThunderX": "ثاندركس",
+    "ThunderXExpert": "ThunderXExpert",
+    "UC": "UC",
+    "UCTV": "UCTV",
+    "USS": "USS",
+    "UrlTree": "أورلتريه",
+    "Virtual": "الظاهري",
+    "WPS": "WPS",
+    "WebDav": "WebDav",
+    "WeiYun": "WeiYun",
+    "WoPan": "WoPan",
+    "YandexDisk": "يانديكسديك",
+    "cloudflare_imgbed": "السحابة منتشرة"
+  }
+}

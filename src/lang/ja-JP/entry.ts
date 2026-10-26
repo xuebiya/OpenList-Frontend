@@ -1,0 +1,39 @@
+import br from "./br.json"
+import drivers from "./drivers.json"
+import global from "./global.json"
+import home from "./home.json"
+import index from "./index.json"
+import indexes from "./indexes.json"
+import init from "./init.json"
+import login from "./login.json"
+import manage from "./manage.json"
+import media from "./media.json"
+import metas from "./metas.json"
+import plugins from "./plugins.json"
+import settings_other from "./settings_other.json"
+import settings from "./settings.json"
+import shares from "./shares.json"
+import storages from "./storages.json"
+import tasks from "./tasks.json"
+import users from "./users.json"
+
+export const dict = {
+  br,
+  drivers,
+  global,
+  home,
+  index,
+  indexes,
+  init,
+  login,
+  manage,
+  media,
+  metas,
+  plugins,
+  settings_other,
+  settings,
+  shares,
+  storages,
+  tasks,
+  users,
+}

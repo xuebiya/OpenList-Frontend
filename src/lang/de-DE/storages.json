@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "Exportieren",
+    "export_title": "Speicher nach JSON exportieren",
+    "export_tips": "Kopieren Sie bitte den Speicher JSON oben.",
+    "import": "Importieren",
+    "import_title": "Importiere Speicher von JSON",
+    "import_success": "Importiert erfolgreich!",
+    "import_tips": "Fügen Sie den exportierten Speicher JSON zum Importieren ein.",
+    "mount_path": "Mount-Pfad",
+    "mount_path-tips": "Der Pfad, an dem Sie einhängen möchten, ist einzigartig und kann nicht wiederholt werden",
+    "driver": "Fahrer",
+    "order": "Sortierung",
+    "order-tips": "Zum Sortieren verwendet",
+    "usage": "Auslastung",
+    "status": "Status",
+    "remark": "Anmerkung",
+    "cache_expiration": "Cache Ablaufdatum",
+    "cache_expiration-tips": "Die Cache-Ablaufzeit für diesen Speicher (Minuten)",
+    "custom_cache_policies": "Eigene Cache-Richtlinien",
+    "custom_cache_policies-tips": "Die Cache-Ablaufregeln für diesen Speicher (Minuten)",
+    "down_proxy_url": "Proxy-URL herunterladen",
+    "disable_proxy_sign": "Proxy-Signal deaktivieren",
+    "disable_proxy_sign-tips": "Zeichen für Download-Proxy-URL deaktivieren",
+    "web_proxy": "Web-Proxy",
+    "webdav_policy": "WebDAV-Richtlinie",
+    "proxy_range": "Proxy Range",
+    "proxy_range-tips": "Proxy muss aktiviert werden",
+    "webdav_policys": {
+      "302_redirect": "302 Weiterleitung",
+      "use_proxy_url": "Proxy-URL verwenden",
+      "native_proxy": "Nativer Proxy"
+    },
+    "order_by": "Sortieren nach",
+    "order_bys": {
+      "name": "Name",
+      "size": "Größe",
+      "modified": "Geändert"
+    },
+    "order_direction": "Bestellrichtung",
+    "order_directions": {
+      "asc": "Aufsteigend",
+      "desc": "Absteigend"
+    },
+    "extract_folder": "Ordnerbestellung",
+    "extract_folders": {
+      "front": " Ordner oben",
+      "back": "Ordner unten"
+    },
+    "enable_sign": "Zeichen aktivieren",
+    "disable_index": "Index deaktivieren"
+  },
+  "table_fields": {
+    "status": {
+      "work": "Arbeiten",
+      "disabled": "Deaktiviert"
+    }
+  },
+  "other": {
+    "start_load_success": "Laden starten",
+    "load_all": "Alle neu laden",
+    "filter_by_driver": "Nach Fahrer filtern",
+    "table_layout": "Tabellenlayout"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "offline_download": "Dosyayı yerel cihaza indir",
+  "offline_download_transfer": "İndirilen dosyayı ilgili depolama alanına aktar",
+  "upload": "Dosyayı ilgili depolama alanına yükle",
+  "copy": "Dosyayı bir depolama alanından diğerine kopyala",
+  "move": "Dosyayı bir depolama alanından diğerine taşı",
+  "decompress": "Bir arşiv dosyasını indir ve sıkıştırmasını aç",
+  "decompress_upload": "Ayıklanan dosyaları hedef depolama alanına yükle",
+  "done": "Tamamlandı",
+  "undone": "Çalışıyor",
+  "clear_succeeded": "Temizleme başarılı",
+  "retry": "Yeniden dene",
+  "retry_failed": "Yeniden deneme başarısız",
+  "state": {
+    "0": "Bekliyor",
+    "1": "Çalışıyor",
+    "2": "Başarılı",
+    "3": "İptal ediliyor",
+    "4": "İptal edildi",
+    "5": "Hata",
+    "6": "Başarısız oluyor",
+    "7": "Başarısız",
+    "8": "Yeniden deneme bekleniyor",
+    "9": "Yeniden denemeye hazırlanıyor"
+  },
+  "retry_selected": "Seçilenleri yeniden dene",
+  "cancel_selected": "Seçilenleri iptal et",
+  "delete_selected": "Seçilenleri sil",
+  "filter": "Filtrele",
+  "expand": "Genişlet",
+  "fold": "Daralt",
+  "expand_all": "Tümünü genişlet",
+  "fold_all": "Tümünü daralt",
+  "attr": {
+    "name": "Ad",
+    "creator": "Oluşturan",
+    "state": "Durum",
+    "progress": "İlerleme",
+    "speed": "Hız",
+    "operation": "İşlem",
+    "copy": {
+      "src": "Kaynak yolu",
+      "dst": "Hedef yolu"
+    },
+    "upload": {
+      "path": "Yol"
+    },
+    "offline_download": {
+      "url": "Bağlantı",
+      "path": "Hedef yolu",
+      "transfer_src": "Kaynak yolu",
+      "transfer_src_local": "Kaynak yolu (yerel)",
+      "transfer_dst": "Hedef yolu"
+    },
+    "decompress": {
+      "src": "Kaynak yolu",
+      "dst": "Hedef yolu",
+      "inner": "İç yol",
+      "password": "Arşiv açma parolası"
+    },
+    "time_elapsed": "Geçen süre",
+    "status": "Durum",
+    "err": "Hata"
+  },
+  "show_only_mine": "Yalnızca kendi görevlerimi göster"
+}

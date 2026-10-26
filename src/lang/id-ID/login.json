@@ -1,0 +1,13 @@
+{
+  "login_to": "Masuk ke",
+  "username-tips": "Masukkan nama pengguna Anda",
+  "password-tips": "Masukkan kata sandi Anda",
+  "otp-tips": "Masukkan kode OTP Anda",
+  "remember": "Ingat saya",
+  "forget": "Lupa kata sandi?",
+  "forget_url": "https://doc.oplist.org/faq/howto#how-to-get-password-if-i-forget-it",
+  "clear": "Hapus",
+  "login": "Masuk",
+  "use_guest": "Jelajahi sebagai tamu",
+  "success": "Berhasil masuk"
+}

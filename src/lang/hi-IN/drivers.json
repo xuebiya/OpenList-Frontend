@@ -1,0 +1,1804 @@
+{
+  "115 Cloud": {
+    "cookie": "कुकी",
+    "cookie-tips": "QR कोड टोकन या कुकी में से कोई एक आवश्यक है",
+    "limit_rate": "दर सीमा",
+    "limit_rate-tips": "सभी API अनुरोधों की दर सीमित करें ([limit]r/1s)",
+    "page_size": "पृष्ठ आकार",
+    "page_size-tips": "115 ड्राइव की सूची API का प्रति-पृष्ठ आकार",
+    "qrcode_source": "QR कोड स्रोत",
+    "qrcode_source-tips": "QR कोड डिवाइस चुनें; डिफ़ॉल्ट Linux है",
+    "qrcode_sources": {
+      "alipaymini": "Alipay Mini",
+      "android": "Android",
+      "ios": "iOS",
+      "qandroid": "Qandroid",
+      "tv": "टीवी",
+      "web": "वेब",
+      "wechatmini": "WeChat Mini"
+    },
+    "qrcode_token": "QR कोड टोकन",
+    "qrcode_token-tips": "QR कोड टोकन या कुकी में से कोई एक आवश्यक है",
+    "root_folder_id": "रूट फ़ोल्डर आईडी"
+  },
+  "115 Open": {
+    "access_token": "एक्सेस टोकन",
+    "limit_rate": "दर सीमा",
+    "limit_rate-tips": "सभी API अनुरोधों की दर सीमित करें ([limit]r/1s)",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "file_name": "फ़ाइल का नाम",
+      "file_size": "फ़ाइल का आकार",
+      "file_type": "फ़ाइल का प्रकार",
+      "user_utime": "उपयोगकर्ता का संशोधन समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "page_size": "पृष्ठ आकार",
+    "page_size-tips": "115 Open ड्राइव की सूची API का प्रति-पृष्ठ आकार",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "root_folder_id": "रूट फ़ोल्डर आईडी"
+  },
+  "115 Share": {
+    "cookie": "कुकी",
+    "cookie-tips": "QR कोड टोकन या कुकी में से कोई एक आवश्यक है",
+    "limit_rate": "दर सीमा",
+    "limit_rate-tips": "सभी API अनुरोधों की दर सीमित करें (1r/[limit_rate]s)",
+    "page_size": "पृष्ठ आकार",
+    "page_size-tips": "115 ड्राइव की सूची API का प्रति-पृष्ठ आकार",
+    "qrcode_source": "QR कोड स्रोत",
+    "qrcode_source-tips": "QR कोड डिवाइस चुनें; डिफ़ॉल्ट Linux है",
+    "qrcode_sources": {
+      "alipaymini": "Alipay Mini",
+      "android": "Android",
+      "ios": "iOS",
+      "qandroid": "Qandroid",
+      "tv": "टीवी",
+      "web": "वेब",
+      "wechatmini": "WeChat Mini"
+    },
+    "qrcode_token": "QR कोड टोकन",
+    "qrcode_token-tips": "QR कोड टोकन या कुकी में से कोई एक आवश्यक है",
+    "receive_code": "प्राप्ति कोड",
+    "receive_code-tips": "115 साझा लिंक का प्राप्ति कोड",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "share_code": "साझा करने का कोड",
+    "share_code-tips": "115 साझा लिंक का साझा कोड"
+  },
+  "123 Open": {
+    "AccessToken": "एक्सेस टोकन",
+    "ClientID": "क्लाइंट आईडी",
+    "ClientSecret": "क्लाइंट सीक्रेट",
+    "DirectLink": "सीधा लिंक",
+    "DirectLink-tips": "फ़ाइल डाउनलोड करते समय सीधा लिंक इस्तेमाल करें",
+    "DirectLinkPrivateKey": "सीधे लिंक की निजी कुंजी",
+    "DirectLinkPrivateKey-tips": "यदि URL प्रमाणीकरण सक्षम है, तो सीधे लिंक की निजी कुंजी",
+    "DirectLinkValidDuration": "सीधे लिंक की वैध अवधि",
+    "DirectLinkValidDuration-tips": "यदि URL प्रमाणीकरण सक्षम है, तो मिनटों में",
+    "RefreshToken": "रीफ़्रेश टोकन",
+    "UploadThread": "अपलोड थ्रेड",
+    "UploadThread-tips": "अपलोड थ्रेड की संख्या",
+    "api_url_address": "API URL पता",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "use_online_api": "ऑनलाइन API का उपयोग करें"
+  },
+  "123Pan": {
+    "UploadThread": "अपलोड थ्रेड",
+    "UploadThread-tips": "अपलोड थ्रेड की संख्या",
+    "password": "पासवर्ड",
+    "platform": "प्लेटफ़ॉर्म",
+    "platform-tips": "API अनुरोधों के साथ भेजा जाने वाला प्लेटफ़ॉर्म हेडर मान",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "123PanLink": {
+    "origin_urls": "मूल URLs",
+    "origin_urls-tips": "संरचना:फ़ोल्डर का नाम:\n  [फ़ाइल का आकार:][संशोधित:]URL",
+    "private_key": "निजी कुंजी",
+    "uid": "उपयोगकर्ता आईडी",
+    "valid_duration": "वैध अवधि",
+    "valid_duration-tips": "मिनट"
+  },
+  "123PanShare": {
+    "accesstoken": "एक्सेस टोकन",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "sharekey": "शेयर कुंजी",
+    "sharepassword": "शेयर पासवर्ड"
+  },
+  "139Yun": {
+    "authorization": "प्राधिकरण",
+    "authorization-tips": "Authorization अकेले इस्तेमाल किया जा सकता है। खाली होने पर तेज़ लॉगिन के लिए केवल mail_cookies इस्तेमाल करें, या पूर्ण लॉगिन के वैकल्पिक तरीके के लिए mail_cookies + username + password इस्तेमाल करें।",
+    "client_type": "क्लाइंट प्रकार",
+    "client_type-tips": "पर्सनल क्लाउड API को रिपोर्ट किया गया क्लाइंट प्रकार। web (9) से 50 GB तक की फ़ाइलें अपलोड की जा सकती हैं; pc (13) से एकल फ़ाइल की अपलोड सीमा बढ़कर 500 GB हो जाती है।",
+    "client_types": {
+      "pc": "पीसी",
+      "web": "वेब"
+    },
+    "cloud_id": "क्लाउड आईडी",
+    "custom_upload_part_size": "कस्टम अपलोड भाग आकार",
+    "custom_upload_part_size-tips": "स्वचालित के लिए 0",
+    "link_id": "लिंक आईडी",
+    "link_id-tips": "एकाधिक शेयरों को अल्पविराम या नई पंक्तियों से अलग करें। पासवर्ड-सुरक्षित शेयर के लिए link_id#password इस्तेमाल करें।",
+    "mail_cookies": "मेल कुकीज़",
+    "mail_cookies-tips": "लॉगिन प्रमाणीकरण के लिए mail.139.com की कुकीज़।",
+    "password": "पासवर्ड",
+    "password-tips": "केवल mail_cookies के साथ पासवर्ड लॉगिन के वैकल्पिक तरीके का उपयोग करते समय आवश्यक।",
+    "report_real_size": "वास्तविक आकार की रिपोर्ट करें",
+    "report_real_size-tips": "अपलोड के दौरान वास्तविक फ़ाइल आकार की रिपोर्ट करने के लिए सक्षम करें",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "sms_code": "SMS कोड",
+    "sms_code-tips": "इसे केवल तब भरें जब OpenList बताए कि 139 Mail SMS सत्यापन कोड भेजा गया है; फिर स्टोरेज दोबारा सहेजें।",
+    "type": "प्रकार",
+    "types": {
+      "family": "परिवार",
+      "group": "समूह",
+      "personal": "व्यक्तिगत",
+      "personal_new": "नया व्यक्तिगत",
+      "share": "शेयर"
+    },
+    "use_large_thumbnail": "बड़ा थंबनेल इस्तेमाल करें",
+    "use_large_thumbnail-tips": "छवियों के लिए बड़ा थंबनेल इस्तेमाल करने हेतु सक्षम करें",
+    "use_old_stream_upload": "पुरानी स्ट्रीम अपलोड विधि इस्तेमाल करें",
+    "use_old_stream_upload-tips": "पुरानी स्ट्रीम अपलोड विधि इस्तेमाल करने के लिए सक्षम करें (त्वरित अपलोड समर्थित नहीं)",
+    "user_domain_id": "उपयोगकर्ता डोमेन आईडी",
+    "user_domain_id-tips": "डिस्क उपयोग दिखाने के लिए कुकी में ud_id भरें",
+    "username": "उपयोगकर्ता नाम",
+    "username-tips": "केवल mail_cookies के साथ पासवर्ड लॉगिन के वैकल्पिक तरीके का उपयोग करते समय आवश्यक।"
+  },
+  "189Cloud": {
+    "cookie": "कुकी",
+    "cookie-tips": "कैप्चा की आवश्यकता होने पर कुकी भरें",
+    "password": "पासवर्ड",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "189CloudPC": {
+    "access_token": "एक्सेस टोकन",
+    "client_sn": "क्लाइंट sn",
+    "client_sn-tips": "आधिकारिक क्लाइंट से प्राप्त डिवाइस सीरियल नंबर; यदि आपके पास कोई नंबर नहीं है, तो इसे खाली छोड़ दें",
+    "device_id": "डिवाइस id",
+    "device_id-tips": "दूसरे डिवाइस सत्यापन के बाद जारी की गई DEVICEID कुकी; दोबारा सत्यापन से बचने के लिए इसे सुरक्षित रखें",
+    "family_id": "परिवार आईडी",
+    "family_transfer": "परिवार स्थानांतरण",
+    "generate_torrent": "टोरेंट बनाएँ",
+    "generate_torrent-tips": "अपलोड के बाद CAS एक्सटेंशन वाली टोरेंट फ़ाइल बनाएँ",
+    "jg_open_id": "Jg ओपन id",
+    "jg_open_id-tips": "आधिकारिक क्लाइंट द्वारा रिपोर्ट की गई वैकल्पिक पुश id",
+    "login_type": "लॉगिन प्रकार",
+    "login_types": {
+      "password": "पासवर्ड",
+      "qrcode": "QR कोड"
+    },
+    "no_use_ocr": "OCR का उपयोग न करें",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "filename": "फ़ाइल नाम",
+      "filesize": "फ़ाइल आकार",
+      "lastOpTime": "अंतिम संचालन समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "password": "पासवर्ड",
+    "password-tips": "जब access token या refresh token दिया गया हो, तो इसकी आवश्यकता नहीं है",
+    "rapid_upload": "त्वरित अपलोड",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "refresh_token-tips": "खाते बदलने के लिए यह फ़ील्ड साफ़ करें",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "sms_code": "sms कोड",
+    "sms_code-tips": "दूसरे डिवाइस सत्यापन के लिए SMS कोड; लॉगिन के दौरान मांगे जाने पर इसे भरें और फिर से सेव करें",
+    "type": "प्रकार",
+    "types": {
+      "family": "परिवार",
+      "personal": "व्यक्तिगत"
+    },
+    "upload_method": "अपलोड विधि",
+    "upload_methods": {
+      "old": "पुरानी",
+      "rapid": "त्वरित",
+      "stream": "स्ट्रीम"
+    },
+    "upload_thread": "अपलोड थ्रेड",
+    "upload_thread-tips": "1<=थ्रेड<=32",
+    "user_finger": "यूज़र फ़िंगर",
+    "user_finger-tips": "लॉगिन अनुरोधों के साथ भेजा गया डिवाइस फ़िंगरप्रिंट; खाली होने पर इसे स्वचालित रूप से जनरेट और सुरक्षित रखा जाता है",
+    "username": "उपयोगकर्ता नाम",
+    "username-tips": "जब access token या refresh token दिया गया हो, तो इसकी आवश्यकता नहीं है",
+    "validate_code": "सत्यापन कोड"
+  },
+  "189CloudTV": {
+    "access_token": "एक्सेस टोकन",
+    "family_id": "परिवार आईडी",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "filename": "फ़ाइल नाम",
+      "filesize": "फ़ाइल आकार",
+      "lastOpTime": "अंतिम संचालन समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "rapid_upload": "त्वरित अपलोड",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "type": "प्रकार",
+    "types": {
+      "family": "परिवार",
+      "personal": "व्यक्तिगत"
+    },
+    "upload_thread": "अपलोड थ्रेड",
+    "upload_thread-tips": "1<=थ्रेड<=32"
+  },
+  "AList V3": {
+    "forward_archive_requests": "आर्काइव अनुरोध अग्रेषित करें",
+    "meta_password": "मेटा पासवर्ड",
+    "pass_ip_to_upsteam": "अपस्ट्रीम को IP भेजें",
+    "pass_ua_to_upsteam": "अपस्ट्रीम को UA भेजें",
+    "password": "पासवर्ड",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "token": "टोकन",
+    "url": "URL",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "AliDoc": {
+    "cookie": "कुकी",
+    "cookie-tips": "DingTalk दस्तावेज़ वेब कुकी",
+    "root_folder_id": "रूट फ़ोल्डर आईडी"
+  },
+  "Alias": {
+    "details_pass_through": "विवरण आगे भेजें",
+    "download_concurrency": "डाउनलोड समवर्तीता",
+    "download_concurrency-tips": "प्रॉक्सी सक्षम करना आवश्यक है",
+    "download_part_size": "डाउनलोड भाग आकार",
+    "download_part_size-tips": "प्रॉक्सी सक्षम करना आवश्यक है। इकाई: KB",
+    "file_consistency_check": "Alias फ़ाइल संगति जाँच",
+    "paths": "पथ",
+    "provider_pass_through": "प्रदाता विवरण आगे भेजें",
+    "put_conflict_policy": "रखने के टकराव की नीति",
+    "put_conflict_policy-tips": "अपलोड, कॉपी, स्थानांतरण या डीकंप्रेस करते समय ड्राइवर समान बैकएंड पथों को कैसे संभालता है।",
+    "put_conflict_policys": {
+      "all": "सभी टकराव वाले पथों पर रखें",
+      "all_strict": "सभी टकराव वाले पथों की अनुमति दें",
+      "deterministic": "अद्वितीय पथ की अनुमति दें",
+      "deterministic_or_all": "अद्वितीय पथ और सभी टकराव वाले पथों की अनुमति दें",
+      "disabled": "रखना अक्षम करें",
+      "first": "पहले टकराव वाले पथ पर रखें",
+      "quota": "शेष स्थान के आधार पर भारित यादृच्छिक लोड संतुलन",
+      "quota_strict": "शेष स्थान के आधार पर सख्त भारित यादृच्छिक लोड संतुलन",
+      "random": "यादृच्छिक लोड संतुलन"
+    },
+    "read_conflict_policy": "पढ़ने के टकराव की नीति",
+    "read_conflict_policys": {
+      "all": "प्रति-भाग के आधार पर लोड संतुलन",
+      "first": "पहले टकराव वाले पथ से संबंधित फ़ाइल प्राप्त करें",
+      "random": "प्रति-फ़ाइल के आधार पर लोड संतुलन"
+    },
+    "write_conflict_policy": "लिखने के टकराव की नीति",
+    "write_conflict_policy-tips": "नाम बदलते, हटाते या डायरेक्टरी बनाते समय ड्राइवर समान बैकएंड पथों को कैसे संभालता है।",
+    "write_conflict_policys": {
+      "all": "सभी टकराव वाले पथों पर लिखें",
+      "all_strict": "सभी टकराव वाले पथों की अनुमति दें",
+      "deterministic": "अद्वितीय पथ की अनुमति दें",
+      "deterministic_or_all": "अद्वितीय पथ और सभी टकराव वाले पथों की अनुमति दें",
+      "disabled": "लिखना अक्षम करें",
+      "first": "पहले टकराव वाले पथ पर लिखें"
+    }
+  },
+  "Aliyundrive": {
+    "internal_upload": "आंतरिक अपलोड",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "created_at": "बनाने का समय",
+      "name": "नाम",
+      "size": "आकार",
+      "updated_at": "अपडेट का समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "ASC": "आरोही",
+      "DESC": "अवरोही"
+    },
+    "rapid_upload": "त्वरित अपलोड",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "root_folder_id": "रूट फ़ोल्डर आईडी"
+  },
+  "AliyundriveOpen": {
+    "alipan_type": "Alipan प्रकार",
+    "alipan_types": {
+      "alipanTV": "AlipanTV",
+      "default": "डिफ़ॉल्ट"
+    },
+    "api_url_address": "API URL पता",
+    "callback_concurrency": "कॉलबैक समवर्तीता",
+    "callback_concurrency-tips": "Aliyun उपयोगकर्ता द्वारा साझा किए जाने वाले अधिकतम सक्रिय प्रॉक्सी डाउनलोड",
+    "client_id": "क्लाइंट आईडी",
+    "client_id-tips": "यदि आपके पास नहीं है, तो इसे खाली छोड़ें",
+    "client_secret": "क्लाइंट सीक्रेट",
+    "client_secret-tips": "यदि आपके पास नहीं है, तो इसे खाली छोड़ें",
+    "drive_type": "ड्राइव प्रकार",
+    "drive_types": {
+      "backup": "बैकअप",
+      "default": "डिफ़ॉल्ट",
+      "resource": "संसाधन"
+    },
+    "internal_upload": "आंतरिक अपलोड",
+    "internal_upload-tips": "यदि आपका Aliyun ECS बीजिंग में स्थित है, तो अपलोड गति बढ़ाने के लिए इसे चालू कर सकते हैं",
+    "livp_download_format": "Livp डाउनलोड प्रारूप",
+    "livp_download_formats": {
+      "jpeg": "JPEG",
+      "mov": "MOV"
+    },
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "created_at": "बनाने का समय",
+      "name": "नाम",
+      "size": "आकार",
+      "updated_at": "अपडेट का समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "ASC": "आरोही",
+      "DESC": "अवरोही"
+    },
+    "rapid_upload": "त्वरित अपलोड",
+    "rapid_upload-tips": "यह विकल्प सक्षम करने पर फ़ाइल पहले सर्वर पर अपलोड होगी, इसलिए प्रगति गलत दिखाई देगी",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "remove_way": "हटाने का तरीका",
+    "remove_ways": {
+      "delete": "हटाएँ",
+      "trash": "कचरा"
+    },
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "use_online_api": "ऑनलाइन API का उपयोग करें"
+  },
+  "AliyundriveShare": {
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "created_at": "बनाने का समय",
+      "name": "नाम",
+      "size": "आकार",
+      "updated_at": "अपडेट का समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "ASC": "आरोही",
+      "DESC": "अवरोही"
+    },
+    "refresh_token": "रीफ़्रेश टोकन",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "share_id": "शेयर आईडी",
+    "share_pwd": "शेयर पासवर्ड"
+  },
+  "AutoIndex": {
+    "ignore_file_names": "फ़ाइल नाम अनदेखा करें",
+    "item_xpath": "प्रविष्टि XPath",
+    "modified_time_format": "संशोधन तिथि प्रारूप",
+    "modified_time_format-tips": "समय बिंदु Mon Jan 2 15:04:05 -0700 MST 2006 के अनुसार होना चाहिए",
+    "modified_xpath": "संशोधन समय XPath",
+    "name_xpath": "फ़ाइल नाम XPath",
+    "size_xpath": "फ़ाइल आकार XPath",
+    "url": "URL"
+  },
+  "Azure Blob Storage": {
+    "access_key": "एक्सेस कुंजी",
+    "access_key-tips": "प्रमाणीकरण के लिए Azure Storage की एक्सेस कुंजी। https://learn.microsoft.com/azure/storage/common/storage-account-keys-manage",
+    "container_name": "कंटेनर का नाम",
+    "container_name-tips": "Azure Storage में कंटेनर का नाम (Azure पोर्टल में बनाया गया)। https://learn.microsoft.com/azure/storage/blobs/blob-containers-portal",
+    "endpoint": "एंडपॉइंट",
+    "endpoint-tips": "उदाहरण: https://accountname.blob.core.windows.net/। Azure Storage का पूरा एंडपॉइंट URL, जिसमें अद्वितीय स्टोरेज खाता नाम शामिल हो (केवल 3 से 24 अंक और छोटे अंग्रेज़ी अक्षर)।",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "sign_url_expire": "हस्ताक्षरित URL की समय-सीमा",
+    "sign_url_expire-tips": "SAS URL की समय-सीमा, घंटों में।"
+  },
+  "BaiduNetdisk": {
+    "api_url_address": "API URL पता",
+    "client_id": "क्लाइंट आईडी",
+    "client_secret": "क्लाइंट सीक्रेट",
+    "custom_crack_ua": "कस्टम क्रैक UA",
+    "custom_upload_part_size": "कस्टम अपलोड भाग आकार",
+    "custom_upload_part_size-tips": "स्वचालित के लिए 0",
+    "download_api": "डाउनलोड API",
+    "download_apis": {
+      "crack": "क्रैक",
+      "crack_video": "क्रैक वीडियो",
+      "official": "आधिकारिक"
+    },
+    "low_bandwith_upload_mode": "कम बैंडविड्थ वाला अपलोड मोड",
+    "only_list_video_file": "केवल वीडियो फ़ाइलें सूचीबद्ध करें",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "name": "नाम",
+      "size": "आकार",
+      "time": "समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "refresh_token": "रीफ़्रेश टोकन",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "upload_api": "अपलोड API",
+    "upload_thread": "अपलोड थ्रेड",
+    "upload_thread-tips": "1<=थ्रेड<=32",
+    "upload_timeout": "अपलोड टाइमआउट",
+    "upload_timeout-tips": "प्रति-खंड अपलोड टाइमआउट, सेकंड में",
+    "use_dynamic_upload_api": "डायनामिक अपलोड API का उपयोग करें",
+    "use_dynamic_upload_api-tips": "अपलोड API डोमेन गतिशील रूप से प्राप्त करें। सक्षम होने पर, इसे प्राप्त करने में विफलता पर 'Upload API' सेटिंग वैकल्पिक रूप से इस्तेमाल होगी",
+    "use_online_api": "ऑनलाइन API का उपयोग करें"
+  },
+  "BaiduPhoto": {
+    "album_id": "एल्बम आईडी",
+    "cookie": "कुकी",
+    "delete_origin": "मूल हटाएँ",
+    "show_type": "दृश्य प्रकार",
+    "show_types": {
+      "root": "रूट",
+      "root_only_album": "केवल रूट एल्बम",
+      "root_only_file": "केवल रूट फ़ाइल"
+    },
+    "upload_thread": "अपलोड थ्रेड",
+    "upload_thread-tips": "1<=थ्रेड<=32"
+  },
+  "Bunny Storage": {
+    "access_key": "एक्सेस कुंजी",
+    "cdn_base_url": "CDN आधार URL",
+    "cdn_token_include_ip": "CDN टोकन में IP शामिल करें",
+    "cdn_token_key": "CDN टोकन कुंजी",
+    "cdn_token_method": "CDN टोकन विधि",
+    "cdn_token_methods": {
+      "hmac_sha256": "HMAC SHA",
+      "sha256": "SHA"
+    },
+    "endpoint": "एंडपॉइंट",
+    "placeholder": "प्लेसहोल्डर",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "sign_url_expire": "हस्ताक्षरित URL की समय-सीमा",
+    "storage_zone_name": "स्टोरेज ज़ोन का नाम"
+  },
+  "CNB Releases": {
+    "default_branch": "डिफ़ॉल्ट ब्रांच",
+    "default_branch-tips": "नई रिलीज़ के लिए डिफ़ॉल्ट ब्रांच",
+    "repo": "रिपॉज़िटरी",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "token": "टोकन",
+    "use_tag_name": "टैग नाम इस्तेमाल करें",
+    "use_tag_name-tips": "रिलीज़ नाम के बजाय टैग नाम इस्तेमाल करें"
+  },
+  "ChaoXingGroupDrive": {
+    "bbsid": "BBS आईडी",
+    "cookie": "कुकी",
+    "password": "पासवर्ड",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "user_name": "उपयोगकर्ता नाम"
+  },
+  "Chunk": {
+    "chunk_large_file_only": "केवल बड़ी फ़ाइलों को चंक में बाँटें",
+    "chunk_large_file_only-tips": "केवल तभी चंक बनाएँ जब फ़ाइल का आकार part_size से बड़ा हो",
+    "chunk_prefix": "चंक उपसर्ग",
+    "chunk_prefix-tips": "चंक फ़ोल्डर का उपसर्ग",
+    "custom_ext": "कस्टम एक्सटेंशन",
+    "num_list_workers": "सूची कार्यकर्ताओं की संख्या",
+    "part_size": "भाग का आकार",
+    "part_size-tips": "बाइट",
+    "remote_path": "दूरस्थ पथ",
+    "show_hidden": "छिपी हुई चीज़ें दिखाएँ",
+    "show_hidden-tips": "छिपी हुई डायरेक्टरी और फ़ाइलें दिखाएँ",
+    "store_hash": "हैश संग्रहीत करें",
+    "thumbnail": "थंबनेल",
+    "thumbnail-tips": ".thumbnails फ़ोल्डर में पहले से बनाए गए थंबनेल सक्षम करें"
+  },
+  "Cloudreve": {
+    "address": "पता",
+    "cookie": "कुकी",
+    "custom_ua": "कस्टम UA",
+    "enable_thumb_and_folder_size": "थंबनेल और फ़ोल्डर आकार सक्षम करें",
+    "password": "पासवर्ड",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "Cloudreve V4": {
+    "access_token": "एक्सेस टोकन",
+    "address": "पता",
+    "custom_ua": "कस्टम UA",
+    "enable_folder_size": "फ़ोल्डर आकार सक्षम करें",
+    "enable_thumb": "थंबनेल सक्षम करें",
+    "enable_version_upload": "संस्करण अपलोड सक्षम करें",
+    "hide_uploading": "अपलोड हो रही फ़ाइलें छिपाएँ",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "created_at": "बनाने का समय",
+      "name": "नाम",
+      "size": "आकार",
+      "updated_at": "अपडेट का समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "password": "पासवर्ड",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "Crypt": {
+    "directory_name_encryption": "डायरेक्टरी नाम एन्क्रिप्शन",
+    "directory_name_encryptions": {
+      "false": "गलत",
+      "true": "सही"
+    },
+    "encrypted_suffix": "एन्क्रिप्टेड प्रत्यय",
+    "encrypted_suffix-tips": "केवल उन्नत उपयोगकर्ताओं के लिए! एन्क्रिप्ट की गई फ़ाइलों में यह प्रत्यय होगा",
+    "filename_encoding": "फ़ाइल नाम एन्कोडिंग",
+    "filename_encoding-tips": "केवल उन्नत उपयोगकर्ताओं के लिए!",
+    "filename_encodings": {
+      "base32": "Base32",
+      "base32768": "Base32768",
+      "base64": "Base64"
+    },
+    "filename_encryption": "फ़ाइल नाम एन्क्रिप्शन",
+    "filename_encryptions": {
+      "obfuscate": "छद्मावरण",
+      "off": "बंद",
+      "standard": "मानक"
+    },
+    "password": "पासवर्ड",
+    "password-tips": "मुख्य पासवर्ड",
+    "remote_path": "दूरस्थ पथ",
+    "remote_path-tips": "यहाँ एन्क्रिप्ट किया गया डेटा संग्रहीत होता है",
+    "salt": "सॉल्ट",
+    "salt-tips": "यदि आपको सॉल्ट का अर्थ नहीं पता, तो इसे दूसरे पासवर्ड की तरह समझें। यह वैकल्पिक है, लेकिन इसकी अनुशंसा की जाती है",
+    "show_hidden": "छिपी हुई चीज़ें दिखाएँ",
+    "show_hidden-tips": "छिपी हुई डायरेक्टरी और फ़ाइलें दिखाएँ",
+    "thumbnail": "थंबनेल",
+    "thumbnail-tips": ".thumbnails फ़ोल्डर में पहले से बनाए गए थंबनेल सक्षम करें"
+  },
+  "Degoo": {
+    "access_token": "एक्सेस टोकन",
+    "access_token-tips": "Degoo API का एक्सेस टोकन, स्वचालित रूप से प्राप्त होता है",
+    "password": "पासवर्ड",
+    "password-tips": "आपके Degoo खाते का पासवर्ड",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "refresh_token-tips": "टोकन को स्वचालित रूप से नवीनीकृत करने का रीफ़्रेश टोकन, स्वचालित रूप से प्राप्त होता है",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "username": "उपयोगकर्ता नाम",
+    "username-tips": "आपके Degoo खाते का ईमेल"
+  },
+  "Doge": {
+    "access_key_id": "एक्सेस कुंजी आईडी",
+    "add_filename_to_disposition": "Content-Disposition में फ़ाइल नाम जोड़ें",
+    "add_filename_to_disposition-tips": "Content-Disposition हेडर में फ़ाइल नाम जोड़ें।",
+    "bucket": "बकेट",
+    "custom_host": "कस्टम होस्ट",
+    "direct_upload_host": "सीधे अपलोड का होस्ट",
+    "enable_custom_host_presign": "कस्टम होस्ट प्रीसाइन सक्षम करें",
+    "enable_direct_upload": "सीधा अपलोड सक्षम करें",
+    "endpoint": "एंडपॉइंट",
+    "force_path_style": "पाथ स्टाइल को बाध्य करें",
+    "list_object_version": "ऑब्जेक्ट संस्करण सूचीबद्ध करें",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "प्लेसहोल्डर",
+    "region": "क्षेत्र",
+    "remove_bucket": "बकेट हटाएँ",
+    "remove_bucket-tips": "कस्टम होस्ट का उपयोग करते समय पथ से बकेट का नाम हटाएँ।",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "secret_access_key": "सीक्रेट एक्सेस कुंजी",
+    "session_token": "सेशन टोकन",
+    "sign_url_expire": "हस्ताक्षरित URL की समय-सीमा",
+    "user_agent": "उपयोगकर्ता एजेंट",
+    "user_agent-tips": "S3 अनुरोधों के लिए कस्टम User-Agent।"
+  },
+  "Doubao": {
+    "cookie": "कुकी",
+    "download_api": "डाउनलोड API",
+    "download_apis": {
+      "get_download_info": "डाउनलोड जानकारी प्राप्त करें",
+      "get_file_url": "फ़ाइल URL प्राप्त करें"
+    },
+    "limit_rate": "दर सीमा",
+    "limit_rate-tips": "सभी API अनुरोधों की दर सीमित करें ([limit]r/1s)",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "upload_thread": "अपलोड थ्रेड"
+  },
+  "DoubaoNew": {
+    "app_id": "ऐप आईडी",
+    "app_id-tips": "Doubao ऐप आईडी",
+    "auth_client_id": "प्रमाणीकरण क्लाइंट आईडी",
+    "auth_client_id-tips": "Doubao Biz प्रमाणीकरण क्लाइंट आईडी",
+    "auth_client_type": "प्रमाणीकरण क्लाइंट प्रकार",
+    "auth_client_type-tips": "Doubao Biz प्रमाणीकरण क्लाइंट प्रकार",
+    "auth_scope": "प्रमाणीकरण स्कोप",
+    "auth_scope-tips": "Doubao Biz प्रमाणीकरण स्कोप",
+    "auth_sdk_source": "प्रमाणीकरण SDK स्रोत",
+    "auth_sdk_source-tips": "Doubao Biz प्रमाणीकरण SDK स्रोत",
+    "auth_sdk_version": "प्रमाणीकरण SDK संस्करण",
+    "auth_sdk_version-tips": "Doubao Biz प्रमाणीकरण SDK संस्करण",
+    "cookie": "कुकी",
+    "cookie-tips": "वेब कुकी",
+    "dpop_key_secret": "DPoP कुंजी का रहस्य",
+    "dpop_key_secret-tips": "DPoP टोकन बनाने के लिए DPoP कुंजी सीक्रेट",
+    "ignore_jwt_check": "JWT जाँच अनदेखी करें",
+    "ignore_jwt_check-tips": "समय संबंधी समस्या से बचने के लिए JWT जाँच अनदेखी करें या नहीं",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "share_link": "शेयर लिंक",
+    "share_link-tips": "डाउनलोड के लिए शेयर लिंक इस्तेमाल करना है या नहीं"
+  },
+  "DoubaoShare": {
+    "cookie": "कुकी",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "share_ids": "शेयर आईडी"
+  },
+  "Dropbox": {
+    "RootNamespaceId": "रूट नेमस्पेस आईडी",
+    "api_url_address": "API URL पता",
+    "client_id": "क्लाइंट आईडी",
+    "client_id-tips": "यदि आपके पास नहीं है, तो इसे खाली छोड़ें",
+    "client_secret": "क्लाइंट सीक्रेट",
+    "client_secret-tips": "यदि आपके पास नहीं है, तो इसे खाली छोड़ें",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "use_online_api": "ऑनलाइन API का उपयोग करें"
+  },
+  "Emby": {
+    "api_key": "API कुंजी",
+    "link_method": "लिंक विधि",
+    "link_methods": {
+      "download": "डाउनलोड",
+      "stream": "स्ट्रीम"
+    },
+    "password": "पासवर्ड",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "url": "URL",
+    "user_id": "उपयोगकर्ता आईडी",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "FTP": {
+    "address": "पता",
+    "cwd_list": "सूची बनाने के लिए CWD का उपयोग करें",
+    "cwd_list-tips": "सूची बनाने से पहले डायरेक्टरी में जाएँ",
+    "encoding": "एन्कोडिंग",
+    "password": "पासवर्ड",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "FebBox": {
+    "client_id": "क्लाइंट आईडी",
+    "client_secret": "क्लाइंट सीक्रेट",
+    "page_size": "पृष्ठ आकार",
+    "page_size-tips": "FebBox ड्राइव की सूची API का प्रति-पृष्ठ आकार",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "sort_rule": "क्रमबद्ध करने का नियम",
+    "sort_rules": {
+      "ext_asc": "एक्सटेंशन आरोही",
+      "ext_desc": "एक्सटेंशन अवरोही",
+      "name_asc": "नाम आरोही",
+      "name_desc": "नाम अवरोही",
+      "size_asc": "आकार आरोही",
+      "size_desc": "आकार अवरोही",
+      "update_asc": "अपडेट आरोही",
+      "update_desc": "अपडेट अवरोही"
+    },
+    "user_ip": "उपयोगकर्ता का IP",
+    "user_ip-tips": "डाउनलोड लिंक के लिए उपयोगकर्ता का IP पता, जिससे डाउनलोड तेज़ हो सकता है"
+  },
+  "FeijiPan": {
+    "ip": "IP",
+    "password": "पासवर्ड",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "GitHub API": {
+    "accurate_modified_time": "सटीक संशोधन समय",
+    "accurate_modified_time-tips": "छोटी डायरेक्टरी सूचियों के लिए यथासंभव सटीक संशोधन समय। डिफ़ॉल्ट रूप से अक्षम। इससे एक GitHub GraphQL अनुरोध जुड़ता है और विफलता पर पुराने शून्य-समय मान इस्तेमाल होते हैं।",
+    "author_email": "लेखक का ईमेल",
+    "author_name": "लेखक का नाम",
+    "committer_email": "कमिटकर्ता का ईमेल",
+    "committer_name": "कमिटकर्ता का नाम",
+    "copy_commit_message": "कमिट संदेश कॉपी करें",
+    "delete_commit_message": "कमिट संदेश हटाएँ",
+    "gh_proxy": "GitHub प्रॉक्सी",
+    "gh_proxy-tips": "GitHub प्रॉक्सी, उदाहरण: https://ghproxy.net/raw.githubusercontent.com या https://gh-proxy.com/raw.githubusercontent.com",
+    "gpg_key_passphrase": "GPG कुंजी का पासफ़्रेज़",
+    "gpg_private_key": "GPG निजी कुंजी",
+    "mkdir_commit_message": "डायरेक्टरी बनाने का कमिट संदेश",
+    "move_commit_message": "स्थानांतरित करने का कमिट संदेश",
+    "owner": "स्वामी",
+    "put_commit_message": "अपलोड का कमिट संदेश",
+    "ref": "रेफ़रेंस",
+    "ref-tips": "ब्रांच, टैग या कमिट SHA; डिफ़ॉल्ट रूप से मुख्य ब्रांच।",
+    "rename_commit_message": "नाम बदलने का कमिट संदेश",
+    "repo": "रिपॉज़िटरी",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "token": "टोकन"
+  },
+  "GitHub Releases": {
+    "gh_proxy": "GitHub प्रॉक्सी",
+    "gh_proxy-tips": "GitHub प्रॉक्सी, जैसे https://ghproxy.net/github.com या https://gh-proxy.com/github.com ",
+    "max_page": "अधिकतम पृष्ठ",
+    "max_page-tips": "प्राप्त किए जाने वाले अधिकतम पृष्ठ (0 = असीमित); केवल सभी संस्करण दिखाने पर लागू",
+    "per_page": "प्रति पृष्ठ",
+    "per_page-tips": "प्रति पृष्ठ रिलीज़ (अधिकतम 100); केवल सभी संस्करण दिखाने पर लागू",
+    "repo_structure": "रिपॉज़िटरी संरचना",
+    "repo_structure-tips": "संरचना:[पथ:]org/repo",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "show_all_version": "सभी संस्करण दिखाएँ",
+    "show_all_version-tips": "सभी संस्करण दिखाएँ",
+    "show_readme": "रीडमी दिखाएँ",
+    "show_readme-tips": "README और LICENSE फ़ाइल दिखाएँ",
+    "show_source_code": "सोर्स कोड दिखाएँ",
+    "show_source_code-tips": "सोर्स कोड (zip/tar.gz) दिखाएँ",
+    "token": "टोकन",
+    "token-tips": "निजी रिपॉज़िटरी तक पहुँचने या अनुरोध सीमा बढ़ाने के लिए GitHub टोकन"
+  },
+  "GoogleDrive": {
+    "api_url_address": "API URL पता",
+    "chunk_size": "चंक आकार",
+    "chunk_size-tips": "अपलोड करते समय चंक आकार (इकाई: MB)",
+    "client_id": "क्लाइंट आईडी",
+    "client_secret": "क्लाइंट सीक्रेट",
+    "disable_disk_usage": "डिस्क उपयोग अक्षम करें",
+    "order_by": "क्रमबद्ध करें",
+    "order_by-tips": "जैसे: folder,name,modifiedTime",
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "refresh_token": "रीफ़्रेश टोकन",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "use_online_api": "ऑनलाइन API का उपयोग करें"
+  },
+  "GooglePhoto": {
+    "client_id": "क्लाइंट आईडी",
+    "client_secret": "क्लाइंट सीक्रेट",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "show_archive": "आर्काइव दिखाएँ"
+  },
+  "GuangYaPan": {
+    "access_token": "एक्सेस टोकन",
+    "access_token-tips": "Bearer एक्सेस टोकन (refresh_token दिए जाने पर वैकल्पिक)",
+    "captcha_token": "कैप्चा टोकन",
+    "captcha_token-tips": "/v1/auth/verification के लिए आवश्यक कैप्चा टोकन",
+    "client_id": "क्लाइंट आईडी",
+    "client_id-tips": "GuangYaPan API के लिए क्लाइंट आईडी देना आवश्यक है",
+    "device_id": "डिवाइस आईडी",
+    "device_id-tips": "वैकल्पिक कस्टम डिवाइस आईडी (32 हेक्स वर्ण); खाली होने पर स्वचालित रूप से बनाई जाती है",
+    "device_sign": "डिवाइस हस्ताक्षर",
+    "device_sign-tips": "वैकल्पिक कस्टम X-Device-Sign हेडर (खाली होने पर device_id से बनाया जाता है)",
+    "order_by": "क्रमबद्ध करें",
+    "order_by-tips": "फ़ाइल सूची के लिए इस्तेमाल किया जाने वाला सॉर्ट फ़ील्ड",
+    "page_size": "पृष्ठ आकार",
+    "phone_number": "फ़ोन नंबर",
+    "phone_number-tips": "SMS लॉगिन के लिए फ़ोन नंबर, जैसे +86 13800000000",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "refresh_token-tips": "स्वचालित लॉगिन/रीफ़्रेश के लिए रीफ़्रेश टोकन",
+    "root_path": "रूट पथ",
+    "root_path-tips": "GuangYaPan क्लाउड ड्राइव का पूरा पथ",
+    "send_code": "कोड भेजें",
+    "send_code-tips": "SMS कोड भेजने के लिए true सेट करके सहेजें; भेजने के बाद यह अपने आप false पर रीसेट हो जाता है",
+    "sort_type": "क्रमबद्ध करने का प्रकार",
+    "sort_type-tips": "फ़ाइल सूची के लिए इस्तेमाल की जाने वाली क्रमबद्ध करने की दिशा",
+    "verification_id": "सत्यापन आईडी",
+    "verification_id-tips": "SMS कोड भेजने के बाद स्वचालित रूप से बनता है; इसे हाथ से न बदलें",
+    "verify_code": "सत्यापन कोड",
+    "verify_code-tips": "phone_number के साथ इस्तेमाल किया जाने वाला SMS सत्यापन कोड; लॉगिन पूरा करने के लिए भरकर सहेजें"
+  },
+  "HalalCloud": {
+    "app_id": "ऐप आईडी",
+    "app_secret": "ऐप सीक्रेट",
+    "app_version": "ऐप संस्करण",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "refresh_token-tips": "लॉगिन प्रकार refresh_token है, यह आवश्यक है",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "upload_thread": "अपलोड थ्रेड",
+    "upload_thread-tips": "1 <= थ्रेड <= 32"
+  },
+  "HalalCloudOpen": {
+    "client_id": "क्लाइंट आईडी",
+    "client_secret": "क्लाइंट सीक्रेट",
+    "host": "होस्ट",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "refresh_token-tips": "व्यक्तिगत API विधि इस्तेमाल करने पर RefreshToken आवश्यक नहीं है।",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "timeout": "टाइमआउट",
+    "timeout-tips": "सेकंड में टाइमआउट",
+    "upload_thread": "अपलोड थ्रेड",
+    "upload_thread-tips": "1 <= थ्रेड <= 32"
+  },
+  "ILanZou": {
+    "ip": "IP",
+    "password": "पासवर्ड",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "IPFS API": {
+    "endpoint": "एंडपॉइंट",
+    "gateway": "गेटवे",
+    "mode": "मोड",
+    "modes": {
+      "ipfs": "IPFS",
+      "ipns": "IPNS",
+      "mfs": "MFS"
+    },
+    "root_folder_path": "रूट फ़ोल्डर पथ"
+  },
+  "KodBox": {
+    "address": "पता",
+    "password": "पासवर्ड",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "Lanzou": {
+    "account": "खाता",
+    "baseUrl": "आधार URL",
+    "baseUrl-tips": "फ़ाइल संचालन के लिए मूल URL",
+    "cookie": "कुकी",
+    "cookie-tips": "लगभग 15 दिनों तक मान्य; shareUrl उपयोग होने पर अनदेखा करें",
+    "password": "पासवर्ड",
+    "repair_file_info": "फ़ाइल जानकारी सुधारें",
+    "repair_file_info-tips": "WebDAV का उपयोग करने के लिए इसे सक्षम करना होगा",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "shareUrl": "शेयर URL",
+    "shareUrl-tips": "साझा करने का पृष्ठ प्राप्त करने के लिए उपयोग किया जाता है",
+    "share_password": "शेयर पासवर्ड",
+    "type": "प्रकार",
+    "types": {
+      "account": "खाता",
+      "cookie": "कुकी",
+      "url": "URL"
+    },
+    "user_agent": "उपयोगकर्ता एजेंट"
+  },
+  "LenovoNasShare": {
+    "host": "होस्ट",
+    "host-tips": "इसे अपने स्थानीय नेटवर्क के पते पर बदल सकते हैं",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "share_id": "शेयर आईडी",
+    "share_id-tips": "साझा लिंक में अंतिम / के बाद का भाग",
+    "share_pwd": "शेयर पासवर्ड",
+    "share_pwd-tips": "साझा लिंक का पासवर्ड",
+    "show_root_folder": "रूट फ़ोल्डर दिखाएँ"
+  },
+  "Local": {
+    "directory_size": "डायरेक्टरी का आकार",
+    "directory_size-tips": "इससे होस्ट के प्रदर्शन पर असर पड़ सकता है",
+    "mkdir_perm": "डायरेक्टरी बनाने की अनुमति",
+    "pdf_thumbnail": "PDF थंबनेल",
+    "pdf_thumbnail-tips": "macOS पर Quick Look से PDF के पहले पृष्ठ के थंबनेल बनाएँ",
+    "recycle_bin_path": "रीसायकल बिन पथ",
+    "recycle_bin_path-tips": "रीसायकल बिन का पथ; खाली होने पर स्थायी रूप से हटाएँ, या 'स्थायी रूप से हटाएँ' बनाए रखें",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "show_hidden": "छिपी हुई चीज़ें दिखाएँ",
+    "show_hidden-tips": "छिपी हुई डायरेक्टरी और फ़ाइलें दिखाएँ",
+    "thumb_cache_folder": "थंबनेल कैश फ़ोल्डर",
+    "thumb_concurrency": "थंबनेल समवर्तीता",
+    "thumb_concurrency-tips": "थंबनेल बनाने वाले समवर्ती goroutine की संख्या। यह नियंत्रित करता है कि कितने थंबनेल समानांतर बनाए जा सकते हैं।",
+    "thumbnail": "थंबनेल",
+    "thumbnail-tips": "थंबनेल सक्षम करें",
+    "video_thumb_pos": "वीडियो थंबनेल स्थिति",
+    "video_thumb_pos-tips": "वीडियो थंबनेल की स्थिति। मान संख्या (पूर्णांक या दशमलव) हो तो सेकंड में समय दर्शाता है। मान '%' पर समाप्त हो तो वीडियो अवधि का प्रतिशत दर्शाता है।"
+  },
+  "MediaFire": {
+    "chunk_size": "चंक आकार",
+    "cookie": "कुकी",
+    "cookie-tips": "MediaFire API प्रमाणीकरण के लिए आवश्यक",
+    "limit_rate": "दर सीमा",
+    "limit_rate-tips": "सभी API अनुरोधों की दर सीमित करें ([limit]r/1s)",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "name": "नाम",
+      "size": "आकार",
+      "time": "समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "session_token": "सेशन टोकन",
+    "session_token-tips": "MediaFire API के लिए वैकल्पिक; कुकी से स्वचालित रूप से प्राप्त किया जा सकता है",
+    "upload_threads": "अपलोड थ्रेड",
+    "upload_threads-tips": "समवर्ती अपलोड थ्रेड"
+  },
+  "MediaTrack": {
+    "access_token": "एक्सेस टोकन",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "size": "आकार",
+      "title": "शीर्षक",
+      "updated_at": "अपडेट का समय"
+    },
+    "order_desc": "अवरोही क्रम",
+    "project_id": "प्रोजेक्ट आईडी",
+    "root_folder_id": "रूट फ़ोल्डर आईडी"
+  },
+  "Mega_nz": {
+    "email": "ईमेल",
+    "move_to_trash": "कचरे में ले जाएँ",
+    "move_to_trash-tips": "फ़ाइलें हटाते समय उन्हें कचरे में ले जाएँ",
+    "password": "पासवर्ड",
+    "two_fa_code": "दो-कारक प्रमाणीकरण कोड",
+    "two_fa_code-tips": "2FA का 6 अंकों वाला कोड; केवल 2FA कोड भरने से ड्राइवर को फिर से लोड करने की सुविधा समर्थित नहीं होगी",
+    "two_fa_secret": "दो-कारक प्रमाणीकरण सीक्रेट",
+    "two_fa_secret-tips": "2FA सीक्रेट"
+  },
+  "Misskey": {
+    "access_token": "एक्सेस टोकन",
+    "endpoint": "एंडपॉइंट",
+    "root_folder_path": "रूट फ़ोल्डर पथ"
+  },
+  "MoPan": {
+    "cloud_id": "क्लाउड आईडी",
+    "device_info": "डिवाइस जानकारी",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "filename": "फ़ाइल नाम",
+      "filesize": "फ़ाइल आकार",
+      "lastOpTime": "अंतिम संचालन समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "password": "पासवर्ड",
+    "phone": "फ़ोन",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "sms_code": "SMS कोड",
+    "sms_code-tips": "'send' लिखकर SMS भेजें ",
+    "upload_thread": "अपलोड थ्रेड",
+    "upload_thread-tips": "1<=थ्रेड<=32"
+  },
+  "NeteaseMusic": {
+    "cookie": "कुकी",
+    "song_limit": "गीत सीमा",
+    "song_limit-tips": "डिफ़ॉल्ट रूप से केवल 200 गीत प्राप्त करें"
+  },
+  "Onedrive": {
+    "api_url_address": "API URL पता",
+    "chunk_size": "चंक आकार",
+    "client_id": "क्लाइंट आईडी",
+    "client_secret": "क्लाइंट सीक्रेट",
+    "custom_host": "कस्टम होस्ट",
+    "custom_host-tips": "OneDrive डाउनलोड लिंक के लिए कस्टम होस्ट",
+    "disable_disk_usage": "डिस्क उपयोग अक्षम करें",
+    "enable_direct_upload": "सीधा अपलोड सक्षम करें",
+    "enable_direct_upload-tips": "क्लाइंट से OneDrive पर सीधे अपलोड सक्षम करें",
+    "is_sharepoint": "क्या SharePoint है",
+    "redirect_uri": "रीडायरेक्ट URI",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "region": "क्षेत्र",
+    "regions": {
+      "cn": "चीन",
+      "de": "जर्मनी",
+      "global": "वैश्विक",
+      "us": "अमेरिका"
+    },
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "site_id": "साइट आईडी",
+    "use_online_api": "ऑनलाइन API का उपयोग करें"
+  },
+  "Onedrive Sharelink": {
+    "disable_disk_usage": "डिस्क उपयोग अक्षम करें",
+    "enable_direct_upload": "सीधा अपलोड सक्षम करें",
+    "enable_direct_upload-tips": "OpenList से होकर गुज़रे बिना सीधे OneDrive पर अपलोड करने की अनुमति दें",
+    "password": "पासवर्ड",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "url": "URL"
+  },
+  "OnedriveAPP": {
+    "chunk_size": "चंक आकार",
+    "client_id": "क्लाइंट आईडी",
+    "client_secret": "क्लाइंट सीक्रेट",
+    "custom_host": "कस्टम होस्ट",
+    "custom_host-tips": "OneDrive डाउनलोड लिंक के लिए कस्टम होस्ट",
+    "disable_disk_usage": "डिस्क उपयोग अक्षम करें",
+    "email": "ईमेल",
+    "enable_direct_upload": "सीधा अपलोड सक्षम करें",
+    "enable_direct_upload-tips": "क्लाइंट से OneDrive पर सीधे अपलोड सक्षम करें",
+    "region": "क्षेत्र",
+    "regions": {
+      "cn": "चीन",
+      "de": "जर्मनी",
+      "global": "वैश्विक",
+      "us": "अमेरिका"
+    },
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "tenant_id": "टेनेंट आईडी"
+  },
+  "OpenList": {
+    "forward_archive_requests": "आर्काइव अनुरोध अग्रेषित करें",
+    "meta_password": "मेटा पासवर्ड",
+    "pass_ip_to_upsteam": "अपस्ट्रीम को IP भेजें",
+    "pass_refresh_flag_to_upsteam": "रीफ़्रेश फ़्लैग अपस्ट्रीम को भेजें",
+    "pass_ua_to_upsteam": "अपस्ट्रीम को UA भेजें",
+    "password": "पासवर्ड",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "token": "टोकन",
+    "url": "URL",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "OpenListShare": {
+    "forward_archive_requests": "आर्काइव अनुरोध अग्रेषित करें",
+    "pwd": "पासवर्ड",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "sid": "शेयर आईडी",
+    "url": "URL"
+  },
+  "PikPak": {
+    "captcha_token": "कैप्चा टोकन",
+    "device_id": "डिवाइस आईडी",
+    "disable_media_link": "मीडिया लिंक अक्षम करें",
+    "password": "पासवर्ड",
+    "platform": "प्लेटफ़ॉर्म",
+    "platforms": {
+      "android": "Android",
+      "pc": "PC",
+      "web": "वेब"
+    },
+    "refresh_token": "रीफ़्रेश टोकन",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "skip_verification": "सत्यापन छोड़ें",
+    "skip_verification-tips": "कैप्चा API से मिले मानव सत्यापन URL को विफलता मानने के बजाय अनदेखा करें; इसे सक्षम करने से PikPak का जोखिम नियंत्रण सक्रिय हो सकता है",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "PikPakShare": {
+    "device_id": "डिवाइस आईडी",
+    "platform": "प्लेटफ़ॉर्म",
+    "platforms": {
+      "android": "Android",
+      "pc": "PC",
+      "web": "वेब"
+    },
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "share_id": "शेयर आईडी",
+    "share_pwd": "शेयर पासवर्ड",
+    "use_transcoding_address": "ट्रांसकोडिंग पता इस्तेमाल करें"
+  },
+  "ProtonDrive": {
+    "chunk_size": "चंक आकार",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "two_fa_code": "दो-कारक प्रमाणीकरण कोड",
+    "use_reusable_login": "पुनः उपयोग योग्य लॉगिन इस्तेमाल करें",
+    "use_reusable_login-tips": "उपयोगकर्ता नाम/पासवर्ड के बजाय पुनः उपयोग योग्य लॉगिन क्रेडेंशियल इस्तेमाल करें"
+  },
+  "Quark": {
+    "cookie": "कुकी",
+    "only_list_video_file": "केवल वीडियो फ़ाइलें सूचीबद्ध करें",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "file_name": "फ़ाइल का नाम",
+      "file_type": "फ़ाइल का प्रकार",
+      "none": "कोई नहीं",
+      "updated_at": "अपडेट का समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "use_transcoding_address": "ट्रांसकोडिंग पता इस्तेमाल करें",
+    "use_transcoding_address-tips": "ट्रांसकोड किया गया वीडियो देख सकते हैं और 302 रीडायरेक्शन समर्थित है"
+  },
+  "QuarkOpen": {
+    "access_token": "एक्सेस टोकन",
+    "api_url_address": "API URL पता",
+    "app_id": "ऐप आईडी",
+    "app_id-tips": "यदि आपके पास नहीं है, तो इसे खाली छोड़ें",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "created_at": "बनाने का समय",
+      "file_name": "फ़ाइल का नाम",
+      "file_type": "फ़ाइल का प्रकार",
+      "none": "कोई नहीं",
+      "updated_at": "अपडेट का समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "refresh_token": "रीफ़्रेश टोकन",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "sign_key": "हस्ताक्षर कुंजी",
+    "sign_key-tips": "यदि आपके पास नहीं है, तो इसे खाली छोड़ें",
+    "use_online_api": "ऑनलाइन API का उपयोग करें"
+  },
+  "QuarkTV": {
+    "device_id": "डिवाइस आईडी",
+    "link_method": "लिंक विधि",
+    "link_methods": {
+      "download": "डाउनलोड",
+      "streaming": "स्ट्रीमिंग"
+    },
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "file_name": "फ़ाइल का नाम",
+      "updated_at": "अपडेट का समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "query_token": "क्वेरी टोकन",
+    "query_token-tips": "संपादित न करें",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "root_folder_id": "रूट फ़ोल्डर आईडी"
+  },
+  "S3": {
+    "access_key_id": "एक्सेस कुंजी आईडी",
+    "add_filename_to_disposition": "Content-Disposition में फ़ाइल नाम जोड़ें",
+    "add_filename_to_disposition-tips": "Content-Disposition हेडर में फ़ाइल नाम जोड़ें।",
+    "bucket": "बकेट",
+    "custom_host": "कस्टम होस्ट",
+    "direct_upload_host": "सीधे अपलोड का होस्ट",
+    "enable_custom_host_presign": "कस्टम होस्ट प्रीसाइन सक्षम करें",
+    "enable_direct_upload": "सीधा अपलोड सक्षम करें",
+    "endpoint": "एंडपॉइंट",
+    "force_path_style": "पाथ स्टाइल को बाध्य करें",
+    "list_object_version": "ऑब्जेक्ट संस्करण सूचीबद्ध करें",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "प्लेसहोल्डर",
+    "region": "क्षेत्र",
+    "remove_bucket": "बकेट हटाएँ",
+    "remove_bucket-tips": "कस्टम होस्ट का उपयोग करते समय पथ से बकेट का नाम हटाएँ।",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "secret_access_key": "सीक्रेट एक्सेस कुंजी",
+    "session_token": "सेशन टोकन",
+    "sign_url_expire": "हस्ताक्षरित URL की समय-सीमा",
+    "user_agent": "उपयोगकर्ता एजेंट",
+    "user_agent-tips": "S3 अनुरोधों के लिए कस्टम User-Agent।"
+  },
+  "SFTP": {
+    "address": "पता",
+    "ignore_symlink_error": "सिमलिंक त्रुटि अनदेखी करें",
+    "passphrase": "पासफ़्रेज़",
+    "password": "पासवर्ड",
+    "private_key": "निजी कुंजी",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "SMB": {
+    "address": "पता",
+    "password": "पासवर्ड",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "share_name": "शेयर नाम",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "Seafile": {
+    "address": "पता",
+    "password": "पासवर्ड",
+    "repoId": "रिपॉज़िटरी आईडी",
+    "repoPwd": "रिपॉज़िटरी पासवर्ड",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "token": "टोकन",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "Strm": {
+    "KeepLocalDownloadFile": "स्थानीय डाउनलोड फ़ाइलें रखें",
+    "KeepLocalDownloadFile-tips": "स्थानीय डाउनलोड फ़ाइलें रखें",
+    "PathPrefix": "पथ उपसर्ग",
+    "PathPrefix-tips": "पथ उपसर्ग",
+    "SaveLocalMode": "स्थानीय रूप से सहेजने का मोड",
+    "SaveLocalMode-tips": "STRM फ़ाइल स्थानीय रूप से सहेजने का मोड",
+    "SaveLocalModes": {
+      "insert": "सम्मिलित करें",
+      "sync": "समन्वयित करें",
+      "update": "अपडेट करें"
+    },
+    "SaveStrmLocalPath": "STRM फ़ाइल को स्थानीय पथ पर सहेजें",
+    "SaveStrmLocalPath-tips": "STRM फ़ाइल सहेजने का स्थानीय पथ",
+    "SaveStrmToLocal": "STRM को स्थानीय रूप से सहेजें",
+    "SaveStrmToLocal-tips": "STRM फ़ाइल स्थानीय रूप से सहेजें",
+    "downloadFileTypes": "डाउनलोड फ़ाइल प्रकार",
+    "downloadFileTypes-tips": "वे फ़ाइलें जिन्हें STRM के साथ डाउनलोड करना आवश्यक है (आमतौर पर उपशीर्षक)",
+    "encodePath": "पथ एन्कोड करें",
+    "encodePath-tips": "STRM फ़ाइल में पथ एन्कोड करें",
+    "filterFileTypes": "फ़ाइल प्रकार फ़िल्टर करें",
+    "filterFileTypes-tips": "STRM फ़ाइल के प्रत्यय नाम समर्थित हैं",
+    "minFileSize": "न्यूनतम फ़ाइल आकार",
+    "minFileSize-tips": "इस आकार से छोटी फ़ाइलें फ़िल्टर करें (इकाई: MB, अक्षम करने के लिए 0)",
+    "paths": "पथ",
+    "siteUrl": "साइट URL",
+    "siteUrl-tips": "STRM फ़ाइल का उपसर्ग URL",
+    "withSign": "हस्ताक्षर के साथ",
+    "withoutUrl": "URL के बिना",
+    "withoutUrl-tips": "URL उपसर्ग के बिना STRM फ़ाइल की सामग्री"
+  },
+  "Teambition": {
+    "cookie": "कुकी",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "created": "बनाया गया",
+      "fileName": "फ़ाइल नाम",
+      "fileSize": "फ़ाइल आकार",
+      "updated": "अपडेट किया गया"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "Asc": "आरोही",
+      "Desc": "अवरोही"
+    },
+    "project_id": "प्रोजेक्ट आईडी",
+    "region": "क्षेत्र",
+    "regions": {
+      "china": "चीन",
+      "international": "अंतरराष्ट्रीय"
+    },
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "use_s3_upload_method": "S3 अपलोड विधि इस्तेमाल करें"
+  },
+  "Teldrive": {
+    "chunk_size": "चंक आकार",
+    "chunk_size-tips": "चंक आकार MiB में",
+    "cookie": "कुकी",
+    "cookie-tips": "access_token=xxx",
+    "random_chunk_name": "यादृच्छिक चंक नाम",
+    "random_chunk_name-tips": "यादृच्छिक चंक नाम",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "upload_concurrency": "अपलोड समवर्तीता",
+    "upload_concurrency-tips": "समवर्ती अपलोड अनुरोधों की संख्या",
+    "url": "URL",
+    "use_share_link": "शेयर लिंक इस्तेमाल करें",
+    "use_share_link-tips": "302 रीडायरेक्शन समर्थित करने के लिए लिंक प्राप्त करते समय शेयर लिंक बनाएँ। अक्षम होने पर वेब प्रॉक्सी सक्षम करनी होगी।"
+  },
+  "Terabox": {
+    "cookie": "कुकी",
+    "download_api": "डाउनलोड API",
+    "download_apis": {
+      "crack": "क्रैक",
+      "official": "आधिकारिक"
+    },
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "name": "नाम",
+      "size": "आकार",
+      "time": "समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "root_folder_path": "रूट फ़ोल्डर पथ"
+  },
+  "Thunder": {
+    "captcha_token": "कैप्चा टोकन",
+    "credit_key": "क्रेडिट कुंजी",
+    "credit_key-tips": "लॉगिन के लिए उपयोग की जाने वाली क्रेडिट कुंजी",
+    "device_id": "डिवाइस आईडी",
+    "password": "पासवर्ड",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "space": "स्पेस",
+    "space-tips": "दूरस्थ डिवाइस की डिवाइस आईडी",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "ThunderBrowser": {
+    "captcha_token": "कैप्चा टोकन",
+    "credit_key": "क्रेडिट कुंजी",
+    "credit_key-tips": "लॉगिन के लिए उपयोग की जाने वाली क्रेडिट कुंजी",
+    "device_id": "डिवाइस आईडी",
+    "password": "पासवर्ड",
+    "remove_way": "हटाने का तरीका",
+    "remove_ways": {
+      "delete": "हटाएँ",
+      "trash": "कचरा"
+    },
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "safe_password": "सुरक्षित पासवर्ड",
+    "use_fluent_play": "Fluent Play इस्तेमाल करें",
+    "use_fluent_play-tips": "ऑफ़लाइन डाउनलोड के लिए Fluent Play इस्तेमाल करें; केवल magnet लिंक समर्थित हैं",
+    "use_video_url": "वीडियो URL इस्तेमाल करें",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "ThunderBrowserExpert": {
+    "algorithms": "एल्गोरिदम",
+    "algorithms-tips": "हस्ताक्षर प्रकार algorithms है, यह आवश्यक है",
+    "captcha_sign": "कैप्चा हस्ताक्षर",
+    "captcha_sign-tips": "हस्ताक्षर प्रकार captcha_sign है, यह आवश्यक है",
+    "captcha_token": "कैप्चा टोकन",
+    "client_id": "क्लाइंट आईडी",
+    "client_secret": "क्लाइंट सीक्रेट",
+    "client_version": "क्लाइंट संस्करण",
+    "credit_key": "क्रेडिट कुंजी",
+    "credit_key-tips": "लॉगिन के लिए उपयोग की जाने वाली क्रेडिट कुंजी",
+    "device_id": "डिवाइस आईडी",
+    "download_user_agent": "डाउनलोड उपयोगकर्ता एजेंट",
+    "login_type": "लॉगिन प्रकार",
+    "login_types": {
+      "refresh_token": "रीफ़्रेश टोकन",
+      "user": "उपयोगकर्ता"
+    },
+    "package_name": "पैकेज नाम",
+    "password": "पासवर्ड",
+    "password-tips": "लॉगिन प्रकार user है, यह आवश्यक है",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "refresh_token-tips": "लॉगिन प्रकार refresh_token है, यह आवश्यक है",
+    "remove_way": "हटाने का तरीका",
+    "remove_ways": {
+      "delete": "हटाएँ",
+      "trash": "कचरा"
+    },
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "safe_password": "सुरक्षित पासवर्ड",
+    "safe_password-tips": "अत्यधिक सुरक्षित पासवर्ड",
+    "sign_type": "हस्ताक्षर प्रकार",
+    "sign_types": {
+      "algorithms": "एल्गोरिदम",
+      "captcha_sign": "कैप्चा हस्ताक्षर"
+    },
+    "timestamp": "टाइमस्टैम्प",
+    "timestamp-tips": "हस्ताक्षर प्रकार captcha_sign है, यह आवश्यक है",
+    "use_fluent_play": "Fluent Play इस्तेमाल करें",
+    "use_fluent_play-tips": "ऑफ़लाइन डाउनलोड के लिए Fluent Play इस्तेमाल करें; केवल magnet लिंक समर्थित हैं",
+    "use_video_url": "वीडियो URL इस्तेमाल करें",
+    "user_agent": "उपयोगकर्ता एजेंट",
+    "username": "उपयोगकर्ता नाम",
+    "username-tips": "लॉगिन प्रकार user है, यह आवश्यक है"
+  },
+  "ThunderExpert": {
+    "algorithms": "एल्गोरिदम",
+    "algorithms-tips": "हस्ताक्षर प्रकार algorithms है, यह आवश्यक है",
+    "captcha_sign": "कैप्चा हस्ताक्षर",
+    "captcha_sign-tips": "हस्ताक्षर प्रकार captcha_sign है, यह आवश्यक है",
+    "captcha_token": "कैप्चा टोकन",
+    "client_id": "क्लाइंट आईडी",
+    "client_secret": "क्लाइंट सीक्रेट",
+    "client_version": "क्लाइंट संस्करण",
+    "credit_key": "क्रेडिट कुंजी",
+    "credit_key-tips": "लॉगिन के लिए उपयोग की जाने वाली क्रेडिट कुंजी",
+    "device_id": "डिवाइस आईडी",
+    "download_user_agent": "डाउनलोड उपयोगकर्ता एजेंट",
+    "login_type": "लॉगिन प्रकार",
+    "login_types": {
+      "refresh_token": "रीफ़्रेश टोकन",
+      "user": "उपयोगकर्ता"
+    },
+    "package_name": "पैकेज नाम",
+    "password": "पासवर्ड",
+    "password-tips": "लॉगिन प्रकार user है, यह आवश्यक है",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "refresh_token-tips": "लॉगिन प्रकार refresh_token है, यह आवश्यक है",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "sign_type": "हस्ताक्षर प्रकार",
+    "sign_types": {
+      "algorithms": "एल्गोरिदम",
+      "captcha_sign": "कैप्चा हस्ताक्षर"
+    },
+    "space": "स्पेस",
+    "space-tips": "दूरस्थ डिवाइस की डिवाइस आईडी",
+    "timestamp": "टाइमस्टैम्प",
+    "timestamp-tips": "हस्ताक्षर प्रकार captcha_sign है, यह आवश्यक है",
+    "use_video_url": "वीडियो URL इस्तेमाल करें",
+    "user_agent": "उपयोगकर्ता एजेंट",
+    "username": "उपयोगकर्ता नाम",
+    "username-tips": "लॉगिन प्रकार user है, यह आवश्यक है"
+  },
+  "ThunderX": {
+    "captcha_token": "कैप्चा टोकन",
+    "password": "पासवर्ड",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "use_video_url": "वीडियो URL इस्तेमाल करें",
+    "username": "उपयोगकर्ता नाम"
+  },
+  "ThunderXExpert": {
+    "algorithms": "एल्गोरिदम",
+    "algorithms-tips": "हस्ताक्षर प्रकार algorithms है, यह आवश्यक है",
+    "captcha_sign": "कैप्चा हस्ताक्षर",
+    "captcha_sign-tips": "हस्ताक्षर प्रकार captcha_sign है, यह आवश्यक है",
+    "captcha_token": "कैप्चा टोकन",
+    "client_id": "क्लाइंट आईडी",
+    "client_secret": "क्लाइंट सीक्रेट",
+    "client_version": "क्लाइंट संस्करण",
+    "device_id": "डिवाइस आईडी",
+    "download_user_agent": "डाउनलोड उपयोगकर्ता एजेंट",
+    "login_type": "लॉगिन प्रकार",
+    "login_types": {
+      "refresh_token": "रीफ़्रेश टोकन",
+      "user": "उपयोगकर्ता"
+    },
+    "package_name": "पैकेज नाम",
+    "password": "पासवर्ड",
+    "password-tips": "लॉगिन प्रकार user है, यह आवश्यक है",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "refresh_token-tips": "लॉगिन प्रकार refresh_token है, यह आवश्यक है",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "sign_type": "हस्ताक्षर प्रकार",
+    "sign_types": {
+      "algorithms": "एल्गोरिदम",
+      "captcha_sign": "कैप्चा हस्ताक्षर"
+    },
+    "timestamp": "टाइमस्टैम्प",
+    "timestamp-tips": "हस्ताक्षर प्रकार captcha_sign है, यह आवश्यक है",
+    "use_video_url": "वीडियो URL इस्तेमाल करें",
+    "user_agent": "उपयोगकर्ता एजेंट",
+    "username": "उपयोगकर्ता नाम",
+    "username-tips": "लॉगिन प्रकार user है, यह आवश्यक है"
+  },
+  "UC": {
+    "cookie": "कुकी",
+    "only_list_video_file": "केवल वीडियो फ़ाइलें सूचीबद्ध करें",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "file_name": "फ़ाइल का नाम",
+      "file_type": "फ़ाइल का प्रकार",
+      "none": "कोई नहीं",
+      "updated_at": "अपडेट का समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "use_transcoding_address": "ट्रांसकोडिंग पता इस्तेमाल करें",
+    "use_transcoding_address-tips": "ट्रांसकोड किया गया वीडियो देख सकते हैं और 302 रीडायरेक्शन समर्थित है"
+  },
+  "UCTV": {
+    "device_id": "डिवाइस आईडी",
+    "link_method": "लिंक विधि",
+    "link_methods": {
+      "download": "डाउनलोड",
+      "streaming": "स्ट्रीमिंग"
+    },
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "file_name": "फ़ाइल का नाम",
+      "updated_at": "अपडेट का समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "query_token": "क्वेरी टोकन",
+    "query_token-tips": "संपादित न करें",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "root_folder_id": "रूट फ़ोल्डर आईडी"
+  },
+  "USS": {
+    "anti_theft_chain_token": "एंटी-थेफ़्ट चेन टोकन",
+    "bucket": "बकेट",
+    "endpoint": "एंडपॉइंट",
+    "operator_name": "ऑपरेटर का नाम",
+    "operator_password": "ऑपरेटर का पासवर्ड",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "sign_url_expire": "हस्ताक्षरित URL की समय-सीमा"
+  },
+  "UrlTree": {
+    "head_size": "हेड आकार",
+    "head_size-tips": "फ़ाइल का आकार पाने के लिए HEAD विधि का उपयोग करें, लेकिन यह विफल हो सकती है।",
+    "url_structure": "URL संरचना",
+    "url_structure-tips": "संरचना:फ़ोल्डर का नाम:\n  [फ़ाइल का नाम:][फ़ाइल का आकार:][संशोधित:]URL",
+    "writable": "लिखने योग्य"
+  },
+  "Virtual": {
+    "max_file_size": "अधिकतम फ़ाइल आकार",
+    "min_file_size": "न्यूनतम फ़ाइल आकार",
+    "num_file": "फ़ाइलों की संख्या",
+    "num_folder": "फ़ोल्डरों की संख्या",
+    "root_folder_path": "रूट फ़ोल्डर पथ"
+  },
+  "WPS": {
+    "cookie": "कुकी",
+    "custom_ua": "कस्टम UA",
+    "mode": "मोड",
+    "modes": {
+      "Business": "व्यावसायिक",
+      "Personal": "व्यक्तिगत"
+    },
+    "root_folder_path": "रूट फ़ोल्डर पथ"
+  },
+  "WebDav": {
+    "address": "पता",
+    "password": "पासवर्ड",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "tls_insecure_skip_verify": "TLS प्रमाणपत्र का सत्यापन छोड़ें",
+    "username": "उपयोगकर्ता नाम",
+    "vendor": "विक्रेता",
+    "vendors": {
+      "other": "अन्य",
+      "sharepoint": "SharePoint"
+    }
+  },
+  "WeiYun": {
+    "cookies": "कुकीज़",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "name": "नाम",
+      "size": "आकार",
+      "updated_at": "अपडेट का समय"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "upload_thread": "अपलोड थ्रेड",
+    "upload_thread-tips": "4<=थ्रेड<=32"
+  },
+  "WoPan": {
+    "access_token": "एक्सेस टोकन",
+    "access_token-tips": "जब refresh token दिया गया हो, तो यह वैकल्पिक है; अनुपस्थित या बहुत छोटा होने पर इसे स्वचालित रूप से रीफ़्रेश किया जाता है",
+    "family_id": "परिवार आईडी",
+    "family_id-tips": "व्यक्तिगत ड्राइव इस्तेमाल करना हो तो इसे खाली छोड़ें",
+    "refresh_token": "रीफ़्रेश टोकन",
+    "refresh_token-tips": "कोई refresh token या access token दें (कम से कम 16 वर्ण)",
+    "root_folder_id": "रूट फ़ोल्डर आईडी",
+    "sort_rule": "क्रमबद्ध करने का नियम",
+    "sort_rules": {
+      "name_asc": "नाम आरोही",
+      "name_desc": "नाम अवरोही",
+      "size_asc": "आकार आरोही",
+      "size_desc": "आकार अवरोही",
+      "time_asc": "समय आरोही",
+      "time_desc": "समय अवरोही"
+    }
+  },
+  "YandexDisk": {
+    "api_url_address": "API URL पता",
+    "client_id": "क्लाइंट आईडी",
+    "client_secret": "क्लाइंट सीक्रेट",
+    "order_by": "क्रमबद्ध करें",
+    "order_bys": {
+      "created": "बनाया गया",
+      "modified": "संशोधित",
+      "name": "नाम",
+      "path": "पथ",
+      "size": "आकार"
+    },
+    "order_direction": "क्रम की दिशा",
+    "order_directions": {
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "refresh_token": "रीफ़्रेश टोकन",
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "use_online_api": "ऑनलाइन API का उपयोग करें"
+  },
+  "cloudflare_imgbed": {
+    "address": "पता",
+    "address-tips": "छवि होस्टिंग सेवा का बैकएंड API पता, जैसे https://img.example.com",
+    "largeChannelName": "बड़ी फ़ाइल चैनल का नाम",
+    "largeChannelName-tips": "बड़ी फ़ाइलों के लिए चैनल का नाम",
+    "largeChannelType": "बड़ी फ़ाइल चैनल प्रकार",
+    "largeChannelType-tips": "बड़ी फ़ाइल चैनल प्रकार: Hugging Face (सीधा अपलोड), telegram/cfr2/s3/discord (मल्टीपार्ट अपलोड)",
+    "largeChannelTypes": {
+      "": "",
+      "cfr2": "Cfr2",
+      "discord": "Discord",
+      "huggingface": "Hugging Face",
+      "s3": "S3",
+      "telegram": "Telegram"
+    },
+    "root_folder_path": "रूट फ़ोल्डर पथ",
+    "smallChannelName": "छोटी फ़ाइल चैनल का नाम",
+    "smallChannelName-tips": "सामान्य फ़ाइलों (आमतौर पर <20MB) के लिए चैनल का नाम",
+    "token": "टोकन",
+    "token-tips": "प्रमाणीकरण टोकन",
+    "uploadThread": "अपलोड थ्रेड",
+    "uploadThread-tips": "Hugging Face पर चंक में सीधे अपलोड करने के लिए समवर्ती थ्रेड की संख्या"
+  },
+  "config": {
+    "115 Cloud": {},
+    "115 Open": {},
+    "115 Share": {},
+    "123 Open": {},
+    "123Pan": {},
+    "123PanLink": {},
+    "123PanShare": {},
+    "139Yun": {},
+    "189Cloud": {
+      "alert": "यदि यह ड्राइवर काम न करे, तो 189PC ड्राइवर इस्तेमाल करके देखें।"
+    },
+    "189CloudPC": {},
+    "189CloudTV": {},
+    "AList V3": {},
+    "AliDoc": {
+      "alert": "यह ड्राइवर DingTalk Docs के ज़रिए DingDrive तक पहुँचने की सुविधा देता है और अभी केवल पढ़ने के लिए है।"
+    },
+    "Alias": {},
+    "Aliyundrive": {
+      "alert": "इस ड्राइवर में अनंत लूप की समस्या हो सकती है।\nयह अप्रचलित है, अब इसका रखरखाव नहीं किया जाता और भविष्य के संस्करण में इसे हटा दिया जाएगा।\nहम आधिकारिक AliyundriveOpen ड्राइवर इस्तेमाल करने की सलाह देते हैं।"
+    },
+    "AliyundriveOpen": {},
+    "AliyundriveShare": {},
+    "AutoIndex": {},
+    "Azure Blob Storage": {},
+    "BaiduNetdisk": {},
+    "BaiduPhoto": {},
+    "Bunny Storage": {},
+    "CNB Releases": {},
+    "ChaoXingGroupDrive": {},
+    "Chunk": {},
+    "Cloudreve": {},
+    "Cloudreve V4": {},
+    "Crypt": {},
+    "Degoo": {},
+    "Doge": {},
+    "Doubao": {},
+    "DoubaoNew": {
+      "alert": "यदि स्टोरेज सार्वजनिक रूप से सुलभ है, तो 302 का उपयोग न करें।\nअन्यथा, डाउनलोड लिंक से एक्सेस टोकन या हस्ताक्षर जैसी संवेदनशील जानकारी लीक हो सकती है।\nअन्य लोग लीक हुए लिंक का उपयोग करके आपकी सभी फ़ाइलों तक पहुँच सकते हैं।"
+    },
+    "DoubaoShare": {},
+    "Dropbox": {},
+    "Emby": {},
+    "FTP": {},
+    "FebBox": {},
+    "FeijiPan": {},
+    "GitHub API": {},
+    "GitHub Releases": {},
+    "GoogleDrive": {},
+    "GooglePhoto": {},
+    "GuangYaPan": {
+      "alert": "दो चरणों वाला SMS लॉगिन: (1) phone_number (और आवश्यकता होने पर captcha_token) भरें, send_code=true सेट करके सहेजें; (2) verify_code भरकर सहेजें ताकि लॉगिन पूरा हो और access_token/refresh_token स्वतः सहेजे जाएँ।"
+    },
+    "HalalCloud": {},
+    "HalalCloudOpen": {},
+    "ILanZou": {},
+    "IPFS API": {},
+    "KodBox": {},
+    "Lanzou": {},
+    "LenovoNasShare": {},
+    "Local": {},
+    "MediaFire": {},
+    "MediaTrack": {},
+    "Mega_nz": {},
+    "Misskey": {},
+    "MoPan": {
+      "alert": "यह नेटवर्क डिस्क आपका पासवर्ड सादे टेक्स्ट में संग्रहीत कर सकती है। कृपया सावधानी से पासवर्ड सेट करें"
+    },
+    "NeteaseMusic": {},
+    "Onedrive": {},
+    "Onedrive Sharelink": {},
+    "OnedriveAPP": {},
+    "OpenList": {},
+    "OpenListShare": {},
+    "PikPak": {},
+    "PikPakShare": {},
+    "ProtonDrive": {},
+    "Quark": {},
+    "QuarkOpen": {},
+    "QuarkTV": {},
+    "S3": {},
+    "SFTP": {},
+    "SMB": {},
+    "Seafile": {},
+    "Strm": {},
+    "Teambition": {},
+    "Teldrive": {},
+    "Terabox": {},
+    "Thunder": {},
+    "ThunderBrowser": {},
+    "ThunderBrowserExpert": {},
+    "ThunderExpert": {},
+    "ThunderX": {},
+    "ThunderXExpert": {},
+    "UC": {},
+    "UCTV": {},
+    "USS": {},
+    "UrlTree": {},
+    "Virtual": {},
+    "WPS": {},
+    "WebDav": {},
+    "WeiYun": {},
+    "WoPan": {},
+    "YandexDisk": {},
+    "cloudflare_imgbed": {}
+  },
+  "drivers": {
+    "115 Cloud": "115 Cloud",
+    "115 Open": "115 Open",
+    "115 Share": "115 Share",
+    "123 Open": "123 Open",
+    "123Pan": "123Pan",
+    "123PanLink": "123PanLink",
+    "123PanShare": "123PanShare",
+    "139Yun": "139Yun",
+    "189Cloud": "189Cloud",
+    "189CloudPC": "189CloudPC",
+    "189CloudTV": "189CloudTV",
+    "AList V3": "AList V3",
+    "AliDoc": "AliDoc",
+    "Alias": "Alias",
+    "Aliyundrive": "Aliyundrive",
+    "AliyundriveOpen": "AliyundriveOpen",
+    "AliyundriveShare": "AliyundriveShare",
+    "AutoIndex": "AutoIndex",
+    "Azure Blob Storage": "Azure Blob Storage",
+    "BaiduNetdisk": "BaiduNetdisk",
+    "BaiduPhoto": "BaiduPhoto",
+    "Bunny Storage": "Bunny Storage",
+    "CNB Releases": "CNB Releases",
+    "ChaoXingGroupDrive": "ChaoXingGroupDrive",
+    "Chunk": "चंक",
+    "Cloudreve": "Cloudreve",
+    "Cloudreve V4": "Cloudreve V4",
+    "Crypt": "Crypt",
+    "Degoo": "Degoo",
+    "Doge": "Doge",
+    "Doubao": "Doubao",
+    "DoubaoNew": "DoubaoNew",
+    "DoubaoShare": "DoubaoShare",
+    "Dropbox": "Dropbox",
+    "Emby": "Emby",
+    "FTP": "FTP",
+    "FebBox": "FebBox",
+    "FeijiPan": "FeijiPan",
+    "GitHub API": "GitHub API",
+    "GitHub Releases": "GitHub Releases",
+    "GoogleDrive": "Google Drive",
+    "GooglePhoto": "Google Photos",
+    "GuangYaPan": "GuangYaPan",
+    "HalalCloud": "HalalCloud",
+    "HalalCloudOpen": "HalalCloudOpen",
+    "ILanZou": "ILanZou",
+    "IPFS API": "IPFS API",
+    "KodBox": "KodBox",
+    "Lanzou": "Lanzou",
+    "LenovoNasShare": "LenovoNasShare",
+    "Local": "स्थानीय",
+    "MediaFire": "MediaFire",
+    "MediaTrack": "MediaTrack",
+    "Mega_nz": "Mega nz",
+    "Misskey": "Misskey",
+    "MoPan": "MoPan",
+    "NeteaseMusic": "NeteaseMusic",
+    "Onedrive": "OneDrive",
+    "Onedrive Sharelink": "OneDrive Sharelink",
+    "OnedriveAPP": "OneDriveAPP",
+    "OpenList": "OpenList",
+    "OpenListShare": "OpenListShare",
+    "PikPak": "PikPak",
+    "PikPakShare": "PikPakShare",
+    "ProtonDrive": "ProtonDrive",
+    "Quark": "Quark",
+    "QuarkOpen": "QuarkOpen",
+    "QuarkTV": "QuarkTV",
+    "S3": "S3",
+    "SFTP": "SFTP",
+    "SMB": "SMB",
+    "Seafile": "Seafile",
+    "Strm": "Strm",
+    "Teambition": "Teambition",
+    "Teldrive": "Teldrive",
+    "Terabox": "Terabox",
+    "Thunder": "Thunder",
+    "ThunderBrowser": "ThunderBrowser",
+    "ThunderBrowserExpert": "ThunderBrowserExpert",
+    "ThunderExpert": "ThunderExpert",
+    "ThunderX": "ThunderX",
+    "ThunderXExpert": "ThunderXExpert",
+    "UC": "UC",
+    "UCTV": "UCTV",
+    "USS": "USS",
+    "UrlTree": "UrlTree",
+    "Virtual": "Virtual",
+    "WPS": "WPS",
+    "WebDav": "WebDAV",
+    "WeiYun": "WeiYun",
+    "WoPan": "WoPan",
+    "YandexDisk": "YandexDisk",
+    "cloudflare_imgbed": "Cloudflare imgbed"
+  }
+}

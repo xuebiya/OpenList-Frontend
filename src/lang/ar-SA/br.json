@@ -1,0 +1,17 @@
+{
+  "backup": "النسخ الاحتياطي",
+  "restore": "إستعادة",
+  "start_backup": "بدء النسخ الاحتياطي",
+  "finish_backup": "إنهاء النسخ الاحتياطي",
+  "success_backup_item": "[ {{item}} ] تم النسخ الاحتياطي بنجاح",
+  "failed_backup_item": "فشل النسخ الاحتياطي [ {{item}}]",
+  "no_file": "لم يتم تحديد ملف",
+  "start_restore": "بدء الاستعادة",
+  "finish_restore": "إنهاء الاستعادة",
+  "success_restore_item": "[ {{item}} ] الاستعادة كانت ناجحة",
+  "failed_restore_item": "فشل الاستعادة [ {{item}}]",
+  "override": "تجاوز",
+  "encrypt_password_placeholder": "اتركه فارغاً إذا كنت لا تحتاج إلى تشفير",
+  "encrypt_password": "كلمة مرور التشفير",
+  "wrong_encrypt_password": "كلمة مرور التشفير خاطئة"
+}

@@ -1,0 +1,23 @@
+{
+  "site_config": "Webbplatskonfiguration",
+  "site_url": "Webbplats-URL",
+  "site_url_help": "Offentlig bas-URL som bäddas in i källor när delningslänkar genereras. Lämna tomt för att använda ursprunget för den aktuella begäran.",
+  "default_matrix": "Standardhashmatris",
+  "default_matrix_help": "Hashvärden som förväljs när seeds genereras från fillistan. Torrent tvingar fram SHA-1 och CAS tvingar fram MD5 vid genereringen.",
+  "whole": "Hela filen",
+  "pieces": "Delar",
+  "default_format": "Standardformat",
+  "default_format_help": "Format som förväljs i dialogrutan för seedgenerering.",
+  "format_policies": "Automatiska formatprinciper",
+  "format_policies_help": "Format som genereras automatiskt som sidofiler. Varje lagring kan fortfarande åsidosätta den globala principen.",
+  "oss_format": "OSS-format (.oss)",
+  "torrent_format": "Torrentfil (.torrent)",
+  "cas_format": "CAS-format (.cas)",
+  "other_options": "Övriga alternativ",
+  "auto_generate": "Generera seeds automatiskt vid uppladdning",
+  "auto_generate_help": "Generera sidofiler för seeds under uppladdning med hjälp av formatprinciperna ovan.",
+  "single_direct_preview": "Direkt förhandsvisning för seeds med en fil",
+  "single_direct_preview_help": "Öppna den inkluderade filen direkt i stället för vyn med seedinformation när ett seed innehåller exakt en fil.",
+  "cas_direct_access": "Direktåtkomst till CAS",
+  "cas_direct_access_help": "När ett CAS-seed med en fil öppnas laddas det snabbt upp till samma mapp och den återställda filen förhandsvisas."
+}

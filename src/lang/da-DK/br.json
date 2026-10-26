@@ -1,0 +1,17 @@
+{
+  "backup": "Sikkerhedskopi",
+  "restore": "Gendan",
+  "start_backup": "Start Sikkerhedskopi",
+  "finish_backup": "Afslut Sikkerhedskopi",
+  "success_backup_item": "[ {{item}} ] Backup lykkedes",
+  "failed_backup_item": "[ {{item}} ] Backup mislykkedes",
+  "no_file": "Ingen fil valgt",
+  "start_restore": "Start Gendannelse",
+  "finish_restore": "Afslut Gendannelse",
+  "success_restore_item": "[ {{item}} ] Gendannelse lykkedes",
+  "failed_restore_item": "[ {{item}} ] Gendannelse mislykkedes",
+  "override": "Tilsidesæt",
+  "encrypt_password_placeholder": "Lad være tom, hvis du ikke behøver kryptering",
+  "encrypt_password": "Kryptering Adgangskode",
+  "wrong_encrypt_password": "Forkert krypteringsadgangskode"
+}

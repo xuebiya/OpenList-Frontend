@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "تصدير",
+    "export_title": "تصدير التخزين إلى JSON",
+    "export_tips": "يرجى نسخ وحدة التخزين JSON أعلاه.",
+    "import": "استيراد",
+    "import_title": "استيراد التخزين من JSON",
+    "import_success": "تم الاستيراد بنجاح!",
+    "import_tips": "لصق وحدة تخزين JSON المصدرة للاستيراد.",
+    "mount_path": "مسار التحميل",
+    "mount_path-tips": "المسار الذي تريد ربطه إليه، فريد ولا يمكن تكراره",
+    "driver": "سائق",
+    "order": "طلب",
+    "order-tips": "يستخدم للفرز",
+    "usage": "الاستخدام",
+    "status": "الحالة",
+    "remark": "ملاحظة",
+    "cache_expiration": "انتهاء صلاحية ذاكرة التخزين المؤقت",
+    "cache_expiration-tips": "وقت انتهاء صلاحية ذاكرة التخزين المؤقت لهذا التخزين (الدقائق)",
+    "custom_cache_policies": "سياسات التخزين المؤقت المخصصة",
+    "custom_cache_policies-tips": "قواعد انتهاء صلاحية ذاكرة التخزين المؤقت لهذا التخزين (الدقائق)",
+    "down_proxy_url": "تنزيل رابط البروكسي",
+    "disable_proxy_sign": "تعطيل توقيع البروكسي",
+    "disable_proxy_sign-tips": "تعطيل تسجيل الدخول لتنزيل رابط البروكسي",
+    "web_proxy": "بروكسي ويب",
+    "webdav_policy": "سياسة WebDAV",
+    "proxy_range": "Proxy Range",
+    "proxy_range-tips": "الحاجة إلى تمكين الوكيل",
+    "webdav_policys": {
+      "302_redirect": "302 إعادة توجيه",
+      "use_proxy_url": "استخدام رابط البروكسي",
+      "native_proxy": "الوكيل الأصلي"
+    },
+    "order_by": "الترتيب حسب",
+    "order_bys": {
+      "name": "الاسم",
+      "size": "الحجم",
+      "modified": "معدّل"
+    },
+    "order_direction": "اتجاه الطلب",
+    "order_directions": {
+      "asc": "تصاعدي",
+      "desc": "تنازلي"
+    },
+    "extract_folder": "ترتيب المجلد",
+    "extract_folders": {
+      "front": " المجلدات في الأعلى",
+      "back": "المجلدات في الأسفل"
+    },
+    "enable_sign": "تمكين العلامة",
+    "disable_index": "تعطيل الفهرس"
+  },
+  "table_fields": {
+    "status": {
+      "work": "العمل",
+      "disabled": "معطل"
+    }
+  },
+  "other": {
+    "start_load_success": "بدء التحميل",
+    "load_all": "إعادة تحميل الكل",
+    "filter_by_driver": "تصفية حسب السائق",
+    "table_layout": "تخطيط الجدول"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "login_to": "Şu hesaba giriş yap",
+  "username-tips": "Kullanıcı adınızı girin",
+  "password-tips": "Şifrenizi girin",
+  "otp-tips": "OTP kodunuzu girin",
+  "remember": "Beni hatırla",
+  "forget": "Şifrenizi mi unuttunuz?",
+  "forget_url": "https://doc.oplist.org/faq/howto#how-to-get-password-if-i-forget-it",
+  "clear": "Temizle",
+  "login": "Giriş yap",
+  "use_guest": "Misafir olarak göz at",
+  "success": "Giriş başarılı"
+}

@@ -1,0 +1,23 @@
+{
+  "site_config": "サイト設定",
+  "site_url": "サイトURL",
+  "site_url_help": "共有リンクの生成時にシードソースへ埋め込まれる公開ベースURLです。空欄にすると、現在のリクエスト元を使用します。",
+  "default_matrix": "デフォルトのハッシュマトリックス",
+  "default_matrix_help": "ファイル一覧からシードを生成する際にあらかじめ選択されるハッシュです。生成時には、TorrentではSHA-1が、CASではMD5が強制的に使用されます。",
+  "whole": "ファイル全体",
+  "pieces": "ピース",
+  "default_format": "デフォルト形式",
+  "default_format_help": "シード生成ダイアログであらかじめ選択される形式です。",
+  "format_policies": "自動形式ポリシー",
+  "format_policies_help": "サイドカーとして自動生成される形式です。各ストレージでグローバルポリシーを上書きできます。",
+  "oss_format": "OSS（.oss）",
+  "torrent_format": "Torrent（.torrent）",
+  "cas_format": "CAS（.cas）",
+  "other_options": "その他のオプション",
+  "auto_generate": "アップロード時にシードを自動生成",
+  "auto_generate_help": "上記の形式ポリシーを使用して、アップロード中にサイドカーシードを生成します。",
+  "single_direct_preview": "単一ファイルシードの直接プレビュー",
+  "single_direct_preview_help": "シードに単一のファイルしか含まれていない場合は、シードの詳細ビューではなく、含まれているファイルを直接開きます。",
+  "cas_direct_access": "CAS直接アクセス",
+  "cas_direct_access_help": "単一ファイルのCASシードを開くと、同じフォルダーに高速アップロードし、復元されたファイルをプレビューします。"
+}

@@ -1,0 +1,17 @@
+{
+  "backup": "Cadangkan",
+  "restore": "Pulihkan",
+  "start_backup": "Mulai Pencadangan",
+  "finish_backup": "Selesaikan Pencadangan",
+  "success_backup_item": "[ {{item}} ] Pencadangan berhasil",
+  "failed_backup_item": "[ {{item}} ] Pencadangan gagal",
+  "no_file": "Tidak ada file yang dipilih",
+  "start_restore": "Mulai Pemulihan",
+  "finish_restore": "Selesaikan Pemulihan",
+  "success_restore_item": "[ {{item}} ] Pemulihan berhasil",
+  "failed_restore_item": "[ {{item}} ] Pemulihan gagal",
+  "override": "Timpa",
+  "encrypt_password_placeholder": "Biarkan kosong jika Anda tidak memerlukan enkripsi",
+  "encrypt_password": "Kata Sandi Enkripsi",
+  "wrong_encrypt_password": "Kata sandi enkripsi salah"
+}

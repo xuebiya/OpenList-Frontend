@@ -1,0 +1,23 @@
+{
+  "site_config": "Cấu hình trang web",
+  "site_url": "URL trang web",
+  "site_url_help": "URL cơ sở công khai được nhúng vào các nguồn seed khi tạo liên kết chia sẻ. Để trống để sử dụng nguồn gốc của yêu cầu hiện tại.",
+  "default_matrix": "Ma trận băm mặc định",
+  "default_matrix_help": "Các hàm băm được chọn trước khi tạo seed từ danh sách tệp. Torrent sẽ bắt buộc sử dụng SHA-1 và CAS sẽ bắt buộc sử dụng MD5 tại thời điểm tạo.",
+  "whole": "Toàn bộ tệp",
+  "pieces": "Các phần",
+  "default_format": "Định dạng mặc định",
+  "default_format_help": "Định dạng được chọn trước trong hộp thoại tạo seed.",
+  "format_policies": "Chính sách định dạng tự động",
+  "format_policies_help": "Các định dạng được tự động tạo dưới dạng tệp phụ trợ. Mỗi vùng lưu trữ vẫn có thể ghi đè chính sách chung.",
+  "oss_format": "Định dạng OSS (.oss)",
+  "torrent_format": "Torrent (.torrent)",
+  "cas_format": "Định dạng CAS (.cas)",
+  "other_options": "Tùy chọn khác",
+  "auto_generate": "Tự động tạo seed khi tải lên",
+  "auto_generate_help": "Tạo seed phụ trợ trong khi tải lên bằng các chính sách định dạng ở trên.",
+  "single_direct_preview": "Xem trước trực tiếp cho seed một tệp",
+  "single_direct_preview_help": "Mở trực tiếp tệp chứa bên trong thay vì chế độ xem chi tiết seed khi một seed chỉ chứa chính xác một tệp.",
+  "cas_direct_access": "Truy cập trực tiếp CAS",
+  "cas_direct_access_help": "Khi mở seed CAS một tệp, tải nhanh tệp đó lên cùng thư mục và xem trước tệp đã khôi phục."
+}

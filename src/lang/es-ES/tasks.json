@@ -1,0 +1,66 @@
+{
+  "offline_download": "Descargar archivo al dispositivo local",
+  "offline_download_transfer": "Transferir el archivo descargado al almacenamiento correspondiente",
+  "upload": "Subir archivo al almacenamiento correspondiente",
+  "copy": "Copiar archivo de un almacenamiento a otro almacenamiento",
+  "move": "Mover archivo de un almacenamiento a otro almacenamiento",
+  "decompress": "Descargar y descomprimir un archivo",
+  "decompress_upload": "Subir archivos extraídos al almacenamiento de destino",
+  "done": "Completado",
+  "undone": "Ejecutando",
+  "clear_succeeded": "Limpieza exitosa",
+  "retry": "Reintentar",
+  "retry_failed": "No se pudo reintentar",
+  "state": {
+    "0": "Pendiente",
+    "1": "Ejecutando",
+    "2": "Éxito",
+    "3": "Cancelar",
+    "4": "Cancelado",
+    "5": "Error",
+    "6": "Fallo",
+    "7": "Fallo",
+    "8": "Esperando a reintentar",
+    "9": "Preparando para reintentar"
+  },
+  "retry_selected": "Reintentar seleccionados",
+  "cancel_selected": "Cancelar selección",
+  "delete_selected": "Eliminar seleccionados",
+  "filter": "Filtro",
+  "expand": "Expandir",
+  "fold": "Plegar",
+  "expand_all": "Expandir todo",
+  "fold_all": "Plegar todo",
+  "attr": {
+    "name": "Nombre",
+    "creator": "Creador",
+    "state": "Estado",
+    "progress": "Progreso",
+    "speed": "Velocidad",
+    "operation": "Operación",
+    "copy": {
+      "src": "Ruta de origen",
+      "dst": "Ruta de destino"
+    },
+    "upload": {
+      "path": "Ruta"
+    },
+    "offline_download": {
+      "url": "URL",
+      "path": "Ruta de destino",
+      "transfer_src": "Ruta de origen",
+      "transfer_src_local": "Ruta de origen (local)",
+      "transfer_dst": "Ruta de destino"
+    },
+    "decompress": {
+      "src": "Ruta de origen",
+      "dst": "Ruta de destino",
+      "inner": "Ruta interior",
+      "password": "Contraseña de extracción"
+    },
+    "time_elapsed": "Tiempo transcurrido",
+    "status": "Estado",
+    "err": "Error"
+  },
+  "show_only_mine": "Mostrar solo mis tareas"
+}

@@ -1,0 +1,66 @@
+{
+  "offline_download": "Unduh file ke perangkat lokal",
+  "offline_download_transfer": "Pindahkan file yang diunduh ke penyimpanan yang sesuai",
+  "upload": "Unggah file ke penyimpanan yang sesuai",
+  "copy": "Salin file dari satu penyimpanan ke penyimpanan lain",
+  "move": "Pindahkan file dari satu penyimpanan ke penyimpanan lain",
+  "decompress": "Unduh dan ekstrak file arsip",
+  "decompress_upload": "Unggah file hasil ekstraksi ke penyimpanan tujuan",
+  "done": "Selesai",
+  "undone": "Sedang berjalan",
+  "clear_succeeded": "Berhasil dibersihkan",
+  "retry": "Coba lagi",
+  "retry_failed": "Gagal mencoba lagi",
+  "state": {
+    "0": "Menunggu",
+    "1": "Sedang berjalan",
+    "2": "Berhasil",
+    "3": "Membatalkan",
+    "4": "Dibatalkan",
+    "5": "Kesalahan",
+    "6": "Mengalami kegagalan",
+    "7": "Gagal",
+    "8": "Menunggu untuk Dicoba Lagi",
+    "9": "Menyiapkan Percobaan Ulang"
+  },
+  "retry_selected": "Coba Lagi yang Dipilih",
+  "cancel_selected": "Batalkan yang Dipilih",
+  "delete_selected": "Hapus yang Dipilih",
+  "filter": "Saring",
+  "expand": "Perluas",
+  "fold": "Ciutkan",
+  "expand_all": "Perluas Semua",
+  "fold_all": "Ciutkan Semua",
+  "attr": {
+    "name": "Nama",
+    "creator": "Pembuat",
+    "state": "Status",
+    "progress": "Progres",
+    "speed": "Kecepatan",
+    "operation": "Operasi",
+    "copy": {
+      "src": "Path Sumber",
+      "dst": "Path Tujuan"
+    },
+    "upload": {
+      "path": "Jalur"
+    },
+    "offline_download": {
+      "url": "URL",
+      "path": "Path Tujuan",
+      "transfer_src": "Path Sumber",
+      "transfer_src_local": "Path Sumber (Lokal)",
+      "transfer_dst": "Path Tujuan"
+    },
+    "decompress": {
+      "src": "Path Sumber",
+      "dst": "Path Tujuan",
+      "inner": "Path Internal",
+      "password": "Kata Sandi Ekstraksi"
+    },
+    "time_elapsed": "Waktu Berlalu",
+    "status": "Status",
+    "err": "Kesalahan"
+  },
+  "show_only_mine": "Tampilkan hanya tugas saya"
+}

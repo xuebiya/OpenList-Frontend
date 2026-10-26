@@ -1,0 +1,43 @@
+{
+  "expires": "Waktu kedaluwarsa",
+  "id": "ID",
+  "id_placeholder": "ID khusus (opsional, kosongkan untuk ID acak)",
+  "accessed": "Jumlah akses",
+  "max_accessed": "Jumlah akses maksimum",
+  "pwd": "Kode berbagi",
+  "files": "Path yang dibagikan",
+  "files_etc": " dan {{more}} lainnya",
+  "files_placeholder": "Masukkan path file atau folder, satu per baris",
+  "add_path": "Tambahkan Path",
+  "creator": "Pembuat",
+  "status": "Status",
+  "status_list": {
+    "disabled": "Dinonaktifkan",
+    "invalid": "Tidak valid",
+    "work": "Berfungsi",
+    "denied": "Tidak memiliki izin"
+  },
+  "remark": "Catatan",
+  "readme": "Deskripsi",
+  "header": "Deskripsi header",
+  "order_by": "Urutkan berdasarkan",
+  "order_bys": {
+    "name": "Nama",
+    "size": "Ukuran",
+    "modified": "Diubah"
+  },
+  "order_direction": "Arah pengurutan",
+  "order_directions": {
+    "asc": "Menaik",
+    "desc": "Menurun"
+  },
+  "extract_folder": "Urutan folder",
+  "extract_folders": {
+    "front": "Folder di atas",
+    "back": "Folder di bawah"
+  },
+  "input_password": "Silakan masukkan Kode Berbagi",
+  "share_gone": "Berbagi ini telah kedaluwarsa atau dibatalkan",
+  "copy_msg": "Salin tautan",
+  "no_permission_tip": "Untuk membuat berbagi, Anda memerlukan izin \"Berbagi\"."
+}

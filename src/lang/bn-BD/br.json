@@ -1,0 +1,17 @@
+{
+  "backup": "ব্যাকআপ",
+  "restore": "পুনরুদ্ধার",
+  "start_backup": "ব্যাকআপ শুরু করুন",
+  "finish_backup": "ব্যাকআপ সম্পন্ন করুন",
+  "success_backup_item": "[ {{item}} ] ব্যাকআপ সফল হয়েছে",
+  "failed_backup_item": "[ {{item}} ] ব্যাকআপ ব্যর্থ হয়েছে",
+  "no_file": "কোনো ফাইল নির্বাচন করা হয়নি",
+  "start_restore": "পুনরুদ্ধার শুরু করুন",
+  "finish_restore": "পুনরুদ্ধার সম্পন্ন করুন",
+  "success_restore_item": "[ {{item}} ] পুনরুদ্ধার সফল হয়েছে",
+  "failed_restore_item": "[ {{item}} ] পুনরুদ্ধার ব্যর্থ হয়েছে",
+  "override": "ওভাররাইড",
+  "encrypt_password_placeholder": "এনক্রিপশন প্রয়োজন না হলে খালি রাখুন",
+  "encrypt_password": "এনক্রিপশন পাসওয়ার্ড",
+  "wrong_encrypt_password": "এনক্রিপশনের পাসওয়ার্ডটি ভুল"
+}

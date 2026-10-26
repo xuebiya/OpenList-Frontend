@@ -1,0 +1,18 @@
+{
+  "path": "Yol",
+  "password": "Şifre",
+  "read_users": "Kullanıcıları Okuma",
+  "read_users_help": "Yalnızca gerekli izne sahip seçili kullanıcılar bu yolu okuyabilir.",
+  "write_users": "Kullanıcıları Yazma",
+  "write_users_help": "Yalnızca gerekli izne sahip seçili kullanıcılar bu yola yazabilir.",
+  "all_permitted_users": "İzin Verilen Tüm Kullanıcılar",
+  "write": "İçerik Yazma Denetimini Atlama",
+  "write_help": "İçerik yazma işlemleri (oluşturma/yükleme/değiştirme) için kullanıcı izin denetimlerini atlar. DİKKATLİ KULLANIN.",
+  "hide": "Gizle",
+  "readme": "Benioku",
+  "readme_help": "Alt kısımda bir Markdown metni oluşturur; içerik veya bağlantı desteklenir",
+  "header": "Üst bilgi",
+  "header_help": "Üst kısımda bir Markdown metni oluşturur; içerik veya bağlantı desteklenir",
+  "apply_sub": "Alt klasörlere uygula",
+  "hide_help": "Her satıra bir düzenli ifade"
+}

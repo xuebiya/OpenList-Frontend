@@ -1,0 +1,69 @@
+{
+  "title": "外掛",
+  "name": "外掛名稱",
+  "type": "類型",
+  "version": "版本",
+  "author": "作者",
+  "status_col": "狀態",
+  "empty_desc": "未提供說明",
+  "subtitle": "透過 ZIP 檔案上傳及第三方 URL 安裝，管理與設定 OpenList 擴充功能",
+  "search_placeholder": "依名稱、ID、說明或權限搜尋外掛……",
+  "filter_type": "依類型篩選",
+  "types": {
+    "all": "所有類型",
+    "ui": "介面與小工具",
+    "preview": "預覽器",
+    "tool": "工具",
+    "theme": "主題與效果",
+    "integration": "整合",
+    "system": "系統核心"
+  },
+  "status": {
+    "enabled": "已啟用",
+    "disabled": "已停用",
+    "builtin": "內建",
+    "custom": "自訂",
+    "high_privilege": "高權限"
+  },
+  "actions": {
+    "install": "安裝外掛",
+    "reinstall": "重新安裝",
+    "uninstall": "解除安裝",
+    "config": "設定",
+    "view_details": "詳細資訊",
+    "enable": "啟用",
+    "disable": "停用",
+    "export": "匯出設定",
+    "import": "匯入設定",
+    "refresh": "重新整理",
+    "save": "儲存設定",
+    "cancel": "取消",
+    "install_url": "透過 URL 安裝"
+  },
+  "install_modal": {
+    "install_type": "安裝來源",
+    "zip_tab": "上傳 ZIP 套件",
+    "url_tab": "透過 URL 安裝",
+    "zip_file_label": "外掛 ZIP 套件",
+    "zip_drop_title": "點擊選取或將外掛 ZIP 檔案拖放至此處",
+    "zip_drop_help": "支援包含 plugin.json / manifest.json 的開源外掛封存檔",
+    "url_label": "外掛資訊清單 URL",
+    "url_placeholder": "例如：https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "支援開源外掛 JSON 資訊清單連結（GitHub Raw、jsDelivr、unpkg 等）",
+    "high_privilege_label": "授予系統高權限（Root / 管理員權限）",
+    "high_privilege_help": "允許直接存取低階檔案系統 API、重新載入儲存驅動程式、完整讀寫網站設定，以及傳送原始 HTTP 請求",
+    "fetch_and_install": "擷取並安裝"
+  },
+  "config_modal": {
+    "title": "外掛設定",
+    "no_config": "此外掛不需要設定參數。",
+    "save_success": "外掛設定已成功儲存"
+  },
+  "delete_confirm": "確定要解除安裝並移除此外掛嗎？此操作無法復原。",
+  "import_modal": {
+    "title": "匯入外掛備份",
+    "paste_json": "在此貼上外掛 JSON 資料",
+    "import_success": "外掛已成功匯入"
+  },
+  "empty_installed": "尚未安裝任何外掛。點擊「安裝外掛」以上傳 ZIP 套件或透過 URL 安裝。"
+}

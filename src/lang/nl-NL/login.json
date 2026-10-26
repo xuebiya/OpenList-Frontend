@@ -1,0 +1,13 @@
+{
+  "login_to": "Log in op de",
+  "username-tips": "Voer je gebruikersnaam in",
+  "password-tips": "Voer je wachtwoord in",
+  "otp-tips": "Voer je OTP Code in",
+  "remember": "Mijn gegevens onthouden",
+  "forget": "Wachtwoord vergeten?",
+  "forget_url": "https://doc.oplist.org/faq/howto#how-to-get-password-if-i-vergeget-it",
+  "clear": "Verwijderen",
+  "login": "Aanmelden",
+  "use_guest": "Blader als gast",
+  "success": "Inloggen succesvol"
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Eklentiler",
+  "name": "Eklenti Adı",
+  "type": "Tür",
+  "version": "Sürüm",
+  "author": "Yazar",
+  "status_col": "Durum",
+  "empty_desc": "Açıklama sağlanmadı",
+  "subtitle": "OpenList uzantılarını ZIP dosyası yükleme ve üçüncü taraf URL kurulumu ile yönetin ve yapılandırın",
+  "search_placeholder": "Eklentileri ada, kimliğe, açıklamaya veya izinlere göre arayın...",
+  "filter_type": "Türe göre filtrele",
+  "types": {
+    "all": "Tüm Türler",
+    "ui": "Arayüz ve Bileşenler",
+    "preview": "Önizleyiciler",
+    "tool": "Araçlar",
+    "theme": "Temalar ve Efektler",
+    "integration": "Entegrasyonlar",
+    "system": "Sistem Çekirdeği"
+  },
+  "status": {
+    "enabled": "Etkin",
+    "disabled": "Devre dışı",
+    "builtin": "Yerleşik",
+    "custom": "Özel",
+    "high_privilege": "Yüksek Ayrıcalık"
+  },
+  "actions": {
+    "install": "Eklenti Yükle",
+    "reinstall": "Yeniden Yükle",
+    "uninstall": "Kaldır",
+    "config": "Ayarlar",
+    "view_details": "Ayrıntılar",
+    "enable": "Etkinleştir",
+    "disable": "Devre Dışı Bırak",
+    "export": "Yapılandırmayı Dışa Aktar",
+    "import": "Yapılandırmayı İçe Aktar",
+    "refresh": "Yenile",
+    "save": "Ayarları Kaydet",
+    "cancel": "İptal",
+    "install_url": "URL ile Yükle"
+  },
+  "install_modal": {
+    "install_type": "Kurulum Kaynağı",
+    "zip_tab": "ZIP Paketi Yükle",
+    "url_tab": "URL ile Yükle",
+    "zip_file_label": "Eklenti ZIP Paketi",
+    "zip_drop_title": "Eklentinin ZIP dosyasını seçmek için tıklayın veya buraya sürükleyip bırakın",
+    "zip_drop_help": "plugin.json / manifest.json içeren açık kaynaklı eklenti arşivlerini destekler",
+    "url_label": "Eklenti Manifestosu URL'si",
+    "url_placeholder": "örn.: https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "Açık kaynaklı eklenti JSON manifestosu bağlantılarını destekler (GitHub Raw, jsDelivr, unpkg vb.)",
+    "high_privilege_label": "Sistem Yüksek Ayrıcalığını Ver (Root / Yönetici Ayrıcalıkları)",
+    "high_privilege_help": "Düşük düzey dosya sistemi API'lerine, depolama sürücüsünün yeniden yüklenmesine, tüm site ayarlarının okunup yazılmasına ve ham HTTP isteklerine doğrudan erişim sağlar",
+    "fetch_and_install": "Getir ve Yükle"
+  },
+  "config_modal": {
+    "title": "Eklenti Yapılandırması",
+    "no_config": "Bu eklenti için yapılandırma parametresi gerekmiyor.",
+    "save_success": "Eklenti yapılandırması başarıyla kaydedildi"
+  },
+  "delete_confirm": "Bu eklentiyi kaldırmak ve silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+  "import_modal": {
+    "title": "Eklenti Yedeğini İçe Aktar",
+    "paste_json": "Eklentilerin JSON verilerini buraya yapıştırın",
+    "import_success": "Eklentiler başarıyla içe aktarıldı"
+  },
+  "empty_installed": "Henüz hiç eklenti yüklenmedi. ZIP paketi yüklemek veya URL'den yüklemek için \"Eklenti Yükle\" seçeneğine tıklayın."
+}

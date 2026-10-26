@@ -1,0 +1,23 @@
+{
+  "site_config": "Configurazione del sito",
+  "site_url": "URL del sito",
+  "site_url_help": "URL di base pubblico incorporato nelle sorgenti seed durante la generazione dei link di condivisione. Lascia vuoto per usare l'origine della richiesta corrente.",
+  "default_matrix": "Matrice hash predefinita",
+  "default_matrix_help": "Hash preselezionati durante la generazione dei seed dall'elenco dei file. Torrent imposta SHA-1 e CAS imposta MD5 al momento della generazione.",
+  "whole": "File intero",
+  "pieces": "Parti",
+  "default_format": "Formato predefinito",
+  "default_format_help": "Formato preselezionato nella finestra di generazione dei seed.",
+  "format_policies": "Criteri di generazione automatica dei formati",
+  "format_policies_help": "Formati generati automaticamente come file sidecar. Ogni archivio può comunque sostituire il criterio globale.",
+  "oss_format": "Formato OSS (.oss)",
+  "torrent_format": "Formato torrent (.torrent)",
+  "cas_format": "Formato CAS (.cas)",
+  "other_options": "Altre opzioni",
+  "auto_generate": "Genera automaticamente i seed al caricamento",
+  "auto_generate_help": "Genera file seed sidecar durante il caricamento, usando i criteri di formato indicati sopra.",
+  "single_direct_preview": "Anteprima diretta per i seed con un solo file",
+  "single_direct_preview_help": "Apri direttamente il file contenuto invece della pagina dei dettagli del seed quando un seed contiene esattamente un file.",
+  "cas_direct_access": "Accesso diretto CAS",
+  "cas_direct_access_help": "Quando apri un seed CAS con un solo file, caricalo rapidamente nella stessa cartella e visualizza un'anteprima del file ripristinato."
+}

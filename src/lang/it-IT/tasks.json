@@ -1,0 +1,66 @@
+{
+  "offline_download": "Scarica file sul dispositivo locale",
+  "offline_download_transfer": "Trasferisci il file scaricato nella memoria corrispondente",
+  "upload": "Carica il file nella memoria corrispondente",
+  "copy": "Copia il file da un archivio su un altro archivio",
+  "move": "Sposta il file da un archivio a un altro archivio",
+  "decompress": "Scaricare e decomprimere un file archivio",
+  "decompress_upload": "Carica i file estratti nella memoria di destinazione",
+  "done": "Completato",
+  "undone": "Esecuzione",
+  "clear_succeeded": "Pulisci Riuscito",
+  "retry": "Riprova",
+  "retry_failed": "Riprova Non Riuscita",
+  "state": {
+    "0": "In Attesa",
+    "1": "Esecuzione",
+    "2": "Riuscito",
+    "3": "Annullamento",
+    "4": "Annullato",
+    "5": "Errore",
+    "6": "Fallito",
+    "7": "Fallito",
+    "8": "In attesa di riprova",
+    "9": "Preparazione a Riprova"
+  },
+  "retry_selected": "Riprova Selezionato",
+  "cancel_selected": "Annulla Selezionato",
+  "delete_selected": "Elimina Selezionati",
+  "filter": "Filtro",
+  "expand": "Espandi",
+  "fold": "Piega",
+  "expand_all": "Espandi Tutto",
+  "fold_all": "Piega Tutto",
+  "attr": {
+    "name": "Nome",
+    "creator": "Creatore",
+    "state": "Stato",
+    "progress": "Avanzamento",
+    "speed": "Velocità",
+    "operation": "Operazione",
+    "copy": {
+      "src": "Percorso Sorgente",
+      "dst": "Percorso Di Destinazione"
+    },
+    "upload": {
+      "path": "Percorso"
+    },
+    "offline_download": {
+      "url": "URL",
+      "path": "Percorso Di Destinazione",
+      "transfer_src": "Percorso Sorgente",
+      "transfer_src_local": "Percorso Sorgente (Locale)",
+      "transfer_dst": "Percorso Di Destinazione"
+    },
+    "decompress": {
+      "src": "Percorso Sorgente",
+      "dst": "Percorso Di Destinazione",
+      "inner": "Percorso Interno",
+      "password": "Password Di Estrazione"
+    },
+    "time_elapsed": "Tempo Trascorso",
+    "status": "Stato",
+    "err": "Errore"
+  },
+  "show_only_mine": "Mostra solo le mie attività"
+}

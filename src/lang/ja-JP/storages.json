@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "エクスポート",
+    "export_title": "ストレージを JSON にエクスポート",
+    "export_tips": "上記のストレージ JSON をコピーしてください。",
+    "import": "インポート",
+    "import_title": "JSONからストレージをインポート",
+    "import_success": "インポートに成功しました！",
+    "import_tips": "エクスポートされたストレージ JSON をインポートするために貼り付けます。",
+    "mount_path": "マウントパス",
+    "mount_path-tips": "マウントしたいパスはユニークで繰り返すことはできません",
+    "driver": "ドライバ",
+    "order": "ご注文",
+    "order-tips": "Used for sorting",
+    "usage": "使用法",
+    "status": "ステータス",
+    "remark": "備考",
+    "cache_expiration": "キャッシュ有効期限",
+    "cache_expiration-tips": "このストレージのキャッシュ有効期限 (分)",
+    "custom_cache_policies": "カスタム キャッシュ ポリシー",
+    "custom_cache_policies-tips": "このストレージのキャッシュ有効期限のルール (分)",
+    "down_proxy_url": "プロキシ URL をダウンロード",
+    "disable_proxy_sign": "プロキシサインを無効にする",
+    "disable_proxy_sign-tips": "ダウンロードプロキシURLのサインを無効にする",
+    "web_proxy": "Webプロキシ",
+    "webdav_policy": "WebDAV ポリシー",
+    "proxy_range": "Proxy Range",
+    "proxy_range-tips": "プロキシを有効にする必要があります",
+    "webdav_policys": {
+      "302_redirect": "302 リダイレクト",
+      "use_proxy_url": "プロキシ URL を使用",
+      "native_proxy": "ネイティブプロキシ"
+    },
+    "order_by": "並び替え",
+    "order_bys": {
+      "name": "名前",
+      "size": "サイズ",
+      "modified": "修正されました"
+    },
+    "order_direction": "注文の方向",
+    "order_directions": {
+      "asc": "昇順",
+      "desc": "降順"
+    },
+    "extract_folder": "フォルダ順序",
+    "extract_folders": {
+      "front": " フォルダの上部へ",
+      "back": "フォルダの下"
+    },
+    "enable_sign": "看板を有効にする",
+    "disable_index": "インデックスを無効にする"
+  },
+  "table_fields": {
+    "status": {
+      "work": "作業中",
+      "disabled": "無効"
+    }
+  },
+  "other": {
+    "start_load_success": "読み込みを開始",
+    "load_all": "すべて再読み込み",
+    "filter_by_driver": "ドライバーでフィルター",
+    "table_layout": "テーブルのレイアウト"
+  }
+}

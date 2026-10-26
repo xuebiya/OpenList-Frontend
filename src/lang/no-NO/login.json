@@ -1,0 +1,13 @@
+{
+  "login_to": "Logg inn i",
+  "username-tips": "Skriv inn ditt brukernavn",
+  "password-tips": "Skriv inn passordet",
+  "otp-tips": "Angi din OTP-kode",
+  "remember": "Husk meg",
+  "forget": "Glemt passord?",
+  "forget_url": "https://doc.oplist.org/faq/howto#how-to-get-password-if-i-forget-it",
+  "clear": "Tøm",
+  "login": "Innlogging",
+  "use_guest": "Bla gjennom som gjest",
+  "success": "Innlogging vellykket"
+}

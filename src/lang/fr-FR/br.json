@@ -1,0 +1,17 @@
+{
+  "backup": "Sauvegarde",
+  "restore": "Restaurer",
+  "start_backup": "Démarrer la sauvegarde",
+  "finish_backup": "Terminer la sauvegarde",
+  "success_backup_item": "[ {{item}} ] La sauvegarde a été effectuée avec succès",
+  "failed_backup_item": "[ {{item}} ] La sauvegarde a échoué",
+  "no_file": "Aucun fichier sélectionné",
+  "start_restore": "Démarrer la restauration",
+  "finish_restore": "Terminer la restauration",
+  "success_restore_item": "[ {{item}} ] Restauration réussie",
+  "failed_restore_item": "[ {{item}} ] Échec de la restauration",
+  "override": "Remplacer",
+  "encrypt_password_placeholder": "Laisser vide si vous n'avez pas besoin de cryptage",
+  "encrypt_password": "Mot de passe de chiffrement",
+  "wrong_encrypt_password": "Mot de passe de cryptage incorrect"
+}

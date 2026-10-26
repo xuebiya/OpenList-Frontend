@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "Ekspor",
+    "export_title": "Ekspor Penyimpanan ke JSON",
+    "export_tips": "Silakan salin JSON penyimpanan di atas.",
+    "import": "Impor",
+    "import_title": "Impor Penyimpanan dari JSON",
+    "import_success": "Berhasil diimpor!",
+    "import_tips": "Tempelkan JSON penyimpanan yang diekspor untuk mengimpor.",
+    "mount_path": "Jalur Mount",
+    "mount_path-tips": "Jalur yang ingin Anda pasang; jalur ini unik dan tidak dapat digunakan berulang kali",
+    "driver": "Pengandar",
+    "order": "Urutan",
+    "order-tips": "Digunakan untuk pengurutan",
+    "usage": "Penggunaan",
+    "status": "Keadaan",
+    "remark": "Catatan",
+    "cache_expiration": "Masa Berlaku Cache",
+    "cache_expiration-tips": "Waktu kedaluwarsa cache untuk penyimpanan ini (menit)",
+    "custom_cache_policies": "Kebijakan Cache Kustom",
+    "custom_cache_policies-tips": "Aturan masa berlaku cache untuk penyimpanan ini (menit)",
+    "down_proxy_url": "URL Proxy Unduhan",
+    "disable_proxy_sign": "Nonaktifkan Tanda Tangan Proxy",
+    "disable_proxy_sign-tips": "Nonaktifkan tanda tangan untuk URL proxy unduhan",
+    "web_proxy": "Proxy Web",
+    "webdav_policy": "Kebijakan WebDAV",
+    "proxy_range": "Rentang Proxy",
+    "proxy_range-tips": "Proxy perlu diaktifkan",
+    "webdav_policys": {
+      "302_redirect": "Pengalihan 302",
+      "use_proxy_url": "Gunakan URL proxy",
+      "native_proxy": "Proxy bawaan"
+    },
+    "order_by": "Urutkan Berdasarkan",
+    "order_bys": {
+      "name": "Nama",
+      "size": "Ukuran",
+      "modified": "Dimodifikasi"
+    },
+    "order_direction": "Arah Pengurutan",
+    "order_directions": {
+      "asc": "Urut Naik",
+      "desc": "Urut Turun"
+    },
+    "extract_folder": "Urutan Folder",
+    "extract_folders": {
+      "front": " Folder di Atas",
+      "back": "Folder di Bawah"
+    },
+    "enable_sign": "Aktifkan tanda tangan",
+    "disable_index": "Nonaktifkan indeks"
+  },
+  "table_fields": {
+    "status": {
+      "work": "Sedang Berjalan",
+      "disabled": "Dinonaktifkan"
+    }
+  },
+  "other": {
+    "start_load_success": "Mulai memuat",
+    "load_all": "Muat Ulang Semua",
+    "filter_by_driver": "Filter berdasarkan driver",
+    "table_layout": "Tata letak tabel"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "site_config": "사이트 구성",
+  "site_url": "사이트 URL",
+  "site_url_help": "공유 링크를 생성할 때 시드 소스에 삽입되는 공개 기본 URL입니다. 비워 두면 현재 요청 오리진을 사용합니다.",
+  "default_matrix": "기본 해시 매트릭스",
+  "default_matrix_help": "파일 목록에서 시드를 생성할 때 미리 선택되는 해시입니다. 생성 시 토렌트는 SHA-1을 사용하고 CAS는 MD5를 사용합니다.",
+  "whole": "전체 파일",
+  "pieces": "조각",
+  "default_format": "기본 형식",
+  "default_format_help": "시드 생성 대화 상자에서 미리 선택되는 형식입니다.",
+  "format_policies": "자동 형식 정책",
+  "format_policies_help": "사이드카로 자동 생성되는 형식입니다. 각 저장소에서 전역 정책을 재정의할 수 있습니다.",
+  "oss_format": "OSS 형식 (.oss)",
+  "torrent_format": "토렌트 (.torrent)",
+  "cas_format": "CAS 형식 (.cas)",
+  "other_options": "기타 옵션",
+  "auto_generate": "업로드 시 시드 자동 생성",
+  "auto_generate_help": "업로드하는 동안 위의 형식 정책을 사용하여 사이드카 시드를 생성합니다.",
+  "single_direct_preview": "단일 파일 시드 직접 미리 보기",
+  "single_direct_preview_help": "시드에 정확히 하나의 파일이 포함된 경우 시드 세부 정보 보기 대신 포함된 파일을 직접 엽니다.",
+  "cas_direct_access": "CAS 직접 액세스",
+  "cas_direct_access_help": "단일 파일 CAS 시드를 열 때 같은 폴더에 빠른 업로드하고 복원된 파일을 미리 봅니다."
+}

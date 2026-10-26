@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "برآمد کریں",
+    "export_title": "اسٹوریج کو JSON میں برآمد کریں",
+    "export_tips": "براہ کرم اوپر موجود اسٹوریج JSON کاپی کریں۔",
+    "import": "درآمد کریں",
+    "import_title": "JSON سے اسٹوریج درآمد کریں",
+    "import_success": "کامیابی سے درآمد ہو گیا!",
+    "import_tips": "درآمد کرنے کے لیے برآمد شدہ اسٹوریج JSON پیسٹ کریں۔",
+    "mount_path": "ماؤنٹ پاتھ",
+    "mount_path-tips": "وہ پاتھ جسے آپ ماؤنٹ کرنا چاہتے ہیں، یہ منفرد ہونا چاہیے اور دہرایا نہیں جا سکتا",
+    "driver": "ڈرائیور",
+    "order": "ترتیب",
+    "order-tips": "ترتیب دینے کے لیے استعمال ہوتا ہے",
+    "usage": "استعمال",
+    "status": "حیثیت",
+    "remark": "تبصرہ",
+    "cache_expiration": "کیش کی میعاد ختم ہونے کا وقت",
+    "cache_expiration-tips": "اس اسٹوریج کے لیے کیش کی میعاد ختم ہونے کا وقت (منٹ)",
+    "custom_cache_policies": "حسب ضرورت کیش پالیسیاں",
+    "custom_cache_policies-tips": "اس اسٹوریج کے لیے کیش کی میعاد ختم ہونے کے قواعد (منٹ)",
+    "down_proxy_url": "ڈاؤن لوڈ پراکسی URL",
+    "disable_proxy_sign": "پراکسی دستخط غیر فعال کریں",
+    "disable_proxy_sign-tips": "ڈاؤن لوڈ پراکسی URL کے دستخط کو غیر فعال کریں",
+    "web_proxy": "ویب پراکسی",
+    "webdav_policy": "WebDAV پالیسی",
+    "proxy_range": "پراکسی رینج",
+    "proxy_range-tips": "پراکسی فعال کرنا ضروری ہے",
+    "webdav_policys": {
+      "302_redirect": "302 ری ڈائریکٹ",
+      "use_proxy_url": "پراکسی URL استعمال کریں",
+      "native_proxy": "مقامی پراکسی"
+    },
+    "order_by": "ترتیب دیں بذریعہ",
+    "order_bys": {
+      "name": "نام",
+      "size": "سائز",
+      "modified": "ترمیم شدہ"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "extract_folder": "فولڈر کی ترتیب",
+    "extract_folders": {
+      "front": " فولڈرز اوپر",
+      "back": "فولڈرز نیچے"
+    },
+    "enable_sign": "دستخط فعال کریں",
+    "disable_index": "انڈیکس غیر فعال کریں"
+  },
+  "table_fields": {
+    "status": {
+      "work": "کام جاری ہے",
+      "disabled": "غیر فعال"
+    }
+  },
+  "other": {
+    "start_load_success": "لوڈنگ شروع کریں",
+    "load_all": "سب کو دوبارہ لوڈ کریں",
+    "filter_by_driver": "ڈرائیور کے ذریعے فلٹر کریں",
+    "table_layout": "ٹیبل لے آؤٹ"
+  }
+}

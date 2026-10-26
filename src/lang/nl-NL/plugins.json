@@ -1,0 +1,69 @@
+{
+  "title": "Plug-ins",
+  "name": "Plugin naam",
+  "type": "Type",
+  "version": "Versie",
+  "author": "Auteur",
+  "status_col": "status",
+  "empty_desc": "Geen beschrijving opgegeven",
+  "subtitle": "Beheer en configureer OpenList extensies met ZIP-bestand upload en URL installatie door derden",
+  "search_placeholder": "Plugins zoeken op naam, ID, beschrijving of permissies...",
+  "filter_type": "Filteren op type",
+  "types": {
+    "all": "Alle typen",
+    "ui": "UI & Widgets",
+    "preview": "Voorbeeldkijkers",
+    "tool": "Hulpmiddelen",
+    "theme": "Thema's & effecten",
+    "integration": "Integraties",
+    "system": "Systeem kern"
+  },
+  "status": {
+    "enabled": "Ingeschakeld",
+    "disabled": "Uitgeschakeld",
+    "builtin": "Ingebouwd",
+    "custom": "Aangepaste",
+    "high_privilege": "Hoge Privilege"
+  },
+  "actions": {
+    "install": "Installeer Plugin",
+    "reinstall": "Herinstalleren",
+    "uninstall": "De-installeer",
+    "config": "Instellingen",
+    "view_details": "Beschrijving",
+    "enable": "Inschakelen",
+    "disable": "Uitschakelen",
+    "export": "Configuratie exporteren",
+    "import": "Configuratie importeren",
+    "refresh": "Vernieuwen",
+    "save": "Instellingen opslaan",
+    "cancel": "annuleren",
+    "install_url": "Installeren via URL"
+  },
+  "install_modal": {
+    "install_type": "Installatie Bron",
+    "zip_tab": "ZIP uploaden",
+    "url_tab": "Installeren via URL",
+    "zip_file_label": "ZIP Plugin Pakket",
+    "zip_drop_title": "Klik hier om te selecteren of slepen van plugin zip-bestand",
+    "zip_drop_help": "Ondersteunt open-source plugin archieven met plugin.json / manifest.json",
+    "url_label": "Plugin Manifest URL",
+    "url_placeholder": "bijvoorbeeld: https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "Ondersteunt open-source plugin JSON manifest links (GitHub Raw, jsDelivr, unpkg, etc.)",
+    "high_privilege_label": "Geef Systeem Hoge Privilege (Root / Admin Privileges)",
+    "high_privilege_help": "Sta directe toegang toe tot low-level bestandssysteem API's, opslag stuurprogramma herladen, volledige site instellingen lezen/schrijven en onbewerkte HTTP-verzoeken",
+    "fetch_and_install": "Ophalen en installeren"
+  },
+  "config_modal": {
+    "title": "Plugin configuratie",
+    "no_config": "Geen configuratie parameters nodig voor deze plugin.",
+    "save_success": "Plugin configuratie succesvol opgeslagen"
+  },
+  "delete_confirm": "Weet je zeker dat je deze plugin wilt verwijderen en verwijderen? Dit kan niet ongedaan worden gemaakt.",
+  "import_modal": {
+    "title": "Plugins back-up importeren",
+    "paste_json": "Plak JSON-gegevens van plug-ins hier",
+    "import_success": "Plugins succesvol geïmporteerd"
+  },
+  "empty_installed": "Nog geen plugins geïnstalleerd. Klik op 'Installeer Plugin' om een ZIP pakket te uploaden of installeer vanaf een URL."
+}

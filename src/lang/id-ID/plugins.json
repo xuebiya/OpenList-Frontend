@@ -1,0 +1,69 @@
+{
+  "title": "Plugin",
+  "name": "Nama Plugin",
+  "type": "Jenis",
+  "version": "Versi",
+  "author": "Penulis",
+  "status_col": "Status",
+  "empty_desc": "Tidak ada deskripsi",
+  "subtitle": "Kelola dan konfigurasi ekstensi OpenList dengan mengunggah file ZIP atau menginstalnya dari URL pihak ketiga",
+  "search_placeholder": "Cari plugin berdasarkan nama, ID, deskripsi, atau izin...",
+  "filter_type": "Filter berdasarkan jenis",
+  "types": {
+    "all": "Semua Jenis",
+    "ui": "UI & Widget",
+    "preview": "Pratinjau",
+    "tool": "Alat",
+    "theme": "Tema & Efek",
+    "integration": "Integrasi",
+    "system": "Inti Sistem"
+  },
+  "status": {
+    "enabled": "Diaktifkan",
+    "disabled": "Dinonaktifkan",
+    "builtin": "Bawaan",
+    "custom": "Kustom",
+    "high_privilege": "Hak Istimewa Tinggi"
+  },
+  "actions": {
+    "install": "Instal Plugin",
+    "reinstall": "Instal Ulang",
+    "uninstall": "Copot Pemasangan",
+    "config": "Pengaturan",
+    "view_details": "Detail",
+    "enable": "Aktifkan",
+    "disable": "Nonaktifkan",
+    "export": "Ekspor Konfigurasi",
+    "import": "Impor Konfigurasi",
+    "refresh": "Muat Ulang",
+    "save": "Simpan Pengaturan",
+    "cancel": "Batal",
+    "install_url": "Instal melalui URL"
+  },
+  "install_modal": {
+    "install_type": "Sumber Instalasi",
+    "zip_tab": "Unggah Paket ZIP",
+    "url_tab": "Instal melalui URL",
+    "zip_file_label": "Paket ZIP Plugin",
+    "zip_drop_title": "Klik untuk memilih atau seret dan lepas file ZIP plugin di sini",
+    "zip_drop_help": "Mendukung arsip plugin sumber terbuka yang berisi plugin.json / manifest.json",
+    "url_label": "URL Manifest Plugin",
+    "url_placeholder": "contoh: https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "Mendukung tautan manifest JSON plugin sumber terbuka (GitHub Raw, jsDelivr, unpkg, dll.)",
+    "high_privilege_label": "Berikan Hak Istimewa Tinggi Sistem (Hak Root / Admin)",
+    "high_privilege_help": "Memungkinkan akses langsung ke API sistem berkas tingkat rendah, pemuatan ulang driver penyimpanan, akses baca/tulis penuh ke pengaturan situs, dan permintaan HTTP mentah",
+    "fetch_and_install": "Ambil dan Instal"
+  },
+  "config_modal": {
+    "title": "Konfigurasi Plugin",
+    "no_config": "Plugin ini tidak memerlukan parameter konfigurasi.",
+    "save_success": "Konfigurasi plugin berhasil disimpan"
+  },
+  "delete_confirm": "Apakah Anda yakin ingin mencopot pemasangan dan menghapus plugin ini? Tindakan ini tidak dapat dibatalkan.",
+  "import_modal": {
+    "title": "Impor Cadangan Plugin",
+    "paste_json": "Tempel data JSON plugin di sini",
+    "import_success": "Plugin berhasil diimpor"
+  },
+  "empty_installed": "Belum ada plugin yang terpasang. Klik 'Instal Plugin' untuk mengunggah paket ZIP atau menginstal dari URL."
+}

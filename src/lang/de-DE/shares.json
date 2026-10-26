@@ -1,0 +1,43 @@
+{
+  "expires": "Ablaufzeit",
+  "id": "ID",
+  "id_placeholder": "Eigene ID (optional, leer lassen für zufällig)",
+  "accessed": "Zugriffszähler",
+  "max_accessed": "Maximale Zugriffsanzahl",
+  "pwd": "Code teilen",
+  "files": "Pfade teilen",
+  "files_etc": " und {{more}} mehr",
+  "files_placeholder": "Datei- oder Ordnerpfade pro Zeile eingeben",
+  "add_path": "Pfad hinzufügen",
+  "creator": "Urheber",
+  "status": "Status",
+  "status_list": {
+    "disabled": "Deaktiviert",
+    "invalid": "Ungültig",
+    "work": "Arbeit",
+    "denied": "Keine Berechtigung"
+  },
+  "remark": "Anmerkung",
+  "readme": "Beschreibung",
+  "header": "Headerbeschreibung",
+  "order_by": "Sortieren nach",
+  "order_bys": {
+    "name": "Name",
+    "size": "Größe",
+    "modified": "Geändert"
+  },
+  "order_direction": "Bestellrichtung",
+  "order_directions": {
+    "asc": "Aufsteigend",
+    "desc": "Absteigend"
+  },
+  "extract_folder": "Ordnerbestellung",
+  "extract_folders": {
+    "front": "Ordner oben",
+    "back": "Ordner unten"
+  },
+  "input_password": "Bitte geben Sie den Teilcode ein",
+  "share_gone": "Diese Freigabe ist abgelaufen oder wurde storniert",
+  "copy_msg": "Link kopieren",
+  "no_permission_tip": "Um eine Freigabe zu erstellen, benötigst du \"Teilen\"-Berechtigung."
+}

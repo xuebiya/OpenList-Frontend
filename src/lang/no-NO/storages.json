@@ -1,0 +1,65 @@
+{
+  "common": {
+    "export": "Eksporter",
+    "export_title": "Eksporter lagring til JSON",
+    "export_tips": "Kopier JSON for lagring ovenfor.",
+    "import": "Importer",
+    "import_title": "Importer lagring fra JSON",
+    "import_success": "Importert vellykket!",
+    "import_tips": "Lim inn den eksporterte lagringsJSON for å importere.",
+    "mount_path": "Monter sti",
+    "mount_path-tips": "Stien du vil montere, den er unik og kan ikke gjentas",
+    "driver": "Sjåfør",
+    "order": "Ordre",
+    "order-tips": "Brukes til sortering",
+    "usage": "Bruk",
+    "status": "Status:",
+    "remark": "Merknad",
+    "cache_expiration": "Cache utløps",
+    "cache_expiration-tips": "Cachen utløper tid for denne lagringen (minutter)",
+    "custom_cache_policies": "Tilpassede mellomlagervilkår",
+    "custom_cache_policies-tips": "Cachen gjelder for denne lagringen (minutter)",
+    "down_proxy_url": "Last ned Proxy-URL",
+    "disable_proxy_sign": "Deaktiver Proxy-skilt",
+    "disable_proxy_sign-tips": "Deaktiver pålogging for mellomtjener-URL",
+    "web_proxy": "Web proxy",
+    "webdav_policy": "WebDAV politikk",
+    "proxy_range": "Proxy Range",
+    "proxy_range-tips": "Trenger å aktivere proxy",
+    "webdav_policys": {
+      "302_redirect": "302 omdirigering",
+      "use_proxy_url": "Bruk mellomtjener",
+      "native_proxy": "Hjemmehørende proxy"
+    },
+    "order_by": "Sorter etter",
+    "order_bys": {
+      "name": "Navn",
+      "size": "Størrelse",
+      "modified": "Endret"
+    },
+    "order_direction": "Sorterings retning",
+    "order_directions": {
+      "asc": "Stigende",
+      "desc": "Synkende"
+    },
+    "extract_folder": "Mappe sortering",
+    "extract_folders": {
+      "front": " Mapper øverst",
+      "back": "Mapper på bunnen"
+    },
+    "enable_sign": "Aktiver skilt",
+    "disable_index": "Deaktiver indeks"
+  },
+  "table_fields": {
+    "status": {
+      "work": "Arbeider",
+      "disabled": "Deaktivert"
+    }
+  },
+  "other": {
+    "start_load_success": "Start lasting",
+    "load_all": "Oppdater alle",
+    "filter_by_driver": "Filtrer etter sjåfør",
+    "table_layout": "Tabelloppsett"
+  }
+}

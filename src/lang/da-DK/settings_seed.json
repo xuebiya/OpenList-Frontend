@@ -1,0 +1,23 @@
+{
+  "site_config": "Webstedskonfiguration",
+  "site_url": "Webstedets URL",
+  "site_url_help": "Offentlig basis-URL, der indlejres i seedkilder ved generering af delingslinks. Lad feltet være tomt for at bruge den aktuelle anmodnings oprindelse.",
+  "default_matrix": "Standard-hashmatrix",
+  "default_matrix_help": "Hashes, der er valgt på forhånd ved generering af seeds fra fillisten. Torrent gennemtvinger SHA-1, og CAS gennemtvinger MD5 ved generering.",
+  "whole": "Hele filen",
+  "pieces": "Dele",
+  "default_format": "Standardformat",
+  "default_format_help": "Format, der er valgt på forhånd i dialogboksen til generering af seeds.",
+  "format_policies": "Automatiske formatpolitikker",
+  "format_policies_help": "Formater, der automatisk genereres som sidecar-filer. Hvert lager kan stadig tilsidesætte den globale politik.",
+  "oss_format": "OSS (.oss)",
+  "torrent_format": "Torrent (.torrent)",
+  "cas_format": "CAS (.cas)",
+  "other_options": "Andre indstillinger",
+  "auto_generate": "Generér seeds automatisk ved upload",
+  "auto_generate_help": "Generér sidecar-seeds under upload ved hjælp af formatpolitikkerne ovenfor.",
+  "single_direct_preview": "Direkte forhåndsvisning af seeds med én fil",
+  "single_direct_preview_help": "Åbn den indeholdte fil direkte i stedet for seedets detaljevisning, når et seed indeholder præcis én fil.",
+  "cas_direct_access": "Direkte CAS-adgang",
+  "cas_direct_access_help": "Når et CAS-seed med én fil åbnes, hurtig-uploades filen til den samme mappe, og den gendannede fil vises."
+}

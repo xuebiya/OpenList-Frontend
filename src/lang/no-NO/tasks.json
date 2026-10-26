@@ -1,0 +1,66 @@
+{
+  "offline_download": "Last ned fil til lokal enhet",
+  "offline_download_transfer": "Overfør nedlastede filer til tilsvarende lagring",
+  "upload": "Last opp fil til tilsvarende lagring",
+  "copy": "Kopier fil fra lagringsplass til et annet lagringssted",
+  "move": "Flytt filen fra lagringsplass til et annet lagringssted",
+  "decompress": "Last ned og dekomprimer en arkivfil",
+  "decompress_upload": "Last opp ekstraherte filer til mållagring",
+  "done": "Fullført",
+  "undone": "Kjører",
+  "clear_succeeded": "Sletting fullført",
+  "retry": "Prøv igjen",
+  "retry_failed": "Prøv på nytt",
+  "state": {
+    "0": "Ventende",
+    "1": "Kjører",
+    "2": "Lyktes",
+    "3": "Avbryter",
+    "4": "Avbrutt",
+    "5": "Feil",
+    "6": "Feilet",
+    "7": "Mislyktes",
+    "8": "Venter på ny",
+    "9": "Forbereder ny forsøk"
+  },
+  "retry_selected": "Prøv valgte igjen",
+  "cancel_selected": "Avbryt valgte",
+  "delete_selected": "Slett valgte",
+  "filter": "Filtrer",
+  "expand": "Utvid",
+  "fold": "Skjul",
+  "expand_all": "Utvid alle",
+  "fold_all": "Skjul alle",
+  "attr": {
+    "name": "Navn",
+    "creator": "Skaper",
+    "state": "Tilstand",
+    "progress": "Fremdrift",
+    "speed": "Hastighet",
+    "operation": "Operasjon",
+    "copy": {
+      "src": "Kilde sti",
+      "dst": "Destinasjons sti"
+    },
+    "upload": {
+      "path": "Sti"
+    },
+    "offline_download": {
+      "url": "Nettadresse",
+      "path": "Destinasjons sti",
+      "transfer_src": "Kilde sti",
+      "transfer_src_local": "Kilde sti (lokal)",
+      "transfer_dst": "Destinasjons sti"
+    },
+    "decompress": {
+      "src": "Kilde sti",
+      "dst": "Destinasjons sti",
+      "inner": "Indre sti",
+      "password": "Extraction passord"
+    },
+    "time_elapsed": "Tid brukt",
+    "status": "Status:",
+    "err": "Feil"
+  },
+  "show_only_mine": "Vis bare mine oppgaver"
+}

@@ -1,0 +1,18 @@
+{
+  "path": "Pfad",
+  "password": "Passwort",
+  "read_users": "Benutzer lesen",
+  "read_users_help": "Nur ausgewählte Benutzer mit der erforderlichen Berechtigung können diesen Pfad lesen.",
+  "write_users": "Benutzer schreiben",
+  "write_users_help": "Nur ausgewählte Benutzer mit der erforderlichen Berechtigung können diesen Pfad schreiben.",
+  "all_permitted_users": "Alle zugelassenen Benutzer",
+  "write": "Inhaltsumgehung schreiben",
+  "write_help": "Benutzer-Berechtigungsprüfungen auf Content-Writes (Erstellen/Upload/Modifikation) umgehen.",
+  "hide": "Verstecken",
+  "readme": "Readme",
+  "readme_help": "Markdown unten anzeigen, Inhalt oder Link unterstützen",
+  "header": "Kopfzeile",
+  "header_help": "Markdown oben anzeigen, Inhalt oder Link unterstützen",
+  "apply_sub": "Auf Unterordner anwenden",
+  "hide_help": "Ein regulärer Ausdruck pro Zeile"
+}

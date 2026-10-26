@@ -1,0 +1,18 @@
+{
+  "path": "Percorso",
+  "password": "Password",
+  "read_users": "Leggi Utenti",
+  "read_users_help": "Solo gli utenti selezionati con l'autorizzazione richiesta possono leggere questo percorso.",
+  "write_users": "Scrivi Utenti",
+  "write_users_help": "Solo gli utenti selezionati con il permesso richiesto possono scrivere questo percorso.",
+  "all_permitted_users": "Tutti Gli Utenti Permessi",
+  "write": "Scrivi Bypass Contenuto",
+  "write_help": "Ignora i controlli dei permessi utente per i contenuti scritti (crea/carica/modifica). UTILIZZARE CON ATTENZIONE.",
+  "hide": "Nascondi",
+  "readme": "Leggimi",
+  "readme_help": "Render un markdown in basso, supporta contenuti o link",
+  "header": "Intestazione",
+  "header_help": "Render un markdown in alto, supporto contenuto o link",
+  "apply_sub": "Applica alla sottocartella",
+  "hide_help": "Un'espressione regolare per riga"
+}

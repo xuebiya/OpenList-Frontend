@@ -1,0 +1,23 @@
+{
+  "site_config": "Konfigurasi situs",
+  "site_url": "URL situs",
+  "site_url_help": "URL dasar publik yang disematkan ke sumber seed saat membuat tautan berbagi. Kosongkan untuk menggunakan origin permintaan saat ini.",
+  "default_matrix": "Matriks hash default",
+  "default_matrix_help": "Hash yang dipilih sebelumnya saat membuat seed dari daftar file. Torrent menggunakan SHA-1 dan CAS menggunakan MD5 saat proses pembuatan.",
+  "whole": "Seluruh file",
+  "pieces": "Bagian",
+  "default_format": "Format default",
+  "default_format_help": "Format yang dipilih sebelumnya dalam dialog pembuatan seed.",
+  "format_policies": "Kebijakan format otomatis",
+  "format_policies_help": "Format yang dibuat secara otomatis sebagai file pendamping. Setiap penyimpanan tetap dapat mengganti kebijakan global.",
+  "oss_format": "Format OSS (.oss)",
+  "torrent_format": "Torrent (.torrent)",
+  "cas_format": "Format CAS (.cas)",
+  "other_options": "Opsi lainnya",
+  "auto_generate": "Buat seed secara otomatis saat mengunggah",
+  "auto_generate_help": "Buat seed file pendamping selama proses pengunggahan dengan menggunakan kebijakan format di atas.",
+  "single_direct_preview": "Pratinjau langsung untuk seed satu file",
+  "single_direct_preview_help": "Buka file yang disertakan secara langsung, bukan tampilan detail seed, jika seed hanya berisi satu file.",
+  "cas_direct_access": "Akses langsung CAS",
+  "cas_direct_access_help": "Saat membuka seed CAS satu file, unggah cepat file tersebut ke folder yang sama, lalu pratinjau file yang dipulihkan."
+}

@@ -1,0 +1,17 @@
+{
+  "backup": "Back-up",
+  "restore": "Herstellen",
+  "start_backup": "Back-up starten",
+  "finish_backup": "Backup voltooien",
+  "success_backup_item": "[ {{item}} ] back-up was succesvol",
+  "failed_backup_item": "[ {{item}} ] Back-up mislukt",
+  "no_file": "Geen bestand geselecteerd",
+  "start_restore": "Herstellen starten",
+  "finish_restore": "Herstellen voltooien",
+  "success_restore_item": "[ {{item}} ] Herstel was succesvol",
+  "failed_restore_item": "[ {{item}} ] Herstel mislukt",
+  "override": "Overschrijf",
+  "encrypt_password_placeholder": "Laat leeg als u geen versleuteling nodig heeft",
+  "encrypt_password": "Encryptie wachtwoord",
+  "wrong_encrypt_password": "Wachtwoord voor versleutelen onjuist"
+}

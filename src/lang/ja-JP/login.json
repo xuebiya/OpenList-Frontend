@@ -1,0 +1,13 @@
+{
+  "login_to": "にログイン",
+  "username-tips": "ユーザー名を入力してください",
+  "password-tips": "パスワードを入力してください",
+  "otp-tips": "OTPコードを入力してください",
+  "remember": "ログイン状態を維持する",
+  "forget": "パスワードを忘れましたか？",
+  "forget_url": "https://doc.oplist.org/faq/howto#how-to-get-password-if-i-forget-it",
+  "clear": "クリア",
+  "login": "ログイン",
+  "use_guest": "ゲストとして閲覧する",
+  "success": "正常にログイン"
+}

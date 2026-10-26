@@ -1,0 +1,18 @@
+{
+  "path": "Ruta",
+  "password": "Contraseña",
+  "read_users": "Leer usuarios",
+  "read_users_help": "Sólo los usuarios seleccionados con el permiso requerido pueden leer esta ruta.",
+  "write_users": "Escribir usuarios",
+  "write_users_help": "Sólo los usuarios seleccionados con el permiso requerido pueden escribir esta ruta.",
+  "all_permitted_users": "Todos los usuarios permitidos",
+  "write": "Escribir Contenido Bypass",
+  "write_help": "Pasa las comprobaciones de permisos de usuario para escribir contenido (crear/subir/modificar). USO CON CAUCIÓN.",
+  "hide": "Ocultar",
+  "readme": "Leer",
+  "readme_help": "Procesa un markdown en la parte inferior, soporte contenido o enlace",
+  "header": "Cabecera",
+  "header_help": "Procesar un markdown en la parte superior, contenido de soporte o enlace",
+  "apply_sub": "Aplicar a la subcarpeta",
+  "hide_help": "Una expresión regular por línea"
+}

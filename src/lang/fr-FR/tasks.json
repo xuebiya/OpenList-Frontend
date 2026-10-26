@@ -1,0 +1,66 @@
+{
+  "offline_download": "Télécharger le fichier sur l'appareil local",
+  "offline_download_transfer": "Transférer le fichier téléchargé vers le stockage correspondant",
+  "upload": "Télécharger le fichier vers le stockage correspondant",
+  "copy": "Copier le fichier depuis un stockage vers un autre stockage",
+  "move": "Déplacer le fichier d'un stockage vers un autre stockage",
+  "decompress": "Télécharger et décompresser un fichier d'archive",
+  "decompress_upload": "Télécharger les fichiers extraits dans le stockage cible",
+  "done": "Terminé",
+  "undone": "En cours d'exécution",
+  "clear_succeeded": "Effacement réussi",
+  "retry": "Réessayer",
+  "retry_failed": "Échec de la nouvelle tentative",
+  "state": {
+    "0": "En attente",
+    "1": "En cours d'exécution",
+    "2": "Réussi",
+    "3": "Annulation en cours",
+    "4": "Annulé",
+    "5": "Erreur",
+    "6": "Echoué",
+    "7": "Echoué",
+    "8": "En attente d'une nouvelle tentative",
+    "9": "Préparation à réessayer"
+  },
+  "retry_selected": "Réessayer la sélection",
+  "cancel_selected": "Annuler la sélection",
+  "delete_selected": "Supprimer la sélection",
+  "filter": "Filtre",
+  "expand": "Agrandir",
+  "fold": "Replier",
+  "expand_all": "Développer tout",
+  "fold_all": "Tout plier",
+  "attr": {
+    "name": "Nom",
+    "creator": "Créateur",
+    "state": "État",
+    "progress": "Progrès",
+    "speed": "Rapidité",
+    "operation": "Opération",
+    "copy": {
+      "src": "Chemin source",
+      "dst": "Chemin de destination"
+    },
+    "upload": {
+      "path": "Chemin d'accès"
+    },
+    "offline_download": {
+      "url": "URL",
+      "path": "Chemin de destination",
+      "transfer_src": "Chemin source",
+      "transfer_src_local": "Chemin de la source (Local)",
+      "transfer_dst": "Chemin de destination"
+    },
+    "decompress": {
+      "src": "Chemin source",
+      "dst": "Chemin de destination",
+      "inner": "Chemin intérieur",
+      "password": "Mot de passe d'extraction"
+    },
+    "time_elapsed": "Temps écoulé",
+    "status": "Statut",
+    "err": "Erreur"
+  },
+  "show_only_mine": "Afficher uniquement mes tâches"
+}

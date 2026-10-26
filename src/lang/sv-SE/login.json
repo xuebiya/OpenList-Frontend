@@ -1,0 +1,13 @@
+{
+  "login_to": "Logga in till",
+  "username-tips": "Ange ditt användarnamn",
+  "password-tips": "Skriv in ditt lösenord",
+  "otp-tips": "Skriv in din OTP-kod",
+  "remember": "Kom ihåg mig",
+  "forget": "Glöm lösenord?",
+  "forget_url": "https://doc.oplist.org/faq/howto#how-to-get-password-if-i-forget-it",
+  "clear": "Rensa",
+  "login": "Inloggning",
+  "use_guest": "Bläddra som gäst",
+  "success": "Inloggning lyckades"
+}

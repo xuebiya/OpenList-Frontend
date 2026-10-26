@@ -1,0 +1,43 @@
+{
+  "expires": "Sona erme zamanı",
+  "id": "Kimlik",
+  "id_placeholder": "Özel kimlik (isteğe bağlı, rastgele oluşturmak için boş bırakın)",
+  "accessed": "Erişim sayısı",
+  "max_accessed": "Maksimum erişim sayısı",
+  "pwd": "Paylaşım kodu",
+  "files": "Paylaşım yolları",
+  "files_etc": " ve {{more}} tane daha",
+  "files_placeholder": "Dosya veya klasör yollarını her satıra bir tane gelecek şekilde girin",
+  "add_path": "Yol ekle",
+  "creator": "Oluşturan",
+  "status": "Durum",
+  "status_list": {
+    "disabled": "Devre dışı",
+    "invalid": "Geçersiz",
+    "work": "Çalışıyor",
+    "denied": "İzin yok"
+  },
+  "remark": "Not",
+  "readme": "Açıklama",
+  "header": "Başlık açıklaması",
+  "order_by": "Sıralama ölçütü",
+  "order_bys": {
+    "name": "Ad",
+    "size": "Boyut",
+    "modified": "Değiştirilme tarihi"
+  },
+  "order_direction": "Sıralama yönü",
+  "order_directions": {
+    "asc": "Artan",
+    "desc": "Azalan"
+  },
+  "extract_folder": "Klasör sıralaması",
+  "extract_folders": {
+    "front": "Klasörler en üstte",
+    "back": "Klasörler en altta"
+  },
+  "input_password": "Lütfen paylaşım kodunu girin",
+  "share_gone": "Bu paylaşımın süresi dolmuş veya paylaşım iptal edilmiş",
+  "copy_msg": "Bağlantıyı kopyala",
+  "no_permission_tip": "Paylaşım oluşturmak için \"Paylaş\" iznine sahip olmanız gerekir."
+}

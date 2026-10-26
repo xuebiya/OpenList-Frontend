@@ -1,0 +1,23 @@
+{
+  "index_header": "Sök indexinställningar",
+  "search_index": "Sök index",
+  "current": "Aktuella index",
+  "build": "Bygg index",
+  "rebuild": "Återskapa index",
+  "paths_to_update": "Sökvägar att uppdatera",
+  "max_depth": "Max djup",
+  "update": "Uppdatera index",
+  "obj_count": "Antal objekt",
+  "last_done_time": "Senast utförd tid",
+  "unknown": "Okänd",
+  "stop": "Stoppa",
+  "clear": "Rensa",
+  "error": "Fel",
+  "scan_header": "Skanna manuellt",
+  "task_status": "Uppgiftens status",
+  "running": "Körs",
+  "idle": "Inaktiv",
+  "path_to_scan": "Sökväg att skanna",
+  "rate_limit": "Betygsgräns",
+  "start": "Starta"
+}

@@ -1,0 +1,1804 @@
+{
+  "115 Cloud": {
+    "cookie": "Cookie",
+    "cookie-tips": "diperlukan salah satu token kode QR atau cookie",
+    "limit_rate": "Batas laju",
+    "limit_rate-tips": "batasi laju semua permintaan API ([limit] permintaan/1 dtk)",
+    "page_size": "Ukuran halaman",
+    "page_size-tips": "ukuran halaman untuk daftar API driver 115",
+    "qrcode_source": "sumber kode QR",
+    "qrcode_source-tips": "pilih perangkat kode QR, default-nya Linux",
+    "qrcode_sources": {
+      "alipaymini": "Alipay Mini",
+      "android": "Android",
+      "ios": "iOS",
+      "qandroid": "QAndroid",
+      "tv": "TV",
+      "web": "Web",
+      "wechatmini": "WeChat Mini"
+    },
+    "qrcode_token": "token kode QR",
+    "qrcode_token-tips": "diperlukan salah satu token kode QR atau cookie",
+    "root_folder_id": "ID folder induk"
+  },
+  "115 Open": {
+    "access_token": "Token akses",
+    "limit_rate": "Batas laju",
+    "limit_rate-tips": "batasi laju semua permintaan API ([limit] permintaan/1 dtk)",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "file_name": "Nama file",
+      "file_size": "Ukuran file",
+      "file_type": "Jenis file",
+      "user_utime": "Waktu penggunaan pengguna"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "page_size": "Ukuran halaman",
+    "page_size-tips": "ukuran halaman untuk daftar API driver 115 Open",
+    "refresh_token": "Token penyegaran",
+    "root_folder_id": "ID folder induk"
+  },
+  "115 Share": {
+    "cookie": "Cookie",
+    "cookie-tips": "diperlukan salah satu token kode QR atau cookie",
+    "limit_rate": "Batas laju",
+    "limit_rate-tips": "batasi laju semua permintaan API (1 permintaan/[limit_rate] dtk)",
+    "page_size": "Ukuran halaman",
+    "page_size-tips": "ukuran halaman untuk daftar API driver 115",
+    "qrcode_source": "sumber kode QR",
+    "qrcode_source-tips": "pilih perangkat kode QR, default-nya Linux",
+    "qrcode_sources": {
+      "alipaymini": "Alipay Mini",
+      "android": "Android",
+      "ios": "iOS",
+      "qandroid": "QAndroid",
+      "tv": "TV",
+      "web": "Web",
+      "wechatmini": "WeChat Mini"
+    },
+    "qrcode_token": "token kode QR",
+    "qrcode_token-tips": "diperlukan salah satu token kode QR atau cookie",
+    "receive_code": "Kode penerimaan",
+    "receive_code-tips": "kode penerimaan tautan berbagi 115",
+    "root_folder_id": "ID folder induk",
+    "share_code": "Kode berbagi",
+    "share_code-tips": "kode berbagi tautan berbagi 115"
+  },
+  "123 Open": {
+    "AccessToken": "Token akses",
+    "ClientID": "ID klien",
+    "ClientSecret": "Rahasia klien",
+    "DirectLink": "Tautan langsung",
+    "DirectLink-tips": "gunakan tautan langsung saat mengunduh berkas",
+    "DirectLinkPrivateKey": "Kunci privat tautan langsung",
+    "DirectLinkPrivateKey-tips": "kunci privat untuk tautan langsung jika autentikasi URL diaktifkan",
+    "DirectLinkValidDuration": "Durasi valid tautan langsung",
+    "DirectLinkValidDuration-tips": "menit, jika autentikasi URL diaktifkan",
+    "RefreshToken": "Token penyegaran",
+    "UploadThread": "Thread unggah",
+    "UploadThread-tips": "jumlah thread unggah",
+    "api_url_address": "alamat URL API",
+    "root_folder_id": "ID folder induk",
+    "use_online_api": "gunakan API online"
+  },
+  "123Pan": {
+    "UploadThread": "Thread unggah",
+    "UploadThread-tips": "jumlah thread unggah",
+    "password": "Kata sandi",
+    "platform": "Platform",
+    "platform-tips": "nilai header platform yang dikirim bersama permintaan API",
+    "root_folder_id": "ID folder induk",
+    "username": "Nama pengguna"
+  },
+  "123PanLink": {
+    "origin_urls": "URL asal",
+    "origin_urls-tips": "struktur:NamaFolder:\n  [UkuranBerkas:][Diubah:]URL",
+    "private_key": "Kunci privat",
+    "uid": "UID",
+    "valid_duration": "Durasi berlaku",
+    "valid_duration-tips": "menit"
+  },
+  "123PanShare": {
+    "accesstoken": "Token akses",
+    "root_folder_id": "ID folder induk",
+    "sharekey": "Kunci berbagi",
+    "sharepassword": "Kata sandi berbagi"
+  },
+  "139Yun": {
+    "authorization": "Otorisasi",
+    "authorization-tips": "Authorization dapat digunakan sendiri. Jika kosong, gunakan mail_cookies saja untuk login cepat, atau mail_cookies + username + password sebagai alternatif login lengkap.",
+    "client_type": "Jenis klien",
+    "client_type-tips": "Jenis klien yang dilaporkan ke API cloud pribadi. web (9) memungkinkan pengunggahan file hingga 50 GB; pc (13) meningkatkan batas pengunggahan satu file hingga 500 GB.",
+    "client_types": {
+      "pc": "PC",
+      "web": "Web"
+    },
+    "cloud_id": "ID cloud",
+    "custom_upload_part_size": "Ukuran bagian unggahan khusus",
+    "custom_upload_part_size-tips": "0 untuk otomatis",
+    "link_id": "ID tautan",
+    "link_id-tips": "Beberapa berbagi dipisahkan dengan koma atau baris baru. Gunakan link_id#password untuk berbagi yang dilindungi kata sandi.",
+    "mail_cookies": "Cookie email",
+    "mail_cookies-tips": "Cookie dari mail.139.com yang digunakan untuk autentikasi login.",
+    "password": "Kata sandi",
+    "password-tips": "Hanya diperlukan saat menggunakan alternatif login dengan kata sandi bersama mail_cookies.",
+    "report_real_size": "Laporkan ukuran sebenarnya",
+    "report_real_size-tips": "Aktifkan pelaporan ukuran file sebenarnya selama pengunggahan",
+    "root_folder_id": "ID folder induk",
+    "sms_code": "Kode SMS",
+    "sms_code-tips": "Isi ini hanya setelah OpenList melaporkan bahwa kode verifikasi SMS 139 Mail telah dikirim, lalu simpan penyimpanan lagi.",
+    "type": "Jenis",
+    "types": {
+      "family": "Keluarga",
+      "group": "Grup",
+      "personal": "Pribadi",
+      "personal_new": "Pribadi baru",
+      "share": "Berbagi"
+    },
+    "use_large_thumbnail": "Gunakan gambar mini besar",
+    "use_large_thumbnail-tips": "Aktifkan penggunaan gambar mini besar untuk gambar",
+    "use_old_stream_upload": "Gunakan metode unggah streaming lama",
+    "use_old_stream_upload-tips": "Aktifkan untuk menggunakan metode unggah streaming lama (tidak mendukung unggah cepat)",
+    "user_domain_id": "ID domain pengguna",
+    "user_domain_id-tips": "isi ud_id dari Cookie untuk menampilkan penggunaan penyimpanan",
+    "username": "Nama pengguna",
+    "username-tips": "Hanya diperlukan saat menggunakan alternatif login dengan kata sandi bersama mail_cookies."
+  },
+  "189Cloud": {
+    "cookie": "Cookie",
+    "cookie-tips": "Isi cookie jika memerlukan CAPTCHA",
+    "password": "Kata sandi",
+    "root_folder_id": "ID folder induk",
+    "username": "Nama pengguna"
+  },
+  "189CloudPC": {
+    "access_token": "Token akses",
+    "client_sn": "SN klien",
+    "client_sn-tips": "Nomor seri perangkat yang diambil dari klien resmi, biarkan kosong jika Anda tidak memilikinya",
+    "device_id": "ID perangkat",
+    "device_id-tips": "Cookie DEVICEID yang diterbitkan setelah verifikasi perangkat kedua, simpan agar tidak perlu melakukan verifikasi lagi",
+    "family_id": "ID keluarga",
+    "family_transfer": "Transfer keluarga",
+    "generate_torrent": "Buat torrent",
+    "generate_torrent-tips": "Buat berkas torrent dengan ekstensi CAS setelah mengunggah",
+    "jg_open_id": "ID Jg Open",
+    "jg_open_id-tips": "ID push opsional yang dilaporkan oleh klien resmi",
+    "login_type": "Jenis login",
+    "login_types": {
+      "password": "Kata sandi",
+      "qrcode": "Kode QR"
+    },
+    "no_use_ocr": "jangan gunakan OCR",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "filename": "Nama file",
+      "filesize": "Ukuran file",
+      "lastOpTime": "Waktu operasi terakhir"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "password": "Kata sandi",
+    "password-tips": "Tidak diperlukan jika token akses atau token penyegaran diberikan",
+    "rapid_upload": "Unggah cepat",
+    "refresh_token": "Token penyegaran",
+    "refresh_token-tips": "Untuk berganti akun, kosongkan kolom ini",
+    "root_folder_id": "ID folder induk",
+    "sms_code": "Kode SMS",
+    "sms_code-tips": "Kode SMS untuk verifikasi perangkat kedua, isi dan simpan kembali saat login memintanya",
+    "type": "Jenis",
+    "types": {
+      "family": "Keluarga",
+      "personal": "Pribadi"
+    },
+    "upload_method": "Metode unggah",
+    "upload_methods": {
+      "old": "Lama",
+      "rapid": "Cepat",
+      "stream": "Aliran"
+    },
+    "upload_thread": "Thread unggahan",
+    "upload_thread-tips": "1<=thread<=32",
+    "user_finger": "Sidik jari pengguna",
+    "user_finger-tips": "Sidik jari perangkat yang dikirim bersama permintaan login, dibuat dan disimpan secara otomatis jika kosong",
+    "username": "Nama pengguna",
+    "username-tips": "Tidak diperlukan jika token akses atau token penyegaran diberikan",
+    "validate_code": "Kode validasi"
+  },
+  "189CloudTV": {
+    "access_token": "Token akses",
+    "family_id": "ID keluarga",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "filename": "Nama berkas",
+      "filesize": "Ukuran berkas",
+      "lastOpTime": "Waktu operasi terakhir"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "rapid_upload": "Unggah cepat",
+    "root_folder_id": "ID folder induk",
+    "type": "Jenis",
+    "types": {
+      "family": "Keluarga",
+      "personal": "Pribadi"
+    },
+    "upload_thread": "Thread unggah",
+    "upload_thread-tips": "1<=thread<=32"
+  },
+  "AList V3": {
+    "forward_archive_requests": "Teruskan permintaan arsip",
+    "meta_password": "Kata sandi meta",
+    "pass_ip_to_upsteam": "teruskan IP ke upstream",
+    "pass_ua_to_upsteam": "teruskan UA ke upstream",
+    "password": "Kata sandi",
+    "root_folder_path": "Path folder root",
+    "token": "Token",
+    "url": "URL",
+    "username": "Nama pengguna"
+  },
+  "AliDoc": {
+    "cookie": "Cookie",
+    "cookie-tips": "Cookie web dokumen DingTalk",
+    "root_folder_id": "ID folder induk"
+  },
+  "Alias": {
+    "details_pass_through": "Teruskan detail",
+    "download_concurrency": "Konkruensi unduhan",
+    "download_concurrency-tips": "Proxy harus diaktifkan",
+    "download_part_size": "Ukuran bagian unduhan",
+    "download_part_size-tips": "Proxy harus diaktifkan. Satuan: KB",
+    "file_consistency_check": "Pemeriksaan konsistensi berkas",
+    "paths": "Path",
+    "provider_pass_through": "Teruskan penyedia",
+    "put_conflict_policy": "Kebijakan konflik saat menambahkan",
+    "put_conflict_policy-tips": "Cara driver menangani path backend yang sama saat mengunggah, menyalin, memindahkan, atau mengekstrak.",
+    "put_conflict_policys": {
+      "all": "Tambahkan ke semua path yang berkonflik",
+      "all_strict": "Izinkan path konflik lengkap",
+      "deterministic": "Izinkan path unik",
+      "deterministic_or_all": "Izinkan path unik dan semua path konflik",
+      "disabled": "Nonaktifkan penambahan",
+      "first": "Tambahkan ke path konflik pertama",
+      "quota": "Penyeimbangan beban acak berbobot berdasarkan ruang tersisa",
+      "quota_strict": "Penyeimbangan beban acak berbobot ketat berdasarkan ruang tersisa",
+      "random": "Penyeimbangan beban acak"
+    },
+    "read_conflict_policy": "Kebijakan konflik saat membaca",
+    "read_conflict_policys": {
+      "all": "Penyeimbangan beban per bagian",
+      "first": "Ambil berkas yang sesuai dengan path konflik pertama",
+      "random": "Penyeimbangan beban per berkas"
+    },
+    "write_conflict_policy": "Kebijakan konflik saat menulis",
+    "write_conflict_policy-tips": "Cara driver menangani path backend yang sama saat mengganti nama, menghapus, atau membuat direktori.",
+    "write_conflict_policys": {
+      "all": "Tulis ke semua path yang berkonflik",
+      "all_strict": "Izinkan path konflik lengkap",
+      "deterministic": "Izinkan path unik",
+      "deterministic_or_all": "Izinkan path unik dan semua path konflik",
+      "disabled": "Nonaktifkan penulisan",
+      "first": "Tulis ke path konflik pertama"
+    }
+  },
+  "Aliyundrive": {
+    "internal_upload": "Unggah internal",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "created_at": "Waktu dibuat",
+      "name": "Nama",
+      "size": "Ukuran",
+      "updated_at": "Waktu diperbarui"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "ASC": "Naik",
+      "DESC": "Turun"
+    },
+    "rapid_upload": "Unggah cepat",
+    "refresh_token": "Token penyegaran",
+    "root_folder_id": "ID folder induk"
+  },
+  "AliyundriveOpen": {
+    "alipan_type": "Jenis Alipan",
+    "alipan_types": {
+      "alipanTV": "AlipanTV",
+      "default": "Bawaan"
+    },
+    "api_url_address": "alamat URL API",
+    "callback_concurrency": "Konkruensi callback",
+    "callback_concurrency-tips": "Jumlah maksimum unduhan yang diproksikan dan aktif secara bersamaan untuk pengguna Aliyun",
+    "client_id": "ID klien",
+    "client_id-tips": "Biarkan kosong jika Anda tidak memilikinya",
+    "client_secret": "Rahasia klien",
+    "client_secret-tips": "Biarkan kosong jika Anda tidak memilikinya",
+    "drive_type": "Jenis drive",
+    "drive_types": {
+      "backup": "Cadangan",
+      "default": "Bawaan",
+      "resource": "Sumber daya"
+    },
+    "internal_upload": "Unggah internal",
+    "internal_upload-tips": "Jika Anda menggunakan Aliyun ECS yang berlokasi di Beijing, aktifkan opsi ini untuk meningkatkan kecepatan unggah",
+    "livp_download_format": "format unduhan LIVP",
+    "livp_download_formats": {
+      "jpeg": "JPEG",
+      "mov": "MOV"
+    },
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "created_at": "Waktu dibuat",
+      "name": "Nama",
+      "size": "Ukuran",
+      "updated_at": "Waktu diperbarui"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "ASC": "Naik",
+      "DESC": "Turun"
+    },
+    "rapid_upload": "Unggah cepat",
+    "rapid_upload-tips": "Jika opsi ini diaktifkan, berkas akan diunggah ke server terlebih dahulu sehingga progres yang ditampilkan tidak akurat",
+    "refresh_token": "Token penyegaran",
+    "remove_way": "Cara penghapusan",
+    "remove_ways": {
+      "delete": "Hapus",
+      "trash": "Sampah"
+    },
+    "root_folder_id": "ID folder induk",
+    "use_online_api": "gunakan API online"
+  },
+  "AliyundriveShare": {
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "created_at": "Waktu dibuat",
+      "name": "Nama",
+      "size": "Ukuran",
+      "updated_at": "Waktu diperbarui"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "ASC": "Naik",
+      "DESC": "Turun"
+    },
+    "refresh_token": "Token penyegaran",
+    "root_folder_id": "ID folder induk",
+    "share_id": "ID berbagi",
+    "share_pwd": "Kata sandi berbagi"
+  },
+  "AutoIndex": {
+    "ignore_file_names": "Abaikan nama berkas",
+    "item_xpath": "XPath entri",
+    "modified_time_format": "Format tanggal modifikasi",
+    "modified_time_format-tips": "Harus mengikuti format waktu Mon Jan 2 15:04:05 -0700 MST 2006",
+    "modified_xpath": "XPath waktu modifikasi",
+    "name_xpath": "XPath nama berkas",
+    "size_xpath": "XPath ukuran berkas",
+    "url": "URL"
+  },
+  "Azure Blob Storage": {
+    "access_key": "Kunci akses",
+    "access_key-tips": "Kunci akses Azure Storage yang digunakan untuk autentikasi. https://learn.microsoft.com/azure/storage/common/storage-account-keys-manage",
+    "container_name": "Nama kontainer",
+    "container_name-tips": "Nama kontainer di Azure Storage (dibuat di portal Azure). https://learn.microsoft.com/azure/storage/blobs/blob-containers-portal",
+    "endpoint": "Titik akhir",
+    "endpoint-tips": "misalnya: https://accountname.blob.core.windows.net/. URL titik akhir lengkap untuk Azure Storage, termasuk nama akun penyimpanan unik (3–24 angka dan huruf kecil saja).",
+    "root_folder_path": "Path folder root",
+    "sign_url_expire": "masa berlaku URL bertanda tangan",
+    "sign_url_expire-tips": "Masa berlaku URL SAS dalam jam."
+  },
+  "BaiduNetdisk": {
+    "api_url_address": "alamat URL API",
+    "client_id": "ID klien",
+    "client_secret": "Rahasia klien",
+    "custom_crack_ua": "UA crack kustom",
+    "custom_upload_part_size": "Ukuran bagian unggah kustom",
+    "custom_upload_part_size-tips": "0 untuk otomatis",
+    "download_api": "API unduhan",
+    "download_apis": {
+      "crack": "Crack",
+      "crack_video": "Video crack",
+      "official": "Resmi"
+    },
+    "low_bandwith_upload_mode": "Mode unggah bandwidth rendah",
+    "only_list_video_file": "Hanya tampilkan berkas video",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "name": "Nama",
+      "size": "Ukuran",
+      "time": "Waktu"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "refresh_token": "Token penyegaran",
+    "root_folder_path": "Path folder root",
+    "upload_api": "API unggah",
+    "upload_thread": "Thread unggah",
+    "upload_thread-tips": "1<=thread<=32",
+    "upload_timeout": "Batas waktu unggah",
+    "upload_timeout-tips": "batas waktu unggah tiap bagian dalam detik",
+    "use_dynamic_upload_api": "gunakan API unggah dinamis",
+    "use_dynamic_upload_api-tips": "dapatkan domain API unggah secara dinamis; jika gagal, pengaturan 'API unggah' akan digunakan sebagai cadangan",
+    "use_online_api": "gunakan API online"
+  },
+  "BaiduPhoto": {
+    "album_id": "ID album",
+    "cookie": "Cookie",
+    "delete_origin": "Hapus yang asli",
+    "show_type": "Jenis tampilan",
+    "show_types": {
+      "root": "Root",
+      "root_only_album": "Hanya album root",
+      "root_only_file": "Hanya berkas root"
+    },
+    "upload_thread": "Thread unggah",
+    "upload_thread-tips": "1<=thread<=32"
+  },
+  "Bunny Storage": {
+    "access_key": "Kunci akses",
+    "cdn_base_url": "URL dasar CDN",
+    "cdn_token_include_ip": "sertakan IP dalam token CDN",
+    "cdn_token_key": "kunci token CDN",
+    "cdn_token_method": "metode token CDN",
+    "cdn_token_methods": {
+      "hmac_sha256": "HMAC SHA256",
+      "sha256": "SHA256"
+    },
+    "endpoint": "Titik akhir",
+    "placeholder": "Teks pengganti",
+    "root_folder_path": "Path folder root",
+    "sign_url_expire": "masa berlaku URL bertanda tangan",
+    "storage_zone_name": "Nama zona penyimpanan"
+  },
+  "CNB Releases": {
+    "default_branch": "Cabang default",
+    "default_branch-tips": "Cabang default untuk rilis baru",
+    "repo": "Repositori",
+    "root_folder_id": "ID folder induk",
+    "token": "Token",
+    "use_tag_name": "Gunakan nama tag",
+    "use_tag_name-tips": "Gunakan nama tag, bukan nama rilis"
+  },
+  "ChaoXingGroupDrive": {
+    "bbsid": "Bbsid",
+    "cookie": "Cookie",
+    "password": "Kata sandi",
+    "root_folder_id": "ID folder induk",
+    "user_name": "Nama pengguna"
+  },
+  "Chunk": {
+    "chunk_large_file_only": "Hanya pecah berkas besar",
+    "chunk_large_file_only-tips": "pecah hanya jika ukuran berkas > part_size",
+    "chunk_prefix": "Awalan chunk",
+    "chunk_prefix-tips": "awalan folder chunk",
+    "custom_ext": "Ekstensi kustom",
+    "num_list_workers": "Jumlah worker daftar",
+    "part_size": "Ukuran bagian",
+    "part_size-tips": "byte",
+    "remote_path": "Path jarak jauh",
+    "show_hidden": "Tampilkan yang tersembunyi",
+    "show_hidden-tips": "tampilkan direktori dan berkas tersembunyi",
+    "store_hash": "Simpan hash",
+    "thumbnail": "Gambar mini",
+    "thumbnail-tips": "aktifkan gambar mini yang telah dibuat di folder .thumbnails"
+  },
+  "Cloudreve": {
+    "address": "Alamat",
+    "cookie": "Cookie",
+    "custom_ua": "UA kustom",
+    "enable_thumb_and_folder_size": "Aktifkan ukuran folder dan thumbnail",
+    "password": "Kata sandi",
+    "root_folder_path": "Path folder root",
+    "username": "Nama pengguna"
+  },
+  "Cloudreve V4": {
+    "access_token": "Token akses",
+    "address": "Alamat",
+    "custom_ua": "UA kustom",
+    "enable_folder_size": "Aktifkan ukuran folder",
+    "enable_thumb": "Aktifkan thumbnail",
+    "enable_version_upload": "Aktifkan unggah versi",
+    "hide_uploading": "Sembunyikan yang sedang diunggah",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "created_at": "Waktu dibuat",
+      "name": "Nama",
+      "size": "Ukuran",
+      "updated_at": "Waktu diperbarui"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "password": "Kata sandi",
+    "refresh_token": "Token penyegaran",
+    "root_folder_path": "Path folder root",
+    "username": "Nama pengguna"
+  },
+  "Crypt": {
+    "directory_name_encryption": "Enkripsi nama direktori",
+    "directory_name_encryptions": {
+      "false": "Tidak",
+      "true": "Ya"
+    },
+    "encrypted_suffix": "Akhiran terenkripsi",
+    "encrypted_suffix-tips": "khusus untuk pengguna tingkat lanjut! berkas terenkripsi akan menggunakan akhiran ini",
+    "filename_encoding": "Pengodean nama berkas",
+    "filename_encoding-tips": "khusus untuk pengguna tingkat lanjut!",
+    "filename_encodings": {
+      "base32": "Base32",
+      "base32768": "Base32768",
+      "base64": "Base64"
+    },
+    "filename_encryption": "Enkripsi nama berkas",
+    "filename_encryptions": {
+      "obfuscate": "Samarkan",
+      "off": "Nonaktif",
+      "standard": "Standar"
+    },
+    "password": "Kata sandi",
+    "password-tips": "kata sandi utama",
+    "remote_path": "Path jarak jauh",
+    "remote_path-tips": "Lokasi penyimpanan data terenkripsi",
+    "salt": "Garam",
+    "salt-tips": "Jika Anda tidak tahu apa itu salt, anggap saja sebagai kata sandi kedua. Opsional, tetapi disarankan",
+    "show_hidden": "Tampilkan yang tersembunyi",
+    "show_hidden-tips": "tampilkan direktori dan berkas tersembunyi",
+    "thumbnail": "Gambar mini",
+    "thumbnail-tips": "aktifkan gambar mini yang telah dibuat di folder .thumbnails"
+  },
+  "Degoo": {
+    "access_token": "Token akses",
+    "access_token-tips": "Token akses untuk API Degoo, diperoleh secara otomatis",
+    "password": "Kata sandi",
+    "password-tips": "Kata sandi akun Degoo Anda",
+    "refresh_token": "Token penyegaran",
+    "refresh_token-tips": "Token penyegaran untuk perpanjangan token otomatis, diperoleh secara otomatis",
+    "root_folder_id": "ID folder induk",
+    "username": "Nama pengguna",
+    "username-tips": "Email akun Degoo Anda"
+  },
+  "Doge": {
+    "access_key_id": "ID kunci akses",
+    "add_filename_to_disposition": "Tambahkan nama berkas ke disposition",
+    "add_filename_to_disposition-tips": "Tambahkan nama berkas ke header Content-Disposition.",
+    "bucket": "Bucket",
+    "custom_host": "Host kustom",
+    "direct_upload_host": "Host unggah langsung",
+    "enable_custom_host_presign": "Aktifkan presign host kustom",
+    "enable_direct_upload": "Aktifkan unggah langsung",
+    "endpoint": "Titik akhir",
+    "force_path_style": "Paksa gaya path",
+    "list_object_version": "Daftar versi objek",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "Teks pengganti",
+    "region": "Wilayah",
+    "remove_bucket": "Hapus bucket",
+    "remove_bucket-tips": "Hapus nama bucket dari path saat menggunakan host kustom.",
+    "root_folder_path": "Path folder root",
+    "secret_access_key": "Kunci akses rahasia",
+    "session_token": "Token sesi",
+    "sign_url_expire": "masa berlaku URL bertanda tangan",
+    "user_agent": "Agen pengguna",
+    "user_agent-tips": "User-Agent kustom untuk permintaan S3."
+  },
+  "Doubao": {
+    "cookie": "Cookie",
+    "download_api": "API unduhan",
+    "download_apis": {
+      "get_download_info": "Dapatkan info unduhan",
+      "get_file_url": "dapatkan URL berkas"
+    },
+    "limit_rate": "Batas laju",
+    "limit_rate-tips": "batasi laju semua permintaan API ([limit] permintaan/1 dtk)",
+    "root_folder_id": "ID folder induk",
+    "upload_thread": "Thread unggah"
+  },
+  "DoubaoNew": {
+    "app_id": "ID aplikasi",
+    "app_id-tips": "ID aplikasi Doubao",
+    "auth_client_id": "ID klien autentikasi",
+    "auth_client_id-tips": "ID klien autentikasi Doubao Biz",
+    "auth_client_type": "Jenis klien autentikasi",
+    "auth_client_type-tips": "Jenis klien autentikasi Doubao Biz",
+    "auth_scope": "Cakupan autentikasi",
+    "auth_scope-tips": "Cakupan autentikasi Doubao Biz",
+    "auth_sdk_source": "sumber SDK autentikasi",
+    "auth_sdk_source-tips": "Sumber SDK autentikasi Doubao Biz",
+    "auth_sdk_version": "versi SDK autentikasi",
+    "auth_sdk_version-tips": "Versi SDK autentikasi Doubao Biz",
+    "cookie": "Cookie",
+    "cookie-tips": "Cookie web",
+    "dpop_key_secret": "rahasia kunci DPoP",
+    "dpop_key_secret-tips": "Rahasia kunci DPoP untuk membuat token DPoP",
+    "ignore_jwt_check": "abaikan pemeriksaan JWT",
+    "ignore_jwt_check-tips": "Apakah pemeriksaan JWT akan diabaikan untuk mencegah masalah waktu",
+    "root_folder_id": "ID folder induk",
+    "share_link": "Tautan berbagi",
+    "share_link-tips": "Apakah akan menggunakan tautan berbagi untuk mengunduh"
+  },
+  "DoubaoShare": {
+    "cookie": "Cookie",
+    "root_folder_path": "Path folder root",
+    "share_ids": "ID berbagi"
+  },
+  "Dropbox": {
+    "RootNamespaceId": "ID namespace induk",
+    "api_url_address": "alamat URL API",
+    "client_id": "ID klien",
+    "client_id-tips": "Biarkan kosong jika Anda tidak memilikinya",
+    "client_secret": "Rahasia klien",
+    "client_secret-tips": "Biarkan kosong jika Anda tidak memilikinya",
+    "refresh_token": "Token penyegaran",
+    "root_folder_path": "Path folder root",
+    "use_online_api": "gunakan API online"
+  },
+  "Emby": {
+    "api_key": "kunci API",
+    "link_method": "Metode tautan",
+    "link_methods": {
+      "download": "Unduh",
+      "stream": "Streaming"
+    },
+    "password": "Kata sandi",
+    "root_folder_id": "ID folder induk",
+    "url": "URL",
+    "user_id": "ID pengguna",
+    "username": "Nama pengguna"
+  },
+  "FTP": {
+    "address": "Alamat",
+    "cwd_list": "gunakan CWD untuk membuat daftar",
+    "cwd_list-tips": "Masuk ke direktori sebelum membuat daftar",
+    "encoding": "Pengodean",
+    "password": "Kata sandi",
+    "root_folder_path": "Path folder root",
+    "username": "Nama pengguna"
+  },
+  "FebBox": {
+    "client_id": "ID klien",
+    "client_secret": "Rahasia klien",
+    "page_size": "Ukuran halaman",
+    "page_size-tips": "ukuran halaman untuk daftar API driver FebBox",
+    "root_folder_id": "ID folder induk",
+    "sort_rule": "Aturan pengurutan",
+    "sort_rules": {
+      "ext_asc": "Ekstensi naik",
+      "ext_desc": "Ekstensi turun",
+      "name_asc": "Nama naik",
+      "name_desc": "Nama turun",
+      "size_asc": "Ukuran naik",
+      "size_desc": "Ukuran turun",
+      "update_asc": "Pembaruan naik",
+      "update_desc": "Pembaruan turun"
+    },
+    "user_ip": "IP pengguna",
+    "user_ip-tips": "alamat IP pengguna untuk tautan unduhan yang dapat mempercepat unduhan"
+  },
+  "FeijiPan": {
+    "ip": "IP",
+    "password": "Kata sandi",
+    "root_folder_id": "ID folder induk",
+    "username": "Nama pengguna"
+  },
+  "GitHub API": {
+    "accurate_modified_time": "Waktu modifikasi akurat",
+    "accurate_modified_time-tips": "Upaya terbaik untuk memperoleh waktu modifikasi akurat pada daftar direktori kecil. Dinonaktifkan secara default. Menambahkan satu permintaan GitHub GraphQL dan menggunakan nilai waktu nol lama jika gagal.",
+    "author_email": "Email penulis",
+    "author_name": "Nama penulis",
+    "committer_email": "Email pengirim commit",
+    "committer_name": "Nama pengirim commit",
+    "copy_commit_message": "Pesan commit penyalinan",
+    "delete_commit_message": "Pesan commit penghapusan",
+    "gh_proxy": "proxy GH",
+    "gh_proxy-tips": "Proxy GitHub, misalnya https://ghproxy.net/raw.githubusercontent.com atau https://gh-proxy.com/raw.githubusercontent.com",
+    "gpg_key_passphrase": "frasa sandi kunci GPG",
+    "gpg_private_key": "kunci privat GPG",
+    "mkdir_commit_message": "Pesan commit pembuatan direktori",
+    "move_commit_message": "Pesan commit pemindahan",
+    "owner": "Pemilik",
+    "put_commit_message": "Pesan commit unggah",
+    "ref": "Referensi",
+    "ref-tips": "Cabang, tag, atau SHA commit; default-nya cabang main.",
+    "rename_commit_message": "Pesan commit penggantian nama",
+    "repo": "Repositori",
+    "root_folder_path": "Path folder root",
+    "token": "Token"
+  },
+  "GitHub Releases": {
+    "gh_proxy": "proxy GH",
+    "gh_proxy-tips": "Proxy GitHub, misalnya https://ghproxy.net/github.com atau https://gh-proxy.com/github.com ",
+    "max_page": "Halaman maksimum",
+    "max_page-tips": "jumlah maksimum halaman yang diambil (0 = tanpa batas), hanya berfungsi saat semua versi ditampilkan",
+    "per_page": "Per halaman",
+    "per_page-tips": "jumlah rilis per halaman (maks. 100), hanya berfungsi saat semua versi ditampilkan",
+    "repo_structure": "Struktur repositori",
+    "repo_structure-tips": "struktur:[path:]org/repo",
+    "root_folder_path": "Path folder root",
+    "show_all_version": "Tampilkan semua versi",
+    "show_all_version-tips": "tampilkan semua versi",
+    "show_readme": "tampilkan README",
+    "show_readme-tips": "tampilkan berkas README dan LICENSE",
+    "show_source_code": "Tampilkan kode sumber",
+    "show_source_code-tips": "tampilkan kode sumber (zip/tar.gz)",
+    "token": "Token",
+    "token-tips": "Token GitHub untuk mengakses repositori privat atau meningkatkan batas permintaan"
+  },
+  "GoogleDrive": {
+    "api_url_address": "alamat URL API",
+    "chunk_size": "Ukuran potongan",
+    "chunk_size-tips": "ukuran potongan saat mengunggah (satuan: MB)",
+    "client_id": "ID klien",
+    "client_secret": "Rahasia klien",
+    "disable_disk_usage": "Nonaktifkan penggunaan disk",
+    "order_by": "Urutkan berdasarkan",
+    "order_by-tips": "misalnya: folder,name,modifiedTime",
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "refresh_token": "Token penyegaran",
+    "root_folder_id": "ID folder induk",
+    "use_online_api": "gunakan API online"
+  },
+  "GooglePhoto": {
+    "client_id": "ID klien",
+    "client_secret": "Rahasia klien",
+    "refresh_token": "Token penyegaran",
+    "root_folder_id": "ID folder induk",
+    "show_archive": "Tampilkan arsip"
+  },
+  "GuangYaPan": {
+    "access_token": "Token akses",
+    "access_token-tips": "Token akses Bearer (opsional jika refresh_token diberikan)",
+    "captcha_token": "Token CAPTCHA",
+    "captcha_token-tips": "token CAPTCHA yang diperlukan oleh /v1/auth/verification",
+    "client_id": "ID klien",
+    "client_id-tips": "ID klien untuk API GuangYaPan wajib diisi",
+    "device_id": "ID perangkat",
+    "device_id-tips": "ID perangkat kustom opsional (32 karakter heksadesimal); dibuat otomatis jika kosong",
+    "device_sign": "Tanda tangan perangkat",
+    "device_sign-tips": "Header X-Device-Sign kustom opsional (dibuat dari device_id jika kosong)",
+    "order_by": "Urutkan berdasarkan",
+    "order_by-tips": "Kolom pengurutan yang digunakan oleh daftar berkas",
+    "page_size": "Ukuran halaman",
+    "phone_number": "Nomor telepon",
+    "phone_number-tips": "Nomor telepon untuk login SMS, misalnya +86 13800000000",
+    "refresh_token": "Token penyegaran",
+    "refresh_token-tips": "Token penyegaran untuk login/penyegaran otomatis",
+    "root_path": "Path root",
+    "root_path-tips": "Path lengkap di drive cloud GuangYaPan",
+    "send_code": "Kirim kode",
+    "send_code-tips": "Atur ke true dan simpan untuk mengirim kode SMS; nilainya otomatis diatur kembali ke false setelah pengiriman",
+    "sort_type": "Jenis pengurutan",
+    "sort_type-tips": "Arah pengurutan yang digunakan oleh daftar berkas",
+    "verification_id": "ID verifikasi",
+    "verification_id-tips": "Dibuat otomatis setelah kode SMS dikirim; jangan edit secara manual",
+    "verify_code": "Kode verifikasi",
+    "verify_code-tips": "Kode verifikasi SMS yang digunakan bersama phone_number; isi lalu simpan untuk menyelesaikan login"
+  },
+  "HalalCloud": {
+    "app_id": "ID aplikasi",
+    "app_secret": "Rahasia aplikasi",
+    "app_version": "Versi aplikasi",
+    "refresh_token": "Token penyegaran",
+    "refresh_token-tips": "wajib diisi jika jenis login adalah refresh_token",
+    "root_folder_path": "Path folder root",
+    "upload_thread": "Thread unggah",
+    "upload_thread-tips": "1 <= thread <= 32"
+  },
+  "HalalCloudOpen": {
+    "client_id": "ID klien",
+    "client_secret": "Rahasia klien",
+    "host": "Host",
+    "refresh_token": "Token penyegaran",
+    "refresh_token-tips": "Token penyegaran tidak diperlukan jika menggunakan pendekatan API pribadi.",
+    "root_folder_path": "Path folder root",
+    "timeout": "Batas waktu",
+    "timeout-tips": "batas waktu dalam detik",
+    "upload_thread": "Thread unggah",
+    "upload_thread-tips": "1 <= thread <= 32"
+  },
+  "ILanZou": {
+    "ip": "IP",
+    "password": "Kata sandi",
+    "root_folder_id": "ID folder induk",
+    "username": "Nama pengguna"
+  },
+  "IPFS API": {
+    "endpoint": "Titik akhir",
+    "gateway": "Gerbang",
+    "mode": "Mode",
+    "modes": {
+      "ipfs": "IPFS",
+      "ipns": "IPNS",
+      "mfs": "MFS"
+    },
+    "root_folder_path": "Path folder root"
+  },
+  "KodBox": {
+    "address": "Alamat",
+    "password": "Kata sandi",
+    "root_folder_path": "Path folder root",
+    "username": "Nama pengguna"
+  },
+  "Lanzou": {
+    "account": "Akun",
+    "baseUrl": "URL dasar",
+    "baseUrl-tips": "URL dasar untuk operasi berkas",
+    "cookie": "Cookie",
+    "cookie-tips": "berlaku sekitar 15 hari, abaikan jika shareUrl digunakan",
+    "password": "Kata sandi",
+    "repair_file_info": "Perbaiki info berkas",
+    "repair_file_info-tips": "Untuk menggunakan WebDAV, Anda perlu mengaktifkannya",
+    "root_folder_id": "ID folder induk",
+    "shareUrl": "URL berbagi",
+    "shareUrl-tips": "digunakan untuk mendapatkan halaman berbagi",
+    "share_password": "Kata sandi berbagi",
+    "type": "Jenis",
+    "types": {
+      "account": "Akun",
+      "cookie": "Cookie",
+      "url": "URL"
+    },
+    "user_agent": "Agen pengguna"
+  },
+  "LenovoNasShare": {
+    "host": "Host",
+    "host-tips": "Anda dapat mengubahnya ke jaringan area lokal Anda",
+    "root_folder_path": "Path folder root",
+    "share_id": "ID berbagi",
+    "share_id-tips": "Bagian setelah karakter / terakhir pada tautan berbagi",
+    "share_pwd": "Kata sandi berbagi",
+    "share_pwd-tips": "Kata sandi tautan berbagi",
+    "show_root_folder": "Tampilkan folder root"
+  },
+  "Local": {
+    "directory_size": "Ukuran direktori",
+    "directory_size-tips": "Hal ini dapat memengaruhi kinerja host",
+    "mkdir_perm": "Izin pembuatan direktori",
+    "pdf_thumbnail": "gambar mini PDF",
+    "pdf_thumbnail-tips": "Buat thumbnail halaman pertama PDF menggunakan Quick Look di macOS",
+    "recycle_bin_path": "Path tempat sampah",
+    "recycle_bin_path-tips": "jalur ke tempat sampah; hapus permanen jika kosong atau jika diisi 'hapus permanen'",
+    "root_folder_path": "Path folder root",
+    "show_hidden": "Tampilkan yang tersembunyi",
+    "show_hidden-tips": "tampilkan direktori dan berkas tersembunyi",
+    "thumb_cache_folder": "Folder cache thumbnail",
+    "thumb_concurrency": "Konkruensi thumbnail",
+    "thumb_concurrency-tips": "Jumlah goroutine yang berjalan bersamaan untuk membuat thumbnail. Mengatur jumlah thumbnail yang dapat dibuat secara paralel.",
+    "thumbnail": "Gambar mini",
+    "thumbnail-tips": "aktifkan gambar mini",
+    "video_thumb_pos": "Posisi thumbnail video",
+    "video_thumb_pos-tips": "Posisi thumbnail video. Nilai angka (bilangan bulat atau desimal) menyatakan waktu dalam detik. Nilai yang diakhiri '%' menyatakan persentase durasi video."
+  },
+  "MediaFire": {
+    "chunk_size": "Ukuran potongan",
+    "cookie": "Cookie",
+    "cookie-tips": "Diperlukan untuk autentikasi API MediaFire",
+    "limit_rate": "Batas laju",
+    "limit_rate-tips": "batasi laju semua permintaan API ([limit] permintaan/1 dtk)",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "name": "Nama",
+      "size": "Ukuran",
+      "time": "Waktu"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "root_folder_path": "Path folder root",
+    "session_token": "Token sesi",
+    "session_token-tips": "Opsional untuk API MediaFire; dapat diperoleh otomatis dari cookie",
+    "upload_threads": "Thread unggah",
+    "upload_threads-tips": "thread unggah serentak"
+  },
+  "MediaTrack": {
+    "access_token": "Token akses",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "size": "Ukuran",
+      "title": "Judul",
+      "updated_at": "Waktu diperbarui"
+    },
+    "order_desc": "Urutan menurun",
+    "project_id": "ID proyek",
+    "root_folder_id": "ID folder induk"
+  },
+  "Mega_nz": {
+    "email": "Email",
+    "move_to_trash": "Pindahkan ke sampah",
+    "move_to_trash-tips": "pindahkan ke sampah saat menghapus berkas",
+    "password": "Kata sandi",
+    "two_fa_code": "Kode autentikasi dua faktor",
+    "two_fa_code-tips": "Kode 2FA 6 digit. Mengisi kode 2FA saja tidak mendukung pemuatan ulang driver",
+    "two_fa_secret": "Rahasia autentikasi dua faktor",
+    "two_fa_secret-tips": "Rahasia 2FA"
+  },
+  "Misskey": {
+    "access_token": "Token akses",
+    "endpoint": "Titik akhir",
+    "root_folder_path": "Path folder root"
+  },
+  "MoPan": {
+    "cloud_id": "ID cloud",
+    "device_info": "Info perangkat",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "filename": "Nama berkas",
+      "filesize": "Ukuran berkas",
+      "lastOpTime": "Waktu operasi terakhir"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "password": "Kata sandi",
+    "phone": "Telepon",
+    "root_folder_id": "ID folder induk",
+    "sms_code": "Kode SMS",
+    "sms_code-tips": "masukkan 'send' untuk mengirim SMS ",
+    "upload_thread": "Thread unggah",
+    "upload_thread-tips": "1<=thread<=32"
+  },
+  "NeteaseMusic": {
+    "cookie": "Cookie",
+    "song_limit": "Batas jumlah lagu",
+    "song_limit-tips": "secara bawaan, hanya mengambil 200 lagu"
+  },
+  "Onedrive": {
+    "api_url_address": "alamat URL API",
+    "chunk_size": "Ukuran potongan",
+    "client_id": "ID klien",
+    "client_secret": "Rahasia klien",
+    "custom_host": "Host kustom",
+    "custom_host-tips": "Host kustom untuk tautan unduhan OneDrive",
+    "disable_disk_usage": "Nonaktifkan penggunaan disk",
+    "enable_direct_upload": "Aktifkan unggah langsung",
+    "enable_direct_upload-tips": "Aktifkan unggah langsung dari klien ke OneDrive",
+    "is_sharepoint": "Apakah SharePoint",
+    "redirect_uri": "URI pengalihan",
+    "refresh_token": "Token penyegaran",
+    "region": "Wilayah",
+    "regions": {
+      "cn": "China",
+      "de": "Jerman",
+      "global": "Global",
+      "us": "Amerika Serikat"
+    },
+    "root_folder_path": "Path folder root",
+    "site_id": "ID situs",
+    "use_online_api": "gunakan API online"
+  },
+  "Onedrive Sharelink": {
+    "disable_disk_usage": "Nonaktifkan penggunaan disk",
+    "enable_direct_upload": "Aktifkan unggah langsung",
+    "enable_direct_upload-tips": "Izinkan unggah langsung ke OneDrive tanpa melalui OpenList",
+    "password": "Kata sandi",
+    "root_folder_path": "Path folder root",
+    "url": "URL"
+  },
+  "OnedriveAPP": {
+    "chunk_size": "Ukuran potongan",
+    "client_id": "ID klien",
+    "client_secret": "Rahasia klien",
+    "custom_host": "Host kustom",
+    "custom_host-tips": "Host kustom untuk tautan unduhan OneDrive",
+    "disable_disk_usage": "Nonaktifkan penggunaan disk",
+    "email": "Email",
+    "enable_direct_upload": "Aktifkan unggah langsung",
+    "enable_direct_upload-tips": "Aktifkan unggah langsung dari klien ke OneDrive",
+    "region": "Wilayah",
+    "regions": {
+      "cn": "China",
+      "de": "Jerman",
+      "global": "Global",
+      "us": "Amerika Serikat"
+    },
+    "root_folder_path": "Path folder root",
+    "tenant_id": "ID penyewa"
+  },
+  "OpenList": {
+    "forward_archive_requests": "Teruskan permintaan arsip",
+    "meta_password": "Kata sandi meta",
+    "pass_ip_to_upsteam": "teruskan IP ke upstream",
+    "pass_refresh_flag_to_upsteam": "Teruskan tanda penyegaran ke upstream",
+    "pass_ua_to_upsteam": "teruskan UA ke upstream",
+    "password": "Kata sandi",
+    "root_folder_path": "Path folder root",
+    "token": "Token",
+    "url": "URL",
+    "username": "Nama pengguna"
+  },
+  "OpenListShare": {
+    "forward_archive_requests": "Teruskan permintaan arsip",
+    "pwd": "Kata sandi",
+    "root_folder_path": "Path folder root",
+    "sid": "SID",
+    "url": "URL"
+  },
+  "PikPak": {
+    "captcha_token": "Token CAPTCHA",
+    "device_id": "ID perangkat",
+    "disable_media_link": "Nonaktifkan tautan media",
+    "password": "Kata sandi",
+    "platform": "Platform",
+    "platforms": {
+      "android": "Android",
+      "pc": "PC",
+      "web": "Web"
+    },
+    "refresh_token": "Token penyegaran",
+    "root_folder_id": "ID folder induk",
+    "skip_verification": "Lewati verifikasi",
+    "skip_verification-tips": "abaikan URL verifikasi manusia yang dikembalikan API CAPTCHA, alih-alih gagal; mengaktifkan opsi ini dapat memicu kontrol risiko PikPak",
+    "username": "Nama pengguna"
+  },
+  "PikPakShare": {
+    "device_id": "ID perangkat",
+    "platform": "Platform",
+    "platforms": {
+      "android": "Android",
+      "pc": "PC",
+      "web": "Web"
+    },
+    "root_folder_id": "ID folder induk",
+    "share_id": "ID berbagi",
+    "share_pwd": "Kata sandi berbagi",
+    "use_transcoding_address": "Gunakan alamat transkode"
+  },
+  "ProtonDrive": {
+    "chunk_size": "Ukuran potongan",
+    "email": "Email",
+    "password": "Kata sandi",
+    "root_folder_id": "ID folder induk",
+    "two_fa_code": "Kode autentikasi dua faktor",
+    "use_reusable_login": "Gunakan login yang dapat digunakan kembali",
+    "use_reusable_login-tips": "Gunakan kredensial login yang dapat digunakan kembali, bukan nama pengguna/kata sandi"
+  },
+  "Quark": {
+    "cookie": "Cookie",
+    "only_list_video_file": "Hanya tampilkan berkas video",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "file_name": "Nama berkas",
+      "file_type": "Jenis berkas",
+      "none": "Tidak ada",
+      "updated_at": "Waktu diperbarui"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "root_folder_id": "ID folder induk",
+    "use_transcoding_address": "Gunakan alamat transkode",
+    "use_transcoding_address-tips": "Anda dapat menonton video yang telah ditranskode dan mendukung pengalihan 302"
+  },
+  "QuarkOpen": {
+    "access_token": "Token akses",
+    "api_url_address": "alamat URL API",
+    "app_id": "ID aplikasi",
+    "app_id-tips": "Biarkan kosong jika Anda tidak memilikinya",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "created_at": "Waktu dibuat",
+      "file_name": "Nama berkas",
+      "file_type": "Jenis berkas",
+      "none": "Tidak ada",
+      "updated_at": "Waktu diperbarui"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "refresh_token": "Token penyegaran",
+    "root_folder_id": "ID folder induk",
+    "sign_key": "Kunci tanda tangan",
+    "sign_key-tips": "Biarkan kosong jika Anda tidak memilikinya",
+    "use_online_api": "gunakan API online"
+  },
+  "QuarkTV": {
+    "device_id": "ID perangkat",
+    "link_method": "Metode tautan",
+    "link_methods": {
+      "download": "Unduh",
+      "streaming": "Streaming"
+    },
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "file_name": "Nama berkas",
+      "updated_at": "Waktu diperbarui"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "query_token": "Token kueri",
+    "query_token-tips": "jangan diedit'",
+    "refresh_token": "Token penyegaran",
+    "root_folder_id": "ID folder induk"
+  },
+  "S3": {
+    "access_key_id": "ID kunci akses",
+    "add_filename_to_disposition": "Tambahkan nama berkas ke disposition",
+    "add_filename_to_disposition-tips": "Tambahkan nama berkas ke header Content-Disposition.",
+    "bucket": "Bucket",
+    "custom_host": "Host kustom",
+    "direct_upload_host": "Host unggah langsung",
+    "enable_custom_host_presign": "Aktifkan presign host kustom",
+    "enable_direct_upload": "Aktifkan unggah langsung",
+    "endpoint": "Titik akhir",
+    "force_path_style": "Paksa gaya path",
+    "list_object_version": "Daftar versi objek",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "Teks pengganti",
+    "region": "Wilayah",
+    "remove_bucket": "Hapus bucket",
+    "remove_bucket-tips": "Hapus nama bucket dari path saat menggunakan host kustom.",
+    "root_folder_path": "Path folder root",
+    "secret_access_key": "Kunci akses rahasia",
+    "session_token": "Token sesi",
+    "sign_url_expire": "masa berlaku URL bertanda tangan",
+    "user_agent": "Agen pengguna",
+    "user_agent-tips": "User-Agent kustom untuk permintaan S3."
+  },
+  "SFTP": {
+    "address": "Alamat",
+    "ignore_symlink_error": "Abaikan kesalahan tautan simbolis",
+    "passphrase": "Frasa sandi",
+    "password": "Kata sandi",
+    "private_key": "Kunci privat",
+    "root_folder_path": "Path folder root",
+    "username": "Nama pengguna"
+  },
+  "SMB": {
+    "address": "Alamat",
+    "password": "Kata sandi",
+    "root_folder_path": "Path folder root",
+    "share_name": "Nama berbagi",
+    "username": "Nama pengguna"
+  },
+  "Seafile": {
+    "address": "Alamat",
+    "password": "Kata sandi",
+    "repoId": "ID repositori",
+    "repoPwd": "Kata sandi repositori",
+    "root_folder_path": "Path folder root",
+    "token": "Token",
+    "username": "Nama pengguna"
+  },
+  "Strm": {
+    "KeepLocalDownloadFile": "SimpanBerkasUnduhanLokal",
+    "KeepLocalDownloadFile-tips": "simpan berkas unduhan secara lokal",
+    "PathPrefix": "AwalanPath",
+    "PathPrefix-tips": "Awalan path",
+    "SaveLocalMode": "Mode penyimpanan lokal",
+    "SaveLocalMode-tips": "mode penyimpanan berkas STRM secara lokal",
+    "SaveLocalModes": {
+      "insert": "Sisipkan",
+      "sync": "Sinkronkan",
+      "update": "Perbarui"
+    },
+    "SaveStrmLocalPath": "jalur penyimpanan berkas STRM lokal",
+    "SaveStrmLocalPath-tips": "jalur untuk menyimpan berkas STRM secara lokal",
+    "SaveStrmToLocal": "Simpan STRM secara lokal",
+    "SaveStrmToLocal-tips": "simpan berkas STRM secara lokal",
+    "downloadFileTypes": "Jenis berkas unduhan",
+    "downloadFileTypes-tips": "berkas yang perlu diunduh bersama STRM (biasanya subtitel)",
+    "encodePath": "EnkodePath",
+    "encodePath-tips": "enkode jalur dalam berkas STRM",
+    "filterFileTypes": "JenisBerkasFilter",
+    "filterFileTypes-tips": "mendukung akhiran nama berkas STRM",
+    "minFileSize": "Ukuran berkas minimum",
+    "minFileSize-tips": "Saring berkas yang lebih kecil dari ukuran ini (satuan: MB, 0 untuk menonaktifkan)",
+    "paths": "Path",
+    "siteUrl": "URL situs",
+    "siteUrl-tips": "URL awalan untuk berkas STRM",
+    "withSign": "Dengan tanda tangan",
+    "withoutUrl": "Tanpa URL",
+    "withoutUrl-tips": "konten berkas STRM tanpa awalan URL"
+  },
+  "Teambition": {
+    "cookie": "Cookie",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "created": "Dibuat",
+      "fileName": "Nama berkas",
+      "fileSize": "Ukuran berkas",
+      "updated": "Diperbarui"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "Asc": "Naik",
+      "Desc": "Turun"
+    },
+    "project_id": "ID proyek",
+    "region": "Wilayah",
+    "regions": {
+      "china": "Tiongkok",
+      "international": "Internasional"
+    },
+    "root_folder_id": "ID folder induk",
+    "use_s3_upload_method": "Gunakan metode unggah S3"
+  },
+  "Teldrive": {
+    "chunk_size": "Ukuran potongan",
+    "chunk_size-tips": "Ukuran potongan dalam MiB",
+    "cookie": "Cookie",
+    "cookie-tips": "access_token=xxx",
+    "random_chunk_name": "Nama chunk acak",
+    "random_chunk_name-tips": "Nama chunk acak",
+    "root_folder_path": "Path folder root",
+    "upload_concurrency": "Konkruensi unggah",
+    "upload_concurrency-tips": "Konkruensi permintaan unggah",
+    "url": "URL",
+    "use_share_link": "Gunakan tautan berbagi",
+    "use_share_link-tips": "Buat tautan berbagi saat mengambil tautan untuk mendukung pengalihan 302. Jika dinonaktifkan, Anda perlu mengaktifkan proxy web."
+  },
+  "Terabox": {
+    "cookie": "Cookie",
+    "download_api": "API unduhan",
+    "download_apis": {
+      "crack": "Crack",
+      "official": "Resmi"
+    },
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "name": "Nama",
+      "size": "Ukuran",
+      "time": "Waktu"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "root_folder_path": "Path folder root"
+  },
+  "Thunder": {
+    "captcha_token": "Token CAPTCHA",
+    "credit_key": "Kunci kredit",
+    "credit_key-tips": "kunci kredit, digunakan untuk login",
+    "device_id": "ID perangkat",
+    "password": "Kata sandi",
+    "root_folder_id": "ID folder induk",
+    "space": "Ruang",
+    "space-tips": "ID perangkat untuk perangkat jarak jauh",
+    "username": "Nama pengguna"
+  },
+  "ThunderBrowser": {
+    "captcha_token": "Token CAPTCHA",
+    "credit_key": "Kunci kredit",
+    "credit_key-tips": "kunci kredit, digunakan untuk login",
+    "device_id": "ID perangkat",
+    "password": "Kata sandi",
+    "remove_way": "Cara penghapusan",
+    "remove_ways": {
+      "delete": "Hapus",
+      "trash": "Sampah"
+    },
+    "root_folder_id": "ID folder induk",
+    "safe_password": "Kata sandi aman",
+    "use_fluent_play": "Gunakan pemutaran lancar",
+    "use_fluent_play-tips": "gunakan pemutaran lancar untuk unduhan offline; hanya tautan magnet yang didukung",
+    "use_video_url": "gunakan URL video",
+    "username": "Nama pengguna"
+  },
+  "ThunderBrowserExpert": {
+    "algorithms": "Algoritme",
+    "algorithms-tips": "wajib diisi jika jenis tanda tangan adalah algorithms",
+    "captcha_sign": "Tanda tangan CAPTCHA",
+    "captcha_sign-tips": "wajib diisi jika jenis tanda tangan adalah captcha_sign",
+    "captcha_token": "Token CAPTCHA",
+    "client_id": "ID klien",
+    "client_secret": "Rahasia klien",
+    "client_version": "Versi klien",
+    "credit_key": "Kunci kredit",
+    "credit_key-tips": "kunci kredit, digunakan untuk login",
+    "device_id": "ID perangkat",
+    "download_user_agent": "Agen pengguna unduhan",
+    "login_type": "Jenis login",
+    "login_types": {
+      "refresh_token": "Token penyegaran",
+      "user": "Pengguna"
+    },
+    "package_name": "Nama paket",
+    "password": "Kata sandi",
+    "password-tips": "wajib diisi jika jenis login adalah user",
+    "refresh_token": "Token penyegaran",
+    "refresh_token-tips": "wajib diisi jika jenis login adalah refresh_token",
+    "remove_way": "Cara penghapusan",
+    "remove_ways": {
+      "delete": "Hapus",
+      "trash": "Sampah"
+    },
+    "root_folder_id": "ID folder induk",
+    "safe_password": "Kata sandi aman",
+    "safe_password-tips": "kata sandi yang sangat aman",
+    "sign_type": "Jenis tanda tangan",
+    "sign_types": {
+      "algorithms": "Algoritme",
+      "captcha_sign": "Tanda tangan CAPTCHA"
+    },
+    "timestamp": "Stempel waktu",
+    "timestamp-tips": "wajib diisi jika jenis tanda tangan adalah captcha_sign",
+    "use_fluent_play": "Gunakan pemutaran lancar",
+    "use_fluent_play-tips": "gunakan pemutaran lancar untuk unduhan offline; hanya tautan magnet yang didukung",
+    "use_video_url": "gunakan URL video",
+    "user_agent": "Agen pengguna",
+    "username": "Nama pengguna",
+    "username-tips": "wajib diisi jika jenis login adalah user"
+  },
+  "ThunderExpert": {
+    "algorithms": "Algoritme",
+    "algorithms-tips": "wajib diisi jika jenis tanda tangan adalah algorithms",
+    "captcha_sign": "Tanda tangan CAPTCHA",
+    "captcha_sign-tips": "wajib diisi jika jenis tanda tangan adalah captcha_sign",
+    "captcha_token": "Token CAPTCHA",
+    "client_id": "ID klien",
+    "client_secret": "Rahasia klien",
+    "client_version": "Versi klien",
+    "credit_key": "Kunci kredit",
+    "credit_key-tips": "kunci kredit, digunakan untuk login",
+    "device_id": "ID perangkat",
+    "download_user_agent": "Agen pengguna unduhan",
+    "login_type": "Jenis login",
+    "login_types": {
+      "refresh_token": "Token penyegaran",
+      "user": "Pengguna"
+    },
+    "package_name": "Nama paket",
+    "password": "Kata sandi",
+    "password-tips": "wajib diisi jika jenis login adalah user",
+    "refresh_token": "Token penyegaran",
+    "refresh_token-tips": "wajib diisi jika jenis login adalah refresh_token",
+    "root_folder_id": "ID folder induk",
+    "sign_type": "Jenis tanda tangan",
+    "sign_types": {
+      "algorithms": "Algoritme",
+      "captcha_sign": "Tanda tangan CAPTCHA"
+    },
+    "space": "Ruang",
+    "space-tips": "ID perangkat untuk perangkat jarak jauh",
+    "timestamp": "Stempel waktu",
+    "timestamp-tips": "wajib diisi jika jenis tanda tangan adalah captcha_sign",
+    "use_video_url": "gunakan URL video",
+    "user_agent": "Agen pengguna",
+    "username": "Nama pengguna",
+    "username-tips": "wajib diisi jika jenis login adalah user"
+  },
+  "ThunderX": {
+    "captcha_token": "Token CAPTCHA",
+    "password": "Kata sandi",
+    "root_folder_id": "ID folder induk",
+    "use_video_url": "gunakan URL video",
+    "username": "Nama pengguna"
+  },
+  "ThunderXExpert": {
+    "algorithms": "Algoritme",
+    "algorithms-tips": "wajib diisi jika jenis tanda tangan adalah algorithms",
+    "captcha_sign": "Tanda tangan CAPTCHA",
+    "captcha_sign-tips": "wajib diisi jika jenis tanda tangan adalah captcha_sign",
+    "captcha_token": "Token CAPTCHA",
+    "client_id": "ID klien",
+    "client_secret": "Rahasia klien",
+    "client_version": "Versi klien",
+    "device_id": "ID perangkat",
+    "download_user_agent": "Agen pengguna unduhan",
+    "login_type": "Jenis login",
+    "login_types": {
+      "refresh_token": "Token penyegaran",
+      "user": "Pengguna"
+    },
+    "package_name": "Nama paket",
+    "password": "Kata sandi",
+    "password-tips": "wajib diisi jika jenis login adalah user",
+    "refresh_token": "Token penyegaran",
+    "refresh_token-tips": "wajib diisi jika jenis login adalah refresh_token",
+    "root_folder_id": "ID folder induk",
+    "sign_type": "Jenis tanda tangan",
+    "sign_types": {
+      "algorithms": "Algoritme",
+      "captcha_sign": "Tanda tangan CAPTCHA"
+    },
+    "timestamp": "Stempel waktu",
+    "timestamp-tips": "wajib diisi jika jenis tanda tangan adalah captcha_sign",
+    "use_video_url": "gunakan URL video",
+    "user_agent": "Agen pengguna",
+    "username": "Nama pengguna",
+    "username-tips": "wajib diisi jika jenis login adalah user"
+  },
+  "UC": {
+    "cookie": "Cookie",
+    "only_list_video_file": "Hanya tampilkan berkas video",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "file_name": "Nama berkas",
+      "file_type": "Jenis berkas",
+      "none": "Tidak ada",
+      "updated_at": "Waktu diperbarui"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "root_folder_id": "ID folder induk",
+    "use_transcoding_address": "Gunakan alamat transkode",
+    "use_transcoding_address-tips": "Anda dapat menonton video yang telah ditranskode dan mendukung pengalihan 302"
+  },
+  "UCTV": {
+    "device_id": "ID perangkat",
+    "link_method": "Metode tautan",
+    "link_methods": {
+      "download": "Unduh",
+      "streaming": "Streaming"
+    },
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "file_name": "Nama berkas",
+      "updated_at": "Waktu diperbarui"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "query_token": "Token kueri",
+    "query_token-tips": "jangan diedit'",
+    "refresh_token": "Token penyegaran",
+    "root_folder_id": "ID folder induk"
+  },
+  "USS": {
+    "anti_theft_chain_token": "Token rantai anti-pencurian",
+    "bucket": "Bucket",
+    "endpoint": "Titik akhir",
+    "operator_name": "Nama operator",
+    "operator_password": "Kata sandi operator",
+    "root_folder_path": "Path folder root",
+    "sign_url_expire": "masa berlaku URL bertanda tangan"
+  },
+  "UrlTree": {
+    "head_size": "ukuran HEAD",
+    "head_size-tips": "gunakan metode HEAD untuk mendapatkan ukuran berkas, tetapi metode ini mungkin gagal.",
+    "url_structure": "struktur URL",
+    "url_structure-tips": "struktur:FolderName:\n  [FileName:][FileSize:][Modified:]Url",
+    "writable": "Dapat ditulis"
+  },
+  "Virtual": {
+    "max_file_size": "Ukuran berkas maksimum",
+    "min_file_size": "Ukuran berkas minimum",
+    "num_file": "Jumlah berkas",
+    "num_folder": "Jumlah folder",
+    "root_folder_path": "Path folder root"
+  },
+  "WPS": {
+    "cookie": "Cookie",
+    "custom_ua": "UA kustom",
+    "mode": "Mode",
+    "modes": {
+      "Business": "Bisnis",
+      "Personal": "Pribadi"
+    },
+    "root_folder_path": "Path folder root"
+  },
+  "WebDav": {
+    "address": "Alamat",
+    "password": "Kata sandi",
+    "root_folder_path": "Path folder root",
+    "tls_insecure_skip_verify": "lewati verifikasi TLS yang tidak aman",
+    "username": "Nama pengguna",
+    "vendor": "Vendor",
+    "vendors": {
+      "other": "Lainnya",
+      "sharepoint": "SharePoint"
+    }
+  },
+  "WeiYun": {
+    "cookies": "Cookie",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "name": "Nama",
+      "size": "Ukuran",
+      "updated_at": "Waktu diperbarui"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "root_folder_id": "ID folder induk",
+    "upload_thread": "Thread unggah",
+    "upload_thread-tips": "4<=thread<=32"
+  },
+  "WoPan": {
+    "access_token": "Token akses",
+    "access_token-tips": "Opsional jika token penyegaran diberikan; token akan diperbarui secara otomatis jika tidak ada atau terlalu pendek",
+    "family_id": "ID keluarga",
+    "family_id-tips": "Biarkan kosong jika ingin menggunakan drive pribadi",
+    "refresh_token": "Token penyegaran",
+    "refresh_token-tips": "Berikan token penyegaran atau token akses (minimal 16 karakter)",
+    "root_folder_id": "ID folder induk",
+    "sort_rule": "Aturan pengurutan",
+    "sort_rules": {
+      "name_asc": "Nama naik",
+      "name_desc": "Nama turun",
+      "size_asc": "Ukuran naik",
+      "size_desc": "Ukuran turun",
+      "time_asc": "Waktu naik",
+      "time_desc": "Waktu turun"
+    }
+  },
+  "YandexDisk": {
+    "api_url_address": "alamat URL API",
+    "client_id": "ID klien",
+    "client_secret": "Rahasia klien",
+    "order_by": "Urutkan berdasarkan",
+    "order_bys": {
+      "created": "Dibuat",
+      "modified": "Diubah",
+      "name": "Nama",
+      "path": "jalur",
+      "size": "Ukuran"
+    },
+    "order_direction": "Arah pengurutan",
+    "order_directions": {
+      "asc": "Naik",
+      "desc": "Turun"
+    },
+    "refresh_token": "Token penyegaran",
+    "root_folder_path": "Path folder root",
+    "use_online_api": "gunakan API online"
+  },
+  "cloudflare_imgbed": {
+    "address": "Alamat",
+    "address-tips": "Alamat API backend layanan hosting gambar, misalnya https://img.example.com",
+    "largeChannelName": "Nama Kanal Besar",
+    "largeChannelName-tips": "Nama kanal untuk berkas besar",
+    "largeChannelType": "Jenis Kanal Besar",
+    "largeChannelType-tips": "Jenis kanal untuk berkas besar: Hugging Face (unggah langsung), Telegram/CFR2/S3/Discord (unggah multipart)",
+    "largeChannelTypes": {
+      "": "",
+      "cfr2": "CFR2",
+      "discord": "Discord",
+      "huggingface": "Hugging Face",
+      "s3": "S3",
+      "telegram": "Telegram"
+    },
+    "root_folder_path": "Path folder root",
+    "smallChannelName": "Nama Kanal Kecil",
+    "smallChannelName-tips": "nama kanal untuk berkas biasa (biasanya <20 MB)",
+    "token": "Token",
+    "token-tips": "Token autentikasi",
+    "uploadThread": "Thread unggah",
+    "uploadThread-tips": "Jumlah thread bersamaan untuk unggah langsung berpotongan ke Hugging Face"
+  },
+  "config": {
+    "115 Cloud": {},
+    "115 Open": {},
+    "115 Share": {},
+    "123 Open": {},
+    "123Pan": {},
+    "123PanLink": {},
+    "123PanShare": {},
+    "139Yun": {},
+    "189Cloud": {
+      "alert": "Anda dapat mencoba menggunakan driver 189PC jika driver ini tidak berfungsi."
+    },
+    "189CloudPC": {},
+    "189CloudTV": {},
+    "AList V3": {},
+    "AliDoc": {
+      "alert": "Driver ini mendukung akses ke DingDrive melalui Dokumen DingTalk dan saat ini hanya dapat membaca."
+    },
+    "Alias": {},
+    "Aliyundrive": {
+      "alert": "Driver ini mungkin memiliki bug yang menyebabkan loop tanpa akhir.\nSudah usang, tidak lagi dipelihara, dan akan dihapus pada versi mendatang.\nSebaiknya gunakan driver resmi AliyundriveOpen."
+    },
+    "AliyundriveOpen": {},
+    "AliyundriveShare": {},
+    "AutoIndex": {},
+    "Azure Blob Storage": {},
+    "BaiduNetdisk": {},
+    "BaiduPhoto": {},
+    "Bunny Storage": {},
+    "CNB Releases": {},
+    "ChaoXingGroupDrive": {},
+    "Chunk": {},
+    "Cloudreve": {},
+    "Cloudreve V4": {},
+    "Crypt": {},
+    "Degoo": {},
+    "Doge": {},
+    "Doubao": {},
+    "DoubaoNew": {
+      "alert": "Jangan gunakan pengalihan 302 jika penyimpanan dapat diakses secara publik.\nJika tidak, tautan unduhan dapat membocorkan informasi sensitif seperti token akses atau tanda tangan.\nOrang lain dapat menggunakan tautan yang bocor untuk mengakses semua berkas Anda."
+    },
+    "DoubaoShare": {},
+    "Dropbox": {},
+    "Emby": {},
+    "FTP": {},
+    "FebBox": {},
+    "FeijiPan": {},
+    "GitHub API": {},
+    "GitHub Releases": {},
+    "GoogleDrive": {},
+    "GooglePhoto": {},
+    "GuangYaPan": {
+      "alert": "Login SMS dua tahap: (1) isi phone_number (serta captcha_token jika diperlukan), atur send_code=true, lalu simpan; (2) isi verify_code dan simpan untuk menyelesaikan login serta menyimpan access_token/refresh_token secara otomatis."
+    },
+    "HalalCloud": {},
+    "HalalCloudOpen": {},
+    "ILanZou": {},
+    "IPFS API": {},
+    "KodBox": {},
+    "Lanzou": {},
+    "LenovoNasShare": {},
+    "Local": {},
+    "MediaFire": {},
+    "MediaTrack": {},
+    "Mega_nz": {},
+    "Misskey": {},
+    "MoPan": {
+      "alert": "Layanan penyimpanan cloud ini mungkin menyimpan kata sandi Anda dalam teks biasa. Atur kata sandi dengan hati-hati"
+    },
+    "NeteaseMusic": {},
+    "Onedrive": {},
+    "Onedrive Sharelink": {},
+    "OnedriveAPP": {},
+    "OpenList": {},
+    "OpenListShare": {},
+    "PikPak": {},
+    "PikPakShare": {},
+    "ProtonDrive": {},
+    "Quark": {},
+    "QuarkOpen": {},
+    "QuarkTV": {},
+    "S3": {},
+    "SFTP": {},
+    "SMB": {},
+    "Seafile": {},
+    "Strm": {},
+    "Teambition": {},
+    "Teldrive": {},
+    "Terabox": {},
+    "Thunder": {},
+    "ThunderBrowser": {},
+    "ThunderBrowserExpert": {},
+    "ThunderExpert": {},
+    "ThunderX": {},
+    "ThunderXExpert": {},
+    "UC": {},
+    "UCTV": {},
+    "USS": {},
+    "UrlTree": {},
+    "Virtual": {},
+    "WPS": {},
+    "WebDav": {},
+    "WeiYun": {},
+    "WoPan": {},
+    "YandexDisk": {},
+    "cloudflare_imgbed": {}
+  },
+  "drivers": {
+    "115 Cloud": "115 Cloud",
+    "115 Open": "115 Open",
+    "115 Share": "115 Share",
+    "123 Open": "123 Open",
+    "123Pan": "123Pan",
+    "123PanLink": "123PanLink",
+    "123PanShare": "123PanShare",
+    "139Yun": "139Yun",
+    "189Cloud": "189Cloud",
+    "189CloudPC": "189CloudPC",
+    "189CloudTV": "189CloudTV",
+    "AList V3": "AList V3",
+    "AliDoc": "AliDoc",
+    "Alias": "Alias",
+    "Aliyundrive": "Aliyundrive",
+    "AliyundriveOpen": "AliyundriveOpen",
+    "AliyundriveShare": "AliyundriveShare",
+    "AutoIndex": "AutoIndex",
+    "Azure Blob Storage": "Azure Blob Storage",
+    "BaiduNetdisk": "BaiduNetdisk",
+    "BaiduPhoto": "BaiduPhoto",
+    "Bunny Storage": "Bunny Storage",
+    "CNB Releases": "CNB Releases",
+    "ChaoXingGroupDrive": "ChaoXingGroupDrive",
+    "Chunk": "Chunk",
+    "Cloudreve": "Cloudreve",
+    "Cloudreve V4": "Cloudreve V4",
+    "Crypt": "Crypt",
+    "Degoo": "Degoo",
+    "Doge": "Doge",
+    "Doubao": "Doubao",
+    "DoubaoNew": "DoubaoNew",
+    "DoubaoShare": "DoubaoShare",
+    "Dropbox": "Dropbox",
+    "Emby": "Emby",
+    "FTP": "FTP",
+    "FebBox": "FebBox",
+    "FeijiPan": "FeijiPan",
+    "GitHub API": "GitHub API",
+    "GitHub Releases": "GitHub Releases",
+    "GoogleDrive": "GoogleDrive",
+    "GooglePhoto": "GooglePhoto",
+    "GuangYaPan": "GuangYaPan",
+    "HalalCloud": "HalalCloud",
+    "HalalCloudOpen": "HalalCloudOpen",
+    "ILanZou": "ILanZou",
+    "IPFS API": "IPFS API",
+    "KodBox": "KodBox",
+    "Lanzou": "Lanzou",
+    "LenovoNasShare": "LenovoNasShare",
+    "Local": "Local",
+    "MediaFire": "MediaFire",
+    "MediaTrack": "MediaTrack",
+    "Mega_nz": "Mega nz",
+    "Misskey": "Misskey",
+    "MoPan": "MoPan",
+    "NeteaseMusic": "NeteaseMusic",
+    "Onedrive": "Onedrive",
+    "Onedrive Sharelink": "Onedrive Sharelink",
+    "OnedriveAPP": "OnedriveAPP",
+    "OpenList": "OpenList",
+    "OpenListShare": "OpenListShare",
+    "PikPak": "PikPak",
+    "PikPakShare": "PikPakShare",
+    "ProtonDrive": "ProtonDrive",
+    "Quark": "Quark",
+    "QuarkOpen": "QuarkOpen",
+    "QuarkTV": "QuarkTV",
+    "S3": "S3",
+    "SFTP": "SFTP",
+    "SMB": "SMB",
+    "Seafile": "Seafile",
+    "Strm": "STRM",
+    "Teambition": "Teambition",
+    "Teldrive": "Teldrive",
+    "Terabox": "Terabox",
+    "Thunder": "Thunder",
+    "ThunderBrowser": "ThunderBrowser",
+    "ThunderBrowserExpert": "ThunderBrowserExpert",
+    "ThunderExpert": "ThunderExpert",
+    "ThunderX": "ThunderX",
+    "ThunderXExpert": "ThunderXExpert",
+    "UC": "UC",
+    "UCTV": "UCTV",
+    "USS": "USS",
+    "UrlTree": "UrlTree",
+    "Virtual": "Virtual",
+    "WPS": "WPS",
+    "WebDav": "WebDav",
+    "WeiYun": "WeiYun",
+    "WoPan": "WoPan",
+    "YandexDisk": "YandexDisk",
+    "cloudflare_imgbed": "Cloudflare imgbed"
+  }
+}

@@ -1,0 +1,1804 @@
+{
+  "115 Cloud": {
+    "cookie": "کوکی",
+    "cookie-tips": "QR کوڈ ٹوکن یا کوکی میں سے ایک درکار ہے",
+    "limit_rate": "شرح کی حد",
+    "limit_rate-tips": "تمام API درخواستوں کی شرح محدود کریں ([limit]r/1s)",
+    "page_size": "صفحے کا حجم",
+    "page_size-tips": "115 ڈرائیور کی فہرست API کے فی صفحہ آئٹمز کی تعداد",
+    "qrcode_source": "QR کوڈ کا ماخذ",
+    "qrcode_source-tips": "QR کوڈ ڈیوائس منتخب کریں، طے شدہ Linux ہے",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "iOS",
+      "qandroid": "Qandroid",
+      "tv": "TV",
+      "web": "Web",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "QR کوڈ ٹوکن",
+    "qrcode_token-tips": "QR کوڈ ٹوکن یا کوکی میں سے ایک درکار ہے",
+    "root_folder_id": "روٹ فولڈر ID"
+  },
+  "115 Open": {
+    "access_token": "رسائی ٹوکن",
+    "limit_rate": "شرح کی حد",
+    "limit_rate-tips": "تمام API درخواستوں کی شرح محدود کریں ([limit]r/1s)",
+    "order_by": "ترتیب",
+    "order_bys": {
+      "file_name": "فائل کا نام",
+      "file_size": "فائل کا حجم",
+      "file_type": "فائل کی قسم",
+      "user_utime": "صارف کا ترمیمی وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "page_size": "صفحے کا حجم",
+    "page_size-tips": "115 Open ڈرائیور کے لیے فی صفحہ API فہرست کا حجم",
+    "refresh_token": "ریفریش ٹوکن",
+    "root_folder_id": "روٹ فولڈر ID"
+  },
+  "115 Share": {
+    "cookie": "کوکی",
+    "cookie-tips": "QR کوڈ ٹوکن یا کوکی میں سے ایک درکار ہے",
+    "limit_rate": "شرح کی حد",
+    "limit_rate-tips": "تمام API درخواستوں کی شرح محدود کریں (1r/[limit_rate]s)",
+    "page_size": "صفحے کا حجم",
+    "page_size-tips": "115 ڈرائیور کی فہرست API کے فی صفحہ آئٹمز کی تعداد",
+    "qrcode_source": "QR کوڈ کا ماخذ",
+    "qrcode_source-tips": "QR کوڈ ڈیوائس منتخب کریں، طے شدہ Linux ہے",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "iOS",
+      "qandroid": "Qandroid",
+      "tv": "TV",
+      "web": "Web",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "QR کوڈ ٹوکن",
+    "qrcode_token-tips": "QR کوڈ ٹوکن یا کوکی میں سے ایک درکار ہے",
+    "receive_code": "موصولی کوڈ",
+    "receive_code-tips": "115 شیئر لنک کا موصولی کوڈ",
+    "root_folder_id": "روٹ فولڈر ID",
+    "share_code": "شیئر کوڈ",
+    "share_code-tips": "115 شیئر لنک کا شیئر کوڈ"
+  },
+  "123 Open": {
+    "AccessToken": "رسائی ٹوکن",
+    "ClientID": "کلائنٹ ID",
+    "ClientSecret": "کلائنٹ سیکرٹ",
+    "DirectLink": "DirectLink",
+    "DirectLink-tips": "فائل ڈاؤن لوڈ کرتے وقت براہِ راست لنک استعمال کریں",
+    "DirectLinkPrivateKey": "DirectLinkPrivateKey",
+    "DirectLinkPrivateKey-tips": "براہِ راست لنک کی نجی کلید، اگر URL توثیق فعال ہو",
+    "DirectLinkValidDuration": "DirectLinkValidDuration",
+    "DirectLinkValidDuration-tips": "منٹ، اگر URL توثیق فعال ہو",
+    "RefreshToken": "ریفریش ٹوکن",
+    "UploadThread": "اپ لوڈ تھریڈ",
+    "UploadThread-tips": "اپ لوڈ کے تھریڈز",
+    "api_url_address": "API URL ایڈریس",
+    "root_folder_id": "روٹ فولڈر کی آئی ڈی",
+    "use_online_api": "آن لائن API استعمال کریں"
+  },
+  "123Pan": {
+    "UploadThread": "اپ لوڈ تھریڈ",
+    "UploadThread-tips": "اپ لوڈ کے تھریڈز",
+    "password": "پاس ورڈ",
+    "platform": "پلیٹ فارم",
+    "platform-tips": "پلیٹ فارم ہیڈر کی قدر، API درخواستوں کے ساتھ بھیجی جاتی ہے",
+    "root_folder_id": "روٹ فولڈر ID",
+    "username": "صارف نام"
+  },
+  "123PanLink": {
+    "origin_urls": "اصل URLs",
+    "origin_urls-tips": "ساخت:FolderName:\n  [FileSize:][Modified:]Url",
+    "private_key": "نجی کلید",
+    "uid": "UID",
+    "valid_duration": "درست مدت",
+    "valid_duration-tips": "منٹ"
+  },
+  "123PanShare": {
+    "accesstoken": "Access token",
+    "root_folder_id": "روٹ فولڈر ID",
+    "sharekey": "شیئر کلید",
+    "sharepassword": "شیئر پاس ورڈ"
+  },
+  "139Yun": {
+    "authorization": "اجازت",
+    "authorization-tips": "Authorization اکیلے استعمال کیا جا سکتا ہے۔ خالی ہونے پر تیز لاگ اِن کے لیے صرف mail_cookies، یا مکمل لاگ اِن کے متبادل کے طور پر mail_cookies + username + password استعمال کریں۔",
+    "client_type": "کلائنٹ کی قسم",
+    "client_type-tips": "ذاتی کلاؤڈ API کو رپورٹ کی جانے والی کلائنٹ کی قسم۔ web (9) سے 50 GB تک فائلیں اپ لوڈ کی جا سکتی ہیں؛ pc (13) سے واحد فائل کی اپ لوڈ حد 500 GB ہو جاتی ہے۔",
+    "client_types": {
+      "pc": "PC",
+      "web": "Web"
+    },
+    "cloud_id": "کلاؤڈ ID",
+    "custom_upload_part_size": "حسب ضرورت اپ لوڈ حصے کا حجم",
+    "custom_upload_part_size-tips": "خودکار کے لیے 0",
+    "link_id": "لنک آئی ڈی",
+    "link_id-tips": "متعدد شیئرز کو کوما یا نئی سطروں سے الگ کریں۔ پاس ورڈ سے محفوظ شیئرز کے لیے link_id#password استعمال کریں۔",
+    "mail_cookies": "میل کوکیز",
+    "mail_cookies-tips": "لاگ اِن کی توثیق کے لیے mail.139.com سے حاصل کردہ کوکیز۔",
+    "password": "پاس ورڈ",
+    "password-tips": "صرف mail_cookies کے ساتھ پاس ورڈ لاگ اِن کا متبادل استعمال کرتے وقت ضروری ہے۔",
+    "report_real_size": "حقیقی حجم رپورٹ کریں",
+    "report_real_size-tips": "اپ لوڈ کے دوران حقیقی فائل کا حجم رپورٹ کرنے کو فعال کریں",
+    "root_folder_id": "روٹ فولڈر ID",
+    "sms_code": "SMS کوڈ",
+    "sms_code-tips": "یہ صرف اس وقت پُر کریں جب OpenList اطلاع دے کہ 139 Mail کا SMS تصدیقی کوڈ بھیج دیا گیا ہے، پھر اسٹوریج دوبارہ محفوظ کریں۔",
+    "type": "قسم",
+    "types": {
+      "family": "خاندانی",
+      "group": "گروپ",
+      "personal": "ذاتی",
+      "personal_new": "نیا ذاتی",
+      "share": "شیئر"
+    },
+    "use_large_thumbnail": "بڑا تھمب نیل استعمال کریں",
+    "use_large_thumbnail-tips": "تصاویر کے لیے بڑا تھمب نیل استعمال کرنے کو فعال کریں",
+    "use_old_stream_upload": "پرانا اسٹریمنگ اپ لوڈ استعمال کریں",
+    "use_old_stream_upload-tips": "پرانا اسٹریمنگ اپ لوڈ طریقہ استعمال کرنے کے لیے فعال کریں (تیز اپ لوڈ معاونت یافتہ نہیں)",
+    "user_domain_id": "صارف ڈومین آئی ڈی",
+    "user_domain_id-tips": "کوکی میں ud_id، ڈسک کا استعمال دکھانے کے لیے پُر کریں",
+    "username": "صارف نام",
+    "username-tips": "صرف mail_cookies کے ساتھ پاس ورڈ لاگ اِن کا متبادل استعمال کرتے وقت ضروری ہے۔"
+  },
+  "189Cloud": {
+    "cookie": "کوکی",
+    "cookie-tips": "اگر CAPTCHA درکار ہو تو کوکی درج کریں",
+    "password": "پاس ورڈ",
+    "root_folder_id": "روٹ فولڈر ID",
+    "username": "صارف نام"
+  },
+  "189CloudPC": {
+    "access_token": "رسائی ٹوکن",
+    "client_sn": "کلائنٹ SN",
+    "client_sn-tips": "سرکاری کلائنٹ سے حاصل کردہ ڈیوائس سیریل نمبر، نہ ہونے کی صورت میں خالی چھوڑ دیں",
+    "device_id": "ڈیوائس آئی ڈی",
+    "device_id-tips": "دوسری ڈیوائس توثیق کے بعد جاری کردہ DEVICEID کوکی، دوبارہ توثیق سے بچنے کے لیے اسے محفوظ رکھیں",
+    "family_id": "خاندانی ID",
+    "family_transfer": "خاندانی منتقلی",
+    "generate_torrent": "ٹورینٹ بنائیں",
+    "generate_torrent-tips": "اپ لوڈ کے بعد CAS ایکسٹینشن کے ساتھ ٹورینٹ فائل بنائیں",
+    "jg_open_id": "JG اوپن ID",
+    "jg_open_id-tips": "سرکاری کلائنٹ کی رپورٹ کردہ اختیاری پش آئی ڈی",
+    "login_type": "لاگ اِن کی قسم",
+    "login_types": {
+      "password": "پاس ورڈ",
+      "qrcode": "QR کوڈ"
+    },
+    "no_use_ocr": "OCR استعمال نہ کریں",
+    "order_by": "ترتیب",
+    "order_bys": {
+      "filename": "فائل نام",
+      "filesize": "فائل حجم",
+      "lastOpTime": "آخری آپریشن کا وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "password": "پاس ورڈ",
+    "password-tips": "رسائی ٹوکن یا ریفریش ٹوکن فراہم ہونے پر ضروری نہیں",
+    "rapid_upload": "تیز اپ لوڈ",
+    "refresh_token": "ریفریش ٹوکن",
+    "refresh_token-tips": "اکاؤنٹس تبدیل کرنے کے لیے یہ فیلڈ صاف کریں",
+    "root_folder_id": "روٹ فولڈر ID",
+    "sms_code": "SMS کوڈ",
+    "sms_code-tips": "دوسری ڈیوائس توثیق کے لیے SMS کوڈ؛ لاگ اِن کے وقت طلب ہونے پر پُر کر کے دوبارہ محفوظ کریں",
+    "type": "قسم",
+    "types": {
+      "family": "خاندانی",
+      "personal": "ذاتی"
+    },
+    "upload_method": "اپ لوڈ کا طریقہ",
+    "upload_methods": {
+      "old": "قدیم",
+      "rapid": "تیز",
+      "stream": "اسٹریم"
+    },
+    "upload_thread": "اپ لوڈ تھریڈز",
+    "upload_thread-tips": "1<=thread<=32",
+    "user_finger": "صارف فنگر",
+    "user_finger-tips": "لاگ اِن درخواستوں کے ساتھ بھیجا جانے والا ڈیوائس فنگر پرنٹ، خالی ہونے پر خودکار طور پر بنایا اور محفوظ کیا جاتا ہے",
+    "username": "صارف نام",
+    "username-tips": "رسائی ٹوکن یا ریفریش ٹوکن فراہم ہونے پر ضروری نہیں",
+    "validate_code": "توثیقی کوڈ"
+  },
+  "189CloudTV": {
+    "access_token": "رسائی ٹوکن",
+    "family_id": "فیملی آئی ڈی",
+    "order_by": "ترتیب بذریعہ",
+    "order_bys": {
+      "filename": "فائل کا نام",
+      "filesize": "فائل کا حجم",
+      "lastOpTime": "آخری آپریشن کا وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "rapid_upload": "تیز اپ لوڈ",
+    "root_folder_id": "روٹ فولڈر کی آئی ڈی",
+    "type": "قسم",
+    "types": {
+      "family": "فیملی",
+      "personal": "ذاتی"
+    },
+    "upload_thread": "اپ لوڈ تھریڈ",
+    "upload_thread-tips": "1<=تھریڈ<=32"
+  },
+  "AList V3": {
+    "forward_archive_requests": "آرکائیو کی درخواستیں آگے بھیجیں",
+    "meta_password": "میٹا پاس ورڈ",
+    "pass_ip_to_upsteam": "IP اپ اسٹریم کو بھیجیں",
+    "pass_ua_to_upsteam": "UA اپ اسٹریم کو بھیجیں",
+    "password": "پاس ورڈ",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "token": "ٹوکن",
+    "url": "URL",
+    "username": "صارف نام"
+  },
+  "AliDoc": {
+    "cookie": "کوکی",
+    "cookie-tips": "DingTalk دستاویز کی ویب کوکی",
+    "root_folder_id": "روٹ فولڈر کی آئی ڈی"
+  },
+  "Alias": {
+    "details_pass_through": "تفصیلات پاس تھرو",
+    "download_concurrency": "ڈاؤن لوڈ کی ہم وقتی",
+    "download_concurrency-tips": "پراکسی فعال کرنا ضروری ہے",
+    "download_part_size": "ڈاؤن لوڈ حصے کا حجم",
+    "download_part_size-tips": "پراکسی فعال کرنا ضروری ہے۔ اکائی: KB",
+    "file_consistency_check": "فائل کی مطابقت کی جانچ",
+    "paths": "راستے",
+    "provider_pass_through": "پرووائیڈر پاس تھرو",
+    "put_conflict_policy": "رکھنے کی تصادم پالیسی",
+    "put_conflict_policy-tips": "اپ لوڈ، نقل، منتقلی یا ڈی کمپریس کرتے وقت ڈرائیور یکساں بیک اینڈ راستوں کو کیسے سنبھالتا ہے۔",
+    "put_conflict_policys": {
+      "all": "تمام تصادمی راستوں میں رکھیں",
+      "all_strict": "مکمل تصادمی راستوں کی اجازت دیں",
+      "deterministic": "منفرد راستے کی اجازت دیں",
+      "deterministic_or_all": "منفرد راستے اور مکمل تصادمی راستوں کی اجازت دیں",
+      "disabled": "رکھنا غیر فعال کریں",
+      "first": "پہلے تصادمی راستے میں رکھیں",
+      "quota": "باقی ماندہ جگہ کی بنیاد پر وزنی بے ترتیب لوڈ بیلنسنگ",
+      "quota_strict": "باقی ماندہ جگہ کی بنیاد پر سخت وزنی بے ترتیب لوڈ بیلنسنگ",
+      "random": "بے ترتیب لوڈ بیلنسنگ"
+    },
+    "read_conflict_policy": "پڑھنے کی تصادم پالیسی",
+    "read_conflict_policys": {
+      "all": "ہر حصے کی بنیاد پر لوڈ بیلنسنگ",
+      "first": "پہلے تصادمی راستے سے متعلق فائل حاصل کریں",
+      "random": "ہر فائل کی بنیاد پر لوڈ بیلنسنگ"
+    },
+    "write_conflict_policy": "لکھنے کی تصادم پالیسی",
+    "write_conflict_policy-tips": "نام بدلتے، حذف کرتے یا ڈائریکٹریاں بناتے وقت ڈرائیور یکساں بیک اینڈ راستوں کو کیسے سنبھالتا ہے۔",
+    "write_conflict_policys": {
+      "all": "تمام تصادمی راستوں میں لکھیں",
+      "all_strict": "مکمل تصادمی راستوں کی اجازت دیں",
+      "deterministic": "منفرد راستے کی اجازت دیں",
+      "deterministic_or_all": "منفرد راستے اور مکمل تصادمی راستوں کی اجازت دیں",
+      "disabled": "لکھنا غیر فعال کریں",
+      "first": "پہلے تصادمی راستے میں لکھیں"
+    }
+  },
+  "Aliyundrive": {
+    "internal_upload": "اندرونی اپ لوڈ",
+    "order_by": "ترتیب",
+    "order_bys": {
+      "created_at": "تخلیق کا وقت",
+      "name": "نام",
+      "size": "حجم",
+      "updated_at": "ترمیم کا وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "ASC": "صعودی",
+      "DESC": "نزولی"
+    },
+    "rapid_upload": "تیز اپ لوڈ",
+    "refresh_token": "ریفریش ٹوکن",
+    "root_folder_id": "روٹ فولڈر ID"
+  },
+  "AliyundriveOpen": {
+    "alipan_type": "Alipan کی قسم",
+    "alipan_types": {
+      "alipanTV": "AlipanTV",
+      "default": "پہلے سے طے شدہ"
+    },
+    "api_url_address": "API URL ایڈریس",
+    "callback_concurrency": "کال بیک کی ہم زمانی",
+    "callback_concurrency-tips": "Aliyun صارف کے اشتراک کردہ فعال پراکسی ڈاؤن لوڈز کی زیادہ سے زیادہ تعداد",
+    "client_id": "کلائنٹ ID",
+    "client_id-tips": "اگر موجود نہ ہو تو خالی چھوڑیں",
+    "client_secret": "کلائنٹ سیکرٹ",
+    "client_secret-tips": "اگر موجود نہ ہو تو خالی چھوڑیں",
+    "drive_type": "ڈرائیو کی قسم",
+    "drive_types": {
+      "backup": "بیک اپ",
+      "default": "طے شدہ",
+      "resource": "وسیلہ"
+    },
+    "internal_upload": "اندرونی اپ لوڈ",
+    "internal_upload-tips": "اگر آپ بیجنگ میں واقع Aliyun ECS استعمال کر رہے ہیں تو اپ لوڈ کی رفتار بڑھانے کے لیے اسے فعال کر سکتے ہیں",
+    "livp_download_format": "LIVP ڈاؤن لوڈ فارمیٹ",
+    "livp_download_formats": {
+      "jpeg": "JPEG",
+      "mov": "MOV"
+    },
+    "order_by": "ترتیب",
+    "order_bys": {
+      "created_at": "تخلیق کا وقت",
+      "name": "نام",
+      "size": "حجم",
+      "updated_at": "ترمیم کا وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "ASC": "صعودی",
+      "DESC": "نزولی"
+    },
+    "rapid_upload": "تیز اپ لوڈ",
+    "rapid_upload-tips": "اس اختیار کو فعال کرنے سے فائل پہلے سرور پر اپ لوڈ ہوگی، اس لیے پیش رفت غلط ہوگی",
+    "refresh_token": "ریفریش ٹوکن",
+    "remove_way": "حذف کرنے کا طریقہ",
+    "remove_ways": {
+      "delete": "حذف کریں",
+      "trash": "کوڑے دان"
+    },
+    "root_folder_id": "روٹ فولڈر ID",
+    "use_online_api": "آن لائن API استعمال کریں"
+  },
+  "AliyundriveShare": {
+    "order_by": "ترتیب",
+    "order_bys": {
+      "created_at": "تخلیق کا وقت",
+      "name": "نام",
+      "size": "حجم",
+      "updated_at": "ترمیم کا وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "ASC": "صعودی",
+      "DESC": "نزولی"
+    },
+    "refresh_token": "ریفریش ٹوکن",
+    "root_folder_id": "روٹ فولڈر ID",
+    "share_id": "شیئر ID",
+    "share_pwd": "شیئر پاس ورڈ"
+  },
+  "AutoIndex": {
+    "ignore_file_names": "فائل کے نام نظر انداز کریں",
+    "item_xpath": "انٹری XPath",
+    "modified_time_format": "ترمیم کی تاریخ کا فارمیٹ",
+    "modified_time_format-tips": "وقت کے نقطے Mon Jan 2 15:04:05 -0700 MST 2006 پر مبنی ہونا ضروری ہے",
+    "modified_xpath": "ترمیم کے وقت کا XPath",
+    "name_xpath": "فائل کے نام کا XPath",
+    "size_xpath": "فائل کے حجم کا XPath",
+    "url": "URL"
+  },
+  "Azure Blob Storage": {
+    "access_key": "رسائی کلید",
+    "access_key-tips": "Azure Storage کی رسائی کلید، توثیق کے لیے استعمال ہوتی ہے۔ https://learn.microsoft.com/azure/storage/common/storage-account-keys-manage",
+    "container_name": "کنٹینر کا نام",
+    "container_name-tips": "Azure Storage میں کنٹینر کا نام (Azure پورٹل میں بنایا گیا)۔ https://learn.microsoft.com/azure/storage/blobs/blob-containers-portal",
+    "endpoint": "اینڈ پوائنٹ",
+    "endpoint-tips": "مثلاً https://accountname.blob.core.windows.net/۔ Azure Storage کا مکمل اینڈ پوائنٹ URL، جس میں منفرد اسٹوریج اکاؤنٹ نام شامل ہو (صرف 3 سے 24 اعداد اور چھوٹے حروف)۔",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "sign_url_expire": "دستخط شدہ URL کی میعاد",
+    "sign_url_expire-tips": "SAS URLs کے ختم ہونے کا وقت، گھنٹوں میں۔"
+  },
+  "BaiduNetdisk": {
+    "api_url_address": "API URL ایڈریس",
+    "client_id": "کلائنٹ ID",
+    "client_secret": "کلائنٹ سیکرٹ",
+    "custom_crack_ua": "حسبِ ضرورت crack UA",
+    "custom_upload_part_size": "حسب ضرورت اپ لوڈ حصے کا حجم",
+    "custom_upload_part_size-tips": "خودکار کے لیے 0",
+    "download_api": "ڈاؤن لوڈ API",
+    "download_apis": {
+      "crack": "Crack",
+      "crack_video": "Crack ویڈیو",
+      "official": "سرکاری"
+    },
+    "low_bandwith_upload_mode": "کم بینڈوڈتھ اپ لوڈ موڈ",
+    "only_list_video_file": "صرف ویڈیو فائلیں فہرست میں دکھائیں",
+    "order_by": "ترتیب",
+    "order_bys": {
+      "name": "نام",
+      "size": "حجم",
+      "time": "وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "refresh_token": "ریفریش ٹوکن",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "upload_api": "اپ لوڈ API",
+    "upload_thread": "اپ لوڈ تھریڈز",
+    "upload_thread-tips": "1<=thread<=32",
+    "upload_timeout": "اپ لوڈ ٹائم آؤٹ",
+    "upload_timeout-tips": "ہر حصے کے اپ لوڈ کا ٹائم آؤٹ سیکنڈز میں",
+    "use_dynamic_upload_api": "متحرک اپ لوڈ API استعمال کریں",
+    "use_dynamic_upload_api-tips": "اپ لوڈ API ڈومین متحرک طور پر حاصل کریں؛ ناکامی کی صورت میں فعال ہونے پر 'اپ لوڈ API' ترتیب متبادل کے طور پر استعمال ہوگی",
+    "use_online_api": "آن لائن API استعمال کریں"
+  },
+  "BaiduPhoto": {
+    "album_id": "البم ID",
+    "cookie": "کوکی",
+    "delete_origin": "اصل حذف کریں",
+    "show_type": "دکھانے کی قسم",
+    "show_types": {
+      "root": "روٹ",
+      "root_only_album": "صرف روٹ البم",
+      "root_only_file": "صرف روٹ فائل"
+    },
+    "upload_thread": "اپ لوڈ تھریڈز",
+    "upload_thread-tips": "1<=thread<=32"
+  },
+  "Bunny Storage": {
+    "access_key": "رسائی کلید",
+    "cdn_base_url": "CDN بیس URL",
+    "cdn_token_include_ip": "CDN ٹوکن میں IP شامل کریں",
+    "cdn_token_key": "CDN ٹوکن کلید",
+    "cdn_token_method": "CDN ٹوکن طریقہ",
+    "cdn_token_methods": {
+      "hmac_sha256": "HMAC SHA256",
+      "sha256": "SHA256"
+    },
+    "endpoint": "اینڈ پوائنٹ",
+    "placeholder": "پلیس ہولڈر",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "sign_url_expire": "دستخط شدہ URL کی میعاد",
+    "storage_zone_name": "اسٹوریج زون کا نام"
+  },
+  "CNB Releases": {
+    "default_branch": "پہلے سے طے شدہ برانچ",
+    "default_branch-tips": "نئی ریلیزز کے لیے پہلے سے طے شدہ برانچ",
+    "repo": "ریپوزٹری",
+    "root_folder_id": "روٹ فولڈر کی آئی ڈی",
+    "token": "ٹوکن",
+    "use_tag_name": "ٹیگ کا نام استعمال کریں",
+    "use_tag_name-tips": "ریلیز کے نام کے بجائے ٹیگ کا نام استعمال کریں"
+  },
+  "ChaoXingGroupDrive": {
+    "bbsid": "BBS ID",
+    "cookie": "کوکی",
+    "password": "پاس ورڈ",
+    "root_folder_id": "روٹ فولڈر ID",
+    "user_name": "صارف نام"
+  },
+  "Chunk": {
+    "chunk_large_file_only": "صرف بڑی فائلوں کو حصوں میں تقسیم کریں",
+    "chunk_large_file_only-tips": "صرف اس وقت حصوں میں تقسیم کریں جب فائل کا حجم part_size سے زیادہ ہو",
+    "chunk_prefix": "حصے کا سابقہ",
+    "chunk_prefix-tips": "حصے کے فولڈر کا سابقہ",
+    "custom_ext": "حسبِ ضرورت ایکسٹینشن",
+    "num_list_workers": "فہرست کے ورکرز کی تعداد",
+    "part_size": "حصے کا حجم",
+    "part_size-tips": "بائٹس",
+    "remote_path": "ریموٹ راستہ",
+    "show_hidden": "مخفی اشیا دکھائیں",
+    "show_hidden-tips": "مخفی ڈائریکٹریاں اور فائلیں دکھائیں",
+    "store_hash": "ہیش محفوظ کریں",
+    "thumbnail": "تھمب نیل",
+    "thumbnail-tips": ".thumbnails فولڈر میں پہلے سے تیار کردہ تھمب نیل فعال کریں"
+  },
+  "Cloudreve": {
+    "address": "پتہ",
+    "cookie": "کوکی",
+    "custom_ua": "حسبِ ضرورت UA",
+    "enable_thumb_and_folder_size": "تھمب نیل اور فولڈر کا حجم فعال کریں",
+    "password": "پاس ورڈ",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "username": "صارف نام"
+  },
+  "Cloudreve V4": {
+    "access_token": "رسائی ٹوکن",
+    "address": "پتہ",
+    "custom_ua": "حسبِ ضرورت UA",
+    "enable_folder_size": "فولڈر کا حجم فعال کریں",
+    "enable_thumb": "تھمب نیل فعال کریں",
+    "enable_version_upload": "ورژن اپ لوڈ فعال کریں",
+    "hide_uploading": "اپ لوڈ ہونے والی اشیا چھپائیں",
+    "order_by": "ترتیب",
+    "order_bys": {
+      "created_at": "تخلیق کا وقت",
+      "name": "نام",
+      "size": "حجم",
+      "updated_at": "ترمیم کا وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "password": "پاس ورڈ",
+    "refresh_token": "ریفریش ٹوکن",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "username": "صارف نام"
+  },
+  "Crypt": {
+    "directory_name_encryption": "ڈائریکٹری نام کی خفیہ کاری",
+    "directory_name_encryptions": {
+      "false": "غلط",
+      "true": "درست"
+    },
+    "encrypted_suffix": "خفیہ کردہ لاحقہ",
+    "encrypted_suffix-tips": "صرف ماہر صارفین کے لیے! خفیہ کردہ فائلوں کے نام کے آخر میں یہ لاحقہ ہوگا",
+    "filename_encoding": "فائل نام کی انکوڈنگ",
+    "filename_encoding-tips": "صرف ماہر صارفین کے لیے!",
+    "filename_encodings": {
+      "base32": "Base32",
+      "base32768": "Base32768",
+      "base64": "Base64"
+    },
+    "filename_encryption": "فائل نام کی خفیہ کاری",
+    "filename_encryptions": {
+      "obfuscate": "مبہم بنائیں",
+      "off": "بند",
+      "standard": "معیاری"
+    },
+    "password": "پاس ورڈ",
+    "password-tips": "مرکزی پاس ورڈ",
+    "remote_path": "ریموٹ راستہ",
+    "remote_path-tips": "خفیہ کردہ ڈیٹا یہاں محفوظ ہوتا ہے",
+    "salt": "سالٹ",
+    "salt-tips": "اگر آپ نہیں جانتے کہ salt کیا ہے تو اسے دوسرے پاس ورڈ کے طور پر سمجھیں۔ اختیاری مگر تجویز کردہ",
+    "show_hidden": "چھپی ہوئی چیزیں دکھائیں",
+    "show_hidden-tips": "چھپی ہوئی ڈائریکٹریز اور فائلیں دکھائیں",
+    "thumbnail": "تھمب نیل",
+    "thumbnail-tips": ".thumbnails فولڈر میں پہلے سے بنائے گئے تھمب نیل کو فعال کریں"
+  },
+  "Degoo": {
+    "access_token": "رسائی ٹوکن",
+    "access_token-tips": "Degoo API کے لیے رسائی ٹوکن، خودکار طور پر حاصل کیا جاتا ہے",
+    "password": "پاس ورڈ",
+    "password-tips": "آپ کے Degoo اکاؤنٹ کا پاس ورڈ",
+    "refresh_token": "ریفریش ٹوکن",
+    "refresh_token-tips": "ٹوکن کی خودکار تجدید کے لیے ریفریش ٹوکن، خودکار طور پر حاصل کیا جاتا ہے",
+    "root_folder_id": "روٹ فولڈر کی آئی ڈی",
+    "username": "صارف نام",
+    "username-tips": "آپ کے Degoo اکاؤنٹ کا ای میل"
+  },
+  "Doge": {
+    "access_key_id": "رسائی کلید ID",
+    "add_filename_to_disposition": "Content-Disposition میں فائل نام شامل کریں",
+    "add_filename_to_disposition-tips": "Content-Disposition ہیڈر میں فائل نام شامل کریں۔",
+    "bucket": "بکٹ",
+    "custom_host": "حسب ضرورت میزبان",
+    "direct_upload_host": "براہِ راست اپ لوڈ میزبان",
+    "enable_custom_host_presign": "حسب ضرورت میزبان presign فعال کریں",
+    "enable_direct_upload": "براہِ راست اپ لوڈ فعال کریں",
+    "endpoint": "اینڈ پوائنٹ",
+    "force_path_style": "پاتھ اسٹائل لازمی کریں",
+    "list_object_version": "آبجیکٹ ورژن کی فہرست بنائیں",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "پلیس ہولڈر",
+    "region": "علاقہ",
+    "remove_bucket": "بکٹ حذف کریں",
+    "remove_bucket-tips": "حسب ضرورت میزبان استعمال کرتے وقت راستے سے بکٹ نام ہٹا دیں۔",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "secret_access_key": "خفیہ رسائی کلید",
+    "session_token": "سیشن ٹوکن",
+    "sign_url_expire": "دستخط شدہ URL کی میعاد",
+    "user_agent": "صارف ایجنٹ",
+    "user_agent-tips": "S3 درخواستوں کے لیے حسبِ ضرورت User-Agent۔"
+  },
+  "Doubao": {
+    "cookie": "کوکی",
+    "download_api": "ڈاؤن لوڈ API",
+    "download_apis": {
+      "get_download_info": "ڈاؤن لوڈ معلومات حاصل کریں",
+      "get_file_url": "فائل URL حاصل کریں"
+    },
+    "limit_rate": "شرح کی حد",
+    "limit_rate-tips": "تمام API درخواستوں کی شرح محدود کریں ([limit]r/1s)",
+    "root_folder_id": "روٹ فولڈر ID",
+    "upload_thread": "اپ لوڈ تھریڈز"
+  },
+  "DoubaoNew": {
+    "app_id": "ایپ آئی ڈی",
+    "app_id-tips": "Doubao ایپ آئی ڈی",
+    "auth_client_id": "تصدیقی کلائنٹ آئی ڈی",
+    "auth_client_id-tips": "Doubao Biz تصدیقی کلائنٹ آئی ڈی",
+    "auth_client_type": "تصدیقی کلائنٹ کی قسم",
+    "auth_client_type-tips": "Doubao Biz تصدیقی کلائنٹ کی قسم",
+    "auth_scope": "تصدیقی دائرہ کار",
+    "auth_scope-tips": "Doubao Biz تصدیقی دائرہ کار",
+    "auth_sdk_source": "تصدیقی SDK ماخذ",
+    "auth_sdk_source-tips": "Doubao Biz تصدیقی SDK ماخذ",
+    "auth_sdk_version": "تصدیقی SDK ورژن",
+    "auth_sdk_version-tips": "Doubao Biz تصدیقی SDK ورژن",
+    "cookie": "کوکی",
+    "cookie-tips": "ویب کوکی",
+    "dpop_key_secret": "DPoP کلید کا سیکرٹ",
+    "dpop_key_secret-tips": "DPoP ٹوکن بنانے کے لیے DPoP کلید کا سیکرٹ",
+    "ignore_jwt_check": "JWT جانچ نظر انداز کریں",
+    "ignore_jwt_check-tips": "وقت کے مسئلے سے بچنے کے لیے JWT جانچ نظر انداز کرنی ہے یا نہیں",
+    "root_folder_id": "روٹ فولڈر کی آئی ڈی",
+    "share_link": "شیئر لنک",
+    "share_link-tips": "ڈاؤن لوڈ کے لیے شیئر لنک استعمال کرنا ہے یا نہیں"
+  },
+  "DoubaoShare": {
+    "cookie": "کوکی",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "share_ids": "شیئر IDs"
+  },
+  "Dropbox": {
+    "RootNamespaceId": "RootNamespaceId",
+    "api_url_address": "API URL ایڈریس",
+    "client_id": "کلائنٹ ID",
+    "client_id-tips": "اگر موجود نہ ہو تو خالی چھوڑیں",
+    "client_secret": "کلائنٹ سیکرٹ",
+    "client_secret-tips": "اگر موجود نہ ہو تو خالی چھوڑیں",
+    "refresh_token": "ریفریش ٹوکن",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "use_online_api": "آن لائن API استعمال کریں"
+  },
+  "Emby": {
+    "api_key": "API کلید",
+    "link_method": "لنک کا طریقہ",
+    "link_methods": {
+      "download": "ڈاؤن لوڈ",
+      "stream": "اسٹریمنگ"
+    },
+    "password": "پاس ورڈ",
+    "root_folder_id": "روٹ فولڈر کی آئی ڈی",
+    "url": "URL",
+    "user_id": "صارف کی آئی ڈی",
+    "username": "صارف نام"
+  },
+  "FTP": {
+    "address": "پتہ",
+    "cwd_list": "فہرست بنانے کے لیے Cwd استعمال کریں",
+    "cwd_list-tips": "فہرست بنانے سے پہلے ڈائریکٹری میں داخل ہوں",
+    "encoding": "انکوڈنگ",
+    "password": "پاس ورڈ",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "username": "صارف نام"
+  },
+  "FebBox": {
+    "client_id": "کلائنٹ ID",
+    "client_secret": "کلائنٹ سیکرٹ",
+    "page_size": "صفحے کا حجم",
+    "page_size-tips": "FebBox ڈرائیور کی فہرست API کے فی صفحہ آئٹمز کی تعداد",
+    "root_folder_id": "روٹ فولڈر ID",
+    "sort_rule": "ترتیب کا اصول",
+    "sort_rules": {
+      "ext_asc": "ایکسٹینشن صعودی",
+      "ext_desc": "ایکسٹینشن نزولی",
+      "name_asc": "نام صعودی",
+      "name_desc": "نام نزولی",
+      "size_asc": "حجم صعودی",
+      "size_desc": "حجم نزولی",
+      "update_asc": "اپ ڈیٹ صعودی",
+      "update_desc": "اپ ڈیٹ نزولی"
+    },
+    "user_ip": "صارف کا IP",
+    "user_ip-tips": "ڈاؤن لوڈ لنک کے لیے صارف کا IP پتہ، جو ڈاؤن لوڈ تیز کر سکتا ہے"
+  },
+  "FeijiPan": {
+    "ip": "IP",
+    "password": "پاس ورڈ",
+    "root_folder_id": "روٹ فولڈر ID",
+    "username": "صارف نام"
+  },
+  "GitHub API": {
+    "accurate_modified_time": "درست ترمیم کا وقت",
+    "accurate_modified_time-tips": "چھوٹی ڈائریکٹری فہرستوں کے لیے بہترین کوشش کے ساتھ درست ترمیم کا وقت۔ پہلے سے غیر فعال ہے۔ ایک GitHub GraphQL درخواست شامل کرتا ہے اور ناکامی پر پرانی صفر وقت کی قدروں پر واپس آ جاتا ہے۔",
+    "author_email": "مصنف کا ای میل",
+    "author_name": "مصنف کا نام",
+    "committer_email": "کمیٹر کا ای میل",
+    "committer_name": "کمیٹر کا نام",
+    "copy_commit_message": "کمیٹ پیغام نقل کریں",
+    "delete_commit_message": "کمیٹ پیغام حذف کریں",
+    "gh_proxy": "GitHub پراکسی",
+    "gh_proxy-tips": "GitHub پراکسی، مثلاً https://ghproxy.net/raw.githubusercontent.com یا https://gh-proxy.com/raw.githubusercontent.com",
+    "gpg_key_passphrase": "GPG کلید کا پاس فریز",
+    "gpg_private_key": "GPG نجی کلید",
+    "mkdir_commit_message": "ڈائریکٹری بنانے کا کمیٹ پیغام",
+    "move_commit_message": "منتقلی کا کمیٹ پیغام",
+    "owner": "مالک",
+    "put_commit_message": "Put کمیٹ پیغام",
+    "ref": "ریفرنس",
+    "ref-tips": "برانچ، ٹیگ یا کمیٹ SHA؛ طے شدہ طور پر main برانچ۔",
+    "rename_commit_message": "نام تبدیل کرنے کا کمیٹ پیغام",
+    "repo": "ریپوزٹری",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "token": "ٹوکن"
+  },
+  "GitHub Releases": {
+    "gh_proxy": "GitHub پراکسی",
+    "gh_proxy-tips": "GitHub پراکسی، مثلاً https://ghproxy.net/github.com یا https://gh-proxy.com/github.com ",
+    "max_page": "زیادہ سے زیادہ صفحات",
+    "max_page-tips": "حاصل کیے جانے والے زیادہ سے زیادہ صفحات (0 = لامحدود)، صرف تمام ورژنز دکھانے پر کام کرتا ہے",
+    "per_page": "فی صفحہ",
+    "per_page-tips": "فی صفحہ ریلیزز (زیادہ سے زیادہ 100)، صرف تمام ورژنز دکھانے پر کام کرتا ہے",
+    "repo_structure": "ریپوزٹری کی ساخت",
+    "repo_structure-tips": "ساخت:[path:]org/repo",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "show_all_version": "تمام ورژن دکھائیں",
+    "show_all_version-tips": "تمام ورژن دکھائیں",
+    "show_readme": "README دکھائیں",
+    "show_readme-tips": "README اور LICENSE فائل دکھائیں",
+    "show_source_code": "سورس کوڈ دکھائیں",
+    "show_source_code-tips": "سورس کوڈ (zip/tar.gz) دکھائیں",
+    "token": "ٹوکن",
+    "token-tips": "GitHub ٹوکن، نجی ریپوزٹریز تک رسائی یا شرح کی حد بڑھانے کے لیے"
+  },
+  "GoogleDrive": {
+    "api_url_address": "API URL ایڈریس",
+    "chunk_size": "حصے کا حجم",
+    "chunk_size-tips": "اپ لوڈ کے دوران حصے کا حجم (اکائی: MB)",
+    "client_id": "کلائنٹ ID",
+    "client_secret": "کلائنٹ سیکرٹ",
+    "disable_disk_usage": "ڈسک کا استعمال غیر فعال کریں",
+    "order_by": "ترتیب",
+    "order_by-tips": "مثلاً: folder,name,modifiedTime",
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "refresh_token": "ریفریش ٹوکن",
+    "root_folder_id": "روٹ فولڈر ID",
+    "use_online_api": "آن لائن API استعمال کریں"
+  },
+  "GooglePhoto": {
+    "client_id": "کلائنٹ ID",
+    "client_secret": "کلائنٹ سیکرٹ",
+    "refresh_token": "ریفریش ٹوکن",
+    "root_folder_id": "روٹ فولڈر ID",
+    "show_archive": "آرکائیو دکھائیں"
+  },
+  "GuangYaPan": {
+    "access_token": "رسائی ٹوکن",
+    "access_token-tips": "Bearer رسائی ٹوکن (refresh_token فراہم ہونے پر اختیاری)",
+    "captcha_token": "کیپچا ٹوکن",
+    "captcha_token-tips": "/v1/auth/verification کے لیے درکار کیپچا ٹوکن",
+    "client_id": "کلائنٹ آئی ڈی",
+    "client_id-tips": "GuangYaPan API کے لیے کلائنٹ آئی ڈی، فراہم کرنا ضروری ہے",
+    "device_id": "ڈیوائس آئی ڈی",
+    "device_id-tips": "اختیاری حسبِ ضرورت ڈیوائس آئی ڈی (32 ہیکساڈیسیمل حروف)، خالی ہونے پر خودکار طور پر بنائی جاتی ہے",
+    "device_sign": "ڈیوائس دستخط",
+    "device_sign-tips": "اختیاری حسبِ ضرورت X-Device-Sign ہیڈر (خالی ہونے پر device_id سے بنایا جاتا ہے)",
+    "order_by": "ترتیب بذریعہ",
+    "order_by-tips": "فائل فہرست کے لیے استعمال ہونے والا ترتیب کا فیلڈ",
+    "page_size": "صفحے کا حجم",
+    "phone_number": "فون نمبر",
+    "phone_number-tips": "SMS لاگ اِن کے لیے فون نمبر، مثلاً +86 13800000000",
+    "refresh_token": "ریفریش ٹوکن",
+    "refresh_token-tips": "خودکار لاگ اِن/ریفریش کے لیے ریفریش ٹوکن",
+    "root_path": "روٹ راستہ",
+    "root_path-tips": "GuangYaPan کلاؤڈ ڈرائیو میں مکمل راستہ",
+    "send_code": "کوڈ بھیجیں",
+    "send_code-tips": "SMS کوڈ بھیجنے کے لیے true مقرر کر کے محفوظ کریں؛ بھیجنے کے بعد یہ خودکار طور پر false ہو جاتا ہے",
+    "sort_type": "ترتیب کی قسم",
+    "sort_type-tips": "فائل فہرست کے لیے استعمال ہونے والی ترتیب کی سمت",
+    "verification_id": "تصدیقی آئی ڈی",
+    "verification_id-tips": "SMS کوڈ بھیجنے کے بعد خودکار طور پر بنائی جاتی ہے؛ دستی طور پر ترمیم نہ کریں",
+    "verify_code": "تصدیقی کوڈ",
+    "verify_code-tips": "phone_number کے ساتھ استعمال ہونے والا SMS تصدیقی کوڈ؛ لاگ اِن مکمل کرنے کے لیے درج کر کے محفوظ کریں"
+  },
+  "HalalCloud": {
+    "app_id": "ایپ ID",
+    "app_secret": "ایپ سیکرٹ",
+    "app_version": "ایپ ورژن",
+    "refresh_token": "ریفریش ٹوکن",
+    "refresh_token-tips": "لاگ اِن کی قسم refresh_token ہے، یہ ضروری ہے",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "upload_thread": "اپ لوڈ تھریڈز",
+    "upload_thread-tips": "1 <= thread <= 32"
+  },
+  "HalalCloudOpen": {
+    "client_id": "کلائنٹ آئی ڈی",
+    "client_secret": "کلائنٹ سیکرٹ",
+    "host": "میزبان",
+    "refresh_token": "ریفریش ٹوکن",
+    "refresh_token-tips": "ذاتی API طریقہ استعمال کرتے وقت RefreshToken ضروری نہیں ہے۔",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "timeout": "ٹائم آؤٹ",
+    "timeout-tips": "سیکنڈز میں ٹائم آؤٹ",
+    "upload_thread": "اپ لوڈ تھریڈ",
+    "upload_thread-tips": "1 <= تھریڈ <= 32"
+  },
+  "ILanZou": {
+    "ip": "IP",
+    "password": "پاس ورڈ",
+    "root_folder_id": "روٹ فولڈر ID",
+    "username": "صارف نام"
+  },
+  "IPFS API": {
+    "endpoint": "اینڈ پوائنٹ",
+    "gateway": "گیٹ وے",
+    "mode": "موڈ",
+    "modes": {
+      "ipfs": "IPFS",
+      "ipns": "IPNS",
+      "mfs": "MFS"
+    },
+    "root_folder_path": "روٹ فولڈر کا راستہ"
+  },
+  "KodBox": {
+    "address": "پتہ",
+    "password": "پاس ورڈ",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "username": "صارف نام"
+  },
+  "Lanzou": {
+    "account": "اکاؤنٹ",
+    "baseUrl": "بنیادی URL",
+    "baseUrl-tips": "فائل آپریشن کے لیے بنیادی URL",
+    "cookie": "کوکی",
+    "cookie-tips": "تقریباً 15 دن تک مؤثر؛ shareUrl استعمال ہونے پر نظر انداز کریں",
+    "password": "پاس ورڈ",
+    "repair_file_info": "فائل کی معلومات درست کریں",
+    "repair_file_info-tips": "WebDAV استعمال کرنے کے لیے اسے فعال کرنا ضروری ہے",
+    "root_folder_id": "روٹ فولڈر ID",
+    "shareUrl": "شیئر URL",
+    "shareUrl-tips": "شیئرنگ صفحہ حاصل کرنے کے لیے استعمال ہوتا ہے",
+    "share_password": "شیئر پاس ورڈ",
+    "type": "قسم",
+    "types": {
+      "account": "اکاؤنٹ",
+      "cookie": "کوکی",
+      "url": "URL"
+    },
+    "user_agent": "صارف ایجنٹ"
+  },
+  "LenovoNasShare": {
+    "host": "میزبان",
+    "host-tips": "آپ اسے اپنے مقامی نیٹ ورک پر تبدیل کر سکتے ہیں",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "share_id": "شیئر ID",
+    "share_id-tips": "مشترکہ لنک میں آخری / کے بعد والا حصہ",
+    "share_pwd": "شیئر پاس ورڈ",
+    "share_pwd-tips": "مشترکہ لنک کا پاس ورڈ",
+    "show_root_folder": "روٹ فولڈر دکھائیں"
+  },
+  "Local": {
+    "directory_size": "ڈائریکٹری کا حجم",
+    "directory_size-tips": "اس سے میزبان کی کارکردگی متاثر ہو سکتی ہے",
+    "mkdir_perm": "ڈائریکٹری بنانے کی اجازت",
+    "pdf_thumbnail": "PDF تھمب نیل",
+    "pdf_thumbnail-tips": "macOS پر Quick Look کے ذریعے PDF کے پہلے صفحے کے تھمب نیل بنائیں",
+    "recycle_bin_path": "ری سائیکل بن کا راستہ",
+    "recycle_bin_path-tips": "ری سائیکل بن کا راستہ؛ خالی ہونے یا 'مستقل طور پر حذف کریں' رکھنے پر مستقل حذف کریں",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "show_hidden": "چھپی ہوئی چیزیں دکھائیں",
+    "show_hidden-tips": "چھپی ہوئی ڈائریکٹریز اور فائلیں دکھائیں",
+    "thumb_cache_folder": "تھمب کیش فولڈر",
+    "thumb_concurrency": "تھمب نیل کی ہم وقتی",
+    "thumb_concurrency-tips": "بیک وقت تھمب نیل بنانے والے goroutines کی تعداد۔ یہ طے کرتا ہے کہ کتنے تھمب نیل متوازی طور پر بن سکتے ہیں۔",
+    "thumbnail": "تھمب نیل",
+    "thumbnail-tips": "تھمب نیل فعال کریں",
+    "video_thumb_pos": "ویڈیو تھمب کی پوزیشن",
+    "video_thumb_pos-tips": "ویڈیو تھمب نیل کی پوزیشن۔ اگر قدر عدد (صحیح یا اعشاری) ہو تو یہ سیکنڈز میں وقت ظاہر کرتی ہے۔ اگر قدر '%' پر ختم ہو تو یہ ویڈیو کی مدت کا فیصد ظاہر کرتی ہے۔"
+  },
+  "MediaFire": {
+    "chunk_size": "حصے کا حجم",
+    "cookie": "کوکی",
+    "cookie-tips": "MediaFire API کی توثیق کے لیے ضروری ہے",
+    "limit_rate": "شرح کی حد",
+    "limit_rate-tips": "تمام API درخواستوں کی شرح محدود کریں ([limit]r/1s)",
+    "order_by": "ترتیب بذریعہ",
+    "order_bys": {
+      "name": "نام",
+      "size": "حجم",
+      "time": "وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "session_token": "سیشن ٹوکن",
+    "session_token-tips": "MediaFire API کے لیے اختیاری، کوکی سے خودکار طور پر حاصل کیا جا سکتا ہے",
+    "upload_threads": "اپ لوڈ کے تھریڈز",
+    "upload_threads-tips": "ہم وقت اپ لوڈ کے تھریڈز"
+  },
+  "MediaTrack": {
+    "access_token": "رسائی ٹوکن",
+    "order_by": "ترتیب",
+    "order_bys": {
+      "size": "حجم",
+      "title": "عنوان",
+      "updated_at": "ترمیم کا وقت"
+    },
+    "order_desc": "نزولی ترتیب",
+    "project_id": "پروجیکٹ ID",
+    "root_folder_id": "روٹ فولڈر ID"
+  },
+  "Mega_nz": {
+    "email": "ای میل",
+    "move_to_trash": "کوڑے دان میں منتقل کریں",
+    "move_to_trash-tips": "فائلیں حذف کرتے وقت کوڑے دان میں منتقل کریں",
+    "password": "پاس ورڈ",
+    "two_fa_code": "دو مرحلہ جاتی کوڈ",
+    "two_fa_code-tips": "2FA کا 6 ہندسوں والا کوڈ؛ صرف 2FA کوڈ بھرنے سے ڈرائیور دوبارہ لوڈ نہیں ہوگا",
+    "two_fa_secret": "دو مرحلہ جاتی سیکرٹ",
+    "two_fa_secret-tips": "2FA سیکرٹ"
+  },
+  "Misskey": {
+    "access_token": "رسائی ٹوکن",
+    "endpoint": "اینڈ پوائنٹ",
+    "root_folder_path": "روٹ فولڈر کا راستہ"
+  },
+  "MoPan": {
+    "cloud_id": "کلاؤڈ ID",
+    "device_info": "ڈیوائس کی معلومات",
+    "order_by": "ترتیب",
+    "order_bys": {
+      "filename": "فائل نام",
+      "filesize": "فائل حجم",
+      "lastOpTime": "آخری آپریشن کا وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "password": "پاس ورڈ",
+    "phone": "فون",
+    "root_folder_id": "روٹ فولڈر ID",
+    "sms_code": "SMS کوڈ",
+    "sms_code-tips": "SMS بھیجنے کے لیے 'send' درج کریں ",
+    "upload_thread": "اپ لوڈ تھریڈز",
+    "upload_thread-tips": "1<=thread<=32"
+  },
+  "NeteaseMusic": {
+    "cookie": "کوکی",
+    "song_limit": "گانے کی حد",
+    "song_limit-tips": "طے شدہ طور پر صرف 200 گانے حاصل کریں"
+  },
+  "Onedrive": {
+    "api_url_address": "API URL ایڈریس",
+    "chunk_size": "حصے کا حجم",
+    "client_id": "کلائنٹ ID",
+    "client_secret": "کلائنٹ سیکرٹ",
+    "custom_host": "حسب ضرورت میزبان",
+    "custom_host-tips": "OneDrive ڈاؤن لوڈ لنک کے لیے حسبِ ضرورت میزبان",
+    "disable_disk_usage": "ڈسک کا استعمال غیر فعال کریں",
+    "enable_direct_upload": "براہِ راست اپ لوڈ فعال کریں",
+    "enable_direct_upload-tips": "کلائنٹ سے OneDrive پر براہِ راست اپ لوڈ فعال کریں",
+    "is_sharepoint": "کیا SharePoint ہے",
+    "redirect_uri": "ری ڈائریکٹ URI",
+    "refresh_token": "ریفریش ٹوکن",
+    "region": "علاقہ",
+    "regions": {
+      "cn": "چین",
+      "de": "جرمنی",
+      "global": "عالمی",
+      "us": "امریکہ"
+    },
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "site_id": "سائٹ ID",
+    "use_online_api": "آن لائن API استعمال کریں"
+  },
+  "Onedrive Sharelink": {
+    "disable_disk_usage": "ڈسک کا استعمال غیر فعال کریں",
+    "enable_direct_upload": "براہِ راست اپ لوڈ فعال کریں",
+    "enable_direct_upload-tips": "OpenList سے گزرے بغیر براہِ راست OneDrive پر اپ لوڈ کی اجازت دیں",
+    "password": "پاس ورڈ",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "url": "URL"
+  },
+  "OnedriveAPP": {
+    "chunk_size": "حصے کا حجم",
+    "client_id": "کلائنٹ ID",
+    "client_secret": "کلائنٹ سیکرٹ",
+    "custom_host": "حسب ضرورت میزبان",
+    "custom_host-tips": "OneDrive ڈاؤن لوڈ لنک کے لیے حسبِ ضرورت میزبان",
+    "disable_disk_usage": "ڈسک کا استعمال غیر فعال کریں",
+    "email": "ای میل",
+    "enable_direct_upload": "براہِ راست اپ لوڈ فعال کریں",
+    "enable_direct_upload-tips": "کلائنٹ سے OneDrive پر براہِ راست اپ لوڈ فعال کریں",
+    "region": "علاقہ",
+    "regions": {
+      "cn": "چین",
+      "de": "جرمنی",
+      "global": "عالمی",
+      "us": "امریکہ"
+    },
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "tenant_id": "ٹیننٹ ID"
+  },
+  "OpenList": {
+    "forward_archive_requests": "آرکائیو درخواستیں آگے بھیجیں",
+    "meta_password": "میٹا پاس ورڈ",
+    "pass_ip_to_upsteam": "IP اپ اسٹریم کو بھیجیں",
+    "pass_refresh_flag_to_upsteam": "ریفریش فلیگ اپ اسٹریم کو بھیجیں",
+    "pass_ua_to_upsteam": "UA اپ اسٹریم کو بھیجیں",
+    "password": "پاس ورڈ",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "token": "ٹوکن",
+    "url": "URL",
+    "username": "صارف نام"
+  },
+  "OpenListShare": {
+    "forward_archive_requests": "آرکائیو کی درخواستیں آگے بھیجیں",
+    "pwd": "پاس ورڈ",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "sid": "SID",
+    "url": "URL"
+  },
+  "PikPak": {
+    "captcha_token": "CAPTCHA ٹوکن",
+    "device_id": "ڈیوائس ID",
+    "disable_media_link": "میڈیا لنک غیر فعال کریں",
+    "password": "پاس ورڈ",
+    "platform": "پلیٹ فارم",
+    "platforms": {
+      "android": "Android",
+      "pc": "PC",
+      "web": "Web"
+    },
+    "refresh_token": "ریفریش ٹوکن",
+    "root_folder_id": "روٹ فولڈر ID",
+    "skip_verification": "تصدیق نظر انداز کریں",
+    "skip_verification-tips": "ناکام ہونے کے بجائے کیپچا API سے واپس آنے والے انسانی تصدیقی URL کو نظر انداز کریں؛ اسے فعال کرنے سے PikPak کا رسک کنٹرول متحرک ہو سکتا ہے",
+    "username": "صارف نام"
+  },
+  "PikPakShare": {
+    "device_id": "ڈیوائس ID",
+    "platform": "پلیٹ فارم",
+    "platforms": {
+      "android": "Android",
+      "pc": "PC",
+      "web": "Web"
+    },
+    "root_folder_id": "روٹ فولڈر ID",
+    "share_id": "شیئر ID",
+    "share_pwd": "شیئر پاس ورڈ",
+    "use_transcoding_address": "ٹرانس کوڈنگ پتہ استعمال کریں"
+  },
+  "ProtonDrive": {
+    "chunk_size": "حصے کا حجم",
+    "email": "ای میل",
+    "password": "پاس ورڈ",
+    "root_folder_id": "روٹ فولڈر کی آئی ڈی",
+    "two_fa_code": "دو مرحلہ جاتی تصدیقی کوڈ",
+    "use_reusable_login": "قابلِ دوبارہ استعمال لاگ اِن استعمال کریں",
+    "use_reusable_login-tips": "صارف نام/پاس ورڈ کے بجائے قابلِ دوبارہ استعمال لاگ اِن اسناد استعمال کریں"
+  },
+  "Quark": {
+    "cookie": "کوکی",
+    "only_list_video_file": "صرف ویڈیو فائلیں فہرست میں دکھائیں",
+    "order_by": "ترتیب",
+    "order_bys": {
+      "file_name": "فائل کا نام",
+      "file_type": "فائل کی قسم",
+      "none": "کوئی نہیں",
+      "updated_at": "ترمیم کا وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "root_folder_id": "روٹ فولڈر ID",
+    "use_transcoding_address": "ٹرانس کوڈنگ ایڈریس استعمال کریں",
+    "use_transcoding_address-tips": "آپ ٹرانس کوڈ شدہ ویڈیو دیکھ سکتے ہیں اور 302 ری ڈائریکشن معاونت یافتہ ہے"
+  },
+  "QuarkOpen": {
+    "access_token": "رسائی ٹوکن",
+    "api_url_address": "API URL ایڈریس",
+    "app_id": "ایپ آئی ڈی",
+    "app_id-tips": "اگر آپ کے پاس نہیں ہے تو اسے خالی چھوڑ دیں",
+    "order_by": "ترتیب بذریعہ",
+    "order_bys": {
+      "created_at": "تخلیق کا وقت",
+      "file_name": "فائل کا نام",
+      "file_type": "فائل کی قسم",
+      "none": "کوئی نہیں",
+      "updated_at": "اپ ڈیٹ کا وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "refresh_token": "ریفریش ٹوکن",
+    "root_folder_id": "روٹ فولڈر کی آئی ڈی",
+    "sign_key": "دستخط کی کلید",
+    "sign_key-tips": "اگر آپ کے پاس نہیں ہے تو اسے خالی چھوڑ دیں",
+    "use_online_api": "آن لائن API استعمال کریں"
+  },
+  "QuarkTV": {
+    "device_id": "ڈیوائس ID",
+    "link_method": "لنک کا طریقہ",
+    "link_methods": {
+      "download": "ڈاؤن لوڈ",
+      "streaming": "اسٹریمنگ"
+    },
+    "order_by": "ترتیب بذریعہ",
+    "order_bys": {
+      "file_name": "فائل کا نام",
+      "updated_at": "اپ ڈیٹ کا وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "query_token": "استفساری ٹوکن",
+    "query_token-tips": "ترمیم نہ کریں",
+    "refresh_token": "ریفریش ٹوکن",
+    "root_folder_id": "روٹ فولڈر ID"
+  },
+  "S3": {
+    "access_key_id": "رسائی کلید ID",
+    "add_filename_to_disposition": "disposition میں فائل کا نام شامل کریں",
+    "add_filename_to_disposition-tips": "Content-Disposition ہیڈر میں فائل نام شامل کریں۔",
+    "bucket": "بکٹ",
+    "custom_host": "حسب ضرورت میزبان",
+    "direct_upload_host": "براہِ راست اپ لوڈ میزبان",
+    "enable_custom_host_presign": "حسب ضرورت میزبان presign فعال کریں",
+    "enable_direct_upload": "براہِ راست اپ لوڈ فعال کریں",
+    "endpoint": "اینڈ پوائنٹ",
+    "force_path_style": "پاتھ اسٹائل لازمی کریں",
+    "list_object_version": "آبجیکٹ ورژن کی فہرست بنائیں",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "پلیس ہولڈر",
+    "region": "علاقہ",
+    "remove_bucket": "بکٹ حذف کریں",
+    "remove_bucket-tips": "حسب ضرورت میزبان استعمال کرتے وقت راستے سے بکٹ نام ہٹا دیں۔",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "secret_access_key": "خفیہ رسائی کلید",
+    "session_token": "سیشن ٹوکن",
+    "sign_url_expire": "دستخط شدہ URL کی میعاد",
+    "user_agent": "صارف ایجنٹ",
+    "user_agent-tips": "S3 درخواستوں کے لیے حسبِ ضرورت User-Agent۔"
+  },
+  "SFTP": {
+    "address": "پتہ",
+    "ignore_symlink_error": "symlink کی خرابی نظر انداز کریں",
+    "passphrase": "پاس فریز",
+    "password": "پاس ورڈ",
+    "private_key": "نجی کلید",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "username": "صارف نام"
+  },
+  "SMB": {
+    "address": "پتہ",
+    "password": "پاس ورڈ",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "share_name": "شیئر نام",
+    "username": "صارف نام"
+  },
+  "Seafile": {
+    "address": "پتہ",
+    "password": "پاس ورڈ",
+    "repoId": "ریپوزٹری ID",
+    "repoPwd": "ریپوزٹری پاس ورڈ",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "token": "ٹوکن",
+    "username": "صارف نام"
+  },
+  "Strm": {
+    "KeepLocalDownloadFile": "KeepLocalDownloadFile",
+    "KeepLocalDownloadFile-tips": "مقامی ڈاؤن لوڈ فائلیں محفوظ رکھیں",
+    "PathPrefix": "PathPrefix",
+    "PathPrefix-tips": "راستے کا سابقہ",
+    "SaveLocalMode": "SaveLocalMode",
+    "SaveLocalMode-tips": "strm فائل کو مقامی طور پر محفوظ کرنے کا موڈ",
+    "SaveLocalModes": {
+      "insert": "داخل کریں",
+      "sync": "ہم وقت کریں",
+      "update": "اپ ڈیٹ کریں"
+    },
+    "SaveStrmLocalPath": "SaveStrmLocalPath",
+    "SaveStrmLocalPath-tips": "strm فائل کا مقامی راستہ محفوظ کریں",
+    "SaveStrmToLocal": "SaveStrmToLocal",
+    "SaveStrmToLocal-tips": "strm فائل مقامی طور پر محفوظ کریں",
+    "downloadFileTypes": "DownloadFileTypes",
+    "downloadFileTypes-tips": "strm کے ذریعے ڈاؤن لوڈ کی جانے والی فائلیں (عام طور پر سب ٹائٹلز)",
+    "encodePath": "EncodePath",
+    "encodePath-tips": "strm فائل میں راستے کو انکوڈ کریں",
+    "filterFileTypes": "FilterFileTypes",
+    "filterFileTypes-tips": "strm فائل کے لاحقے کے ناموں کو معاونت دیتا ہے",
+    "minFileSize": "MinFileSize",
+    "minFileSize-tips": "اس حجم سے چھوٹی فائلیں خارج کریں (اکائی: MB، غیر فعال کرنے کے لیے 0)",
+    "paths": "راستے",
+    "siteUrl": "SiteUrl",
+    "siteUrl-tips": "strm فائل کا سابقہ URL",
+    "withSign": "WithSign",
+    "withoutUrl": "WithoutUrl",
+    "withoutUrl-tips": "URL سابقے کے بغیر strm فائل کا مواد"
+  },
+  "Teambition": {
+    "cookie": "کوکی",
+    "order_by": "ترتیب",
+    "order_bys": {
+      "created": "تخلیق شدہ",
+      "fileName": "فائل نام",
+      "fileSize": "فائل حجم",
+      "updated": "ترمیم شدہ"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "Asc": "صعودی",
+      "Desc": "نزولی"
+    },
+    "project_id": "پروجیکٹ ID",
+    "region": "علاقہ",
+    "regions": {
+      "china": "چین",
+      "international": "بین الاقوامی"
+    },
+    "root_folder_id": "روٹ فولڈر ID",
+    "use_s3_upload_method": "S3 اپ لوڈ کا طریقہ استعمال کریں"
+  },
+  "Teldrive": {
+    "chunk_size": "حصے کا حجم",
+    "chunk_size-tips": "MiB میں حصے کا حجم",
+    "cookie": "کوکی",
+    "cookie-tips": "access_token=xxx",
+    "random_chunk_name": "بے ترتیب حصے کا نام",
+    "random_chunk_name-tips": "بے ترتیب حصے کا نام",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "upload_concurrency": "اپ لوڈ کی ہم زمانی",
+    "upload_concurrency-tips": "ہم وقت اپ لوڈ کی درخواستیں",
+    "url": "URL",
+    "use_share_link": "شیئر لنک استعمال کریں",
+    "use_share_link-tips": "302 کی معاونت کے لیے لنک حاصل کرتے وقت شیئر لنک بنائیں۔ غیر فعال ہونے پر ویب پراکسی فعال کرنا ضروری ہے۔"
+  },
+  "Terabox": {
+    "cookie": "کوکی",
+    "download_api": "ڈاؤن لوڈ API",
+    "download_apis": {
+      "crack": "Crack",
+      "official": "سرکاری"
+    },
+    "order_by": "ترتیب",
+    "order_bys": {
+      "name": "نام",
+      "size": "حجم",
+      "time": "وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "root_folder_path": "روٹ فولڈر کا راستہ"
+  },
+  "Thunder": {
+    "captcha_token": "CAPTCHA ٹوکن",
+    "credit_key": "کریڈٹ کلید",
+    "credit_key-tips": "کریڈٹ کلید، لاگ اِن کے لیے استعمال ہوتی ہے",
+    "device_id": "ڈیوائس ID",
+    "password": "پاس ورڈ",
+    "root_folder_id": "روٹ فولڈر ID",
+    "space": "اسپیس",
+    "space-tips": "ریموٹ ڈیوائس کے لیے ڈیوائس آئی ڈی",
+    "username": "صارف نام"
+  },
+  "ThunderBrowser": {
+    "captcha_token": "CAPTCHA ٹوکن",
+    "credit_key": "کریڈٹ کلید",
+    "credit_key-tips": "کریڈٹ کلید، لاگ اِن کے لیے استعمال ہوتی ہے",
+    "device_id": "ڈیوائس آئی ڈی",
+    "password": "پاس ورڈ",
+    "remove_way": "حذف کرنے کا طریقہ",
+    "remove_ways": {
+      "delete": "حذف کریں",
+      "trash": "کوڑے دان"
+    },
+    "root_folder_id": "روٹ فولڈر ID",
+    "safe_password": "محفوظ پاس ورڈ",
+    "use_fluent_play": "فلوئنٹ پلے استعمال کریں",
+    "use_fluent_play-tips": "آف لائن ڈاؤن لوڈ کے لیے فلوئنٹ پلے استعمال کریں، صرف میگنیٹ لنکس معاونت یافتہ ہیں",
+    "use_video_url": "ویڈیو URL استعمال کریں",
+    "username": "صارف نام"
+  },
+  "ThunderBrowserExpert": {
+    "algorithms": "الگورتھمز",
+    "algorithms-tips": "دستخط کی قسم algorithms ہے، یہ ضروری ہے",
+    "captcha_sign": "CAPTCHA دستخط",
+    "captcha_sign-tips": "دستخط کی قسم captcha_sign ہے، یہ ضروری ہے",
+    "captcha_token": "CAPTCHA ٹوکن",
+    "client_id": "کلائنٹ ID",
+    "client_secret": "کلائنٹ سیکرٹ",
+    "client_version": "کلائنٹ ورژن",
+    "credit_key": "کریڈٹ کلید",
+    "credit_key-tips": "کریڈٹ کلید، لاگ اِن کے لیے استعمال ہوتی ہے",
+    "device_id": "ڈیوائس ID",
+    "download_user_agent": "ڈاؤن لوڈ صارف ایجنٹ",
+    "login_type": "لاگ اِن کی قسم",
+    "login_types": {
+      "refresh_token": "ریفریش ٹوکن",
+      "user": "صارف"
+    },
+    "package_name": "پیکیج نام",
+    "password": "پاس ورڈ",
+    "password-tips": "لاگ اِن کی قسم user ہے، یہ ضروری ہے",
+    "refresh_token": "ریفریش ٹوکن",
+    "refresh_token-tips": "لاگ اِن کی قسم refresh_token ہے، یہ ضروری ہے",
+    "remove_way": "حذف کرنے کا طریقہ",
+    "remove_ways": {
+      "delete": "حذف کریں",
+      "trash": "کوڑے دان"
+    },
+    "root_folder_id": "روٹ فولڈر ID",
+    "safe_password": "محفوظ پاس ورڈ",
+    "safe_password-tips": "انتہائی محفوظ پاس ورڈ",
+    "sign_type": "دستخط کی قسم",
+    "sign_types": {
+      "algorithms": "الگورتھمز",
+      "captcha_sign": "CAPTCHA دستخط"
+    },
+    "timestamp": "ٹائم اسٹیمپ",
+    "timestamp-tips": "دستخط کی قسم captcha_sign ہے، یہ ضروری ہے",
+    "use_fluent_play": "فلوئنٹ پلے استعمال کریں",
+    "use_fluent_play-tips": "آف لائن ڈاؤن لوڈ کے لیے فلوئنٹ پلے استعمال کریں، صرف میگنیٹ لنکس معاونت یافتہ ہیں",
+    "use_video_url": "ویڈیو URL استعمال کریں",
+    "user_agent": "صارف ایجنٹ",
+    "username": "صارف نام",
+    "username-tips": "لاگ اِن کی قسم user ہے، یہ ضروری ہے"
+  },
+  "ThunderExpert": {
+    "algorithms": "الگورتھمز",
+    "algorithms-tips": "دستخط کی قسم algorithms ہے، یہ ضروری ہے",
+    "captcha_sign": "CAPTCHA دستخط",
+    "captcha_sign-tips": "دستخط کی قسم captcha_sign ہے، یہ ضروری ہے",
+    "captcha_token": "CAPTCHA ٹوکن",
+    "client_id": "کلائنٹ ID",
+    "client_secret": "کلائنٹ سیکرٹ",
+    "client_version": "کلائنٹ ورژن",
+    "credit_key": "کریڈٹ کلید",
+    "credit_key-tips": "کریڈٹ کلید، لاگ اِن کے لیے استعمال ہوتی ہے",
+    "device_id": "ڈیوائس ID",
+    "download_user_agent": "ڈاؤن لوڈ صارف ایجنٹ",
+    "login_type": "لاگ اِن کی قسم",
+    "login_types": {
+      "refresh_token": "ریفریش ٹوکن",
+      "user": "صارف"
+    },
+    "package_name": "پیکیج نام",
+    "password": "پاس ورڈ",
+    "password-tips": "لاگ اِن کی قسم user ہے، یہ ضروری ہے",
+    "refresh_token": "ریفریش ٹوکن",
+    "refresh_token-tips": "لاگ اِن کی قسم refresh_token ہے، یہ ضروری ہے",
+    "root_folder_id": "روٹ فولڈر ID",
+    "sign_type": "دستخط کی قسم",
+    "sign_types": {
+      "algorithms": "الگورتھمز",
+      "captcha_sign": "CAPTCHA دستخط"
+    },
+    "space": "اسپیس",
+    "space-tips": "ریموٹ ڈیوائس کے لیے ڈیوائس آئی ڈی",
+    "timestamp": "ٹائم اسٹیمپ",
+    "timestamp-tips": "دستخط کی قسم captcha_sign ہے، یہ ضروری ہے",
+    "use_video_url": "ویڈیو URL استعمال کریں",
+    "user_agent": "صارف ایجنٹ",
+    "username": "صارف نام",
+    "username-tips": "لاگ اِن کی قسم user ہے، یہ ضروری ہے"
+  },
+  "ThunderX": {
+    "captcha_token": "CAPTCHA ٹوکن",
+    "password": "پاس ورڈ",
+    "root_folder_id": "روٹ فولڈر ID",
+    "use_video_url": "ویڈیو URL استعمال کریں",
+    "username": "صارف نام"
+  },
+  "ThunderXExpert": {
+    "algorithms": "الگورتھمز",
+    "algorithms-tips": "دستخط کی قسم algorithms ہے، یہ ضروری ہے",
+    "captcha_sign": "CAPTCHA دستخط",
+    "captcha_sign-tips": "دستخط کی قسم captcha_sign ہے، یہ ضروری ہے",
+    "captcha_token": "CAPTCHA ٹوکن",
+    "client_id": "کلائنٹ ID",
+    "client_secret": "کلائنٹ سیکرٹ",
+    "client_version": "کلائنٹ ورژن",
+    "device_id": "ڈیوائس ID",
+    "download_user_agent": "ڈاؤن لوڈ صارف ایجنٹ",
+    "login_type": "لاگ اِن کی قسم",
+    "login_types": {
+      "refresh_token": "ریفریش ٹوکن",
+      "user": "صارف"
+    },
+    "package_name": "پیکیج نام",
+    "password": "پاس ورڈ",
+    "password-tips": "لاگ اِن کی قسم user ہے، یہ ضروری ہے",
+    "refresh_token": "ریفریش ٹوکن",
+    "refresh_token-tips": "لاگ اِن کی قسم refresh_token ہے، یہ ضروری ہے",
+    "root_folder_id": "روٹ فولڈر ID",
+    "sign_type": "دستخط کی قسم",
+    "sign_types": {
+      "algorithms": "الگورتھمز",
+      "captcha_sign": "CAPTCHA دستخط"
+    },
+    "timestamp": "ٹائم اسٹیمپ",
+    "timestamp-tips": "دستخط کی قسم captcha_sign ہے، یہ ضروری ہے",
+    "use_video_url": "ویڈیو URL استعمال کریں",
+    "user_agent": "صارف ایجنٹ",
+    "username": "صارف نام",
+    "username-tips": "لاگ اِن کی قسم user ہے، یہ ضروری ہے"
+  },
+  "UC": {
+    "cookie": "کوکی",
+    "only_list_video_file": "صرف ویڈیو فائلیں فہرست میں دکھائیں",
+    "order_by": "ترتیب",
+    "order_bys": {
+      "file_name": "فائل کا نام",
+      "file_type": "فائل کی قسم",
+      "none": "کوئی نہیں",
+      "updated_at": "ترمیم کا وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "root_folder_id": "روٹ فولڈر ID",
+    "use_transcoding_address": "ٹرانس کوڈنگ ایڈریس استعمال کریں",
+    "use_transcoding_address-tips": "آپ ٹرانس کوڈ شدہ ویڈیو دیکھ سکتے ہیں اور 302 ری ڈائریکشن معاونت یافتہ ہے"
+  },
+  "UCTV": {
+    "device_id": "ڈیوائس ID",
+    "link_method": "لنک کا طریقہ",
+    "link_methods": {
+      "download": "ڈاؤن لوڈ",
+      "streaming": "اسٹریمنگ"
+    },
+    "order_by": "ترتیب بذریعہ",
+    "order_bys": {
+      "file_name": "فائل کا نام",
+      "updated_at": "اپ ڈیٹ کا وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "query_token": "استفساری ٹوکن",
+    "query_token-tips": "ترمیم نہ کریں",
+    "refresh_token": "ریفریش ٹوکن",
+    "root_folder_id": "روٹ فولڈر ID"
+  },
+  "USS": {
+    "anti_theft_chain_token": "اینٹی تھیفٹ چین ٹوکن",
+    "bucket": "بکٹ",
+    "endpoint": "اینڈ پوائنٹ",
+    "operator_name": "آپریٹر کا نام",
+    "operator_password": "آپریٹر کا پاس ورڈ",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "sign_url_expire": "دستخط شدہ URL کی میعاد"
+  },
+  "UrlTree": {
+    "head_size": "HEAD کا حجم",
+    "head_size-tips": "فائل کا حجم حاصل کرنے کے لیے HEAD طریقہ استعمال کریں، لیکن یہ ناکام ہو سکتا ہے۔",
+    "url_structure": "URL کی ساخت",
+    "url_structure-tips": "ساخت:FolderName:\n  [FileName:][FileSize:][Modified:]Url",
+    "writable": "قابل تحریر"
+  },
+  "Virtual": {
+    "max_file_size": "زیادہ سے زیادہ فائل حجم",
+    "min_file_size": "کم سے کم فائل حجم",
+    "num_file": "فائلوں کی تعداد",
+    "num_folder": "فولڈرز کی تعداد",
+    "root_folder_path": "روٹ فولڈر کا راستہ"
+  },
+  "WPS": {
+    "cookie": "کوکی",
+    "custom_ua": "حسبِ ضرورت UA",
+    "mode": "موڈ",
+    "modes": {
+      "Business": "کاروباری",
+      "Personal": "ذاتی"
+    },
+    "root_folder_path": "روٹ فولڈر کا راستہ"
+  },
+  "WebDav": {
+    "address": "پتہ",
+    "password": "پاس ورڈ",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "tls_insecure_skip_verify": "TLS غیر محفوظ تصدیق چھوڑیں",
+    "username": "صارف نام",
+    "vendor": "فراہم کنندہ",
+    "vendors": {
+      "other": "دیگر",
+      "sharepoint": "SharePoint"
+    }
+  },
+  "WeiYun": {
+    "cookies": "کوکیز",
+    "order_by": "ترتیب",
+    "order_bys": {
+      "name": "نام",
+      "size": "حجم",
+      "updated_at": "ترمیم کا وقت"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "root_folder_id": "روٹ فولڈر ID",
+    "upload_thread": "اپ لوڈ تھریڈز",
+    "upload_thread-tips": "4<=thread<=32"
+  },
+  "WoPan": {
+    "access_token": "رسائی ٹوکن",
+    "access_token-tips": "ریفریش ٹوکن فراہم ہونے پر اختیاری؛ غائب یا بہت مختصر ہونے پر خودکار طور پر ریفریش کیا جاتا ہے",
+    "family_id": "خاندانی ID",
+    "family_id-tips": "ذاتی ڈرائیو استعمال کرنے کے لیے خالی چھوڑیں",
+    "refresh_token": "ریفریش ٹوکن",
+    "refresh_token-tips": "ریفریش ٹوکن یا رسائی ٹوکن فراہم کریں (کم از کم 16 حروف)",
+    "root_folder_id": "روٹ فولڈر ID",
+    "sort_rule": "ترتیب کا اصول",
+    "sort_rules": {
+      "name_asc": "نام صعودی",
+      "name_desc": "نام نزولی",
+      "size_asc": "حجم صعودی",
+      "size_desc": "حجم نزولی",
+      "time_asc": "وقت صعودی",
+      "time_desc": "وقت نزولی"
+    }
+  },
+  "YandexDisk": {
+    "api_url_address": "API URL ایڈریس",
+    "client_id": "کلائنٹ ID",
+    "client_secret": "کلائنٹ سیکرٹ",
+    "order_by": "ترتیب",
+    "order_bys": {
+      "created": "تخلیق شدہ",
+      "modified": "ترمیم شدہ",
+      "name": "نام",
+      "path": "راستہ",
+      "size": "حجم"
+    },
+    "order_direction": "ترتیب کی سمت",
+    "order_directions": {
+      "asc": "صعودی",
+      "desc": "نزولی"
+    },
+    "refresh_token": "ریفریش ٹوکن",
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "use_online_api": "آن لائن API استعمال کریں"
+  },
+  "cloudflare_imgbed": {
+    "address": "ایڈریس",
+    "address-tips": "امیج ہوسٹنگ سروس کا بیک اینڈ API ایڈریس، مثلاً https://img.example.com",
+    "largeChannelName": "LargeChannelName",
+    "largeChannelName-tips": "بڑی فائلوں کے لیے چینل کا نام",
+    "largeChannelType": "LargeChannelType",
+    "largeChannelType-tips": "بڑے فائل چینل کی قسم: Hugging Face (براہِ راست اپ لوڈ)، telegram/cfr2/s3/discord (ملٹی پارٹ اپ لوڈ)",
+    "largeChannelTypes": {
+      "": "",
+      "cfr2": "Cfr2",
+      "discord": "Discord",
+      "huggingface": "Huggingface",
+      "s3": "S3",
+      "telegram": "Telegram"
+    },
+    "root_folder_path": "روٹ فولڈر کا راستہ",
+    "smallChannelName": "SmallChannelName",
+    "smallChannelName-tips": "عام فائلوں کے لیے چینل کا نام (عموماً <20MB)",
+    "token": "ٹوکن",
+    "token-tips": "توثیقی ٹوکن",
+    "uploadThread": "UploadThread",
+    "uploadThread-tips": "HuggingFace حصوں میں تقسیم شدہ براہِ راست اپ لوڈ کے لیے ہم وقت تھریڈز کی تعداد"
+  },
+  "config": {
+    "115 Cloud": {},
+    "115 Open": {},
+    "115 Share": {},
+    "123 Open": {},
+    "123Pan": {},
+    "123PanLink": {},
+    "123PanShare": {},
+    "139Yun": {},
+    "189Cloud": {
+      "alert": "اگر یہ ڈرائیور کام نہ کرے تو آپ 189PC ڈرائیور آزما سکتے ہیں۔"
+    },
+    "189CloudPC": {},
+    "189CloudTV": {},
+    "AList V3": {},
+    "AliDoc": {
+      "alert": "یہ ڈرائیور DingTalk Docs کے ذریعے DingDrive تک رسائی کی معاونت کرتا ہے اور فی الحال صرف پڑھنے کے لیے ہے۔"
+    },
+    "Alias": {},
+    "Aliyundrive": {
+      "alert": "اس ڈرائیور میں لامحدود لوپ کا بگ ہو سکتا ہے۔\nمتروک ہے، اب برقرار نہیں رکھا جاتا اور مستقبل کے ورژن میں ہٹا دیا جائے گا۔\nہم سرکاری ڈرائیور AliyundriveOpen استعمال کرنے کی تجویز دیتے ہیں۔"
+    },
+    "AliyundriveOpen": {},
+    "AliyundriveShare": {},
+    "AutoIndex": {},
+    "Azure Blob Storage": {},
+    "BaiduNetdisk": {},
+    "BaiduPhoto": {},
+    "Bunny Storage": {},
+    "CNB Releases": {},
+    "ChaoXingGroupDrive": {},
+    "Chunk": {},
+    "Cloudreve": {},
+    "Cloudreve V4": {},
+    "Crypt": {},
+    "Degoo": {},
+    "Doge": {},
+    "Doubao": {},
+    "DoubaoNew": {
+      "alert": "اگر اسٹوریج عوامی طور پر قابلِ رسائی ہے تو 302 استعمال نہ کریں۔\nبصورتِ دیگر ڈاؤن لوڈ لنک میں رسائی ٹوکن یا دستخط جیسی حساس معلومات ظاہر ہو سکتی ہیں۔\nدیگر لوگ ظاہر شدہ لنک استعمال کر کے آپ کی تمام فائلوں تک رسائی حاصل کر سکتے ہیں۔"
+    },
+    "DoubaoShare": {},
+    "Dropbox": {},
+    "Emby": {},
+    "FTP": {},
+    "FebBox": {},
+    "FeijiPan": {},
+    "GitHub API": {},
+    "GitHub Releases": {},
+    "GoogleDrive": {},
+    "GooglePhoto": {},
+    "GuangYaPan": {
+      "alert": "دو مرحلہ جاتی SMS لاگ اِن: (1) phone_number (+ ضرورت ہونے پر captcha_token) پُر کریں، send_code=true مقرر کر کے محفوظ کریں؛ (2) لاگ اِن مکمل کرنے اور access_token/refresh_token خودکار طور پر محفوظ کرنے کے لیے verify_code پُر کر کے محفوظ کریں۔"
+    },
+    "HalalCloud": {},
+    "HalalCloudOpen": {},
+    "ILanZou": {},
+    "IPFS API": {},
+    "KodBox": {},
+    "Lanzou": {},
+    "LenovoNasShare": {},
+    "Local": {},
+    "MediaFire": {},
+    "MediaTrack": {},
+    "Mega_nz": {},
+    "Misskey": {},
+    "MoPan": {
+      "alert": "یہ نیٹ ورک ڈسک آپ کا پاس ورڈ سادہ متن میں محفوظ کر سکتی ہے۔ براہ کرم پاس ورڈ احتیاط سے مقرر کریں"
+    },
+    "NeteaseMusic": {},
+    "Onedrive": {},
+    "Onedrive Sharelink": {},
+    "OnedriveAPP": {},
+    "OpenList": {},
+    "OpenListShare": {},
+    "PikPak": {},
+    "PikPakShare": {},
+    "ProtonDrive": {},
+    "Quark": {},
+    "QuarkOpen": {},
+    "QuarkTV": {},
+    "S3": {},
+    "SFTP": {},
+    "SMB": {},
+    "Seafile": {},
+    "Strm": {},
+    "Teambition": {},
+    "Teldrive": {},
+    "Terabox": {},
+    "Thunder": {},
+    "ThunderBrowser": {},
+    "ThunderBrowserExpert": {},
+    "ThunderExpert": {},
+    "ThunderX": {},
+    "ThunderXExpert": {},
+    "UC": {},
+    "UCTV": {},
+    "USS": {},
+    "UrlTree": {},
+    "Virtual": {},
+    "WPS": {},
+    "WebDav": {},
+    "WeiYun": {},
+    "WoPan": {},
+    "YandexDisk": {},
+    "cloudflare_imgbed": {}
+  },
+  "drivers": {
+    "115 Cloud": "115 Cloud",
+    "115 Open": "115 Open",
+    "115 Share": "115 Share",
+    "123 Open": "123 Open",
+    "123Pan": "123Pan",
+    "123PanLink": "123PanLink",
+    "123PanShare": "123PanShare",
+    "139Yun": "139Yun",
+    "189Cloud": "189Cloud",
+    "189CloudPC": "189CloudPC",
+    "189CloudTV": "189CloudTV",
+    "AList V3": "AList V3",
+    "AliDoc": "AliDoc",
+    "Alias": "عرف",
+    "Aliyundrive": "Aliyundrive",
+    "AliyundriveOpen": "AliyundriveOpen",
+    "AliyundriveShare": "AliyundriveShare",
+    "AutoIndex": "AutoIndex",
+    "Azure Blob Storage": "Azure Blob Storage",
+    "BaiduNetdisk": "BaiduNetdisk",
+    "BaiduPhoto": "BaiduPhoto",
+    "Bunny Storage": "Bunny Storage",
+    "CNB Releases": "CNB Releases",
+    "ChaoXingGroupDrive": "ChaoXingGroupDrive",
+    "Chunk": "Chunk",
+    "Cloudreve": "Cloudreve",
+    "Cloudreve V4": "Cloudreve V4",
+    "Crypt": "Crypt",
+    "Degoo": "Degoo",
+    "Doge": "Doge",
+    "Doubao": "Doubao",
+    "DoubaoNew": "DoubaoNew",
+    "DoubaoShare": "DoubaoShare",
+    "Dropbox": "Dropbox",
+    "Emby": "Emby",
+    "FTP": "FTP",
+    "FebBox": "FebBox",
+    "FeijiPan": "FeijiPan",
+    "GitHub API": "GitHub API",
+    "GitHub Releases": "GitHub Releases",
+    "GoogleDrive": "GoogleDrive",
+    "GooglePhoto": "GooglePhoto",
+    "GuangYaPan": "GuangYaPan",
+    "HalalCloud": "HalalCloud",
+    "HalalCloudOpen": "HalalCloudOpen",
+    "ILanZou": "ILanZou",
+    "IPFS API": "IPFS API",
+    "KodBox": "KodBox",
+    "Lanzou": "Lanzou",
+    "LenovoNasShare": "LenovoNasShare",
+    "Local": "Local",
+    "MediaFire": "MediaFire",
+    "MediaTrack": "MediaTrack",
+    "Mega_nz": "Mega nz",
+    "Misskey": "Misskey",
+    "MoPan": "MoPan",
+    "NeteaseMusic": "NeteaseMusic",
+    "Onedrive": "OneDrive",
+    "Onedrive Sharelink": "OneDrive Sharelink",
+    "OnedriveAPP": "OneDriveAPP",
+    "OpenList": "OpenList",
+    "OpenListShare": "OpenListShare",
+    "PikPak": "PikPak",
+    "PikPakShare": "PikPakShare",
+    "ProtonDrive": "ProtonDrive",
+    "Quark": "Quark",
+    "QuarkOpen": "QuarkOpen",
+    "QuarkTV": "QuarkTV",
+    "S3": "S3",
+    "SFTP": "SFTP",
+    "SMB": "SMB",
+    "Seafile": "Seafile",
+    "Strm": "Strm",
+    "Teambition": "Teambition",
+    "Teldrive": "Teldrive",
+    "Terabox": "Terabox",
+    "Thunder": "Thunder",
+    "ThunderBrowser": "ThunderBrowser",
+    "ThunderBrowserExpert": "ThunderBrowserExpert",
+    "ThunderExpert": "ThunderExpert",
+    "ThunderX": "ThunderX",
+    "ThunderXExpert": "ThunderXExpert",
+    "UC": "UC",
+    "UCTV": "UCTV",
+    "USS": "USS",
+    "UrlTree": "UrlTree",
+    "Virtual": "Virtual",
+    "WPS": "WPS",
+    "WebDav": "WebDav",
+    "WeiYun": "WeiYun",
+    "WoPan": "WoPan",
+    "YandexDisk": "YandexDisk",
+    "cloudflare_imgbed": "Cloudflare imgbed"
+  }
+}

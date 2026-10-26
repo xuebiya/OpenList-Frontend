@@ -1,0 +1,17 @@
+{
+  "backup": "Respaldo",
+  "restore": "Restaurar",
+  "start_backup": "Iniciar copia de seguridad",
+  "finish_backup": "Finalizar copia de seguridad",
+  "success_backup_item": "[ {{item}} ] Copia de seguridad fue exitosa",
+  "failed_backup_item": "[ {{item}} ] Error en la copia de seguridad",
+  "no_file": "Ningún archivo seleccionado",
+  "start_restore": "Iniciar restauración",
+  "finish_restore": "Finalizar restauración",
+  "success_restore_item": "[ {{item}} ] Restauración exitosa",
+  "failed_restore_item": "[ {{item}} ] Restauración fallida",
+  "override": "Anular",
+  "encrypt_password_placeholder": "Dejar en blanco si no necesita cifrado",
+  "encrypt_password": "Contraseña del cifrado",
+  "wrong_encrypt_password": "Contraseña de cifrado incorrecta"
+}

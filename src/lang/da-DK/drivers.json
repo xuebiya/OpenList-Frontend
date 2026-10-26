@@ -1,0 +1,1804 @@
+{
+  "115 Cloud": {
+    "cookie": "Cookie",
+    "cookie-tips": "en af QR-kode token og cookie kræves",
+    "limit_rate": "Grænseværdi",
+    "limit_rate-tips": "begrænse alle api request rate ([limit]r/1s)",
+    "page_size": "Side størrelse",
+    "page_size-tips": "liste api pr. sidestørrelse på 115 chauffør",
+    "qrcode_source": "Qrcode kilde",
+    "qrcode_source-tips": "vælg QR-kodeenheden, standard linux",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "Ios",
+      "qandroid": "Qandroid",
+      "tv": "Tv",
+      "web": "Web",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "Qrcode-token",
+    "qrcode_token-tips": "en af QR-kode token og cookie kræves",
+    "root_folder_id": "Rod mappe id"
+  },
+  "115 Open": {
+    "access_token": "Adgang til token",
+    "limit_rate": "Grænseværdi",
+    "limit_rate-tips": "begrænse alle api request rate ([limit]r/1s)",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "file_name": "Fil navn",
+      "file_size": "Fil størrelse",
+      "file_type": "Filtype",
+      "user_utime": "Bruger utid"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "page_size": "Side størrelse",
+    "page_size-tips": "liste api pr. sidestørrelse på 115open chauffør",
+    "refresh_token": "Genopfrisk token",
+    "root_folder_id": "Rod mappe id"
+  },
+  "115 Share": {
+    "cookie": "Cookie",
+    "cookie-tips": "en af QR-kode token og cookie kræves",
+    "limit_rate": "Grænseværdi",
+    "limit_rate-tips": "begrænse alle api request rate (1r/[limit_rate]s)",
+    "page_size": "Side størrelse",
+    "page_size-tips": "liste api pr. sidestørrelse på 115 chauffør",
+    "qrcode_source": "Qrcode kilde",
+    "qrcode_source-tips": "vælg QR-kodeenheden, standard linux",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "Ios",
+      "qandroid": "Qandroid",
+      "tv": "Tv",
+      "web": "Web",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "Qrcode-token",
+    "qrcode_token-tips": "en af QR-kode token og cookie kræves",
+    "receive_code": "Modtag kode",
+    "receive_code-tips": "modtage kode på 115 aktie-link",
+    "root_folder_id": "Rod mappe id",
+    "share_code": "Del kode",
+    "share_code-tips": "aktiekode på 115 aktie-link"
+  },
+  "123 Open": {
+    "AccessToken": "AccessToken",
+    "ClientID": "ClientID",
+    "ClientSecret": "ClientSecret",
+    "DirectLink": "DirectLink",
+    "DirectLink-tips": "brug direkte link ved download af fil",
+    "DirectLinkPrivateKey": "DirectLinkPrivateKey",
+    "DirectLinkPrivateKey-tips": "privat nøgle til direkte link, hvis URL-godkendelse er aktiveret",
+    "DirectLinkValidDuration": "DirectLinkValidDuration",
+    "DirectLinkValidDuration-tips": "minutter, hvis URL godkendelse er aktiveret",
+    "RefreshToken": "RefreshToken",
+    "UploadThread": "UploadTråd",
+    "UploadThread-tips": "tråde af upload",
+    "api_url_address": "Api url adresse",
+    "root_folder_id": "Rod mappe id",
+    "use_online_api": "Brug online api"
+  },
+  "123Pan": {
+    "UploadThread": "UploadTråd",
+    "UploadThread-tips": "tråde af upload",
+    "password": "Adgangskode",
+    "platform": "Platform",
+    "platform-tips": "platformens header-værdi, sendt med API-anmodninger",
+    "root_folder_id": "Rod mappe id",
+    "username": "Brugernavn"
+  },
+  "123PanLink": {
+    "origin_urls": "Oprindelse URL",
+    "origin_urls-tips": "structure: Mappenavn:\n  [FileSize:][Modificeret:]Url",
+    "private_key": "Privat nøgle",
+    "uid": "Uid",
+    "valid_duration": "Gyldig varighed",
+    "valid_duration-tips": "minutter"
+  },
+  "123PanShare": {
+    "accesstoken": "Accesstoken",
+    "root_folder_id": "Rod mappe id",
+    "sharekey": "Sharekey",
+    "sharepassword": "Sharepassword"
+  },
+  "139Yun": {
+    "authorization": "Tilladelse",
+    "authorization-tips": "Godkendelse kan bruges alene. Hvis tom, skal du bruge mail_cookies alene til hurtig login, eller mail_cookies + brugernavn + adgangskode til fuld login fallback.",
+    "client_type": "Klienttype",
+    "client_type-tips": "Klienttype rapporteret til API'et for den personlige sky. web (9) tillader upload af filer på op til 50 GB; pc (13) hæver grænsen for upload af enkeltfiler til 500 GB.",
+    "client_types": {
+      "pc": "Pc",
+      "web": "Web"
+    },
+    "cloud_id": "Sky id",
+    "custom_upload_part_size": "Tilpasset upload del størrelse",
+    "custom_upload_part_size-tips": "0 for auto",
+    "link_id": "Link id",
+    "link_id-tips": "Flere aktier er adskilt af kommaer eller nye linjer. Brug link_id#password til password-beskyttede aktier.",
+    "mail_cookies": "Mail cookies",
+    "mail_cookies-tips": "Cookies fra mail.139.com bruges til login godkendelse.",
+    "password": "Adgangskode",
+    "password-tips": "Kræves kun, når du bruger password login fallback med mail_cookies.",
+    "report_real_size": "Rapporter reel størrelse",
+    "report_real_size-tips": "Aktiver for at rapportere den reelle filstørrelse under upload",
+    "root_folder_id": "Rod mappe id",
+    "sms_code": "SMS-kode",
+    "sms_code-tips": "Udfyld kun dette efter OpenList rapporterer, at en 139 Mail SMS-bekræftelseskode blev sendt, og gem derefter lageret igen.",
+    "type": "Type",
+    "types": {
+      "family": "Familie",
+      "group": "Gruppe",
+      "personal": "Personlig",
+      "personal_new": "Personlig ny",
+      "share": "Del"
+    },
+    "use_large_thumbnail": "Brug store miniaturer",
+    "use_large_thumbnail-tips": "Aktiver for at bruge store miniaturer til billeder",
+    "use_old_stream_upload": "Brug gammel stream upload",
+    "use_old_stream_upload-tips": "Aktiver for at bruge gammel stream upload metode (understøtter ikke hurtig upload)",
+    "user_domain_id": "Bruger domæne id",
+    "user_domain_id-tips": "ud_id i Cookie, udfyld for at vise diskforbrug",
+    "username": "Brugernavn",
+    "username-tips": "Kræves kun, når du bruger password login fallback med mail_cookies."
+  },
+  "189Cloud": {
+    "cookie": "Cookie",
+    "cookie-tips": "Udfyld cookien, hvis du har brug for captcha",
+    "password": "Adgangskode",
+    "root_folder_id": "Rod mappe id",
+    "username": "Brugernavn"
+  },
+  "189CloudPC": {
+    "access_token": "Adgang til token",
+    "client_sn": "Klient sn",
+    "client_sn-tips": "Enhedens serienummer hentet fra den officielle klient. Lad feltet være tomt, hvis du ikke har et",
+    "device_id": "Enheds-id",
+    "device_id-tips": "DEVICEID-cookie udstedt efter den anden enhedsverificering. Behold den for at undgå at skulle verificere igen",
+    "family_id": "Familie id",
+    "family_transfer": "Familie overførsel",
+    "generate_torrent": "Generer torrent",
+    "generate_torrent-tips": "Generer torrent fil med CAS udvidelse efter upload",
+    "jg_open_id": "Jg open-id",
+    "jg_open_id-tips": "Valgfrit push-id rapporteret af den officielle klient",
+    "login_type": "Log ind type",
+    "login_types": {
+      "password": "Adgangskode",
+      "qrcode": "Qrcode"
+    },
+    "no_use_ocr": "Ingen brug ocr",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "filename": "Filnavn",
+      "filesize": "Filstørrelse",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "password": "Adgangskode",
+    "password-tips": "Ikke nødvendigt, når der angives et adgangstoken eller opdateringstoken",
+    "rapid_upload": "Hurtig upload",
+    "refresh_token": "Genopfrisk token",
+    "refresh_token-tips": "Ryd venligst dette felt for at skifte konto",
+    "root_folder_id": "Rod mappe id",
+    "sms_code": "Sms-kode",
+    "sms_code-tips": "Sms-kode til den anden enhedsverificering. Udfyld den, og gem igen, når login anmoder om den",
+    "type": "Type",
+    "types": {
+      "family": "Familie",
+      "personal": "Personlig"
+    },
+    "upload_method": "Upload metode",
+    "upload_methods": {
+      "old": "Gammel",
+      "rapid": "Hurtig",
+      "stream": "Stream"
+    },
+    "upload_thread": "Upload tråd",
+    "upload_thread-tips": "1<=thread<=32",
+    "user_finger": "Brugerfingeraftryk",
+    "user_finger-tips": "Enhedens fingeraftryk, der sendes med loginanmodninger. Genereres og gemmes automatisk, når feltet er tomt",
+    "username": "Brugernavn",
+    "username-tips": "Ikke nødvendigt, når der angives et adgangstoken eller opdateringstoken",
+    "validate_code": "Validate code"
+  },
+  "189CloudTV": {
+    "access_token": "Adgang til token",
+    "family_id": "Familie id",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "filename": "Filnavn",
+      "filesize": "Filstørrelse",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "rapid_upload": "Hurtig upload",
+    "root_folder_id": "Rod mappe id",
+    "type": "Type",
+    "types": {
+      "family": "Familie",
+      "personal": "Personlig"
+    },
+    "upload_thread": "Upload tråd",
+    "upload_thread-tips": "1<=thread<=32"
+  },
+  "AList V3": {
+    "forward_archive_requests": "Videresend arkivanmodninger",
+    "meta_password": "Meta adgangskode",
+    "pass_ip_to_upsteam": "Pass ip til upsteam",
+    "pass_ua_to_upsteam": "Pass ua til upsteam",
+    "password": "Adgangskode",
+    "root_folder_path": "Rod mappe sti",
+    "token": "Token",
+    "url": "URL",
+    "username": "Brugernavn"
+  },
+  "AliDoc": {
+    "cookie": "Cookie",
+    "cookie-tips": "DingTalk dokument web cookie",
+    "root_folder_id": "Rod mappe id"
+  },
+  "Alias": {
+    "details_pass_through": "Detaljer passerer gennem",
+    "download_concurrency": "Download concurrency",
+    "download_concurrency-tips": "Behov for at aktivere proxy",
+    "download_part_size": "Download delstørrelse",
+    "download_part_size-tips": "Behov for at aktivere proxy. Enhed: KB",
+    "file_consistency_check": "Kontrol af filkonsistens",
+    "paths": "Stier",
+    "provider_pass_through": "Udbyderen passerer gennem",
+    "put_conflict_policy": "Sætter konfliktpolitik",
+    "put_conflict_policy-tips": "Hvordan driveren håndterer identiske backend stier, når du uploader, kopierer, flytter eller dekomprimerer.",
+    "put_conflict_policys": {
+      "all": "Indsæt alle konfliktstier",
+      "all_strict": "Tillad fulde konfliktstier",
+      "deterministic": "Tillad unik sti",
+      "deterministic_or_all": "Tillad unikke sti og fulde konfliktstier",
+      "disabled": "Deaktivér putning",
+      "first": "Sæt ind på den første konfliktvej",
+      "quota": "Vægtet tilfældig belastningsbalancering baseret på resterende plads",
+      "quota_strict": "Strenge vægtede tilfældige belastningsbalancering baseret på resterende plads",
+      "random": "Tilfældig belastning balancering"
+    },
+    "read_conflict_policy": "Læser konfliktpolitik",
+    "read_conflict_policys": {
+      "all": "Belastning af balancering pr. del",
+      "first": "Hent filen der svarer til den første konfliktsti",
+      "random": "Indlæs balancering på en per-fil basis"
+    },
+    "write_conflict_policy": "Skriver konfliktpolitik",
+    "write_conflict_policy-tips": "Hvordan driveren håndterer identiske backend stier, når du omdøber, fjerner eller laver mapper.",
+    "write_conflict_policys": {
+      "all": "Skriv ind på alle konfliktstier",
+      "all_strict": "Tillad fulde konfliktstier",
+      "deterministic": "Tillad unik sti",
+      "deterministic_or_all": "Tillad unikke sti og fulde konfliktstier",
+      "disabled": "Deaktivér skrivning",
+      "first": "Skriv ind på den første konfliktsti"
+    }
+  },
+  "Aliyundrive": {
+    "internal_upload": "Intern upload",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "created_at": "Oprettet den",
+      "name": "Navn",
+      "size": "Størrelse",
+      "updated_at": "Opdateret den"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "ASC": "ASC",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "Hurtig upload",
+    "refresh_token": "Genopfrisk token",
+    "root_folder_id": "Rod mappe id"
+  },
+  "AliyundriveOpen": {
+    "alipan_type": "Alipan type",
+    "alipan_types": {
+      "alipanTV": "AlipanTV",
+      "default": "Standard"
+    },
+    "api_url_address": "Api url adresse",
+    "callback_concurrency": "Tilbagekald concurrency",
+    "callback_concurrency-tips": "Maksimum aktive proxied downloads delt af Aliyun bruger",
+    "client_id": "Klient id",
+    "client_id-tips": "Hold den tom, hvis du ikke har en",
+    "client_secret": "Klient hemmelighed",
+    "client_secret-tips": "Hold den tom, hvis du ikke har en",
+    "drive_type": "Drev type",
+    "drive_types": {
+      "backup": "Sikkerhedskopi",
+      "default": "Standard",
+      "resource": "Ressource"
+    },
+    "internal_upload": "Intern upload",
+    "internal_upload-tips": "Hvis du bruger Aliyun ECS er placeret i Beijing, kan du tænde den for at øge uploadhastigheden",
+    "livp_download_format": "Livp download format",
+    "livp_download_formats": {
+      "jpeg": "Jpeg",
+      "mov": "Mov"
+    },
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "created_at": "Oprettet den",
+      "name": "Navn",
+      "size": "Størrelse",
+      "updated_at": "Opdateret den"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "ASC": "ASC",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "Hurtig upload",
+    "rapid_upload-tips": "Hvis du aktiverer denne indstilling, vil filen blive uploadet til serveren først, så fremskridtet vil være forkert",
+    "refresh_token": "Genopfrisk token",
+    "remove_way": "Fjern måde",
+    "remove_ways": {
+      "delete": "Slet",
+      "trash": "Papirkurven"
+    },
+    "root_folder_id": "Rod mappe id",
+    "use_online_api": "Brug online api"
+  },
+  "AliyundriveShare": {
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "created_at": "Oprettet den",
+      "name": "Navn",
+      "size": "Størrelse",
+      "updated_at": "Opdateret den"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "ASC": "ASC",
+      "DESC": "DESC"
+    },
+    "refresh_token": "Genopfrisk token",
+    "root_folder_id": "Rod mappe id",
+    "share_id": "Del id",
+    "share_pwd": "Del pwd"
+  },
+  "AutoIndex": {
+    "ignore_file_names": "Ignorér filnavne",
+    "item_xpath": "Indgang XPath",
+    "modified_time_format": "Datoformat for ændring",
+    "modified_time_format-tips": "Skal baseres på tidspunktet Mon Jan 2 15:04:05 -0700 MST 2006",
+    "modified_xpath": "Ændring tid XPath",
+    "name_xpath": "Filnavn XPath",
+    "size_xpath": "Filstørrelse XPath",
+    "url": "URL"
+  },
+  "Azure Blob Storage": {
+    "access_key": "Adgang til nøgle",
+    "access_key-tips": "Adgangsnøglen til Azure Storage, der bruges til godkendelse. https://learn.microsoft.com/azure/storage/common/storage-account-keys-manage",
+    "container_name": "Container navn",
+    "container_name-tips": "Navnet på beholderen i Azure Storage (oprettet i Azure portalen). https://learn.microsoft.com/azure/storage/blobs/blob-containers-portal",
+    "endpoint": "Endpoint",
+    "endpoint-tips": "f.eks. https://accountname.blob.core.windows.net/. The full endpoint URL for Azure Storage, including the unique storage account name (3 ~ 24 numbers and lowercase letters only).",
+    "root_folder_path": "Rod mappe sti",
+    "sign_url_expire": "Signér url udløber",
+    "sign_url_expire-tips": "Udløbstiden for SAS URL'er, i timer."
+  },
+  "BaiduNetdisk": {
+    "api_url_address": "Api url adresse",
+    "client_id": "Klient id",
+    "client_secret": "Klient hemmelighed",
+    "custom_crack_ua": "Brugerdefineret revne ua",
+    "custom_upload_part_size": "Tilpasset upload del størrelse",
+    "custom_upload_part_size-tips": "0 for auto",
+    "download_api": "Download api",
+    "download_apis": {
+      "crack": "Knæk",
+      "crack_video": "Knæk video",
+      "official": "Officiel"
+    },
+    "low_bandwith_upload_mode": "Lav båndbredde upload tilstand",
+    "only_list_video_file": "Vis kun videofil",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "name": "Navn",
+      "size": "Størrelse",
+      "time": "Tid"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "Genopfrisk token",
+    "root_folder_path": "Rod mappe sti",
+    "upload_api": "Upload api",
+    "upload_thread": "Upload tråd",
+    "upload_thread-tips": "1<=thread<=32",
+    "upload_timeout": "Upload timeout",
+    "upload_timeout-tips": "per skive upload timeout i sekunder",
+    "use_dynamic_upload_api": "Brug dynamisk upload api",
+    "use_dynamic_upload_api-tips": "dynamisk få upload-api-domænet, når aktiveret, vil indstillingen 'Upload API' blive brugt som en tilbagefald, hvis det ikke lykkes at få",
+    "use_online_api": "Brug online api"
+  },
+  "BaiduPhoto": {
+    "album_id": "Album- id",
+    "cookie": "Cookie",
+    "delete_origin": "Slet oprindelse",
+    "show_type": "Vis type",
+    "show_types": {
+      "root": "Rod",
+      "root_only_album": "Kun rod album",
+      "root_only_file": "Rod kun fil"
+    },
+    "upload_thread": "Upload tråd",
+    "upload_thread-tips": "1<=thread<=32"
+  },
+  "Bunny Storage": {
+    "access_key": "Adgang til nøgle",
+    "cdn_base_url": "Cdn base url",
+    "cdn_token_include_ip": "Cdn token inkluderer ip",
+    "cdn_token_key": "CDN token nøgle",
+    "cdn_token_method": "Metode med CDN token",
+    "cdn_token_methods": {
+      "hmac_sha256": "Hmac sha256",
+      "sha256": "Sha256"
+    },
+    "endpoint": "Endpoint",
+    "placeholder": "Pladsholder",
+    "root_folder_path": "Rod mappe sti",
+    "sign_url_expire": "Signér url udløber",
+    "storage_zone_name": "Navn på lagerzone"
+  },
+  "CNB Releases": {
+    "default_branch": "Standard filial",
+    "default_branch-tips": "Standard gren for nye udgivelser",
+    "repo": "Repo",
+    "root_folder_id": "Rod mappe id",
+    "token": "Token",
+    "use_tag_name": "Brug tag navn",
+    "use_tag_name-tips": "Brug tag navn i stedet for udgivelses navn"
+  },
+  "ChaoXingGroupDrive": {
+    "bbsid": "Bbsid",
+    "cookie": "Cookie",
+    "password": "Adgangskode",
+    "root_folder_id": "Rod mappe id",
+    "user_name": "Bruger navn"
+  },
+  "Chunk": {
+    "chunk_large_file_only": "Kun Chunk stor fil",
+    "chunk_large_file_only-tips": "chunk kun hvis filstørrelse > part_size",
+    "chunk_prefix": "Chunk prefix",
+    "chunk_prefix-tips": "præfiks for chunk mappe",
+    "custom_ext": "Brugerdefineret ext",
+    "num_list_workers": "Antal liste arbejdstagere",
+    "part_size": "Del størrelse",
+    "part_size-tips": "byte",
+    "remote_path": "Ekstern sti",
+    "show_hidden": "Vis skjulte",
+    "show_hidden-tips": "vis skjulte mapper og filer",
+    "store_hash": "Gem hash",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "aktiver miniature som præ-genereret under .thumbnails mappe"
+  },
+  "Cloudreve": {
+    "address": "Adresse",
+    "cookie": "Cookie",
+    "custom_ua": "Brugerdefineret ua",
+    "enable_thumb_and_folder_size": "Aktiver tommelfinger og mappestørrelse",
+    "password": "Adgangskode",
+    "root_folder_path": "Rod mappe sti",
+    "username": "Brugernavn"
+  },
+  "Cloudreve V4": {
+    "access_token": "Adgang til token",
+    "address": "Adresse",
+    "custom_ua": "Brugerdefineret ua",
+    "enable_folder_size": "Aktiver mappestørrelse",
+    "enable_thumb": "Aktiver tommelfinger",
+    "enable_version_upload": "Aktiver versionsupload",
+    "hide_uploading": "Skjul upload",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "created_at": "Oprettet den",
+      "name": "Navn",
+      "size": "Størrelse",
+      "updated_at": "Opdateret den"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "password": "Adgangskode",
+    "refresh_token": "Genopfrisk token",
+    "root_folder_path": "Rod mappe sti",
+    "username": "Brugernavn"
+  },
+  "Crypt": {
+    "directory_name_encryption": "Kryptering af mappenavn",
+    "directory_name_encryptions": {
+      "false": "Falsk",
+      "true": "Sandt"
+    },
+    "encrypted_suffix": "Krypteret suffiks",
+    "encrypted_suffix-tips": "kun for avanceret bruger! krypterede filer vil have denne suffiks",
+    "filename_encoding": "Filnavn kodning",
+    "filename_encoding-tips": "kun for avanceret bruger!",
+    "filename_encodings": {
+      "base32": "Base32",
+      "base32768": "Base32768",
+      "base64": "Base64"
+    },
+    "filename_encryption": "Kryptering af filnavn",
+    "filename_encryptions": {
+      "obfuscate": "Obfuscate",
+      "off": "Fra",
+      "standard": "Standard"
+    },
+    "password": "Adgangskode",
+    "password-tips": "den vigtigste adgangskode",
+    "remote_path": "Ekstern sti",
+    "remote_path-tips": "Det er her, de krypterede data butikker",
+    "salt": "Salt",
+    "salt-tips": "Hvis du ikke ved, hvad der er salt, behandle det som en anden adgangskode. Valgfri, men anbefales",
+    "show_hidden": "Vis skjulte",
+    "show_hidden-tips": "vis skjulte mapper og filer",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "aktiver miniature som præ-genereret under .thumbnails mappe"
+  },
+  "Degoo": {
+    "access_token": "Adgang til token",
+    "access_token-tips": "Adgangstoken for Degoo API, opnået automatisk",
+    "password": "Adgangskode",
+    "password-tips": "Din adgangskode til din Degoo konto",
+    "refresh_token": "Genopfrisk token",
+    "refresh_token-tips": "Opdater token for automatisk token fornyelse, opnået automatisk",
+    "root_folder_id": "Rod mappe id",
+    "username": "Brugernavn",
+    "username-tips": "Din Degoo konto e-mail"
+  },
+  "Doge": {
+    "access_key_id": "Adgang til nøgle-id",
+    "add_filename_to_disposition": "Tilføj filnavn til disposition",
+    "add_filename_to_disposition-tips": "Tilføj filnavn til Content-Disposition header.",
+    "bucket": "Spand",
+    "custom_host": "Brugerdefineret vært",
+    "direct_upload_host": "Direkte upload vært",
+    "enable_custom_host_presign": "Aktivér brugerdefineret værtens fortegn",
+    "enable_direct_upload": "Aktiver direkte upload",
+    "endpoint": "Endpoint",
+    "force_path_style": "Tving sti stil",
+    "list_object_version": "Liste objekt version",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "Pladsholder",
+    "region": "Region",
+    "remove_bucket": "Fjern spand",
+    "remove_bucket-tips": "Fjern bucket navn fra stien, når du bruger brugerdefineret vært.",
+    "root_folder_path": "Rod mappe sti",
+    "secret_access_key": "Hemmelig adgangsnøgle",
+    "session_token": "Session token",
+    "sign_url_expire": "Signér url udløber",
+    "user_agent": "Bruger agent",
+    "user_agent-tips": "Brugerdefineret brugeragent til S3 anmodninger."
+  },
+  "Doubao": {
+    "cookie": "Cookie",
+    "download_api": "Download api",
+    "download_apis": {
+      "get_download_info": "Hent download info",
+      "get_file_url": "Hent fil url"
+    },
+    "limit_rate": "Grænseværdi",
+    "limit_rate-tips": "begrænse alle api request rate ([limit]r/1s)",
+    "root_folder_id": "Rod mappe id",
+    "upload_thread": "Upload tråd"
+  },
+  "DoubaoNew": {
+    "app_id": "App id",
+    "app_id-tips": "Doubao App ID",
+    "auth_client_id": "Auth klient id",
+    "auth_client_id-tips": "Doubao Biz Auth Klient ID",
+    "auth_client_type": "Auth klienttype",
+    "auth_client_type-tips": "Doubao Biz Auth Klienttype",
+    "auth_scope": "Auth anvendelsesområde",
+    "auth_scope-tips": "Doubao Biz Auth Scope",
+    "auth_sdk_source": "Auth sdk kilde",
+    "auth_sdk_source-tips": "Doubao Biz Auth Sdk Kilde",
+    "auth_sdk_version": "Auth sdk version",
+    "auth_sdk_version-tips": "Doubao Biz Auth SDK Version",
+    "cookie": "Cookie",
+    "cookie-tips": "Web Cookie",
+    "dpop_key_secret": "Dpop nøgle hemmelighed",
+    "dpop_key_secret-tips": "DPoP Key Secret for generering af DPoP token",
+    "ignore_jwt_check": "Ignorer jwt check",
+    "ignore_jwt_check-tips": "Om JWT skal ignoreres for at forhindre tidsproblem",
+    "root_folder_id": "Rod mappe id",
+    "share_link": "Del link",
+    "share_link-tips": "Om der skal bruges delingslink til download"
+  },
+  "DoubaoShare": {
+    "cookie": "Cookie",
+    "root_folder_path": "Rod mappe sti",
+    "share_ids": "Del id'er"
+  },
+  "Dropbox": {
+    "RootNamespaceId": "RootNamespaceId",
+    "api_url_address": "Api url adresse",
+    "client_id": "Klient id",
+    "client_id-tips": "Hold den tom, hvis du ikke har en",
+    "client_secret": "Klient hemmelighed",
+    "client_secret-tips": "Hold den tom, hvis du ikke har en",
+    "refresh_token": "Genopfrisk token",
+    "root_folder_path": "Rod mappe sti",
+    "use_online_api": "Brug online api"
+  },
+  "Emby": {
+    "api_key": "API-nøgle",
+    "link_method": "Link metode",
+    "link_methods": {
+      "download": "Hent",
+      "stream": "Stream"
+    },
+    "password": "Adgangskode",
+    "root_folder_id": "Rod mappe id",
+    "url": "URL",
+    "user_id": "Bruger ID",
+    "username": "Brugernavn"
+  },
+  "FTP": {
+    "address": "Adresse",
+    "cwd_list": "Brug Cwd til liste",
+    "cwd_list-tips": "Indtast mappe før du noterer",
+    "encoding": "Tegnsæt",
+    "password": "Adgangskode",
+    "root_folder_path": "Rod mappe sti",
+    "username": "Brugernavn"
+  },
+  "FebBox": {
+    "client_id": "Klient id",
+    "client_secret": "Klient hemmelighed",
+    "page_size": "Side størrelse",
+    "page_size-tips": "liste api pr. sidestørrelse på FebBox driver",
+    "root_folder_id": "Rod mappe id",
+    "sort_rule": "Sortér regel",
+    "sort_rules": {
+      "ext_asc": "Ext asc",
+      "ext_desc": "Ext desc",
+      "name_asc": "Navn asc",
+      "name_desc": "Navn desc",
+      "size_asc": "Size asc",
+      "size_desc": "Størrelse desc",
+      "update_asc": "Opdater asc",
+      "update_desc": "Opdater desc"
+    },
+    "user_ip": "Bruger IP",
+    "user_ip-tips": "bruger ip adresse til download link, som kan fremskynde download"
+  },
+  "FeijiPan": {
+    "ip": "IP",
+    "password": "Adgangskode",
+    "root_folder_id": "Rod mappe id",
+    "username": "Brugernavn"
+  },
+  "GitHub API": {
+    "accurate_modified_time": "Nøjagtig ændret tid",
+    "accurate_modified_time-tips": "Nøjagtig ændret tid til lister over små mapper. Standard deaktiveret. Tilføjer en GitHub GraphQL-anmodning og falder tilbage til ældre nul-tidsværdier ved fejl.",
+    "author_email": "Forfatter e-mail",
+    "author_name": "Forfatter navn",
+    "committer_email": "Committer e-mail",
+    "committer_name": "Committer navn",
+    "copy_commit_message": "Kopier commit besked",
+    "delete_commit_message": "Slet commit besked",
+    "gh_proxy": "Gh proxy",
+    "gh_proxy-tips": "GitHub proxy, f.eks. https://ghproxy.net/raw.githubusercontent.com eller https://gh-proxy.com/raw.githubusercontent.com",
+    "gpg_key_passphrase": "Gpg- nøglekodeord",
+    "gpg_private_key": "Gpg privat nøgle",
+    "mkdir_commit_message": "Mkdir- commit besked",
+    "move_commit_message": "Flyt commit besked",
+    "owner": "Ejer",
+    "put_commit_message": "Sæt commit besked",
+    "ref": "Ref",
+    "ref-tips": "En filial, et tag eller en commit SHA, hovedfilial som standard.",
+    "rename_commit_message": "Omdøb commit besked",
+    "repo": "Repo",
+    "root_folder_path": "Rod mappe sti",
+    "token": "Token"
+  },
+  "GitHub Releases": {
+    "gh_proxy": "Gh proxy",
+    "gh_proxy-tips": "GitHub proxy, e.g. https://ghproxy.net/github.com or https://gh-proxy.com/github.com ",
+    "max_page": "Maks. side",
+    "max_page-tips": "max sider der skal hentes (0 = ubegrænset), virker kun når alle versioner vises",
+    "per_page": "Pr. side",
+    "per_page-tips": "udgivelser pr. side (max 100), virker kun, når alle versioner vises",
+    "repo_structure": "Gentag struktur",
+    "repo_structure-tips": "struktur:[path:]org/repo",
+    "root_folder_path": "Rod mappe sti",
+    "show_all_version": "Vis alle versioner",
+    "show_all_version-tips": "vis alle versioner",
+    "show_readme": "Vis læste",
+    "show_readme-tips": "vis LICENSE- fil",
+    "show_source_code": "Vis kildekode",
+    "show_source_code-tips": "vis Kildekode (zip/tar.gz)",
+    "token": "Token",
+    "token-tips": "GitHub token, hvis du ønsker at få adgang til private depoter eller øge satsgrænsen"
+  },
+  "GoogleDrive": {
+    "api_url_address": "Api url adresse",
+    "chunk_size": "Chunk størrelse",
+    "chunk_size-tips": "chunk størrelse under upload (enhed: MB)",
+    "client_id": "Klient id",
+    "client_secret": "Klient hemmelighed",
+    "disable_disk_usage": "Deaktivér diskforbrug",
+    "order_by": "Sorter efter",
+    "order_by-tips": "såsom: mappe,navn,modifiedTime",
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "Genopfrisk token",
+    "root_folder_id": "Rod mappe id",
+    "use_online_api": "Brug online api"
+  },
+  "GooglePhoto": {
+    "client_id": "Klient id",
+    "client_secret": "Klient hemmelighed",
+    "refresh_token": "Genopfrisk token",
+    "root_folder_id": "Rod mappe id",
+    "show_archive": "Vis arkiv"
+  },
+  "GuangYaPan": {
+    "access_token": "Adgang til token",
+    "access_token-tips": "Bearer access token (valgfri hvis refresh_token er angivet)",
+    "captcha_token": "Captcha token",
+    "captcha_token-tips": "Captcha token kræves af /v1/auth/verification",
+    "client_id": "Klient id",
+    "client_id-tips": "Client ID for GuangYaPan API, skal angives",
+    "device_id": "Enheds id",
+    "device_id-tips": "Valgfri brugerdefineret enheds id (32 hex tegn), auto-genereret når tom",
+    "device_sign": "Enheds tegn",
+    "device_sign-tips": "Valgfri brugerdefineret X-Device-Sign header (genereret fra device_id når tom)",
+    "order_by": "Sorter efter",
+    "order_by-tips": "Sortér felt brugt af fillisten",
+    "page_size": "Side størrelse",
+    "phone_number": "Telefonnummer",
+    "phone_number-tips": "Telefonnummer til SMS login, fx +86 13800000000",
+    "refresh_token": "Genopfrisk token",
+    "refresh_token-tips": "Opdater token for auto-login/auto-opfrisk",
+    "root_path": "Rod sti",
+    "root_path-tips": "Fuld sti i GuangYaPan cloud drev",
+    "send_code": "Send kode",
+    "send_code-tips": "Set true and save to send SMS code, it auto-resets to false after sending (Automatic Copy)",
+    "sort_type": "Sortér type",
+    "sort_type-tips": "Sorteringsretning brugt af fillisten",
+    "verification_id": "Verifikation id",
+    "verification_id-tips": "Auto-genereret efter afsendelse af SMS-kode. Rediger ikke manuelt",
+    "verify_code": "Verificér kode",
+    "verify_code-tips": "SMS-bekræftelseskode, der bruges med telefonnummer; fyld og gem derefter for at afslutte login"
+  },
+  "HalalCloud": {
+    "app_id": "App id",
+    "app_secret": "App hemmelighed",
+    "app_version": "App version",
+    "refresh_token": "Genopfrisk token",
+    "refresh_token-tips": "login-typen er refresh_token,dette er påkrævet",
+    "root_folder_path": "Rod mappe sti",
+    "upload_thread": "Upload tråd",
+    "upload_thread-tips": "1 <= tråd <= 32"
+  },
+  "HalalCloudOpen": {
+    "client_id": "Klient id",
+    "client_secret": "Klient hemmelighed",
+    "host": "Vært",
+    "refresh_token": "Genopfrisk token",
+    "refresh_token-tips": "Hvis du bruger en personlig API-tilgang, er RefreshToken ikke påkrævet.",
+    "root_folder_path": "Rod mappe sti",
+    "timeout": "Timeout",
+    "timeout-tips": "timeout i sekunder",
+    "upload_thread": "Upload tråd",
+    "upload_thread-tips": "1 <= tråd <= 32"
+  },
+  "ILanZou": {
+    "ip": "IP",
+    "password": "Adgangskode",
+    "root_folder_id": "Rod mappe id",
+    "username": "Brugernavn"
+  },
+  "IPFS API": {
+    "endpoint": "Endpoint",
+    "gateway": "Port",
+    "mode": "Tilstand",
+    "modes": {
+      "ipfs": "Ipf",
+      "ipns": "Ipner",
+      "mfs": "Mfs"
+    },
+    "root_folder_path": "Rod mappe sti"
+  },
+  "KodBox": {
+    "address": "Adresse",
+    "password": "Adgangskode",
+    "root_folder_path": "Rod mappe sti",
+    "username": "Brugernavn"
+  },
+  "Lanzou": {
+    "account": "Konto",
+    "baseUrl": "BaseUrl",
+    "baseUrl-tips": "grundlæggende URL for filhandling",
+    "cookie": "Cookie",
+    "cookie-tips": "omkring 15 dage gyldig, ignorér hvis shareUrl bruges",
+    "password": "Adgangskode",
+    "repair_file_info": "Reparer fil info",
+    "repair_file_info-tips": "For at bruge webdav, skal du aktivere det",
+    "root_folder_id": "Rod mappe id",
+    "shareUrl": "ShareURL",
+    "shareUrl-tips": "bruges til at få delingssiden",
+    "share_password": "Del adgangskode",
+    "type": "Type",
+    "types": {
+      "account": "Konto",
+      "cookie": "Cookie",
+      "url": "URL"
+    },
+    "user_agent": "Bruger agent"
+  },
+  "LenovoNasShare": {
+    "host": "Vært",
+    "host-tips": "Du kan ændre den til dit lokale netværk",
+    "root_folder_path": "Rod mappe sti",
+    "share_id": "Del id",
+    "share_id-tips": "Delen efter det sidste / i det delte link",
+    "share_pwd": "Del pwd",
+    "share_pwd-tips": "Adgangskoden til det delte link",
+    "show_root_folder": "Vis rodmappe"
+  },
+  "Local": {
+    "directory_size": "Mappestørrelse",
+    "directory_size-tips": "Dette kan påvirke vært ydeevne",
+    "mkdir_perm": "Mkdir perm",
+    "pdf_thumbnail": "Pdf thumbnail",
+    "pdf_thumbnail-tips": "Generer PDF første side miniaturer med Quick Look på macOS",
+    "recycle_bin_path": "Genbrug bin sti",
+    "recycle_bin_path-tips": "sti til papirkurven, slet permanent hvis tom eller behold 'slet permanent'",
+    "root_folder_path": "Rod mappe sti",
+    "show_hidden": "Vis skjulte",
+    "show_hidden-tips": "vis skjulte mapper og filer",
+    "thumb_cache_folder": "Miniature cache mappe",
+    "thumb_concurrency": "Miniature concurrency",
+    "thumb_concurrency-tips": "Antallet af samtidige miniaturegenerering goroutines. Dette styrer hvor mange miniaturer der kan genereres parallelt.",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "aktiver miniature",
+    "video_thumb_pos": "Video tommelfinger pos",
+    "video_thumb_pos-tips": "Placeringen af videoens miniaturebillede. Hvis værdien er et tal (heltal ot flydende punkt), repræsenterer den tiden i sekunder. Hvis værdien slutter med '%', repræsenterer den procentdelen af videoens varighed."
+  },
+  "MediaFire": {
+    "chunk_size": "Chunk størrelse",
+    "cookie": "Cookie",
+    "cookie-tips": "Påkrævet til godkendelse af MediaFire API",
+    "limit_rate": "Grænseværdi",
+    "limit_rate-tips": "begrænse alle api request rate ([limit]r/1s)",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "name": "Navn",
+      "size": "Størrelse",
+      "time": "Tid"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_path": "Rod mappe sti",
+    "session_token": "Session token",
+    "session_token-tips": "Valgfri for MediaFire API, kan automatisk erhverves fra cookie",
+    "upload_threads": "Upload tråde",
+    "upload_threads-tips": "samtidige uploadtråde"
+  },
+  "MediaTrack": {
+    "access_token": "Adgang til token",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "size": "Størrelse",
+      "title": "Titel",
+      "updated_at": "Opdateret den"
+    },
+    "order_desc": "Bestil desc",
+    "project_id": "Projekt id",
+    "root_folder_id": "Rod mappe id"
+  },
+  "Mega_nz": {
+    "email": "E-mail",
+    "move_to_trash": "Flyt til papirkurven",
+    "move_to_trash-tips": "flyt til papirkurv ved sletning af filer",
+    "password": "Adgangskode",
+    "two_fa_code": "To fa kode",
+    "two_fa_code-tips": "2FA 6-cifret kode, udfyldelse af 2FA-koden alene vil ikke understøtte genindlæsning af chauffør",
+    "two_fa_secret": "To fa hemmelighed",
+    "two_fa_secret-tips": "2FA hemmelighed"
+  },
+  "Misskey": {
+    "access_token": "Adgang til token",
+    "endpoint": "Endpoint",
+    "root_folder_path": "Rod mappe sti"
+  },
+  "MoPan": {
+    "cloud_id": "Sky id",
+    "device_info": "Oplysninger om enheden",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "filename": "Filnavn",
+      "filesize": "Filstørrelse",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "password": "Adgangskode",
+    "phone": "Telefon",
+    "root_folder_id": "Rod mappe id",
+    "sms_code": "SMS-kode",
+    "sms_code-tips": "indtast 'send' send sms ",
+    "upload_thread": "Upload tråd",
+    "upload_thread-tips": "1<=thread<=32"
+  },
+  "NeteaseMusic": {
+    "cookie": "Cookie",
+    "song_limit": "Sang grænse",
+    "song_limit-tips": "kun få 200 sange som standard"
+  },
+  "Onedrive": {
+    "api_url_address": "Api url adresse",
+    "chunk_size": "Chunk størrelse",
+    "client_id": "Klient id",
+    "client_secret": "Klient hemmelighed",
+    "custom_host": "Brugerdefineret vært",
+    "custom_host-tips": "Brugerdefineret vært for OneDrive download link",
+    "disable_disk_usage": "Deaktivér diskforbrug",
+    "enable_direct_upload": "Aktiver direkte upload",
+    "enable_direct_upload-tips": "Aktiver direkte upload fra klient til OneDrive",
+    "is_sharepoint": "Er sharepoint",
+    "redirect_uri": "Omdiriger uri",
+    "refresh_token": "Genopfrisk token",
+    "region": "Region",
+    "regions": {
+      "cn": "KN",
+      "de": "De",
+      "global": "Globalt",
+      "us": "Os"
+    },
+    "root_folder_path": "Rod mappe sti",
+    "site_id": "Site id",
+    "use_online_api": "Brug online api"
+  },
+  "Onedrive Sharelink": {
+    "disable_disk_usage": "Deaktivér diskforbrug",
+    "enable_direct_upload": "Aktiver direkte upload",
+    "enable_direct_upload-tips": "Tillad upload direkte til OneDrive uden at gå gennem OpenList",
+    "password": "Adgangskode",
+    "root_folder_path": "Rod mappe sti",
+    "url": "URL"
+  },
+  "OnedriveAPP": {
+    "chunk_size": "Chunk størrelse",
+    "client_id": "Klient id",
+    "client_secret": "Klient hemmelighed",
+    "custom_host": "Brugerdefineret vært",
+    "custom_host-tips": "Brugerdefineret vært for OneDrive download link",
+    "disable_disk_usage": "Deaktivér diskforbrug",
+    "email": "E-mail",
+    "enable_direct_upload": "Aktiver direkte upload",
+    "enable_direct_upload-tips": "Aktiver direkte upload fra klient til OneDrive",
+    "region": "Region",
+    "regions": {
+      "cn": "KN",
+      "de": "De",
+      "global": "Globalt",
+      "us": "Os"
+    },
+    "root_folder_path": "Rod mappe sti",
+    "tenant_id": "Tenant id"
+  },
+  "OpenList": {
+    "forward_archive_requests": "Videresend arkivanmodninger",
+    "meta_password": "Meta adgangskode",
+    "pass_ip_to_upsteam": "Kassér ip til opstrøm",
+    "pass_refresh_flag_to_upsteam": "Pass refresh flag til opsteam",
+    "pass_ua_to_upsteam": "Pass ua til opstrøms",
+    "password": "Adgangskode",
+    "root_folder_path": "Rod mappe sti",
+    "token": "Token",
+    "url": "URL",
+    "username": "Brugernavn"
+  },
+  "OpenListShare": {
+    "forward_archive_requests": "Videresend arkivanmodninger",
+    "pwd": "PWD",
+    "root_folder_path": "Rod mappe sti",
+    "sid": "Sid",
+    "url": "URL"
+  },
+  "PikPak": {
+    "captcha_token": "Captcha token",
+    "device_id": "Enheds id",
+    "disable_media_link": "Deaktivér medielink",
+    "password": "Adgangskode",
+    "platform": "Platform",
+    "platforms": {
+      "android": "Android",
+      "pc": "Pc",
+      "web": "Web"
+    },
+    "refresh_token": "Genopfrisk token",
+    "root_folder_id": "Rod mappe id",
+    "skip_verification": "Overspring verifikation",
+    "skip_verification-tips": "ignorere den menneskelige bekræftelses-URL der returneres af captcha API i stedet for at fejle; aktivering af dette kan udløse PikPak risiko-kontrol",
+    "username": "Brugernavn"
+  },
+  "PikPakShare": {
+    "device_id": "Enheds id",
+    "platform": "Platform",
+    "platforms": {
+      "android": "Android",
+      "pc": "Pc",
+      "web": "Web"
+    },
+    "root_folder_id": "Rod mappe id",
+    "share_id": "Del id",
+    "share_pwd": "Del pwd",
+    "use_transcoding_address": "Brug omkodningsadresse"
+  },
+  "ProtonDrive": {
+    "chunk_size": "Chunk størrelse",
+    "email": "E-mail",
+    "password": "Adgangskode",
+    "root_folder_id": "Rod mappe id",
+    "two_fa_code": "To fa kode",
+    "use_reusable_login": "Brug genbrugbart login",
+    "use_reusable_login-tips": "Brug loginoplysninger til genbrug i stedet for brugernavn/adgangskode"
+  },
+  "Quark": {
+    "cookie": "Cookie",
+    "only_list_video_file": "Vis kun videofil",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "file_name": "Fil navn",
+      "file_type": "Filtype",
+      "none": "Ingen",
+      "updated_at": "Opdateret den"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_id": "Rod mappe id",
+    "use_transcoding_address": "Brug omkodningsadresse",
+    "use_transcoding_address-tips": "Du kan se den omkodede video og støtte 302 omdirigering"
+  },
+  "QuarkOpen": {
+    "access_token": "Adgang til token",
+    "api_url_address": "Api url adresse",
+    "app_id": "App id",
+    "app_id-tips": "Hold den tom, hvis du ikke har en",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "created_at": "Oprettet den",
+      "file_name": "Fil navn",
+      "file_type": "Filtype",
+      "none": "Ingen",
+      "updated_at": "Opdateret den"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "Genopfrisk token",
+    "root_folder_id": "Rod mappe id",
+    "sign_key": "Signér nøgle",
+    "sign_key-tips": "Hold den tom, hvis du ikke har en",
+    "use_online_api": "Brug online api"
+  },
+  "QuarkTV": {
+    "device_id": "Enheds id",
+    "link_method": "Link metode",
+    "link_methods": {
+      "download": "Hent",
+      "streaming": "Streaming"
+    },
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "file_name": "Fil navn",
+      "updated_at": "Opdateret den"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "query_token": "Forespørgselstoken",
+    "query_token-tips": "redigér ikke",
+    "refresh_token": "Genopfrisk token",
+    "root_folder_id": "Rod mappe id"
+  },
+  "S3": {
+    "access_key_id": "Adgang til nøgle-id",
+    "add_filename_to_disposition": "Tilføj filnavn til disposition",
+    "add_filename_to_disposition-tips": "Tilføj filnavn til Content-Disposition header.",
+    "bucket": "Spand",
+    "custom_host": "Brugerdefineret vært",
+    "direct_upload_host": "Direkte upload vært",
+    "enable_custom_host_presign": "Aktivér brugerdefineret værtens fortegn",
+    "enable_direct_upload": "Aktiver direkte upload",
+    "endpoint": "Endpoint",
+    "force_path_style": "Tving sti stil",
+    "list_object_version": "Liste objekt version",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "Pladsholder",
+    "region": "Region",
+    "remove_bucket": "Fjern spand",
+    "remove_bucket-tips": "Fjern bucket navn fra stien, når du bruger brugerdefineret vært.",
+    "root_folder_path": "Rod mappe sti",
+    "secret_access_key": "Hemmelig adgangsnøgle",
+    "session_token": "Session token",
+    "sign_url_expire": "Signér url udløber",
+    "user_agent": "Bruger agent",
+    "user_agent-tips": "Brugerdefineret brugeragent til S3 anmodninger."
+  },
+  "SFTP": {
+    "address": "Adresse",
+    "ignore_symlink_error": "Ignorer symlink fejl",
+    "passphrase": "Adgangssætning",
+    "password": "Adgangskode",
+    "private_key": "Privat nøgle",
+    "root_folder_path": "Rod mappe sti",
+    "username": "Brugernavn"
+  },
+  "SMB": {
+    "address": "Adresse",
+    "password": "Adgangskode",
+    "root_folder_path": "Rod mappe sti",
+    "share_name": "Del navn",
+    "username": "Brugernavn"
+  },
+  "Seafile": {
+    "address": "Adresse",
+    "password": "Adgangskode",
+    "repoId": "RepoId",
+    "repoPwd": "RepoPwd",
+    "root_folder_path": "Rod mappe sti",
+    "token": "Token",
+    "username": "Brugernavn"
+  },
+  "Strm": {
+    "KeepLocalDownloadFile": "KeepLocalDownloadFile",
+    "KeepLocalDownloadFile-tips": "behold lokale download filer",
+    "PathPrefix": "PathPrefix",
+    "PathPrefix-tips": "Sti præfiks",
+    "SaveLocalMode": "GemLocalMode",
+    "SaveLocalMode-tips": "gem strm fil lokalt tilstand",
+    "SaveLocalModes": {
+      "insert": "Insert",
+      "sync": "Synkroniser",
+      "update": "Opdater"
+    },
+    "SaveStrmLocalPath": "SaveStrmLocalPath",
+    "SaveStrmLocalPath-tips": "gem strm fil lokal sti",
+    "SaveStrmToLocal": "SaveStrmToLocal",
+    "SaveStrmToLocal-tips": "gem strm fil lokalt",
+    "downloadFileTypes": "DownloadFileTypes",
+    "downloadFileTypes-tips": "Filer skal downloades med strm (usally undertekster)",
+    "encodePath": "EncodePath",
+    "encodePath-tips": "indkode stien i strm-filen",
+    "filterFileTypes": "FilterFiltyper",
+    "filterFileTypes-tips": "Understøtter suffiks navn på strm fil",
+    "minFileSize": "MinFileSize",
+    "minFileSize-tips": "Filtrer mindre end denne størrelse (enhed: MB, 0 for at deaktivere)",
+    "paths": "Stier",
+    "siteUrl": "SiteUrl",
+    "siteUrl-tips": "Præfiks URL for strm filen",
+    "withSign": "Tilbagetrækning",
+    "withoutUrl": "Udbetalingsurl",
+    "withoutUrl-tips": "strm fil indhold uden URL præfiks"
+  },
+  "Teambition": {
+    "cookie": "Cookie",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "created": "Oprettet",
+      "fileName": "Filnavn",
+      "fileSize": "Filstørrelse",
+      "updated": "Opdateret"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "Asc": "Asc",
+      "Desc": "Desc"
+    },
+    "project_id": "Projekt id",
+    "region": "Region",
+    "regions": {
+      "china": "Kina",
+      "international": "International"
+    },
+    "root_folder_id": "Rod mappe id",
+    "use_s3_upload_method": "Brug s3 upload metode"
+  },
+  "Teldrive": {
+    "chunk_size": "Chunk størrelse",
+    "chunk_size-tips": "Chunk størrelse i MiB",
+    "cookie": "Cookie",
+    "cookie-tips": "access_token=xxx",
+    "random_chunk_name": "Tilfældig chunk navn",
+    "random_chunk_name-tips": "Tilfældig chunk navn",
+    "root_folder_path": "Rod mappe sti",
+    "upload_concurrency": "Upload concurrency",
+    "upload_concurrency-tips": "Concurrency upload anmodninger",
+    "url": "URL",
+    "use_share_link": "Brug delingslink",
+    "use_share_link-tips": "Opret delingslink, når du får link til at understøtte 302. Hvis deaktiveret, skal du aktivere webproxy."
+  },
+  "Terabox": {
+    "cookie": "Cookie",
+    "download_api": "Download api",
+    "download_apis": {
+      "crack": "Knæk",
+      "official": "Officiel"
+    },
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "name": "Navn",
+      "size": "Størrelse",
+      "time": "Tid"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_path": "Rod mappe sti"
+  },
+  "Thunder": {
+    "captcha_token": "Captcha token",
+    "credit_key": "Kredit nøgle",
+    "credit_key-tips": "kreditnøgle, brugt til login",
+    "device_id": "Enheds id",
+    "password": "Adgangskode",
+    "root_folder_id": "Rod mappe id",
+    "space": "Mellemrum",
+    "space-tips": "enheds id for fjernenhed",
+    "username": "Brugernavn"
+  },
+  "ThunderBrowser": {
+    "captcha_token": "Captcha token",
+    "credit_key": "Kredit nøgle",
+    "credit_key-tips": "kreditnøgle, brugt til login",
+    "device_id": "Enheds id",
+    "password": "Adgangskode",
+    "remove_way": "Fjern måde",
+    "remove_ways": {
+      "delete": "Slet",
+      "trash": "Papirkurven"
+    },
+    "root_folder_id": "Rod mappe id",
+    "safe_password": "Sikker adgangskode",
+    "use_fluent_play": "Brug flydende spil",
+    "use_fluent_play-tips": "bruge flydende spil til offline download,kun magnet links understøttes",
+    "use_video_url": "Brug video url",
+    "username": "Brugernavn"
+  },
+  "ThunderBrowserExpert": {
+    "algorithms": "Algoritmer",
+    "algorithms-tips": "tegntype er algoritmer, dette er påkrævet",
+    "captcha_sign": "Captcha tegn",
+    "captcha_sign-tips": "skilttypen er captcha_sign,dette er påkrævet",
+    "captcha_token": "Captcha token",
+    "client_id": "Klient id",
+    "client_secret": "Klient hemmelighed",
+    "client_version": "Klient version",
+    "credit_key": "Kredit nøgle",
+    "credit_key-tips": "kreditnøgle, brugt til login",
+    "device_id": "Enheds id",
+    "download_user_agent": "Download brugeragent",
+    "login_type": "Log ind type",
+    "login_types": {
+      "refresh_token": "Genopfrisk token",
+      "user": "Bruger"
+    },
+    "package_name": "Pakke navn",
+    "password": "Adgangskode",
+    "password-tips": "login-typen er bruger,dette er påkrævet",
+    "refresh_token": "Genopfrisk token",
+    "refresh_token-tips": "login-typen er refresh_token,dette er påkrævet",
+    "remove_way": "Fjern måde",
+    "remove_ways": {
+      "delete": "Slet",
+      "trash": "Papirkurven"
+    },
+    "root_folder_id": "Rod mappe id",
+    "safe_password": "Sikker adgangskode",
+    "safe_password-tips": "super sikker adgangskode",
+    "sign_type": "Signér type",
+    "sign_types": {
+      "algorithms": "Algoritmer",
+      "captcha_sign": "Captcha tegn"
+    },
+    "timestamp": "Tidsstempel",
+    "timestamp-tips": "skilttypen er captcha_sign,dette er påkrævet",
+    "use_fluent_play": "Brug flydende spil",
+    "use_fluent_play-tips": "bruge flydende spil til offline download,kun magnet links understøttes",
+    "use_video_url": "Brug video url",
+    "user_agent": "Bruger agent",
+    "username": "Brugernavn",
+    "username-tips": "login-typen er bruger,dette er påkrævet"
+  },
+  "ThunderExpert": {
+    "algorithms": "Algoritmer",
+    "algorithms-tips": "tegntype er algoritmer, dette er påkrævet",
+    "captcha_sign": "Captcha tegn",
+    "captcha_sign-tips": "skilttypen er captcha_sign,dette er påkrævet",
+    "captcha_token": "Captcha token",
+    "client_id": "Klient id",
+    "client_secret": "Klient hemmelighed",
+    "client_version": "Klient version",
+    "credit_key": "Kredit nøgle",
+    "credit_key-tips": "kreditnøgle, brugt til login",
+    "device_id": "Enheds id",
+    "download_user_agent": "Download brugeragent",
+    "login_type": "Log ind type",
+    "login_types": {
+      "refresh_token": "Genopfrisk token",
+      "user": "Bruger"
+    },
+    "package_name": "Pakke navn",
+    "password": "Adgangskode",
+    "password-tips": "login-typen er bruger,dette er påkrævet",
+    "refresh_token": "Genopfrisk token",
+    "refresh_token-tips": "login-typen er refresh_token,dette er påkrævet",
+    "root_folder_id": "Rod mappe id",
+    "sign_type": "Signér type",
+    "sign_types": {
+      "algorithms": "Algoritmer",
+      "captcha_sign": "Captcha tegn"
+    },
+    "space": "Mellemrum",
+    "space-tips": "enheds id for fjernenhed",
+    "timestamp": "Tidsstempel",
+    "timestamp-tips": "skilttypen er captcha_sign,dette er påkrævet",
+    "use_video_url": "Brug video url",
+    "user_agent": "Bruger agent",
+    "username": "Brugernavn",
+    "username-tips": "login-typen er bruger,dette er påkrævet"
+  },
+  "ThunderX": {
+    "captcha_token": "Captcha token",
+    "password": "Adgangskode",
+    "root_folder_id": "Rod mappe id",
+    "use_video_url": "Brug video url",
+    "username": "Brugernavn"
+  },
+  "ThunderXExpert": {
+    "algorithms": "Algoritmer",
+    "algorithms-tips": "tegntype er algoritmer, dette er påkrævet",
+    "captcha_sign": "Captcha tegn",
+    "captcha_sign-tips": "skilttypen er captcha_sign,dette er påkrævet",
+    "captcha_token": "Captcha token",
+    "client_id": "Klient id",
+    "client_secret": "Klient hemmelighed",
+    "client_version": "Klient version",
+    "device_id": "Enheds id",
+    "download_user_agent": "Download brugeragent",
+    "login_type": "Log ind type",
+    "login_types": {
+      "refresh_token": "Genopfrisk token",
+      "user": "Bruger"
+    },
+    "package_name": "Pakke navn",
+    "password": "Adgangskode",
+    "password-tips": "login-typen er bruger,dette er påkrævet",
+    "refresh_token": "Genopfrisk token",
+    "refresh_token-tips": "login-typen er refresh_token,dette er påkrævet",
+    "root_folder_id": "Rod mappe id",
+    "sign_type": "Signér type",
+    "sign_types": {
+      "algorithms": "Algoritmer",
+      "captcha_sign": "Captcha tegn"
+    },
+    "timestamp": "Tidsstempel",
+    "timestamp-tips": "skilttypen er captcha_sign,dette er påkrævet",
+    "use_video_url": "Brug video url",
+    "user_agent": "Bruger agent",
+    "username": "Brugernavn",
+    "username-tips": "login-typen er bruger,dette er påkrævet"
+  },
+  "UC": {
+    "cookie": "Cookie",
+    "only_list_video_file": "Vis kun videofil",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "file_name": "Fil navn",
+      "file_type": "Filtype",
+      "none": "Ingen",
+      "updated_at": "Opdateret den"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_id": "Rod mappe id",
+    "use_transcoding_address": "Brug omkodningsadresse",
+    "use_transcoding_address-tips": "Du kan se den omkodede video og støtte 302 omdirigering"
+  },
+  "UCTV": {
+    "device_id": "Enheds id",
+    "link_method": "Link metode",
+    "link_methods": {
+      "download": "Hent",
+      "streaming": "Streaming"
+    },
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "file_name": "Fil navn",
+      "updated_at": "Opdateret den"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "query_token": "Forespørgselstoken",
+    "query_token-tips": "redigér ikke",
+    "refresh_token": "Genopfrisk token",
+    "root_folder_id": "Rod mappe id"
+  },
+  "USS": {
+    "anti_theft_chain_token": "Anti tyveri kæde token",
+    "bucket": "Spand",
+    "endpoint": "Endpoint",
+    "operator_name": "Operatørens navn",
+    "operator_password": "Operatør adgangskode",
+    "root_folder_path": "Rod mappe sti",
+    "sign_url_expire": "Signér url udløber"
+  },
+  "UrlTree": {
+    "head_size": "Hoved størrelse",
+    "head_size-tips": "Brug hoved metode til at få filstørrelse, men det kan mislykkes.",
+    "url_structure": "Url struktur",
+    "url_structure-tips": "structure: Mappenavn:\n  [FileName:][FileSize:][Modificeret:]URL",
+    "writable": "Skrivbar"
+  },
+  "Virtual": {
+    "max_file_size": "Maks. filstørrelse",
+    "min_file_size": "Min filstørrelse",
+    "num_file": "Num fil",
+    "num_folder": "Num mappe",
+    "root_folder_path": "Rod mappe sti"
+  },
+  "WPS": {
+    "cookie": "Cookie",
+    "custom_ua": "Brugerdefineret ua",
+    "mode": "Tilstand",
+    "modes": {
+      "Business": "Forretning",
+      "Personal": "Personlig"
+    },
+    "root_folder_path": "Rod mappe sti"
+  },
+  "WebDav": {
+    "address": "Adresse",
+    "password": "Adgangskode",
+    "root_folder_path": "Rod mappe sti",
+    "tls_insecure_skip_verify": "Tls usikker spring over verificering",
+    "username": "Brugernavn",
+    "vendor": "Forhandler",
+    "vendors": {
+      "other": "Andet",
+      "sharepoint": "Delpunkt"
+    }
+  },
+  "WeiYun": {
+    "cookies": "Cookies",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "name": "Navn",
+      "size": "Størrelse",
+      "updated_at": "Opdateret den"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_id": "Rod mappe id",
+    "upload_thread": "Upload tråd",
+    "upload_thread-tips": "4<=thread<=32"
+  },
+  "WoPan": {
+    "access_token": "Adgang til token",
+    "access_token-tips": "Valgfrit, når der angives et opdateringstoken. Det opdateres automatisk, når det mangler eller er for kort",
+    "family_id": "Familie id",
+    "family_id-tips": "Holde det tomt, hvis du ønsker at bruge dit personlige drev",
+    "refresh_token": "Genopfrisk token",
+    "refresh_token-tips": "Angiv et opdateringstoken eller et adgangstoken (mindst 16 tegn)",
+    "root_folder_id": "Rod mappe id",
+    "sort_rule": "Sortér regel",
+    "sort_rules": {
+      "name_asc": "Navn asc",
+      "name_desc": "Navn desc",
+      "size_asc": "Size asc",
+      "size_desc": "Størrelse desc",
+      "time_asc": "Tid asc",
+      "time_desc": "Tid desc"
+    }
+  },
+  "YandexDisk": {
+    "api_url_address": "Api url adresse",
+    "client_id": "Klient id",
+    "client_secret": "Klient hemmelighed",
+    "order_by": "Sorter efter",
+    "order_bys": {
+      "created": "Oprettet",
+      "modified": "Ændret",
+      "name": "Navn",
+      "path": "Sti",
+      "size": "Størrelse"
+    },
+    "order_direction": "Ordre retning",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "Genopfrisk token",
+    "root_folder_path": "Rod mappe sti",
+    "use_online_api": "Brug online api"
+  },
+  "cloudflare_imgbed": {
+    "address": "Adresse",
+    "address-tips": "Backend API-adresse på billedhosting-tjenesten, f.eks. https://img.example.com",
+    "largeChannelName": "LargeChannelName",
+    "largeChannelName-tips": "Kanalnavn for store filer",
+    "largeChannelType": "LargeChannelType",
+    "largeChannelType-tips": "Stor Filkanaltype: Hugging Ansigt (Direkte Upload) - telegram/cfr2/s3/discord(Multipart Upload)",
+    "largeChannelTypes": {
+      "": "",
+      "cfr2": "Fjerne",
+      "discord": "Uenighed",
+      "huggingface": "Huggingface",
+      "s3": "S3",
+      "telegram": "Telegram"
+    },
+    "root_folder_path": "Rod mappe sti",
+    "smallChannelName": "SmallChannelName",
+    "smallChannelName-tips": "Kanalnavn for almindelige filer (typisk <20MB)",
+    "token": "Token",
+    "token-tips": "Godkendelse Token",
+    "uploadThread": "UploadTråd",
+    "uploadThread-tips": "Samtidig trådantal for HuggingFace chunked direkte upload"
+  },
+  "config": {
+    "115 Cloud": {},
+    "115 Open": {},
+    "115 Share": {},
+    "123 Open": {},
+    "123Pan": {},
+    "123PanLink": {},
+    "123PanShare": {},
+    "139Yun": {},
+    "189Cloud": {
+      "alert": "Du kan prøve at bruge 189PC driver, hvis denne driver ikke virker."
+    },
+    "189CloudPC": {},
+    "189CloudTV": {},
+    "AList V3": {},
+    "AliDoc": {
+      "alert": "Denne driver understøtter adgang til DingDrive gennem DingTalk Docs og er i øjeblikket skrivebeskyttet."
+    },
+    "Alias": {},
+    "Aliyundrive": {
+      "alert": "Der kan være en uendelig loop fejl i denne driver.\nUdfaset, ikke længere vedligeholdes og vil blive fjernet i en fremtidig version.\nVi anbefaler at bruge den officielle chauffør AliyundriveOpen."
+    },
+    "AliyundriveOpen": {},
+    "AliyundriveShare": {},
+    "AutoIndex": {},
+    "Azure Blob Storage": {},
+    "BaiduNetdisk": {},
+    "BaiduPhoto": {},
+    "Bunny Storage": {},
+    "CNB Releases": {},
+    "ChaoXingGroupDrive": {},
+    "Chunk": {},
+    "Cloudreve": {},
+    "Cloudreve V4": {},
+    "Crypt": {},
+    "Degoo": {},
+    "Doge": {},
+    "Doubao": {},
+    "DoubaoNew": {
+      "alert": "Brug ikke 302, hvis lageret er offentligt tilgængeligt.\nEllers kan download-linket lække følsomme oplysninger såsom adgangstoken eller signatur.\nAndre kan bruge det lækkede link til at få adgang til alle dine filer."
+    },
+    "DoubaoShare": {},
+    "Dropbox": {},
+    "Emby": {},
+    "FTP": {},
+    "FebBox": {},
+    "FeijiPan": {},
+    "GitHub API": {},
+    "GitHub Releases": {},
+    "GoogleDrive": {},
+    "GooglePhoto": {},
+    "GuangYaPan": {
+      "alert": "To-trins SMS login: (1) fill phone_number (+ captcha_token hvis nødvendigt), set send_code=true og gem; (2) fill verify_code and save to finish login and auto-save access_token/refresh_token."
+    },
+    "HalalCloud": {},
+    "HalalCloudOpen": {},
+    "ILanZou": {},
+    "IPFS API": {},
+    "KodBox": {},
+    "Lanzou": {},
+    "LenovoNasShare": {},
+    "Local": {},
+    "MediaFire": {},
+    "MediaTrack": {},
+    "Mega_nz": {},
+    "Misskey": {},
+    "MoPan": {
+      "alert": "Denne netværksdisk kan gemme din adgangskode i klar tekst. Angiv venligst din adgangskode omhyggeligt"
+    },
+    "NeteaseMusic": {},
+    "Onedrive": {},
+    "Onedrive Sharelink": {},
+    "OnedriveAPP": {},
+    "OpenList": {},
+    "OpenListShare": {},
+    "PikPak": {},
+    "PikPakShare": {},
+    "ProtonDrive": {},
+    "Quark": {},
+    "QuarkOpen": {},
+    "QuarkTV": {},
+    "S3": {},
+    "SFTP": {},
+    "SMB": {},
+    "Seafile": {},
+    "Strm": {},
+    "Teambition": {},
+    "Teldrive": {},
+    "Terabox": {},
+    "Thunder": {},
+    "ThunderBrowser": {},
+    "ThunderBrowserExpert": {},
+    "ThunderExpert": {},
+    "ThunderX": {},
+    "ThunderXExpert": {},
+    "UC": {},
+    "UCTV": {},
+    "USS": {},
+    "UrlTree": {},
+    "Virtual": {},
+    "WPS": {},
+    "WebDav": {},
+    "WeiYun": {},
+    "WoPan": {},
+    "YandexDisk": {},
+    "cloudflare_imgbed": {}
+  },
+  "drivers": {
+    "115 Cloud": "115 Sky",
+    "115 Open": "115 Åben",
+    "115 Share": "115 Del",
+    "123 Open": "123 Åben",
+    "123Pan": "123Pan",
+    "123PanLink": "123PanLink",
+    "123PanShare": "123PanShare",
+    "139Yun": "139Yun",
+    "189Cloud": "189Cloud",
+    "189CloudPC": "189CloudPC",
+    "189CloudTV": "189CloudTV",
+    "AList V3": "AList V3",
+    "AliDoc": "AliDoc",
+    "Alias": "Alias",
+    "Aliyundrive": "Aliyundrive",
+    "AliyundriveOpen": "AliyundriveOpen",
+    "AliyundriveShare": "AliyundriveShare",
+    "AutoIndex": "AutoIndex",
+    "Azure Blob Storage": "Azure Blob Opbevaring",
+    "BaiduNetdisk": "BaiduNetdisk",
+    "BaiduPhoto": "BaiduPhoto",
+    "Bunny Storage": "Kanin Opbevaring",
+    "CNB Releases": "CNB Udgivelser",
+    "ChaoXingGroupDrive": "ChaoXingGroupDrive",
+    "Chunk": "Chunk",
+    "Cloudreve": "Cloudreve",
+    "Cloudreve V4": "Cloudreve V4",
+    "Crypt": "Krypter",
+    "Degoo": "Degoo",
+    "Doge": "Doge",
+    "Doubao": "Doubao",
+    "DoubaoNew": "DoubaoNew",
+    "DoubaoShare": "DoubaoShare",
+    "Dropbox": "Dropbox",
+    "Emby": "Emby",
+    "FTP": "FTP",
+    "FebBox": "FebBox",
+    "FeijiPan": "FeijiPan",
+    "GitHub API": "GitHub API",
+    "GitHub Releases": "Github Udgivelser",
+    "GoogleDrive": "GoogleDrive",
+    "GooglePhoto": "GooglePhoto",
+    "GuangYaPan": "GuangYaPan",
+    "HalalCloud": "HalalCloud",
+    "HalalCloudOpen": "HalalCloudOpen",
+    "ILanZou": "ILanZou",
+    "IPFS API": "IPFS API",
+    "KodBox": "KodBox",
+    "Lanzou": "Lanzou",
+    "LenovoNasShare": "LenovoNasShare",
+    "Local": "Lokal",
+    "MediaFire": "MediaFire",
+    "MediaTrack": "MedierSpor",
+    "Mega_nz": "Mega nz",
+    "Misskey": "Misskey",
+    "MoPan": "MoPan",
+    "NeteaseMusic": "NeteaseMusic",
+    "Onedrive": "Onedrive",
+    "Onedrive Sharelink": "Onedrive Sharelink",
+    "OnedriveAPP": "OnedriveAPP",
+    "OpenList": "OpenList",
+    "OpenListShare": "OpenListShare",
+    "PikPak": "PikPak",
+    "PikPakShare": "PikPakShare",
+    "ProtonDrive": "ProtonDrive",
+    "Quark": "Quark",
+    "QuarkOpen": "QuarkOpen",
+    "QuarkTV": "QuarkTV",
+    "S3": "S3",
+    "SFTP": "SFTP",
+    "SMB": "SMB",
+    "Seafile": "Seafile",
+    "Strm": "Strm",
+    "Teambition": "Teambition",
+    "Teldrive": "Telekommunikation",
+    "Terabox": "Terabox",
+    "Thunder": "Torden",
+    "ThunderBrowser": "ThunderBrowser",
+    "ThunderBrowserExpert": "ThunderBrowserExpert",
+    "ThunderExpert": "ThunderExpert",
+    "ThunderX": "ThunderX",
+    "ThunderXExpert": "ThunderXExpert",
+    "UC": "UC",
+    "UCTV": "UCTV",
+    "USS": "USS",
+    "UrlTree": "UrlTree",
+    "Virtual": "Virtuel",
+    "WPS": "WPS",
+    "WebDav": "WebDav",
+    "WeiYun": "WeiYun",
+    "WoPan": "WoPan",
+    "YandexDisk": "YandexDisk",
+    "cloudflare_imgbed": "Cloudflare imgbed"
+  }
+}

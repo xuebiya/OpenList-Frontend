@@ -1,0 +1,23 @@
+{
+  "index_header": "Cài đặt chỉ mục tìm kiếm",
+  "search_index": "Chỉ mục tìm kiếm",
+  "current": "Các chỉ mục hiện tại",
+  "build": "Tạo chỉ mục",
+  "rebuild": "Tạo lại chỉ mục",
+  "paths_to_update": "Đường dẫn cần cập nhật",
+  "max_depth": "Độ sâu tối đa",
+  "update": "Cập nhật chỉ mục",
+  "obj_count": "Số lượng đối tượng",
+  "last_done_time": "Thời gian hoàn tất gần nhất",
+  "unknown": "Không xác định",
+  "stop": "Dừng",
+  "clear": "Xóa",
+  "error": "Lỗi",
+  "scan_header": "Quét thủ công",
+  "task_status": "Trạng thái tác vụ",
+  "running": "Đang chạy",
+  "idle": "Đang chờ",
+  "path_to_scan": "Đường dẫn cần quét",
+  "rate_limit": "Giới hạn tốc độ",
+  "start": "Bắt đầu"
+}

@@ -1,0 +1,66 @@
+{
+  "offline_download": "Bestand downloaden naar lokaal apparaat",
+  "offline_download_transfer": "Verplaats het gedownloade bestand naar de bijbehorende opslag",
+  "upload": "Bestand uploaden naar overeenkomstige opslag",
+  "copy": "Kopieer bestand van een opslag naar een andere opslag",
+  "move": "Verplaats bestand van opslag naar een andere opslag",
+  "decompress": "Download en decomprimeer een archiefbestand",
+  "decompress_upload": "Upload uitgepakte bestanden in doelopslag",
+  "done": "Voltooid",
+  "undone": "Lopend",
+  "clear_succeeded": "Verwijder Geslaagd",
+  "retry": "Opnieuw",
+  "retry_failed": "Opnieuw proberen mislukt",
+  "state": {
+    "0": "Lopende",
+    "1": "Lopend",
+    "2": "Geslaagd",
+    "3": "Annuleren",
+    "4": "Geannuleerd",
+    "5": "Foutmelding",
+    "6": "Mislukt",
+    "7": "Mislukt",
+    "8": "Wachten op opnieuw proberen",
+    "9": "Voorbereiden om opnieuw te proberen"
+  },
+  "retry_selected": "Opnieuw proberen geselecteerd",
+  "cancel_selected": "Annuleer geselecteerde",
+  "delete_selected": "Geselecteerde verwijderen",
+  "filter": "Filteren",
+  "expand": "Uitklappen",
+  "fold": "Invouwen",
+  "expand_all": "Alles uitklappen",
+  "fold_all": "Plooi alles",
+  "attr": {
+    "name": "naam",
+    "creator": "Schepper",
+    "state": "Provincie",
+    "progress": "Vooruitgang",
+    "speed": "Snelheid",
+    "operation": "Bewerking",
+    "copy": {
+      "src": "Bron pad",
+      "dst": "Bestemming pad"
+    },
+    "upload": {
+      "path": "Pad"
+    },
+    "offline_download": {
+      "url": "URL",
+      "path": "Bestemming pad",
+      "transfer_src": "Bron pad",
+      "transfer_src_local": "Bron pad (lokaal)",
+      "transfer_dst": "Bestemming pad"
+    },
+    "decompress": {
+      "src": "Bron pad",
+      "dst": "Bestemming pad",
+      "inner": "Binnenste pad",
+      "password": "Wachtwoord uitpakken"
+    },
+    "time_elapsed": "Verstreken tijd",
+    "status": "status",
+    "err": "Foutmelding"
+  },
+  "show_only_mine": "Toon alleen mijn taken"
+}

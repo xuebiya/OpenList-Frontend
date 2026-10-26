@@ -1,0 +1,43 @@
+{
+  "expires": "有効期限",
+  "id": "ID",
+  "id_placeholder": "カスタム ID (任意、ランダムに空のまま)",
+  "accessed": "アクセス数",
+  "max_accessed": "最大アクセス数",
+  "pwd": "コードを共有",
+  "files": "パスを共有",
+  "files_etc": " 他 {{more}} 名",
+  "files_placeholder": "ファイルまたはフォルダのパスを1行に1つ入力してください",
+  "add_path": "パスを追加",
+  "creator": "作成者",
+  "status": "ステータス",
+  "status_list": {
+    "disabled": "無効",
+    "invalid": "無効です",
+    "work": "仕事",
+    "denied": "権限がありません"
+  },
+  "remark": "備考",
+  "readme": "説明",
+  "header": "ヘッダの説明",
+  "order_by": "並び替え",
+  "order_bys": {
+    "name": "名前",
+    "size": "サイズ",
+    "modified": "修正されました"
+  },
+  "order_direction": "注文の方向",
+  "order_directions": {
+    "asc": "昇順",
+    "desc": "降順"
+  },
+  "extract_folder": "フォルダ順序",
+  "extract_folders": {
+    "front": "フォルダの上部へ",
+    "back": "フォルダの下"
+  },
+  "input_password": "共有コードを入力してください",
+  "share_gone": "この共有は期限切れかキャンセルされました",
+  "copy_msg": "リンクをコピー",
+  "no_permission_tip": "共有を作成するには、「共有」権限が必要です。"
+}

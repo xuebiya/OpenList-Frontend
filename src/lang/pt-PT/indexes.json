@@ -1,0 +1,23 @@
+{
+  "index_header": "Pesquisar nas configurações de índice",
+  "search_index": "Pesquisar no índice",
+  "current": "Índices atuais",
+  "build": "Criar índices",
+  "rebuild": "Reconstruir índices",
+  "paths_to_update": "Caminhos para atualizar",
+  "max_depth": "Profundidade máxima",
+  "update": "Atualizar índices",
+  "obj_count": "Contagem de objeto",
+  "last_done_time": "Hora da última tarefa",
+  "unknown": "Desconhecido",
+  "stop": "Interromper",
+  "clear": "Limpar",
+  "error": "ERRO",
+  "scan_header": "Escanear manualmente",
+  "task_status": "Status da tarefa",
+  "running": "Executando",
+  "idle": "Inativo",
+  "path_to_scan": "Caminho para escanear",
+  "rate_limit": "Taxa limite",
+  "start": "Iniciar"
+}

@@ -1,0 +1,69 @@
+{
+  "title": "플러그인",
+  "name": "플러그인 이름",
+  "type": "유형",
+  "version": "버전",
+  "author": "작성자",
+  "status_col": "상태",
+  "empty_desc": "설명이 없습니다",
+  "subtitle": "ZIP 파일 업로드 및 타사 URL 설치로 OpenList 확장 기능을 관리하고 구성합니다",
+  "search_placeholder": "이름, ID, 설명 또는 권한으로 플러그인 검색...",
+  "filter_type": "유형별 필터",
+  "types": {
+    "all": "모든 유형",
+    "ui": "UI 및 위젯",
+    "preview": "미리보기 도구",
+    "tool": "도구",
+    "theme": "테마 및 효과",
+    "integration": "통합 기능",
+    "system": "시스템 핵심"
+  },
+  "status": {
+    "enabled": "활성화됨",
+    "disabled": "비활성화됨",
+    "builtin": "내장",
+    "custom": "사용자 지정",
+    "high_privilege": "높은 권한"
+  },
+  "actions": {
+    "install": "플러그인 설치",
+    "reinstall": "재설치",
+    "uninstall": "제거",
+    "config": "설정",
+    "view_details": "세부 정보",
+    "enable": "활성화",
+    "disable": "비활성화",
+    "export": "설정 내보내기",
+    "import": "설정 가져오기",
+    "refresh": "새로고침",
+    "save": "설정 저장",
+    "cancel": "취소",
+    "install_url": "URL로 설치"
+  },
+  "install_modal": {
+    "install_type": "설치 소스",
+    "zip_tab": "ZIP 패키지 업로드",
+    "url_tab": "URL로 설치",
+    "zip_file_label": "플러그인 ZIP 패키지",
+    "zip_drop_title": "클릭하여 선택하거나 플러그인 ZIP 파일을 여기로 끌어다 놓으세요",
+    "zip_drop_help": "plugin.json 또는 manifest.json이 포함된 오픈 소스 플러그인 아카이브를 지원합니다",
+    "url_label": "플러그인 매니페스트 URL",
+    "url_placeholder": "예: https://raw.githubusercontent.com/.../plugin.json",
+    "url_help": "오픈소스 플러그인의 JSON 매니페스트 링크(GitHub Raw, jsDelivr, unpkg 등)를 지원합니다",
+    "high_privilege_label": "시스템 높은 권한 부여(루트/관리자 권한)",
+    "high_privilege_help": "저수준 파일 시스템 API에 직접 액세스하고, 저장소 드라이버를 다시 불러오며, 사이트 설정 전체를 읽고 쓰고, 원시 HTTP 요청을 보낼 수 있습니다",
+    "fetch_and_install": "가져와서 설치"
+  },
+  "config_modal": {
+    "title": "플러그인 구성",
+    "no_config": "이 플러그인에는 구성 매개변수가 필요하지 않습니다.",
+    "save_success": "플러그인 구성을 저장했습니다"
+  },
+  "delete_confirm": "이 플러그인을 제거하시겠습니까? 이 작업은 취소할 수 없습니다.",
+  "import_modal": {
+    "title": "플러그인 백업 가져오기",
+    "paste_json": "플러그인 JSON 데이터를 여기에 붙여넣으세요",
+    "import_success": "플러그인을 가져왔습니다"
+  },
+  "empty_installed": "아직 설치된 플러그인이 없습니다. '플러그인 설치'를 클릭하여 ZIP 패키지를 업로드하거나 URL에서 설치하세요."
+}

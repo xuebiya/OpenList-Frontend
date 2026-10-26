@@ -1,0 +1,18 @@
+{
+  "path": "Chemin d'accès",
+  "password": "Mot de passe",
+  "read_users": "Lire les utilisateurs",
+  "read_users_help": "Seuls les utilisateurs sélectionnés avec l'autorisation requise peuvent lire ce chemin.",
+  "write_users": "Écrire des utilisateurs",
+  "write_users_help": "Seuls les utilisateurs sélectionnés avec l'autorisation requise peuvent écrire ce chemin.",
+  "all_permitted_users": "Tous les utilisateurs autorisés",
+  "write": "Écrire le contournement du contenu",
+  "write_help": "Outrepasser la permission de l'utilisateur vérifie les écritures de contenu (créer/upload/modifier). UTILISER AVEC PRÉCAUTION.",
+  "hide": "Cacher",
+  "readme": "Lisez-moi",
+  "readme_help": "Afficher un markdown en bas, un contenu de support ou un lien",
+  "header": "En-tête",
+  "header_help": "Afficher un markdown en haut, un contenu de support ou un lien",
+  "apply_sub": "Appliquer au sous-dossier",
+  "hide_help": "Une expression régulière par ligne"
+}
