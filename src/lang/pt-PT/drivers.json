@@ -7,7 +7,7 @@
     "page_size": "Tamanho da página",
     "page_size-tips": "API de lista por tamanho de página de 115 driver",
     "qrcode_source": "Fonte Qrcode",
-    "qrcode_source-tips": "selecione o dispositivo de código QR, por padrão linux",
+    "qrcode_source-tips": "selecione o dispositivo de código QR, por padrão Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "Tamanho da página",
     "page_size-tips": "API de lista por tamanho de página de 115 driver",
     "qrcode_source": "Fonte Qrcode",
-    "qrcode_source-tips": "selecione o dispositivo de código QR, por padrão linux",
+    "qrcode_source-tips": "selecione o dispositivo de código QR, por padrão Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",

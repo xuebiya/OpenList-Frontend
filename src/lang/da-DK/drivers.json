@@ -7,7 +7,7 @@
     "page_size": "Side størrelse",
     "page_size-tips": "liste api pr. sidestørrelse på 115 chauffør",
     "qrcode_source": "Qrcode kilde",
-    "qrcode_source-tips": "vælg QR-kodeenheden, standard linux",
+    "qrcode_source-tips": "vælg QR-kodeenheden, standard Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "Side størrelse",
     "page_size-tips": "liste api pr. sidestørrelse på 115 chauffør",
     "qrcode_source": "Qrcode kilde",
-    "qrcode_source-tips": "vælg QR-kodeenheden, standard linux",
+    "qrcode_source-tips": "vælg QR-kodeenheden, standard Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",

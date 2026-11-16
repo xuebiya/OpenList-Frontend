@@ -9,7 +9,7 @@ import {
   Textarea,
 } from "@hope-ui/solid"
 import { Match, Show, Switch } from "solid-js"
-import type { Accessor } from "solid-js"
+import type { Accessor, JSXElement } from "solid-js"
 import { useT } from "~/hooks"
 import { DriverItem, Type } from "~/types"
 import { SelectOptions } from "~/components"
@@ -19,6 +19,7 @@ export type ItemProps = DriverItem & {
   full_name_path?: string
   options_prefix?: string
   driver?: string
+  addon?: JSXElement
 } & (
     | {
         type: Type.Bool
@@ -157,6 +158,7 @@ const Item = (props: ItemProps) => {
           </Select>
         </Match>
       </Switch>
+      {props.addon}
       <Show when={props.help}>
         <FormHelperText>
           {t(

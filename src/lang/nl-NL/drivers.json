@@ -7,7 +7,7 @@
     "page_size": "Pagina grootte",
     "page_size-tips": "lijst api per pagina grootte van 115 driver",
     "qrcode_source": "Qrcode bron",
-    "qrcode_source-tips": "Selecteer het QR-codeapparaat, standaard linux",
+    "qrcode_source-tips": "Selecteer het QR-codeapparaat, standaard Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "Pagina grootte",
     "page_size-tips": "lijst api per pagina grootte van 115 driver",
     "qrcode_source": "Qrcode bron",
-    "qrcode_source-tips": "Selecteer het QR-codeapparaat, standaard linux",
+    "qrcode_source-tips": "Selecteer het QR-codeapparaat, standaard Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",

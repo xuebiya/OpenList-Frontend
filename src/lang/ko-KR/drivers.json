@@ -7,7 +7,7 @@
     "page_size": "페이지 크기",
     "page_size-tips": "115 드라이버의 페이지당 목록 API 항목 수",
     "qrcode_source": "QR 코드 소스",
-    "qrcode_source-tips": "QR 코드 장치를 선택합니다. 기본값은 Linux입니다",
+    "qrcode_source-tips": "QR 코드 장치를 선택합니다. 기본값은 Web입니다",
     "qrcode_sources": {
       "alipaymini": "알리페이 미니",
       "android": "안드로이드",
@@ -50,7 +50,7 @@
     "page_size": "페이지 크기",
     "page_size-tips": "115 드라이버의 페이지당 목록 API 항목 수",
     "qrcode_source": "QR 코드 소스",
-    "qrcode_source-tips": "QR 코드 장치를 선택합니다. 기본값은 Linux입니다",
+    "qrcode_source-tips": "QR 코드 장치를 선택합니다. 기본값은 Web입니다",
     "qrcode_sources": {
       "alipaymini": "알리페이 미니",
       "android": "안드로이드",

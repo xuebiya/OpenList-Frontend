@@ -7,7 +7,7 @@
     "page_size": "Sayfa boyutu",
     "page_size-tips": "115 sürücüsünün liste API'si için sayfa başına öğe sayısı",
     "qrcode_source": "QR kodu kaynağı",
-    "qrcode_source-tips": "QR kodu cihazını seçin; varsayılan: Linux",
+    "qrcode_source-tips": "QR kodu cihazını seçin; varsayılan: Web",
     "qrcode_sources": {
       "alipaymini": "Alipay Mini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "Sayfa boyutu",
     "page_size-tips": "115 sürücüsünün liste API'si için sayfa başına öğe sayısı",
     "qrcode_source": "QR kodu kaynağı",
-    "qrcode_source-tips": "QR kodu cihazını seçin; varsayılan: Linux",
+    "qrcode_source-tips": "QR kodu cihazını seçin; varsayılan: Web",
     "qrcode_sources": {
       "alipaymini": "Alipay Mini",
       "android": "Android",

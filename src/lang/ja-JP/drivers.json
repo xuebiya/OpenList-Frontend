@@ -7,7 +7,7 @@
     "page_size": "ページサイズ",
     "page_size-tips": "リストapiのページサイズ (115ドライバ)",
     "qrcode_source": "Qrcode ソース",
-    "qrcode_source-tips": "QRコードデバイスを選択し、デフォルトのLinuxを選択します",
+    "qrcode_source-tips": "QRコードデバイスを選択し、デフォルトのWebを選択します",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "ページサイズ",
     "page_size-tips": "リストapiのページサイズ (115ドライバ)",
     "qrcode_source": "Qrcode ソース",
-    "qrcode_source-tips": "QRコードデバイスを選択し、デフォルトのLinuxを選択します",
+    "qrcode_source-tips": "QRコードデバイスを選択し、デフォルトのWebを選択します",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",

@@ -7,7 +7,7 @@
     "page_size": "Taille de la page",
     "page_size-tips": "lister l'api par taille de page de 115 pilote",
     "qrcode_source": "Source du Qrcode",
-    "qrcode_source-tips": "sélectionnez le périphérique de code QR, linux par défaut",
+    "qrcode_source-tips": "sélectionnez le périphérique de code QR, Web par défaut",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "Taille de la page",
     "page_size-tips": "lister l'api par taille de page de 115 pilote",
     "qrcode_source": "Source du Qrcode",
-    "qrcode_source-tips": "sélectionnez le périphérique de code QR, linux par défaut",
+    "qrcode_source-tips": "sélectionnez le périphérique de code QR, Web par défaut",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",

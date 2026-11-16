@@ -7,7 +7,7 @@
     "page_size": "প্রতি পৃষ্ঠায় আইটেমের সংখ্যা",
     "page_size-tips": "115 ড্রাইভের তালিকা API-তে প্রতি পৃষ্ঠার আইটেমের সংখ্যা",
     "qrcode_source": "QR কোডের উৎস",
-    "qrcode_source-tips": "QR কোড ডিভাইস নির্বাচন করুন; ডিফল্ট হলো Linux",
+    "qrcode_source-tips": "QR কোড ডিভাইস নির্বাচন করুন; ডিফল্ট হলো Web",
     "qrcode_sources": {
       "alipaymini": "Alipay Mini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "প্রতি পৃষ্ঠায় আইটেমের সংখ্যা",
     "page_size-tips": "115 ড্রাইভের তালিকা API-তে প্রতি পৃষ্ঠার আইটেমের সংখ্যা",
     "qrcode_source": "QR কোডের উৎস",
-    "qrcode_source-tips": "QR কোড ডিভাইস নির্বাচন করুন; ডিফল্ট হলো Linux",
+    "qrcode_source-tips": "QR কোড ডিভাইস নির্বাচন করুন; ডিফল্ট হলো Web",
     "qrcode_sources": {
       "alipaymini": "Alipay Mini",
       "android": "Android",

@@ -7,7 +7,7 @@
     "page_size": "حجم الصفحة",
     "page_size-tips": "قائمة التطبيق لكل صفحة بحجم 115 مشغل",
     "qrcode_source": "مصدر رمز Qrcode",
-    "qrcode_source-tips": "حدد جهاز رمز QR، الخط الافتراضي",
+    "qrcode_source-tips": "حدد جهاز رمز QR، الخط الافتراضي Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "حجم الصفحة",
     "page_size-tips": "قائمة التطبيق لكل صفحة بحجم 115 مشغل",
     "qrcode_source": "مصدر رمز Qrcode",
-    "qrcode_source-tips": "حدد جهاز رمز QR، الخط الافتراضي",
+    "qrcode_source-tips": "حدد جهاز رمز QR، الخط الافتراضي Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",

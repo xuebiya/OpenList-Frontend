@@ -7,7 +7,7 @@
     "page_size": "分頁大小",
     "page_size-tips": "115 驅動程序的列表 API 的每頁大小",
     "qrcode_source": "二維碼源",
-    "qrcode_source-tips": "選擇二維碼設備，默認 Linux",
+    "qrcode_source-tips": "選擇二維碼設備，預設網頁",
     "qrcode_sources": {
       "alipaymini": "支付寶小程序",
       "android": "安卓",
@@ -50,7 +50,7 @@
     "page_size": "分頁大小",
     "page_size-tips": "115 驅動程序的列表 API 的每頁大小",
     "qrcode_source": "二維碼源",
-    "qrcode_source-tips": "選擇二維碼設備，默認 Linux",
+    "qrcode_source-tips": "選擇二維碼設備，預設網頁",
     "qrcode_sources": {
       "alipaymini": "支付寶小程序",
       "android": "安卓",

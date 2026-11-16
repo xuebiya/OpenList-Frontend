@@ -7,7 +7,7 @@
     "page_size": "Seitengröße",
     "page_size-tips": "api pro Seitengröße von 115 Treiber auflisten",
     "qrcode_source": "Qrcode Quelle",
-    "qrcode_source-tips": "wählen Sie das QR-Code-Gerät, Standard-Linux",
+    "qrcode_source-tips": "wählen Sie das QR-Code-Gerät, Standard-Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "Seitengröße",
     "page_size-tips": "api pro Seitengröße von 115 Treiber auflisten",
     "qrcode_source": "Qrcode Quelle",
-    "qrcode_source-tips": "wählen Sie das QR-Code-Gerät, Standard-Linux",
+    "qrcode_source-tips": "wählen Sie das QR-Code-Gerät, Standard-Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",

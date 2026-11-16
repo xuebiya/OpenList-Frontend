@@ -7,7 +7,7 @@
     "page_size": "Page size",
     "page_size-tips": "list api per page size of 115 driver",
     "qrcode_source": "Qrcode source",
-    "qrcode_source-tips": "select the QR code device, default linux",
+    "qrcode_source-tips": "select the QR code device, default web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "Page size",
     "page_size-tips": "list api per page size of 115 driver",
     "qrcode_source": "Qrcode source",
-    "qrcode_source-tips": "select the QR code device, default linux",
+    "qrcode_source-tips": "select the QR code device, default web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",

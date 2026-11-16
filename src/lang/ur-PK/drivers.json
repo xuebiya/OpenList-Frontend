@@ -7,7 +7,7 @@
     "page_size": "صفحے کا حجم",
     "page_size-tips": "115 ڈرائیور کی فہرست API کے فی صفحہ آئٹمز کی تعداد",
     "qrcode_source": "QR کوڈ کا ماخذ",
-    "qrcode_source-tips": "QR کوڈ ڈیوائس منتخب کریں، طے شدہ Linux ہے",
+    "qrcode_source-tips": "QR کوڈ ڈیوائس منتخب کریں، طے شدہ Web ہے",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "صفحے کا حجم",
     "page_size-tips": "115 ڈرائیور کی فہرست API کے فی صفحہ آئٹمز کی تعداد",
     "qrcode_source": "QR کوڈ کا ماخذ",
-    "qrcode_source-tips": "QR کوڈ ڈیوائس منتخب کریں، طے شدہ Linux ہے",
+    "qrcode_source-tips": "QR کوڈ ڈیوائس منتخب کریں، طے شدہ Web ہے",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",

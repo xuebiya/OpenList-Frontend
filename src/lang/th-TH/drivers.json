@@ -7,7 +7,7 @@
     "page_size": "ขนาดหน้า",
     "page_size-tips": "จำนวนรายการต่อหน้าของ API สำหรับไดรเวอร์ 115",
     "qrcode_source": "แหล่งที่มาของ QR Code",
-    "qrcode_source-tips": "เลือกอุปกรณ์สำหรับ QR code ค่าเริ่มต้นคือ Linux",
+    "qrcode_source-tips": "เลือกอุปกรณ์สำหรับ QR code ค่าเริ่มต้นคือ Web",
     "qrcode_sources": {
       "alipaymini": "Alipay Mini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "ขนาดหน้า",
     "page_size-tips": "จำนวนรายการต่อหน้าของ API สำหรับไดรเวอร์ 115",
     "qrcode_source": "แหล่งที่มาของ QR Code",
-    "qrcode_source-tips": "เลือกอุปกรณ์สำหรับ QR code ค่าเริ่มต้นคือ Linux",
+    "qrcode_source-tips": "เลือกอุปกรณ์สำหรับ QR code ค่าเริ่มต้นคือ Web",
     "qrcode_sources": {
       "alipaymini": "Alipay Mini",
       "android": "Android",

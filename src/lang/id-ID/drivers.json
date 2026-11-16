@@ -7,7 +7,7 @@
     "page_size": "Ukuran halaman",
     "page_size-tips": "ukuran halaman untuk daftar API driver 115",
     "qrcode_source": "sumber kode QR",
-    "qrcode_source-tips": "pilih perangkat kode QR, default-nya Linux",
+    "qrcode_source-tips": "pilih perangkat kode QR, default-nya Web",
     "qrcode_sources": {
       "alipaymini": "Alipay Mini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "Ukuran halaman",
     "page_size-tips": "ukuran halaman untuk daftar API driver 115",
     "qrcode_source": "sumber kode QR",
-    "qrcode_source-tips": "pilih perangkat kode QR, default-nya Linux",
+    "qrcode_source-tips": "pilih perangkat kode QR, default-nya Web",
     "qrcode_sources": {
       "alipaymini": "Alipay Mini",
       "android": "Android",

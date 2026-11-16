@@ -21,6 +21,8 @@ import {
 import { createStore, produce } from "solid-js/store"
 import { Item } from "./Item"
 import { ResponsiveGrid } from "../common/ResponsiveGrid"
+import { QRCode115Login } from "./QRCode115Login"
+import { PikPakTokenLogin } from "./PikPakTokenLogin"
 
 interface DriverInfo {
   common: DriverItem[]
@@ -55,6 +57,26 @@ function GetDefaultValue(type: Type, value?: string) {
 
 type Drivers = Record<string, DriverInfo>
 
+const qr115Sources = [
+  "web",
+  "android",
+  "ios",
+  "tv",
+  "alipaymini",
+  "wechatmini",
+  "qandroid",
+]
+
+const normalize115Addition = (driver: string, value: Addition): Addition => {
+  if (
+    ["115 Cloud", "115 Share"].includes(driver) &&
+    !qr115Sources.includes(value.qrcode_source as string)
+  ) {
+    return { ...value, qrcode_source: "web" }
+  }
+  return value
+}
+
 const AddOrEdit = () => {
   const t = useT()
   const { params, to } = useRouter()
@@ -82,7 +104,12 @@ const AddOrEdit = () => {
     const storageResp = await loadStorage()
     handleResp(storageResp, async (storageData) => {
       setStorage(storageData)
-      setAddition(JSON.parse(storageData.addition))
+      setAddition(
+        normalize115Addition(
+          storageData.driver,
+          JSON.parse(storageData.addition),
+        ),
+      )
       const driverResp = await loadDriver()
       handleResp(driverResp, (driverData) =>
         setDrivers({ [storage.driver]: driverData }),
@@ -181,6 +208,31 @@ const AddOrEdit = () => {
                 onChange={(val: any) => {
                   setAddition(item.name, val)
                 }}
+                addon={
+                  item.name === "cookie" &&
+                  ["115 Cloud", "115 Share"].includes(storage.driver) ? (
+                    <QRCode115Login
+                      source={addition.qrcode_source as string}
+                      driver={storage.driver}
+                      onCookie={(cookie) => {
+                        setAddition("cookie", cookie)
+                        setAddition("qrcode_token", "")
+                      }}
+                    />
+                  ) : item.name === "refresh_token" &&
+                    storage.driver === "PikPak" &&
+                    addition.platform === "pc" ? (
+                    <PikPakTokenLogin
+                      username={() => String(addition.username || "")}
+                      onToken={(result) => {
+                        setAddition("refresh_token", result.refresh_token)
+                        setAddition("platform", result.platform)
+                        setAddition("device_id", result.device_id)
+                        setAddition("captcha_token", "")
+                      }}
+                    />
+                  ) : undefined
+                }
               />
             )}
           </For>
@@ -264,7 +316,9 @@ const AddOrEdit = () => {
             const { id, disabled, modified, status, ...obj }: Storage =
               JSON.parse(text)
             setStorage(obj)
-            setAddition(JSON.parse(obj.addition))
+            setAddition(
+              normalize115Addition(obj.driver, JSON.parse(obj.addition)),
+            )
             setImportOpened(false)
             notify.success(t("storages.common.import_success"))
           } catch (e: any) {

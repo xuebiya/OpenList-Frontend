@@ -7,7 +7,7 @@
     "page_size": "分页大小",
     "page_size-tips": "115 驱动程序的列表 API 的每页大小",
     "qrcode_source": "二维码源",
-    "qrcode_source-tips": "选择二维码设备，默认 Linux",
+    "qrcode_source-tips": "选择二维码设备，默认网页",
     "qrcode_sources": {
       "alipaymini": "支付宝小程序",
       "android": "安卓",
@@ -50,7 +50,7 @@
     "page_size": "分页大小",
     "page_size-tips": "115 驱动程序的列表 API 的每页大小",
     "qrcode_source": "二维码源",
-    "qrcode_source-tips": "选择二维码设备，默认 Linux",
+    "qrcode_source-tips": "选择二维码设备，默认网页",
     "qrcode_sources": {
       "alipaymini": "支付宝小程序",
       "android": "安卓",

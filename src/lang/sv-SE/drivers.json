@@ -7,7 +7,7 @@
     "page_size": "Sidans storlek",
     "page_size-tips": "lista api per sidstorlek på 115 förare",
     "qrcode_source": "Qrcode källa",
-    "qrcode_source-tips": "välj QR-kodenheten, standard linux",
+    "qrcode_source-tips": "välj QR-kodenheten, standard Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "Sidans storlek",
     "page_size-tips": "lista api per sidstorlek på 115 förare",
     "qrcode_source": "Qrcode källa",
-    "qrcode_source-tips": "välj QR-kodenheten, standard linux",
+    "qrcode_source-tips": "välj QR-kodenheten, standard Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",

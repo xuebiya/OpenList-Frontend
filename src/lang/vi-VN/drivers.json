@@ -7,7 +7,7 @@
     "page_size": "Kích thước trang",
     "page_size-tips": "Số mục trên mỗi trang khi liệt kê bằng trình điều khiển 115",
     "qrcode_source": "Nguồn mã QR",
-    "qrcode_source-tips": "Chọn thiết bị tạo mã QR, mặc định là Linux",
+    "qrcode_source-tips": "Chọn thiết bị tạo mã QR, mặc định là Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "Kích thước trang",
     "page_size-tips": "Số mục trên mỗi trang khi liệt kê bằng trình điều khiển 115",
     "qrcode_source": "Nguồn mã QR",
-    "qrcode_source-tips": "Chọn thiết bị tạo mã QR, mặc định là Linux",
+    "qrcode_source-tips": "Chọn thiết bị tạo mã QR, mặc định là Web",
     "qrcode_sources": {
       "alipaymini": "Alipaymini",
       "android": "Android",

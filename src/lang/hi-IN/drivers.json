@@ -7,7 +7,7 @@
     "page_size": "पृष्ठ आकार",
     "page_size-tips": "115 ड्राइव की सूची API का प्रति-पृष्ठ आकार",
     "qrcode_source": "QR कोड स्रोत",
-    "qrcode_source-tips": "QR कोड डिवाइस चुनें; डिफ़ॉल्ट Linux है",
+    "qrcode_source-tips": "QR कोड डिवाइस चुनें; डिफ़ॉल्ट Web है",
     "qrcode_sources": {
       "alipaymini": "Alipay Mini",
       "android": "Android",
@@ -50,7 +50,7 @@
     "page_size": "पृष्ठ आकार",
     "page_size-tips": "115 ड्राइव की सूची API का प्रति-पृष्ठ आकार",
     "qrcode_source": "QR कोड स्रोत",
-    "qrcode_source-tips": "QR कोड डिवाइस चुनें; डिफ़ॉल्ट Linux है",
+    "qrcode_source-tips": "QR कोड डिवाइस चुनें; डिफ़ॉल्ट Web है",
     "qrcode_sources": {
       "alipaymini": "Alipay Mini",
       "android": "Android",
